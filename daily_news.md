@@ -5,6 +5,44 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Meta to Use Off-Site Business Data for Feed and AI Personalization
+
+Published:
+Tue, 09 Jun 2026 22:33:58 +0530
+
+Summary:
+Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads.
+
+"Businesses often share information about people's activity on their sites with us to make ads more relevant," Meta said in a statement.
+
+"We already use this data - like games you play
+
+URL:
+https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html
+
+------------------------------------------------------------
+
+Title:
+Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code
+
+Published:
+Tue, 09 Jun 2026 22:09:47 +0530
+
+Summary:
+Veeam has released security patches to address a critical flaw in its Backup &amp; Replication software that could result in remote code execution.
+
+Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.0.
+
+"A vulnerability allowing remote code execution (RCE) on the Backup Server by an authenticated domain user," Veeam said in a Tuesday advisory.
+
+It
+
+URL:
+https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html
+
+------------------------------------------------------------
+
+Title:
 Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues
 
 Published:
@@ -20,81 +58,49 @@ https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html
 
 ------------------------------------------------------------
 
-Title:
-WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine
-
-Published:
-Tue, 09 Jun 2026 17:56:10 +0530
-
-Summary:
-Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released.
-
-The activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an
-
-URL:
-https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html
-
-------------------------------------------------------------
-
-Title:
-Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models
-
-Published:
-Tue, 09 Jun 2026 17:29:03 +0530
-
-Summary:
-University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service.
-
-The preprint, posted to arXiv on
-
-URL:
-https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-XBOW tests Anthropic's Mythos Preview for offensive security
+Microsoft releases Windows 10 KB5094127 extended security update
 
 Published:
-Tue, 09 Jun 2026 12:16:38 -0400
+Tue, 09 Jun 2026 14:35:00 -0400
 
 Summary:
-Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-site validation. [...]
+Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that replace those expiring this month. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/
 
 ------------------------------------------------------------
 
 Title:
-GitHub disables Microsoft repos pushing password-stealing malware
+Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws
 
 Published:
-Tue, 09 Jun 2026 11:42:40 -0400
+Tue, 09 Jun 2026 13:57:59 -0400
 
 Summary:
-Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]
+Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/
 
 ------------------------------------------------------------
 
 Title:
-New Veeam vulnerability exposes backup servers to RCE attacks
+Windows 11 KB5094126 & KB5093998 cumulative updates released
 
 Published:
-Tue, 09 Jun 2026 10:27:56 -0400
+Tue, 09 Jun 2026 13:32:32 -0400
 
 Summary:
-Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]
+Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/
+https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/
 
 ------------------------------------------------------------
 
@@ -199,6 +205,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257
+
+Published:
+Tue, 09 Jun 2026 14:05:42 +0000
+
+Summary:
+We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257.
+The post <a href="https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/">Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
+
+------------------------------------------------------------
+
+Title:
 When “Hi, This Is IT” Comes Through Microsoft Teams
 
 Published:
@@ -210,21 +231,6 @@ The post <a href="https://unit42.paloaltonetworks.com/microsoft-teams-phishing/"
 
 URL:
 https://unit42.paloaltonetworks.com/microsoft-teams-phishing/
-
-------------------------------------------------------------
-
-Title:
-Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257
-
-Published:
-Fri, 05 Jun 2026 14:05:42 +0000
-
-Summary:
-We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257.
-The post <a href="https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/">Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
 
 ------------------------------------------------------------
 
