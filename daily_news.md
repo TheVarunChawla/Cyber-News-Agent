@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues
+
+Published:
+Tue, 09 Jun 2026 22:04:52 +0530
+
+Summary:
+Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code.
+
+"Our priority is to protect customers and the broader ecosystem," a Microsoft spokesperson told The Hacker News via email. "We temporarily removed some
+
+URL:
+https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html
+
+------------------------------------------------------------
+
+Title:
 WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine
 
 Published:
@@ -36,73 +52,83 @@ https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html
 
 ------------------------------------------------------------
 
-Title:
-Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now
-
-Published:
-Tue, 09 Jun 2026 17:28:49 +0530
-
-Summary:
-Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild.
-
-The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and WebAssembly engine.
-
-"Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103
-
-URL:
-https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-French govt messaging service breached in account hijacking attack
+XBOW tests Anthropic's Mythos Preview for offensive security
 
 Published:
-Tue, 09 Jun 2026 06:53:00 -0400
+Tue, 09 Jun 2026 12:16:38 -0400
 
 Summary:
-DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]
+Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-site validation. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/
+https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/
 
 ------------------------------------------------------------
 
 Title:
-CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day
+GitHub disables Microsoft repos pushing password-stealing malware
 
 Published:
-Tue, 09 Jun 2026 04:18:39 -0400
+Tue, 09 Jun 2026 11:42:40 -0400
 
 Summary:
-CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]
+Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/
+https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/
 
 ------------------------------------------------------------
 
 Title:
-Google patches new Chrome zero-day flaw exploited in the wild
+New Veeam vulnerability exposes backup servers to RCE attacks
 
 Published:
-Tue, 09 Jun 2026 02:56:27 -0400
+Tue, 09 Jun 2026 10:27:56 -0400
 
 Summary:
-Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]
+Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/
+https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Check Point warns of zero-day flaw targeted by ransomware affiliate
+
+Published:
+Tue, 09 Jun 2026 11:18:27 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/T3xriZRS8EXJXdz3Gus7lJnwn2omEwnFhURyHxpP1YY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYwMjguanBn.webp" /></div></figure>A vulnerability in the company&rsquo;s VPN deployments has faced exploitation since early May.
+
+URL:
+https://www.cybersecuritydive.com/news/check-point-zero-day-ransomware/822372/
+
+------------------------------------------------------------
+
+Title:
+IT sector faces growing threats from IP-hungry China, AI-enabled cybercriminals
+
+Published:
+Tue, 09 Jun 2026 10:49:06 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/kLj0I4klKEMQ-swUtijZxfGrCnTfHAppXgFqNFQUMlU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA0MjYwNzIzLmpwZw==.webp" /></div></figure>Businesses also need to watch out for North Korean remote IT worker schemes, according to a new CrowdStrike report.
+
+URL:
+https://www.cybersecuritydive.com/news/china-cyberattacks-it-sector-crowdstrike-report/822366/
+
+------------------------------------------------------------
 
 Title:
 Cyber insurance policyholders facing heavier scrutiny in underwriting, claims
@@ -118,34 +144,6 @@ https://www.cybersecuritydive.com/news/cyber-insurance-policyholders-facing-heav
 
 ------------------------------------------------------------
 
-Title:
-Companies aren’t prepared for how AI is accelerating impersonation attacks
-
-Published:
-Mon, 08 Jun 2026 10:53:08 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/6yVRDSQ5Az58boEEg2N8TZ-sybWBCxTEw6DI-aBqh7M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZXR0eWltYWdlcy0xMjA2OTkxNjg5LTE3MDY2N2EuanBn.webp" /></div></figure>Businesses generally aren&rsquo;t taking a proactive enough approach to blocking schemes that spoof their leaders&rsquo; identities, according to a new report.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-executive-impersonation-outtake-survey/822235/
-
-------------------------------------------------------------
-
-Title:
-The new risk equation: Why endpoint security is a financial imperative
-
-Published:
-Mon, 08 Jun 2026 05:00:00 -0400
-
-Summary:
-Cyber risk is financial risk; endpoint security in financial services is a business imperative.
-
-URL:
-https://www.cybersecuritydive.com/spons/the-new-risk-equation-why-endpoint-security-is-a-financial-imperative/821449/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -153,6 +151,20 @@ SOURCE : Trend Micro
 ============================================================
 SOURCE : CISA
 ============================================================
+
+Title:
+CISA Announces Winners of the 2026 President’s Cup Cybersecurity Competition
+
+Published:
+Tue, 09 Jun 26 12:00:00 +0000
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-announces-winners-2026-presidents-cup-cybersecurity-competition
+
+------------------------------------------------------------
 
 Title:
 CISA Urges Stronger Security for Automatic Tank Gauge Systems
@@ -179,20 +191,6 @@ Summary:
 
 URL:
 https://www.cisa.gov/news-events/news/cisa-announces-revised-town-hall-schedule-engage-stakeholders-cyber-incident-reporting-critical
-
-------------------------------------------------------------
-
-Title:
-CISA Enhances Known Exploited Vulnerabilities Catalog to Include New Nomination Form
-
-Published:
-Thu, 21 May 26 12:00:00 +0000
-
-Summary:
-
-
-URL:
-https://www.cisa.gov/news-events/news/cisa-enhances-known-exploited-vulnerabilities-catalog-include-new-nomination-form
 
 ------------------------------------------------------------
 
