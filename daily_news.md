@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE
+
+Published:
+Tue, 09 Jun 2026 11:56:14 +0530
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the
+
+URL:
+https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html
+
+------------------------------------------------------------
+
+Title:
 One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public
 
 Published:
@@ -38,25 +54,23 @@ https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html
 
 ------------------------------------------------------------
 
-Title:
-Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups
-
-Published:
-Mon, 08 Jun 2026 19:47:39 +0530
-
-Summary:
-Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol.
-
-The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated remote attacker to bypass user
-
-URL:
-https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Google patches new Chrome zero-day flaw exploited in the wild
+
+Published:
+Tue, 09 Jun 2026 02:56:27 -0400
+
+Summary:
+Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/
+
+------------------------------------------------------------
 
 Title:
 NFCShare Android malware spreads via fake banking app updates on GitHub
@@ -83,20 +97,6 @@ SoFi Hong Kong is warning that it suffered a data breach after hackers gained ac
 
 URL:
 https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/
-
-------------------------------------------------------------
-
-Title:
-New Apple feature automatically changes your compromised passwords
-
-Published:
-Mon, 08 Jun 2026 17:03:40 -0400
-
-Summary:
-At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/
 
 ------------------------------------------------------------
 
