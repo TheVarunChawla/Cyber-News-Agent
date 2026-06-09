@@ -1,4 +1,4 @@
-name: Daily Cyber News
+name: Cyber Coffee News Collector
 
 on:
   schedule:
