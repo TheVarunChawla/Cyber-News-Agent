@@ -5,52 +5,52 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing
+WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine
 
 Published:
-Tue, 09 Jun 2026 15:20:41 +0530
+Tue, 09 Jun 2026 17:56:10 +0530
 
 Summary:
-A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt.
+Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released.
 
-You open the page, leave the tab sitting there, and it watches the drive for contention in the background.
-
-Researchers at Graz University of Technology built it and
+The activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an
 
 URL:
-https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html
+https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html
 
 ------------------------------------------------------------
 
 Title:
-Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer
+Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models
 
 Published:
-Tue, 09 Jun 2026 14:43:32 +0530
+Tue, 09 Jun 2026 17:29:03 +0530
 
 Summary:
-The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems.
+University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service.
 
-"The compromised releases shipped a *-setup.pth file that attempts to execute automatically
+The preprint, posted to arXiv on
 
 URL:
-https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html
+https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html
 
 ------------------------------------------------------------
 
 Title:
-LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE
+Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now
 
 Published:
-Tue, 09 Jun 2026 11:56:14 +0530
+Tue, 09 Jun 2026 17:28:49 +0530
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild.
 
-The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the
+The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and WebAssembly engine.
+
+"Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103
 
 URL:
-https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html
+https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html
 
 ------------------------------------------------------------
 
