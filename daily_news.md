@@ -63,6 +63,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+ServiceNow discloses security incident exposing customer data
+
+Published:
+Tue, 09 Jun 2026 17:34:09 -0400
+
+Summary:
+ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/
+
+------------------------------------------------------------
+
+Title:
+OpenClaw AI agent found falling for phishing attacks, spills user data
+
+Published:
+Tue, 09 Jun 2026 17:20:20 -0400
+
+Summary:
+Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/
+
+------------------------------------------------------------
+
+Title:
 SAP fixes critical flaws in NetWeaver and Commerce Cloud
 
 Published:
@@ -73,34 +101,6 @@ SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security 
 
 URL:
 https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/
-
-------------------------------------------------------------
-
-Title:
-Microsoft releases Windows 10 KB5094127 extended security update
-
-Published:
-Tue, 09 Jun 2026 14:35:00 -0400
-
-Summary:
-Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that replace those expiring this month. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/
-
-------------------------------------------------------------
-
-Title:
-Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws
-
-Published:
-Tue, 09 Jun 2026 13:57:59 -0400
-
-Summary:
-Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/
 
 ------------------------------------------------------------
 
@@ -205,6 +205,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility
+
+Published:
+Tue, 09 Jun 2026 22:00:21 +0000
+
+Summary:
+Unit 42 research examines attack scenarios targeting cloud logging services. Learn how to defend against log manipulation and defense evasion.
+The post <a href="https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/">Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/
+
+------------------------------------------------------------
+
+Title:
 Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257
 
 Published:
@@ -234,24 +249,23 @@ https://unit42.paloaltonetworks.com/microsoft-teams-phishing/
 
 ------------------------------------------------------------
 
-Title:
-The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2)
-
-Published:
-Tue, 02 Jun 2026 17:30:33 +0000
-
-Summary:
-Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. 
-The post <a href="https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/">The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+Title:
+Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities
+
+Published:
+Tue, 09 Jun 2026 21:21:00 GMT
+
+Summary:
+Microsoft Patch Tuesday details for June 2026.
+
+URL:
+https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/
+
+------------------------------------------------------------
 
 Title:
 Reporting from Vegas: Networking, AI, and good boys
@@ -278,20 +292,6 @@ Tony Giandomenico, Senior Director of Product Management, joins Amy to discuss t
 
 URL:
 https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/
-
-------------------------------------------------------------
-
-Title:
-Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting
-
-Published:
-Thu, 04 Jun 2026 12:05:05 GMT
-
-Summary:
-Learn how Cisco Talos Threat Hunting uses hypothesis-driven methods and multi-domain telemetry correlation to find stealthy threats operating below automated detection thresholds.
-
-URL:
-https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/
 
 ------------------------------------------------------------
 
