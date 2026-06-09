@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing
+
+Published:
+Tue, 09 Jun 2026 15:20:41 +0530
+
+Summary:
+A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt.
+
+You open the page, leave the tab sitting there, and it watches the drive for contention in the background.
+
+Researchers at Graz University of Technology built it and
+
+URL:
+https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html
+
+------------------------------------------------------------
+
+Title:
+Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer
+
+Published:
+Tue, 09 Jun 2026 14:43:32 +0530
+
+Summary:
+The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems.
+
+"The compromised releases shipped a *-setup.pth file that attempts to execute automatically
+
+URL:
+https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html
+
+------------------------------------------------------------
+
+Title:
 LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE
 
 Published:
@@ -20,43 +54,37 @@ https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html
 
 ------------------------------------------------------------
 
-Title:
-One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public
-
-Published:
-Tue, 09 Jun 2026 01:47:39 +0530
-
-Summary:
-Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container.
-
-The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5, 2026. Exodus Intelligence released its full technical walkthrough on June 8, and it is not even
-
-URL:
-https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html
-
-------------------------------------------------------------
-
-Title:
-Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order
-
-Published:
-Mon, 08 Jun 2026 22:38:44 +0530
-
-Summary:
-Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group.
-
-In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users.
-
-"They tried to trick people into clicking on malicious links to drive them to external websites
-
-URL:
-https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+French govt messaging service breached in account hijacking attack
+
+Published:
+Tue, 09 Jun 2026 06:53:00 -0400
+
+Summary:
+DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/
+
+------------------------------------------------------------
+
+Title:
+CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day
+
+Published:
+Tue, 09 Jun 2026 04:18:39 -0400
+
+Summary:
+CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/
+
+------------------------------------------------------------
 
 Title:
 Google patches new Chrome zero-day flaw exploited in the wild
@@ -69,34 +97,6 @@ Google has released emergency updates to patch another Chrome zero-day vulnerabi
 
 URL:
 https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/
-
-------------------------------------------------------------
-
-Title:
-NFCShare Android malware spreads via fake banking app updates on GitHub
-
-Published:
-Mon, 08 Jun 2026 18:11:58 -0400
-
-Summary:
-New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/
-
-------------------------------------------------------------
-
-Title:
-SoFi confirms third-party data breach at Hong Kong subsidiary
-
-Published:
-Mon, 08 Jun 2026 17:55:46 -0400
-
-Summary:
-SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/
 
 ------------------------------------------------------------
 
