@@ -63,6 +63,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+SAP fixes critical flaws in NetWeaver and Commerce Cloud
+
+Published:
+Tue, 09 Jun 2026 15:36:27 -0400
+
+Summary:
+SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/
+
+------------------------------------------------------------
+
+Title:
 Microsoft releases Windows 10 KB5094127 extended security update
 
 Published:
@@ -87,20 +101,6 @@ Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaw
 
 URL:
 https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/
-
-------------------------------------------------------------
-
-Title:
-Windows 11 KB5094126 & KB5093998 cumulative updates released
-
-Published:
-Tue, 09 Jun 2026 13:32:32 -0400
-
-Summary:
-Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/
 
 ------------------------------------------------------------
 
@@ -627,6 +627,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Reconstructing AI activity in investigations
+
+Published:
+Tue, 09 Jun 2026 17:35:06 +0000
+
+Summary:
+Learn how to investigate AI activity in Microsoft 365 Copilot and Azure AI services using a structured, telemetry-driven approach. This playbook helps security teams reconstruct events, assess data exposure, and detect potential threats faster.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/">Reconstructing AI activity in investigations </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/
+
+------------------------------------------------------------
+
+Title:
 AI brands as bait: How threat actors are using the AI hype in social engineering
 
 Published:
@@ -653,21 +668,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/05/secur
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/
-
-------------------------------------------------------------
-
-Title:
-Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us
-
-Published:
-Thu, 04 Jun 2026 19:14:42 +0000
-
-Summary:
-A surge in real-world attacks against agentic AI systems is reshaping how we think about risk. Based on 12 months of red teaming, this update introduces seven new failure modes, from supply chain compromise to goal hijacking, and the practical mitigations teams need now.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/">Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/
 
 ------------------------------------------------------------
 
