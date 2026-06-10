@@ -63,13 +63,27 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Anthropic rolls out Claude Fable 5, but it's available for a limited time
+
+Published:
+Tue, 09 Jun 2026 22:03:31 -0400
+
+Summary:
+Anthropic has begun rolling out a new model called "Fable," which is based on the same underlying model as Mythos, its most powerful AI model class. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/
+
+------------------------------------------------------------
+
+Title:
 Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges
 
 Published:
 Tue, 09 Jun 2026 19:11:18 -0400
 
 Summary:
-[...]
+A security researcher has released a new Microsoft Defender zero-day exploit named "RoguePlanet" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]
 
 URL:
 https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/
@@ -87,20 +101,6 @@ ServiceNow is warning about a security incident after attackers exploited an una
 
 URL:
 https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/
-
-------------------------------------------------------------
-
-Title:
-OpenClaw AI agent found falling for phishing attacks, spills user data
-
-Published:
-Tue, 09 Jun 2026 17:20:20 -0400
-
-Summary:
-Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/
 
 ------------------------------------------------------------
 
