@@ -61,6 +61,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+The ‘Miasma’ worm source code briefly leaked on GitHub
+
+Published:
+Wed, 10 Jun 2026 16:27:08 -0400
+
+Summary:
+The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/
+
+------------------------------------------------------------
+
+Title:
+GitHub announces npm security changes to tackle supply-chain attacks
+
+Published:
+Wed, 10 Jun 2026 15:41:44 -0400
+
+Summary:
+GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/
+
+------------------------------------------------------------
+
+Title:
 Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks
 
 Published:
@@ -71,34 +99,6 @@ Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by th
 
 URL:
 https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/
-
-------------------------------------------------------------
-
-Title:
-China-linked JDY botnet expands targeting of U.S. military networks
-
-Published:
-Wed, 10 Jun 2026 11:00:00 -0400
-
-Summary:
-The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/
-
-------------------------------------------------------------
-
-Title:
-The 5 Best Practices for Secure Identity Verification
-
-Published:
-Wed, 10 Jun 2026 10:05:15 -0400
-
-Summary:
-Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/
 
 ------------------------------------------------------------
 
