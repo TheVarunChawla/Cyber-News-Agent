@@ -5,34 +5,57 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs
+Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities
 
 Published:
-Wed, 10 Jun 2026 15:08:13 +0530
+Wed, 10 Jun 2026 20:40:59 +0530
 
 Summary:
-Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release.
+Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure.
 
-Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege escalation, 56 remote code execution, 30 information disclosure, 27 spoofing, 20 security
+The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1).
+
+"An
 
 URL:
-https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html
+https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html
 
 ------------------------------------------------------------
 
 Title:
-Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards
+Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE
 
 Published:
-Wed, 10 Jun 2026 13:07:59 +0530
+Wed, 10 Jun 2026 20:30:59 +0530
 
 Summary:
-On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers.
+A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck.
 
-Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber
+The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations.
+
+"The 'POST /
 
 URL:
-https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html
+https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html
+
+------------------------------------------------------------
+
+Title:
+CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation
+
+Published:
+Wed, 10 Jun 2026 20:14:29 +0530
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+
+The list of vulnerabilities is as follows -
+
+
+  CVE-2026-20245 (CVSS score: 7.8) - An improper encoding or escaping of output vulnerability in Cisco Catalyst SD-WAN Manager that could allow an
+
+URL:
+https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html
 
 ------------------------------------------------------------
 
@@ -41,44 +64,44 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Microsoft: Some Windows PCs fail to install latest monthly updates
+China-linked JDY botnet expands targeting of U.S. military networks
 
 Published:
-Wed, 10 Jun 2026 07:33:32 -0400
+Wed, 10 Jun 2026 11:00:00 -0400
 
 Summary:
-Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]
+The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/
+https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days
+The 5 Best Practices for Secure Identity Verification
 
 Published:
-Wed, 10 Jun 2026 05:57:33 -0400
+Wed, 10 Jun 2026 10:05:15 -0400
 
 Summary:
-On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]
+Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/
+https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/
 
 ------------------------------------------------------------
 
 Title:
-Ivanti: Max severity Sentry flaw allows code execution as root
+Microsoft patches Exchange Server zero-day exploited in attacks
 
 Published:
-Wed, 10 Jun 2026 02:26:28 -0400
+Wed, 10 Jun 2026 09:44:19 -0400
 
 Summary:
-Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]
+Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/
 
 ------------------------------------------------------------
 
@@ -87,44 +110,44 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Check Point warns of zero-day flaw targeted by ransomware affiliate
+CISA gives agencies new vulnerability remediation deadlines that take risk levels into account
 
 Published:
-Tue, 09 Jun 2026 11:18:27 -0400
+Wed, 10 Jun 2026 11:23:10 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/T3xriZRS8EXJXdz3Gus7lJnwn2omEwnFhURyHxpP1YY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYwMjguanBn.webp" /></div></figure>A vulnerability in the company&rsquo;s VPN deployments has faced exploitation since early May.
+<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>The cybersecurity agency says it wants to help network defenders prioritize the fixes that matter the most.
 
 URL:
-https://www.cybersecuritydive.com/news/check-point-zero-day-ransomware/822372/
+https://www.cybersecuritydive.com/news/cisa-vulnerability-remediation-prioritization-directive/822504/
 
 ------------------------------------------------------------
 
 Title:
-IT sector faces growing threats from IP-hungry China, AI-enabled cybercriminals
+CISA, researchers warn of escalating attacks using Cisco Catalyst SD-WAN flaws
 
 Published:
-Tue, 09 Jun 2026 10:49:06 -0400
+Wed, 10 Jun 2026 10:44:18 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/kLj0I4klKEMQ-swUtijZxfGrCnTfHAppXgFqNFQUMlU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA0MjYwNzIzLmpwZw==.webp" /></div></figure>Businesses also need to watch out for North Korean remote IT worker schemes, according to a new CrowdStrike report.
+<figure><div><img src="https://imgproxy.divecdn.com/icAEIUKrSYj7l7vtGNbpT3v_jd-Kd9PY2t7oA7RG7FU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY3MTM1MzY1LmpwZw==.webp" /></div></figure>Multiple vulnerabilities are being chained together to gain additional access to systems.
 
 URL:
-https://www.cybersecuritydive.com/news/china-cyberattacks-it-sector-crowdstrike-report/822366/
+https://www.cybersecuritydive.com/news/cisa-zero-day-cisco-catalyst-vulnerabilities/822494/
 
 ------------------------------------------------------------
 
 Title:
-Cyber insurance policyholders facing heavier scrutiny in underwriting, claims
+Companies are failing to keep up with AI’s identity sprawl, creating entry points for hackers
 
 Published:
-Mon, 08 Jun 2026 11:31:14 -0400
+Wed, 10 Jun 2026 10:33:04 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ZusMgWD2WbjVKwDLRUrxBm7PCiq0BTOo45Ltc_m3eL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tdW5pY2hyZW1haW4uanBn.webp" /></div></figure>A multiyear lull in insurance rates and insurers&rsquo; over-dependence on large U.S. policyholders have led to more restrictions and exclusions in coverage.
+<figure><div><img src="https://imgproxy.divecdn.com/YGGgVA2dwoNi1-LY-3UIkqnvVjijD965U_ANY1vCjhI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMDE2MzYwLmpwZw==.webp" /></div></figure>Three-quarters of organizations say they aren&rsquo;t fully overseeing the activities of user accounts belonging to agents and other AI tools.
 
 URL:
-https://www.cybersecuritydive.com/news/cyber-insurance-policyholders-facing-heavier-scrutiny-underwriting-claims/822089/
+https://www.cybersecuritydive.com/news/ai-identity-security-visibility-gaps-netwrix/822491/
 
 ------------------------------------------------------------
 
@@ -135,6 +158,20 @@ SOURCE : Trend Micro
 ============================================================
 SOURCE : CISA
 ============================================================
+
+Title:
+CISA Issues New Directive Improving How Federal Agencies Prioritize the Mitigation of Cyber Vulnerabilities
+
+Published:
+Wed, 10 Jun 26 12:00:00 +0000
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-issues-new-directive-improving-how-federal-agencies-prioritize-mitigation-cyber-vulnerabilities
+
+------------------------------------------------------------
 
 Title:
 CISA Announces Winners of the 2026 President’s Cup Cybersecurity Competition
@@ -161,20 +198,6 @@ Summary:
 
 URL:
 https://www.cisa.gov/news-events/news/cisa-urges-stronger-security-automatic-tank-gauge-systems
-
-------------------------------------------------------------
-
-Title:
-CISA Announces Revised Town Hall Schedule to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure
-
-Published:
-Tue, 26 May 26 12:00:00 +0000
-
-Summary:
-
-
-URL:
-https://www.cisa.gov/news-events/news/cisa-announces-revised-town-hall-schedule-engage-stakeholders-cyber-incident-reporting-critical
 
 ------------------------------------------------------------
 
