@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs
+
+Published:
+Wed, 10 Jun 2026 15:08:13 +0530
+
+Summary:
+Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release.
+
+Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege escalation, 56 remote code execution, 30 information disclosure, 27 spoofing, 20 security
+
+URL:
+https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html
+
+------------------------------------------------------------
+
+Title:
 Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards
 
 Published:
@@ -20,41 +36,37 @@ https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html
 
 ------------------------------------------------------------
 
-Title:
-ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances
-
-Published:
-Wed, 10 Jun 2026 12:32:08 +0530
-
-Summary:
-ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances.
-
-"On June 5, 2026, ServiceNow applied a security update to hosted customer instances," the company revealed in an advisory that requires customer access. "The update concerned a security issue that could allow an unauthenticated user, in
-
-URL:
-https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html
-
-------------------------------------------------------------
-
-Title:
-Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows
-
-Published:
-Wed, 10 Jun 2026 10:52:01 +0530
-
-Summary:
-The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet.
-
-"The exploit is a race condition, so it's a hit or miss," the researcher, who published the exploit under a new GitHub account, "MSNightmare" said. "I have managed to get a 100% success rate on
-
-URL:
-https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Microsoft: Some Windows PCs fail to install latest monthly updates
+
+Published:
+Wed, 10 Jun 2026 07:33:32 -0400
+
+Summary:
+Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/
+
+------------------------------------------------------------
+
+Title:
+Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days
+
+Published:
+Wed, 10 Jun 2026 05:57:33 -0400
+
+Summary:
+On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/
+
+------------------------------------------------------------
 
 Title:
 Ivanti: Max severity Sentry flaw allows code execution as root
@@ -67,34 +79,6 @@ Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gate
 
 URL:
 https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/
-
-------------------------------------------------------------
-
-Title:
-Anthropic rolls out Claude Fable 5, but it's available for a limited time
-
-Published:
-Tue, 09 Jun 2026 22:03:31 -0400
-
-Summary:
-Anthropic has begun rolling out a new model called "Fable," which is based on the same underlying model as Mythos, its most powerful AI model class. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/
-
-------------------------------------------------------------
-
-Title:
-Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges
-
-Published:
-Tue, 09 Jun 2026 19:11:18 -0400
-
-Summary:
-A security researcher has released a new Microsoft Defender zero-day exploit named "RoguePlanet" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/
 
 ------------------------------------------------------------
 
