@@ -63,6 +63,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges
+
+Published:
+Tue, 09 Jun 2026 19:11:18 -0400
+
+Summary:
+[...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/
+
+------------------------------------------------------------
+
+Title:
 ServiceNow discloses security incident exposing customer data
 
 Published:
@@ -87,20 +101,6 @@ Phishing simulation on an OpenClaw email agent with various configuration profil
 
 URL:
 https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/
-
-------------------------------------------------------------
-
-Title:
-SAP fixes critical flaws in NetWeaver and Commerce Cloud
-
-Published:
-Tue, 09 Jun 2026 15:36:27 -0400
-
-Summary:
-SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/
 
 ------------------------------------------------------------
 
