@@ -5,62 +5,70 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Meta to Use Off-Site Business Data for Feed and AI Personalization
+Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards
 
 Published:
-Tue, 09 Jun 2026 22:33:58 +0530
+Wed, 10 Jun 2026 13:07:59 +0530
 
 Summary:
-Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads.
+On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers.
 
-"Businesses often share information about people's activity on their sites with us to make ads more relevant," Meta said in a statement.
-
-"We already use this data - like games you play
+Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber
 
 URL:
-https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html
+https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html
 
 ------------------------------------------------------------
 
 Title:
-Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code
+ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances
 
 Published:
-Tue, 09 Jun 2026 22:09:47 +0530
+Wed, 10 Jun 2026 12:32:08 +0530
 
 Summary:
-Veeam has released security patches to address a critical flaw in its Backup &amp; Replication software that could result in remote code execution.
+ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances.
 
-Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.0.
-
-"A vulnerability allowing remote code execution (RCE) on the Backup Server by an authenticated domain user," Veeam said in a Tuesday advisory.
-
-It
+"On June 5, 2026, ServiceNow applied a security update to hosted customer instances," the company revealed in an advisory that requires customer access. "The update concerned a security issue that could allow an unauthenticated user, in
 
 URL:
-https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html
+https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html
 
 ------------------------------------------------------------
 
 Title:
-Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues
+Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows
 
 Published:
-Tue, 09 Jun 2026 22:04:52 +0530
+Wed, 10 Jun 2026 10:52:01 +0530
 
 Summary:
-Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code.
+The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet.
 
-"Our priority is to protect customers and the broader ecosystem," a Microsoft spokesperson told The Hacker News via email. "We temporarily removed some
+"The exploit is a race condition, so it's a hit or miss," the researcher, who published the exploit under a new GitHub account, "MSNightmare" said. "I have managed to get a 100% success rate on
 
 URL:
-https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html
+https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Ivanti: Max severity Sentry flaw allows code execution as root
+
+Published:
+Wed, 10 Jun 2026 02:26:28 -0400
+
+Summary:
+Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/
+
+------------------------------------------------------------
 
 Title:
 Anthropic rolls out Claude Fable 5, but it's available for a limited time
@@ -87,20 +95,6 @@ A security researcher has released a new Microsoft Defender zero-day exploit nam
 
 URL:
 https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/
-
-------------------------------------------------------------
-
-Title:
-ServiceNow discloses security incident exposing customer data
-
-Published:
-Tue, 09 Jun 2026 17:34:09 -0400
-
-Summary:
-ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/
 
 ------------------------------------------------------------
 
