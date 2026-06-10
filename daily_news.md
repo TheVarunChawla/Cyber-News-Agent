@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance
+
+Published:
+Wed, 10 Jun 2026 21:38:42 +0530
+
+Summary:
+Cybersecurity researchers have warned of a "resurgence and expansion" of JDY, a covert network associated with China-nexus state-sponsored threat actors.
+
+"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance scanner used to discover, fingerprint, and continuously map exposed services at scale," Lumen's
+
+URL:
+https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html
+
+------------------------------------------------------------
+
+Title:
 Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities
 
 Published:
@@ -40,28 +56,23 @@ https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html
 
 ------------------------------------------------------------
 
-Title:
-CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation
-
-Published:
-Wed, 10 Jun 2026 20:14:29 +0530
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
-
-The list of vulnerabilities is as follows -
-
-
-  CVE-2026-20245 (CVSS score: 7.8) - An improper encoding or escaping of output vulnerability in Cisco Catalyst SD-WAN Manager that could allow an
-
-URL:
-https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks
+
+Published:
+Wed, 10 Jun 2026 14:31:57 -0400
+
+Summary:
+Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/
+
+------------------------------------------------------------
 
 Title:
 China-linked JDY botnet expands targeting of U.S. military networks
@@ -88,20 +99,6 @@ Attackers are increasingly bypassing weak authentication through phishing, MFA f
 
 URL:
 https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/
-
-------------------------------------------------------------
-
-Title:
-Microsoft patches Exchange Server zero-day exploited in attacks
-
-Published:
-Wed, 10 Jun 2026 09:44:19 -0400
-
-Summary:
-Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/
 
 ------------------------------------------------------------
 
@@ -628,6 +625,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Turn specs into evals for any agent with ASSERT
+
+Published:
+Wed, 10 Jun 2026 16:00:00 +0000
+
+Summary:
+Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents.
+The post <a href="https://commandline.microsoft.com/assert-written-intent-executable-evals/">Turn specs into evals for any agent with ASSERT</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://commandline.microsoft.com/assert-written-intent-executable-evals/
+
+------------------------------------------------------------
+
+Title:
 Reconstructing AI activity in investigations
 
 Published:
@@ -654,21 +666,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-br
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/
-
-------------------------------------------------------------
-
-Title:
-Securing CI/CD in an agentic world: Claude Code Github action case
-
-Published:
-Fri, 05 Jun 2026 16:46:47 +0000
-
-Summary:
-Microsoft Threat Intelligence identified a prompt injection pathway in Claude Code GitHub Action that allowed access to workflow secrets under specific conditions. This research examines the attack chain, responsible disclosure process, Anthropic's mitigation, and guidance for securing AI-powered CI/CD workflows.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/">Securing CI/CD in an agentic world: Claude Code Github action case</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/
 
 ------------------------------------------------------------
 
