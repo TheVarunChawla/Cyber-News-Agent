@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Path traversal flaw in AI dev platform Langflow exploited in attacks
+
+Published:
+Wed, 10 Jun 2026 17:23:44 -0400
+
+Summary:
+Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/
+
+------------------------------------------------------------
+
+Title:
 The ‘Miasma’ worm source code briefly leaked on GitHub
 
 Published:
@@ -85,20 +99,6 @@ GitHub has announced that npm v12, expected next month, will introduce several s
 
 URL:
 https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/
-
-------------------------------------------------------------
-
-Title:
-Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks
-
-Published:
-Wed, 10 Jun 2026 14:31:57 -0400
-
-Summary:
-Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/
 
 ------------------------------------------------------------
 
