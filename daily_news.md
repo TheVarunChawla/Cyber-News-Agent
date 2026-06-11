@@ -57,6 +57,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Oracle mitigates PeopleSoft zero-day exploited in data theft attacks
+
+Published:
+Thu, 11 Jun 2026 15:39:53 -0400
+
+Summary:
+Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/
+
+------------------------------------------------------------
+
+Title:
 Authorities dismantle 'AudiA6' ransomware crypto-laundering service
 
 Published:
@@ -81,20 +95,6 @@ AI-driven attacks are exposing the limits of fragmented MSP security stacks and 
 
 URL:
 https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/
-
-------------------------------------------------------------
-
-Title:
-Coupang hit with record $409 million data breach fine in Korea
-
-Published:
-Thu, 11 Jun 2026 08:52:41 -0400
-
-Summary:
-​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million customers [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/
 
 ------------------------------------------------------------
 
