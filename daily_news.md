@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Max severity Ivanti Sentry vulnerability now exploited in attacks
+
+Published:
+Thu, 11 Jun 2026 02:20:22 -0400
+
+Summary:
+Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/
+
+------------------------------------------------------------
+
+Title:
 Path traversal flaw in AI dev platform Langflow exploited in attacks
 
 Published:
@@ -85,20 +99,6 @@ The Miasma credential-stealing attack framework, which has recently targeted ope
 
 URL:
 https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/
-
-------------------------------------------------------------
-
-Title:
-GitHub announces npm security changes to tackle supply-chain attacks
-
-Published:
-Wed, 10 Jun 2026 15:41:44 -0400
-
-Summary:
-GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/
 
 ------------------------------------------------------------
 
