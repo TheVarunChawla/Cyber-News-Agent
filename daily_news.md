@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities
+
+Published:
+Fri, 12 Jun 2026 01:59:23 +0530
+
+Summary:
+The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest.
+
+Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity between May 27 and June 9. Oracle did not publish its advisory until June 10, so the bug was a
+
+URL:
+https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html
+
+------------------------------------------------------------
+
+Title:
 New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets
 
 Published:
@@ -33,22 +49,6 @@ Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has 
 
 URL:
 https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html
-
-------------------------------------------------------------
-
-Title:
-The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm
-
-Published:
-Thu, 11 Jun 2026 22:20:47 +0530
-
-Summary:
-A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis).
-
-According to a detailed report
-
-URL:
-https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html
 
 ------------------------------------------------------------
 
