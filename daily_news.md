@@ -5,50 +5,54 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack
+Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories
 
 Published:
-Thu, 11 Jun 2026 15:15:58 +0530
+Thu, 11 Jun 2026 18:56:13 +0530
 
 Summary:
-The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER.
+Most good security work is invisible by design. Today is the exception.
 
-The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack
+The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories.
+
+The reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the
 
 URL:
-https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html
+https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html
 
 ------------------------------------------------------------
 
 Title:
-GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
+ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories
 
 Published:
-Thu, 11 Jun 2026 11:53:03 +0530
+Thu, 11 Jun 2026 18:50:41 +0530
 
 Summary:
-GitHub has announced what it said are "breaking changes" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.
+It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials.
 
-The changes aim to combat attack techniques that abuse the "npm install" command to trigger the execution of malicious code using npm lifecycle hooks. "Npm install" is used to download and install all the necessary
+The bigger problem is how polished this all looks now. Mule networks run like SaaS.
 
 URL:
-https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html
+https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html
 
 ------------------------------------------------------------
 
 Title:
-China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance
+AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.
 
 Published:
-Wed, 10 Jun 2026 21:38:42 +0530
+Thu, 11 Jun 2026 17:00:00 +0530
 
 Summary:
-Cybersecurity researchers have warned of a "resurgence and expansion" of JDY, a covert network associated with China-nexus state-sponsored threat actors.
+For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that work.
 
-"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance scanner used to discover, fingerprint, and continuously map exposed services at scale," Lumen's
+Today, that buffer is gone.
+
+AI didn't make your team slower. It changed the other side of the
 
 URL:
-https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html
+https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html
 
 ------------------------------------------------------------
 
@@ -57,44 +61,44 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Microsoft fixes BitLocker recovery bug on Windows Server 2025
+Why AI-driven threats are exposing the limits of MSP security stacks
 
 Published:
-Thu, 11 Jun 2026 04:44:22 -0400
+Thu, 11 Jun 2026 10:00:10 -0400
 
 Summary:
-Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]
+AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/
+https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/
 
 ------------------------------------------------------------
 
 Title:
-Nottingham University data breach affects over 450,000 students
+Coupang hit with record $409 million data breach fine in Korea
 
 Published:
-Thu, 11 Jun 2026 03:27:53 -0400
+Thu, 11 Jun 2026 08:52:41 -0400
 
 Summary:
-The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]
+​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million customers [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/
+https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/
 
 ------------------------------------------------------------
 
 Title:
-Max severity Ivanti Sentry vulnerability now exploited in attacks
+CISA tells govt agencies to patch critical exploited flaws in 3 days
 
 Published:
-Thu, 11 Jun 2026 02:20:22 -0400
+Thu, 11 Jun 2026 08:46:44 -0400
 
 Summary:
-Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/
+https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/
 
 ------------------------------------------------------------
 
