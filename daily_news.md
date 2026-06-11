@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack
+
+Published:
+Thu, 11 Jun 2026 15:15:58 +0530
+
+Summary:
+The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER.
+
+The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack
+
+URL:
+https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html
+
+------------------------------------------------------------
+
+Title:
+GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
+
+Published:
+Thu, 11 Jun 2026 11:53:03 +0530
+
+Summary:
+GitHub has announced what it said are "breaking changes" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.
+
+The changes aim to combat attack techniques that abuse the "npm install" command to trigger the execution of malicious code using npm lifecycle hooks. "Npm install" is used to download and install all the necessary
+
+URL:
+https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html
+
+------------------------------------------------------------
+
+Title:
 China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance
 
 Published:
@@ -20,45 +52,37 @@ https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html
 
 ------------------------------------------------------------
 
-Title:
-Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities
-
-Published:
-Wed, 10 Jun 2026 20:40:59 +0530
-
-Summary:
-Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure.
-
-The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1).
-
-"An
-
-URL:
-https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html
-
-------------------------------------------------------------
-
-Title:
-Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE
-
-Published:
-Wed, 10 Jun 2026 20:30:59 +0530
-
-Summary:
-A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck.
-
-The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations.
-
-"The 'POST /
-
-URL:
-https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Microsoft fixes BitLocker recovery bug on Windows Server 2025
+
+Published:
+Thu, 11 Jun 2026 04:44:22 -0400
+
+Summary:
+Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/
+
+------------------------------------------------------------
+
+Title:
+Nottingham University data breach affects over 450,000 students
+
+Published:
+Thu, 11 Jun 2026 03:27:53 -0400
+
+Summary:
+The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/
+
+------------------------------------------------------------
 
 Title:
 Max severity Ivanti Sentry vulnerability now exploited in attacks
@@ -71,34 +95,6 @@ Attackers are now targeting a recently patched maximum-severity flaw in Ivanti S
 
 URL:
 https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/
-
-------------------------------------------------------------
-
-Title:
-Path traversal flaw in AI dev platform Langflow exploited in attacks
-
-Published:
-Wed, 10 Jun 2026 17:23:44 -0400
-
-Summary:
-Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/
-
-------------------------------------------------------------
-
-Title:
-The ‘Miasma’ worm source code briefly leaked on GitHub
-
-Published:
-Wed, 10 Jun 2026 16:27:08 -0400
-
-Summary:
-The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/
 
 ------------------------------------------------------------
 
@@ -203,6 +199,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Trust No Skill: Integrity Verification for AI Agent Supply Chains
+
+Published:
+Thu, 11 Jun 2026 10:00:24 +0000
+
+Summary:
+Protect enterprise AI agents from supply chain risks by auditing third-party skills for hidden vulnerabilities and multi-stage attack chains.
+The post <a href="https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/">Trust No Skill: Integrity Verification for AI Agent Supply Chains</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/
+
+------------------------------------------------------------
+
+Title:
 Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility
 
 Published:
@@ -229,21 +240,6 @@ The post <a href="https://unit42.paloaltonetworks.com/active-exploitation-of-pan
 
 URL:
 https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
-
-------------------------------------------------------------
-
-Title:
-When “Hi, This Is IT” Comes Through Microsoft Teams
-
-Published:
-Mon, 08 Jun 2026 23:00:45 +0000
-
-Summary:
-Attackers are increasingly targeting collaboration platforms like Microsoft Teams. Learn the risks and key steps to strengthen your organization's security.
-The post <a href="https://unit42.paloaltonetworks.com/microsoft-teams-phishing/">When “Hi, This Is IT” Comes Through Microsoft Teams</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/microsoft-teams-phishing/
 
 ------------------------------------------------------------
 
