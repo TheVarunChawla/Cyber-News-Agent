@@ -5,60 +5,70 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories
+New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets
 
 Published:
-Thu, 11 Jun 2026 18:56:13 +0530
+Thu, 11 Jun 2026 23:16:32 +0530
 
 Summary:
-Most good security work is invisible by design. Today is the exception.
+Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs.
 
-The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories.
-
-The reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the
+Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on
 
 URL:
-https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html
+https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories
+New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files
 
 Published:
-Thu, 11 Jun 2026 18:50:41 +0530
+Thu, 11 Jun 2026 23:13:52 +0530
 
 Summary:
-It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials.
+Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender.
 
-The bigger problem is how polished this all looks now. Mule networks run like SaaS.
+"This was an accidental discovery, it took a total of 4 hours to find this," the researcher said in a post on Blogger. "If you ever attempted to use Windows Defender Offline Scan, you're
 
 URL:
-https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html
+https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html
 
 ------------------------------------------------------------
 
 Title:
-AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.
+The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm
 
 Published:
-Thu, 11 Jun 2026 17:00:00 +0530
+Thu, 11 Jun 2026 22:20:47 +0530
 
 Summary:
-For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that work.
+A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis).
 
-Today, that buffer is gone.
-
-AI didn't make your team slower. It changed the other side of the
+According to a detailed report
 
 URL:
-https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html
+https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Authorities dismantle 'AudiA6' ransomware crypto-laundering service
+
+Published:
+Thu, 11 Jun 2026 11:55:41 -0400
+
+Summary:
+Law enforcement has dismantled the &ldquo;AudiA6&rdquo; cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/
+
+------------------------------------------------------------
 
 Title:
 Why AI-driven threats are exposing the limits of MSP security stacks
@@ -88,23 +98,37 @@ https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-rec
 
 ------------------------------------------------------------
 
-Title:
-CISA tells govt agencies to patch critical exploited flaws in 3 days
-
-Published:
-Thu, 11 Jun 2026 08:46:44 -0400
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Enterprises report increasing budgets for security training in AI and other critical topics
+
+Published:
+Thu, 11 Jun 2026 10:59:19 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/52OFAan1OAaW2AGel64ouftAmIzp6u04tnVGWJYphBM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3ODQxMjQ4LmpwZw==.webp" /></div></figure>Finding the time to train employees remains the biggest impediment to programs&rsquo; success, according to a new report.
+
+URL:
+https://www.cybersecuritydive.com/news/cybersecurity-training-budget-increases-ai-skills/822640/
+
+------------------------------------------------------------
+
+Title:
+FIFA World Cup expected to face extensive criminal, hacktivist cyber threats
+
+Published:
+Thu, 11 Jun 2026 10:54:13 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/hOQdPXRHpaCkaLjp9mHuN4nhOXS7c8H-CAxpr0Je4cw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTM2MjAzMzU1LmpwZw==.webp" /></div></figure>Researchers warn that thousands of malicious domains are already in place, as fans and tournament organizers face potential attacks.
+
+URL:
+https://www.cybersecuritydive.com/news/fifa-world-cup-criminal-hacktivist-cyber-threat/822638/
+
+------------------------------------------------------------
 
 Title:
 CISA gives agencies new vulnerability remediation deadlines that take risk levels into account
@@ -117,34 +141,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/cisa-vulnerability-remediation-prioritization-directive/822504/
-
-------------------------------------------------------------
-
-Title:
-CISA, researchers warn of escalating attacks using Cisco Catalyst SD-WAN flaws
-
-Published:
-Wed, 10 Jun 2026 10:44:18 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/icAEIUKrSYj7l7vtGNbpT3v_jd-Kd9PY2t7oA7RG7FU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY3MTM1MzY1LmpwZw==.webp" /></div></figure>Multiple vulnerabilities are being chained together to gain additional access to systems.
-
-URL:
-https://www.cybersecuritydive.com/news/cisa-zero-day-cisco-catalyst-vulnerabilities/822494/
-
-------------------------------------------------------------
-
-Title:
-Companies are failing to keep up with AI’s identity sprawl, creating entry points for hackers
-
-Published:
-Wed, 10 Jun 2026 10:33:04 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/YGGgVA2dwoNi1-LY-3UIkqnvVjijD965U_ANY1vCjhI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMDE2MzYwLmpwZw==.webp" /></div></figure>Three-quarters of organizations say they aren&rsquo;t fully overseeing the activities of user accounts belonging to agents and other AI tools.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-identity-security-visibility-gaps-netwrix/822491/
 
 ------------------------------------------------------------
 
@@ -252,6 +248,20 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
+A tale of two eras
+
+Published:
+Thu, 11 Jun 2026 18:00:49 GMT
+
+Summary:
+In this week’s newsletter, Amy reminisces on the tech toys of their childhood, inspired by a hilarious lesson about why your digital privacy shouldn't be left on an open channel.
+
+URL:
+https://blog.talosintelligence.com/a-tale-of-two-eras/
+
+------------------------------------------------------------
+
+Title:
 Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities
 
 Published:
@@ -276,20 +286,6 @@ Joe’s on-the-ground report from Cisco Live U.S. is here, complete with therapy
 
 URL:
 https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/
-
-------------------------------------------------------------
-
-Title:
-Winning the cyber marathon with Tony Giandomenico
-
-Published:
-Thu, 04 Jun 2026 12:05:31 GMT
-
-Summary:
-Tony Giandomenico, Senior Director of Product Management, joins Amy to discuss the Talos Threat Hunting launch what he's excited about for the future of cybersecurity, and, of course, his Ironman triathlons.
-
-URL:
-https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/
 
 ------------------------------------------------------------
 
