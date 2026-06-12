@@ -5,10 +5,10 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer
+Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit
 
 Published:
-Sat, 13 Jun 2026 00:54:50 +0530
+Sat, 13 Jun 2026 01:03:25 +0530
 
 Summary:
 Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.
@@ -16,7 +16,7 @@ Attackers took over more than 400 packages in the Arch User Repository (AUR) thi
 The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate
 
 URL:
-https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html
+https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html
 
 ------------------------------------------------------------
 
@@ -201,6 +201,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered
+
+Published:
+Fri, 12 Jun 2026 22:00:14 +0000
+
+Summary:
+Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks user menu selections across the operating system. Learn more here. 
+The post <a href="https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/">Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/
+
+------------------------------------------------------------
+
+Title:
 Trust No Skill: Integrity Verification for AI Agent Supply Chains
 
 Published:
@@ -227,21 +242,6 @@ The post <a href="https://unit42.paloaltonetworks.com/cloud-logging-defense-evas
 
 URL:
 https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/
-
-------------------------------------------------------------
-
-Title:
-Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257
-
-Published:
-Tue, 09 Jun 2026 14:05:42 +0000
-
-Summary:
-We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257.
-The post <a href="https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/">Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
 
 ------------------------------------------------------------
 
