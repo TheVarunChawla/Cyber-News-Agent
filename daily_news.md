@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Early Warning Signs of Supply-Chain Attacks Live in the Dark Web
+
+Published:
+Fri, 12 Jun 2026 10:01:11 -0400
+
+Summary:
+GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/
+
+------------------------------------------------------------
+
+Title:
 Microsoft fixes Windows update failures linked to WUSA installer
 
 Published:
@@ -88,63 +102,49 @@ https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk
 
 ------------------------------------------------------------
 
-Title:
-CISA orders feds to patch actively exploited Ivanti flaw by Sunday
-
-Published:
-Fri, 12 Jun 2026 04:26:55 -0400
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Enterprises report increasing budgets for security training in AI and other critical topics
+Agentic AI surges in financial sector even as many firms fail to manage security risks
 
 Published:
-Thu, 11 Jun 2026 10:59:19 -0400
+Fri, 12 Jun 2026 10:55:56 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/52OFAan1OAaW2AGel64ouftAmIzp6u04tnVGWJYphBM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3ODQxMjQ4LmpwZw==.webp" /></div></figure>Finding the time to train employees remains the biggest impediment to programs&rsquo; success, according to a new report.
+<figure><div><img src="https://imgproxy.divecdn.com/LdMhQSP46BboFh9RgjgKOJAcj9Ll5aHYpX4mMuev7kM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTA3MzAwNjhfS1B4VGxIUy5qcGc=.webp" /></div></figure>One-fifth of firms aren&rsquo;t even sure if they&rsquo;ve been hacked through their AI tools, according to a new report.
 
 URL:
-https://www.cybersecuritydive.com/news/cybersecurity-training-budget-increases-ai-skills/822640/
+https://www.cybersecuritydive.com/news/ai-agents-financial-services-payments-security-risks/822800/
 
 ------------------------------------------------------------
 
 Title:
-FIFA World Cup expected to face extensive criminal, hacktivist cyber threats
+It’s Mythos’ world now. How do we live in it?
 
 Published:
-Thu, 11 Jun 2026 10:54:13 -0400
+Fri, 12 Jun 2026 10:53:00 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/hOQdPXRHpaCkaLjp9mHuN4nhOXS7c8H-CAxpr0Je4cw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTM2MjAzMzU1LmpwZw==.webp" /></div></figure>Researchers warn that thousands of malicious domains are already in place, as fans and tournament organizers face potential attacks.
+<figure><div><img src="https://imgproxy.divecdn.com/zzUD2pxrwOgszGCsVh19jYuWdweWY1hxPnvNYPgsnd8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczOTI5LmpwZw==.webp" /></div></figure>Anthropic's powerful model raises difficult questions about how government and industry should work together to safeguard systems in the AI era.
 
 URL:
-https://www.cybersecuritydive.com/news/fifa-world-cup-criminal-hacktivist-cyber-threat/822638/
+https://www.cybersecuritydive.com/news/anthropic-claude-mythos-ai-vulnerability-regulation/822537/
 
 ------------------------------------------------------------
 
 Title:
-CISA gives agencies new vulnerability remediation deadlines that take risk levels into account
+ShinyHunters linked to exploitation of critical flaw in Oracle PeopleSoft
 
 Published:
-Wed, 10 Jun 2026 11:23:10 -0400
+Fri, 12 Jun 2026 10:51:44 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>The cybersecurity agency says it wants to help network defenders prioritize the fixes that matter the most.
+<figure><div><img src="https://imgproxy.divecdn.com/vEXl6BWPK7i-Q_54Dq6tASTq9xoKLodXaVnpYmTZxwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc0MDM1ODAxLmpwZw==.webp" /></div></figure>More than 100 organizations, more than two-thirds in higher education, have been notified of potential impact.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-vulnerability-remediation-prioritization-directive/822504/
+https://www.cybersecuritydive.com/news/shinyhunters-exploitation-critical-flaw-oracle-peoplesoft/822796/
 
 ------------------------------------------------------------
 
