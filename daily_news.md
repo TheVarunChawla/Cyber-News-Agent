@@ -57,6 +57,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Japanese energy firm loses drive with data of 10.9 million clients
+
+Published:
+Thu, 11 Jun 2026 19:14:16 -0400
+
+Summary:
+Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/
+
+------------------------------------------------------------
+
+Title:
+Maine breach portal abused to publish fake data breach disclosures
+
+Published:
+Thu, 11 Jun 2026 18:44:58 -0400
+
+Summary:
+In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/
+
+------------------------------------------------------------
+
+Title:
 Oracle mitigates PeopleSoft zero-day exploited in data theft attacks
 
 Published:
@@ -67,34 +95,6 @@ Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability track
 
 URL:
 https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/
-
-------------------------------------------------------------
-
-Title:
-Authorities dismantle 'AudiA6' ransomware crypto-laundering service
-
-Published:
-Thu, 11 Jun 2026 11:55:41 -0400
-
-Summary:
-Law enforcement has dismantled the &ldquo;AudiA6&rdquo; cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/
-
-------------------------------------------------------------
-
-Title:
-Why AI-driven threats are exposing the limits of MSP security stacks
-
-Published:
-Thu, 11 Jun 2026 10:00:10 -0400
-
-Summary:
-AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/
 
 ------------------------------------------------------------
 
