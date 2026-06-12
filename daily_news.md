@@ -5,56 +5,88 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs
+Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code
 
 Published:
-Fri, 12 Jun 2026 12:08:41 +0530
+Fri, 12 Jun 2026 17:34:33 +0530
 
 Summary:
-Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks.
+Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.
 
-Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a "key financial pipeline used to wash hundreds of millions in illicit profits." The service is estimated to have been used to launder more than €336 million (~$389 million) since the
+Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform.
+
+"The attack
 
 URL:
-https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html
+https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html
 
 ------------------------------------------------------------
 
 Title:
-ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities
+Rethinking MDR as Attackers and Defenders Embrace AI
 
 Published:
-Fri, 12 Jun 2026 01:59:23 +0530
+Fri, 12 Jun 2026 16:30:00 +0530
 
 Summary:
-The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest.
+For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now.
 
-Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity between May 27 and June 9. Oracle did not publish its advisory until June 10, so the bug was a
+The threat landscape has changed faster than the MDR model can adapt. Attackers are using AI to move faster, generate more
 
 URL:
-https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html
+https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html
 
 ------------------------------------------------------------
 
 Title:
-New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets
+LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution
 
 Published:
-Thu, 11 Jun 2026 23:16:32 +0530
+Fri, 12 Jun 2026 15:20:36 +0530
 
 Summary:
-Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs.
+Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.
 
-Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on
+LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications.
+
+"An SQL injection in LangGraph's function could
 
 URL:
-https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html
+https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Microsoft fixes Windows update failures linked to WUSA installer
+
+Published:
+Fri, 12 Jun 2026 07:44:58 -0400
+
+Summary:
+Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/
+
+------------------------------------------------------------
+
+Title:
+Pharma giant Novo Nordisk discloses breach of clinical trials data
+
+Published:
+Fri, 12 Jun 2026 06:13:19 -0400
+
+Summary:
+Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/
+
+------------------------------------------------------------
 
 Title:
 CISA orders feds to patch actively exploited Ivanti flaw by Sunday
@@ -67,34 +99,6 @@ The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered governm
 
 URL:
 https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/
-
-------------------------------------------------------------
-
-Title:
-Over 73,000 French govt employees affected in Tchap messenger breach
-
-Published:
-Fri, 12 Jun 2026 03:09:11 -0400
-
-Summary:
-The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/
-
-------------------------------------------------------------
-
-Title:
-Japanese energy firm loses drive with data of 10.9 million clients
-
-Published:
-Thu, 11 Jun 2026 19:14:16 -0400
-
-Summary:
-Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/
 
 ------------------------------------------------------------
 
