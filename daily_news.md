@@ -61,6 +61,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Ukrainian national pleads guilty to role in Conti ransomware operation
+
+Published:
+Fri, 12 Jun 2026 13:54:28 -0400
+
+Summary:
+A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/
+
+------------------------------------------------------------
+
+Title:
+Over 400 Arch Linux packages compromised to push rootkit, infostealer
+
+Published:
+Fri, 12 Jun 2026 13:03:55 -0400
+
+Summary:
+More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/
+
+------------------------------------------------------------
+
+Title:
 Early Warning Signs of Supply-Chain Attacks Live in the Dark Web
 
 Published:
@@ -71,34 +99,6 @@ GitHub access sales, leaked repositories, and stolen API keys can all become sup
 
 URL:
 https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/
-
-------------------------------------------------------------
-
-Title:
-Microsoft fixes Windows update failures linked to WUSA installer
-
-Published:
-Fri, 12 Jun 2026 07:44:58 -0400
-
-Summary:
-Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/
-
-------------------------------------------------------------
-
-Title:
-Pharma giant Novo Nordisk discloses breach of clinical trials data
-
-Published:
-Fri, 12 Jun 2026 06:13:19 -0400
-
-Summary:
-Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/
 
 ------------------------------------------------------------
 
@@ -141,7 +141,7 @@ Published:
 Fri, 12 Jun 2026 10:51:44 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/vEXl6BWPK7i-Q_54Dq6tASTq9xoKLodXaVnpYmTZxwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc0MDM1ODAxLmpwZw==.webp" /></div></figure>More than 100 organizations, more than two-thirds in higher education, have been notified of potential impact.
+<figure><div><img src="https://imgproxy.divecdn.com/vEXl6BWPK7i-Q_54Dq6tASTq9xoKLodXaVnpYmTZxwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc0MDM1ODAxLmpwZw==.webp" /></div></figure>More than 100 organizations, about two-thirds in higher education, have been notified of potential impact.
 
 URL:
 https://www.cybersecuritydive.com/news/shinyhunters-exploitation-critical-flaw-oracle-peoplesoft/822796/
