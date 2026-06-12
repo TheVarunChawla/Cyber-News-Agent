@@ -5,60 +5,86 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code
+400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer
 
 Published:
-Fri, 12 Jun 2026 17:34:33 +0530
+Sat, 13 Jun 2026 00:54:50 +0530
 
 Summary:
-Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.
+Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.
 
-Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform.
-
-"The attack
+The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate
 
 URL:
-https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html
+https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html
 
 ------------------------------------------------------------
 
 Title:
-Rethinking MDR as Attackers and Defenders Embrace AI
+Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing
 
 Published:
-Fri, 12 Jun 2026 16:30:00 +0530
+Sat, 13 Jun 2026 00:29:32 +0530
 
 Summary:
-For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now.
+Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.
 
-The threat landscape has changed faster than the MDR model can adapt. Attackers are using AI to move faster, generate more
+The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant.
+
+"The operation weaponized Gemini to help
 
 URL:
-https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html
+https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html
 
 ------------------------------------------------------------
 
 Title:
-LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution
+China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade
 
 Published:
-Fri, 12 Jun 2026 15:20:36 +0530
+Fri, 12 Jun 2026 23:47:55 +0530
 
 Summary:
-Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.
+Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.
 
-LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications.
-
-"An SQL injection in LangGraph's function could
+Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no
 
 URL:
-https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html
+https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Maine disables data breach notification portal after fake disclosures
+
+Published:
+Fri, 12 Jun 2026 15:33:32 -0400
+
+Summary:
+Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/
+
+------------------------------------------------------------
+
+Title:
+phpBB forum fixes auth bypass bug lurking for a decade
+
+Published:
+Fri, 12 Jun 2026 14:19:34 -0400
+
+Summary:
+A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/
+
+------------------------------------------------------------
 
 Title:
 Ukrainian national pleads guilty to role in Conti ransomware operation
@@ -71,34 +97,6 @@ A Ukrainian national extradited from Ireland to the United States last year has 
 
 URL:
 https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/
-
-------------------------------------------------------------
-
-Title:
-Over 400 Arch Linux packages compromised to push rootkit, infostealer
-
-Published:
-Fri, 12 Jun 2026 13:03:55 -0400
-
-Summary:
-More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/
-
-------------------------------------------------------------
-
-Title:
-Early Warning Signs of Supply-Chain Attacks Live in the Dark Web
-
-Published:
-Fri, 12 Jun 2026 10:01:11 -0400
-
-Summary:
-GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/
 
 ------------------------------------------------------------
 
