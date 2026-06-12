@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs
+
+Published:
+Fri, 12 Jun 2026 12:08:41 +0530
+
+Summary:
+Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks.
+
+Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a "key financial pipeline used to wash hundreds of millions in illicit profits." The service is estimated to have been used to launder more than €336 million (~$389 million) since the
+
+URL:
+https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html
+
+------------------------------------------------------------
+
+Title:
 ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities
 
 Published:
@@ -36,25 +52,37 @@ https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html
 
 ------------------------------------------------------------
 
-Title:
-New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files
-
-Published:
-Thu, 11 Jun 2026 23:13:52 +0530
-
-Summary:
-Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender.
-
-"This was an accidental discovery, it took a total of 4 hours to find this," the researcher said in a post on Blogger. "If you ever attempted to use Windows Defender Offline Scan, you're
-
-URL:
-https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+CISA orders feds to patch actively exploited Ivanti flaw by Sunday
+
+Published:
+Fri, 12 Jun 2026 04:26:55 -0400
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/
+
+------------------------------------------------------------
+
+Title:
+Over 73,000 French govt employees affected in Tchap messenger breach
+
+Published:
+Fri, 12 Jun 2026 03:09:11 -0400
+
+Summary:
+The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/
+
+------------------------------------------------------------
 
 Title:
 Japanese energy firm loses drive with data of 10.9 million clients
@@ -67,34 +95,6 @@ Kyushu Electric Power Co., Inc. has disclosed a physical security incident that 
 
 URL:
 https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/
-
-------------------------------------------------------------
-
-Title:
-Maine breach portal abused to publish fake data breach disclosures
-
-Published:
-Thu, 11 Jun 2026 18:44:58 -0400
-
-Summary:
-In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/
-
-------------------------------------------------------------
-
-Title:
-Oracle mitigates PeopleSoft zero-day exploited in data theft attacks
-
-Published:
-Thu, 11 Jun 2026 15:39:53 -0400
-
-Summary:
-Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/
 
 ------------------------------------------------------------
 
