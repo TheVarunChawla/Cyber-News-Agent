@@ -59,6 +59,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos
+
+Published:
+Sat, 13 Jun 2026 06:01:32 -0400
+
+Summary:
+The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling the cited jailbreak narrow and the capability widely available elsewhere. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/
+
+------------------------------------------------------------
+
+Title:
 Maine disables data breach notification portal after fake disclosures
 
 Published:
@@ -83,20 +97,6 @@ A 10-year-old authentication bypass vulnerability discovered in the phpBB forum 
 
 URL:
 https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/
-
-------------------------------------------------------------
-
-Title:
-Ukrainian national pleads guilty to role in Conti ransomware operation
-
-Published:
-Fri, 12 Jun 2026 13:54:28 -0400
-
-Summary:
-A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/
 
 ------------------------------------------------------------
 
