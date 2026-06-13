@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals
+
+Published:
+Sat, 13 Jun 2026 11:12:50 +0530
+
+Summary:
+Anthropic said on Friday it will "abruptly disable" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns.
+
+The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend
+
+URL:
+https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html
+
+------------------------------------------------------------
+
+Title:
 Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit
 
 Published:
@@ -35,22 +51,6 @@ The network is said to be behind the development and management of a phishing-as
 
 URL:
 https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html
-
-------------------------------------------------------------
-
-Title:
-China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade
-
-Published:
-Fri, 12 Jun 2026 23:47:55 +0530
-
-Summary:
-Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.
-
-Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no
-
-URL:
-https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html
 
 ------------------------------------------------------------
 
