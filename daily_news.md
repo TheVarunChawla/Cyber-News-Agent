@@ -59,6 +59,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Ex-school district employee jailed for hacks on former employer
+
+Published:
+Sat, 13 Jun 2026 16:53:13 -0400
+
+Summary:
+A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/
+
+------------------------------------------------------------
+
+Title:
 Chinese hackers hijack auth flow, spy on isolated network for a decade
 
 Published:
@@ -83,20 +97,6 @@ The US government has ordered Anthropic to block all foreign nationals from acce
 
 URL:
 https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/
-
-------------------------------------------------------------
-
-Title:
-Maine disables data breach notification portal after fake disclosures
-
-Published:
-Fri, 12 Jun 2026 15:33:32 -0400
-
-Summary:
-Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/
 
 ------------------------------------------------------------
 
