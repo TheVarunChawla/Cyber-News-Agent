@@ -5,6 +5,24 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication
+
+Published:
+Sat, 13 Jun 2026 18:53:03 +0530
+
+Summary:
+Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.
+
+The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.
+
+"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary
+
+URL:
+https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html
+
+------------------------------------------------------------
+
+Title:
 U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals
 
 Published:
@@ -36,27 +54,23 @@ https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html
 
 ------------------------------------------------------------
 
-Title:
-Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing
-
-Published:
-Sat, 13 Jun 2026 00:29:32 +0530
-
-Summary:
-Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.
-
-The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant.
-
-"The operation weaponized Gemini to help
-
-URL:
-https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Chinese hackers hijack auth flow, spy on isolated network for a decade
+
+Published:
+Sat, 13 Jun 2026 10:06:42 -0400
+
+Summary:
+Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/
+
+------------------------------------------------------------
 
 Title:
 US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos
@@ -83,20 +97,6 @@ Maine has taken its public data breach reporting portal offline after fraudulent
 
 URL:
 https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/
-
-------------------------------------------------------------
-
-Title:
-phpBB forum fixes auth bypass bug lurking for a decade
-
-Published:
-Fri, 12 Jun 2026 14:19:34 -0400
-
-Summary:
-A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/
 
 ------------------------------------------------------------
 
