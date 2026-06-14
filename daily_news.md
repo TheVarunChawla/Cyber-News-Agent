@@ -59,6 +59,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+FBI disrupts massive AI-powered phishing service using a million URLs
+
+Published:
+Sun, 14 Jun 2026 10:36:23 -0400
+
+Summary:
+In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/
+
+------------------------------------------------------------
+
+Title:
 Ex-school district employee jailed for hacks on former employer
 
 Published:
@@ -83,20 +97,6 @@ Chinese hackers took control of a target organization's authentication stack and
 
 URL:
 https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/
-
-------------------------------------------------------------
-
-Title:
-US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos
-
-Published:
-Sat, 13 Jun 2026 06:01:32 -0400
-
-Summary:
-The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling the cited jailbreak narrow and the capability widely available elsewhere. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/
 
 ------------------------------------------------------------
 
