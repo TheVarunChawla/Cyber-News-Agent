@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails
+
+Published:
+Tue, 16 Jun 2026 01:14:06 +0530
+
+Summary:
+A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email.
+
+The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message
+
+URL:
+https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html
+
+------------------------------------------------------------
+
+Title:
 North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels
 
 Published:
@@ -38,25 +54,37 @@ https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html
 
 ------------------------------------------------------------
 
-Title:
-One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes
-
-Published:
-Mon, 15 Jun 2026 20:39:05 +0530
-
-Summary:
-A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search.
-
-Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were
-
-URL:
-https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act
+
+Published:
+Mon, 15 Jun 2026 17:56:55 -0400
+
+Summary:
+The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain seizure under the TAKE IT DOWN Act. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/
+
+------------------------------------------------------------
+
+Title:
+SimpleHelp bug lets hackers create rogue remote support accounts
+
+Published:
+Mon, 15 Jun 2026 16:06:52 -0400
+
+Summary:
+A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/
+
+------------------------------------------------------------
 
 Title:
 OptinMonster WordPress plugin hacked in CDN supply-chain attack
@@ -69,34 +97,6 @@ WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised
 
 URL:
 https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/
-
-------------------------------------------------------------
-
-Title:
-Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks
-
-Published:
-Mon, 15 Jun 2026 13:12:42 -0400
-
-Summary:
-Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/
-
-------------------------------------------------------------
-
-Title:
-Council of Europe investigates ShinyHunters data breach claims
-
-Published:
-Mon, 15 Jun 2026 12:37:11 -0400
-
-Summary:
-The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/
 
 ------------------------------------------------------------
 
