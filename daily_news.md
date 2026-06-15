@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts
+
+Published:
+Mon, 15 Jun 2026 12:00:22 +0530
+
+Summary:
+Cybersecurity researchers have disclosed details of fraudulent activity targeting users across the Middle East and North Africa by employing various fraudulent Facebook accounts impersonating politicians, public figures, and trusted organizations.
+
+"These accounts promoted fake offers, including free mobile internet packages, financial compensation, and government subsidy programs," Group-IB
+
+URL:
+https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html
+
+------------------------------------------------------------
+
+Title:
+Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw
+
+Published:
+Mon, 15 Jun 2026 11:47:32 +0530
+
+Summary:
+Palo Alto Networks has revealed that it has observed "active exploitation" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals.
+
+The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway components of PAN-OS software that could be exploited by bad
+
+URL:
+https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html
+
+------------------------------------------------------------
+
+Title:
 Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication
 
 Published:
@@ -19,38 +51,6 @@ The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring s
 
 URL:
 https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html
-
-------------------------------------------------------------
-
-Title:
-U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals
-
-Published:
-Sat, 13 Jun 2026 11:12:50 +0530
-
-Summary:
-Anthropic said on Friday it will "abruptly disable" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns.
-
-The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend
-
-URL:
-https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html
-
-------------------------------------------------------------
-
-Title:
-Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit
-
-Published:
-Sat, 13 Jun 2026 01:03:25 +0530
-
-Summary:
-Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.
-
-The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate
-
-URL:
-https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html
 
 ------------------------------------------------------------
 
