@@ -5,52 +5,52 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts
+One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes
 
 Published:
-Mon, 15 Jun 2026 12:00:22 +0530
+Mon, 15 Jun 2026 20:39:05 +0530
 
 Summary:
-Cybersecurity researchers have disclosed details of fraudulent activity targeting users across the Middle East and North Africa by employing various fraudulent Facebook accounts impersonating politicians, public figures, and trusted organizations.
+A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search.
 
-"These accounts promoted fake offers, including free mobile internet packages, financial compensation, and government subsidy programs," Group-IB
+Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were
 
 URL:
-https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html
+https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html
 
 ------------------------------------------------------------
 
 Title:
-Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw
+⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More
 
 Published:
-Mon, 15 Jun 2026 11:47:32 +0530
+Mon, 15 Jun 2026 19:19:29 +0530
 
 Summary:
-Palo Alto Networks has revealed that it has observed "active exploitation" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals.
+Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod.
 
-The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway components of PAN-OS software that could be exploited by bad
+This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point.
+
+Scroll through the full Monday Cybersecurity
 
 URL:
-https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html
+https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html
 
 ------------------------------------------------------------
 
 Title:
-Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication
+The Onboarding Password Mistake That Creates Unnecessary Risk
 
 Published:
-Sat, 13 Jun 2026 18:53:03 +0530
+Mon, 15 Jun 2026 17:00:00 +0530
 
 Summary:
-Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.
+Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe.
 
-The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.
-
-"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary
+That usually means sharing a temporary "first-day" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,
 
 URL:
-https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html
+https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html
 
 ------------------------------------------------------------
 
@@ -59,44 +59,44 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-FBI disrupts massive AI-powered phishing service using a million URLs
+FBI: Fraudsters use couriers to steal money in crypto scams
 
 Published:
-Sun, 14 Jun 2026 10:36:23 -0400
+Mon, 15 Jun 2026 11:30:23 -0400
 
 Summary:
-In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords. [...]
+The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/
+https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/
 
 ------------------------------------------------------------
 
 Title:
-Ex-school district employee jailed for hacks on former employer
+Vibe coders are gonna vibe code: How CISOs are tackling code sprawl
 
 Published:
-Sat, 13 Jun 2026 16:53:13 -0400
+Mon, 15 Jun 2026 10:01:11 -0400
 
 Summary:
-A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]
+Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/
+https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/
 
 ------------------------------------------------------------
 
 Title:
-Chinese hackers hijack auth flow, spy on isolated network for a decade
+Chinese hackers breach REDCap servers, steal medical research
 
 Published:
-Sat, 13 Jun 2026 10:06:42 -0400
+Mon, 15 Jun 2026 10:00:00 -0400
 
 Summary:
-Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]
+A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/
+https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/
 
 ------------------------------------------------------------
 
@@ -105,44 +105,44 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Agentic AI surges in financial sector even as many firms fail to manage security risks
+China-nexus group linked to multiyear campaign targeting US, Canadian medical research
 
 Published:
-Fri, 12 Jun 2026 10:55:56 -0400
+Mon, 15 Jun 2026 11:05:15 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/LdMhQSP46BboFh9RgjgKOJAcj9Ll5aHYpX4mMuev7kM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTA3MzAwNjhfS1B4VGxIUy5qcGc=.webp" /></div></figure>One-fifth of firms aren&rsquo;t even sure if they&rsquo;ve been hacked through their AI tools, according to a new report.
+<figure><div><img src="https://imgproxy.divecdn.com/ILbx_mJfv4cL0_0x-CTneAMzQCxl-h0Nnv7DXG2g_AY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA2MDkzODY0LmpwZw==.webp" /></div></figure>A report links a sophisticated espionage effort targeting information about viruses, AI and military information.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-agents-financial-services-payments-security-risks/822800/
+https://www.cybersecuritydive.com/news/china-nexus-multiyear-hacking-us-canadian-medical-research/822912/
 
 ------------------------------------------------------------
 
 Title:
-It’s Mythos’ world now. How do we live in it?
+Cybersecurity experts blast US government for restricting Anthropic’s AI models
 
 Published:
-Fri, 12 Jun 2026 10:53:00 -0400
+Mon, 15 Jun 2026 11:00:17 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/zzUD2pxrwOgszGCsVh19jYuWdweWY1hxPnvNYPgsnd8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczOTI5LmpwZw==.webp" /></div></figure>Anthropic's powerful model raises difficult questions about how government and industry should work together to safeguard systems in the AI era.
+<figure><div><img src="https://imgproxy.divecdn.com/zzUD2pxrwOgszGCsVh19jYuWdweWY1hxPnvNYPgsnd8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczOTI5LmpwZw==.webp" /></div></figure>Chief information security officers and prominent researchers called a recent export-control ban &ldquo;dangerous.&rdquo;
 
 URL:
-https://www.cybersecuritydive.com/news/anthropic-claude-mythos-ai-vulnerability-regulation/822537/
+https://www.cybersecuritydive.com/news/anthropic-us-government-export-ban-mythos-fable/822909/
 
 ------------------------------------------------------------
 
 Title:
-ShinyHunters linked to exploitation of critical flaw in Oracle PeopleSoft
+MS-ISAC enters uncertain new era after losing federal funding and thousands of members
 
 Published:
-Fri, 12 Jun 2026 10:51:44 -0400
+Mon, 15 Jun 2026 08:00:00 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/vEXl6BWPK7i-Q_54Dq6tASTq9xoKLodXaVnpYmTZxwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc0MDM1ODAxLmpwZw==.webp" /></div></figure>More than 100 organizations, about two-thirds in higher education, have been notified of potential impact.
+The information-sharing group, a vital resource for state and local governments, has cut staff and pinned its hopes on a membership surge.
 
 URL:
-https://www.cybersecuritydive.com/news/shinyhunters-exploitation-critical-flaw-oracle-peoplesoft/822796/
+https://www.cybersecuritydive.com/news/ms-isac-membership-loss-states-federal-funding-cut/821984/
 
 ------------------------------------------------------------
 
