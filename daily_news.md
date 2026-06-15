@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels
+
+Published:
+Tue, 16 Jun 2026 01:02:52 +0530
+
+Summary:
+Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi).
+
+According to a report published by Proofpoint, the threat actor has been found orchestrating phishing campaigns using developer role recruitment or code review themes
+
+URL:
+https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html
+
+------------------------------------------------------------
+
+Title:
+LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers
+
+Published:
+Mon, 15 Jun 2026 22:09:01 +0530
+
+Summary:
+A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed
+
+LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface.
+
+A server takeover exposes every provider key it holds, the secrets that
+
+URL:
+https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html
+
+------------------------------------------------------------
+
+Title:
 One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes
 
 Published:
@@ -20,83 +54,49 @@ https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html
 
 ------------------------------------------------------------
 
-Title:
-⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More
-
-Published:
-Mon, 15 Jun 2026 19:19:29 +0530
-
-Summary:
-Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod.
-
-This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point.
-
-Scroll through the full Monday Cybersecurity
-
-URL:
-https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html
-
-------------------------------------------------------------
-
-Title:
-The Onboarding Password Mistake That Creates Unnecessary Risk
-
-Published:
-Mon, 15 Jun 2026 17:00:00 +0530
-
-Summary:
-Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe.
-
-That usually means sharing a temporary "first-day" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,
-
-URL:
-https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-FBI: Fraudsters use couriers to steal money in crypto scams
+OptinMonster WordPress plugin hacked in CDN supply-chain attack
 
 Published:
-Mon, 15 Jun 2026 11:30:23 -0400
+Mon, 15 Jun 2026 13:37:07 -0400
 
 Summary:
-The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]
+WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/
+https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/
 
 ------------------------------------------------------------
 
 Title:
-Vibe coders are gonna vibe code: How CISOs are tackling code sprawl
+Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks
 
 Published:
-Mon, 15 Jun 2026 10:01:11 -0400
+Mon, 15 Jun 2026 13:12:42 -0400
 
 Summary:
-Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]
+Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/
+https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Chinese hackers breach REDCap servers, steal medical research
+Council of Europe investigates ShinyHunters data breach claims
 
 Published:
-Mon, 15 Jun 2026 10:00:00 -0400
+Mon, 15 Jun 2026 12:37:11 -0400
 
 Summary:
-A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]
+The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/
+https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/
 
 ------------------------------------------------------------
 
@@ -111,7 +111,7 @@ Published:
 Mon, 15 Jun 2026 11:05:15 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ILbx_mJfv4cL0_0x-CTneAMzQCxl-h0Nnv7DXG2g_AY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA2MDkzODY0LmpwZw==.webp" /></div></figure>A report links a sophisticated espionage effort targeting information about viruses, AI and military information.
+<figure><div><img src="https://imgproxy.divecdn.com/ILbx_mJfv4cL0_0x-CTneAMzQCxl-h0Nnv7DXG2g_AY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA2MDkzODY0LmpwZw==.webp" /></div></figure>A report from Google links a sophisticated espionage effort targeting information about viruses, AI and military information.
 
 URL:
 https://www.cybersecuritydive.com/news/china-nexus-multiyear-hacking-us-canadian-medical-research/822912/
@@ -623,6 +623,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Microsoft Defender email security benchmarking: Key insights from one year of data
+
+Published:
+Mon, 15 Jun 2026 16:00:00 +0000
+
+Summary:
+See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/">Microsoft Defender email security benchmarking: Key insights from one year of data</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/
+
+------------------------------------------------------------
+
+Title:
 Turn specs into evals for any agent with ASSERT
 
 Published:
@@ -649,21 +664,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/09/recon
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/
-
-------------------------------------------------------------
-
-Title:
-AI brands as bait: How threat actors are using the AI hype in social engineering
-
-Published:
-Mon, 08 Jun 2026 16:00:00 +0000
-
-Summary:
-As threat actors operationalize AI to accelerate attacks, they are also leveraging the wider global interest around AI itself as a social engineering lure.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/">AI brands as bait: How threat actors are using the AI hype in social engineering</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/
 
 ------------------------------------------------------------
 
