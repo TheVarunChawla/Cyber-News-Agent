@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting
+
+Published:
+Wed, 17 Jun 2026 00:35:41 +0530
+
+Summary:
+A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure.
+
+Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique "Pickle in the Middle" and said it saw no exploitation in the wild.
+
+URL:
+https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html
+
+------------------------------------------------------------
+
+Title:
 ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures
 
 Published:
@@ -38,25 +54,37 @@ https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html
 
 ------------------------------------------------------------
 
-Title:
-Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive
-
-Published:
-Tue, 16 Jun 2026 17:00:00 +0530
-
-Summary:
-Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms.
-
-Yet despite this abundance of information, many organizations continue to face a fundamental challenge: sifting through the noise to understand who is behind an IP and
-
-URL:
-https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Malicious JetBrains Marketplace plugins steal AI API keys from developers
+
+Published:
+Tue, 16 Jun 2026 17:54:50 -0400
+
+Summary:
+At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/
+
+------------------------------------------------------------
+
+Title:
+New Rokarolla Android malware targets 217 banking, crypto apps
+
+Published:
+Tue, 16 Jun 2026 16:04:11 -0400
+
+Summary:
+A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/
+
+------------------------------------------------------------
 
 Title:
 Steam Workshop abused to spread malware via Wallpaper Engine app
@@ -69,34 +97,6 @@ Threat actors are abusing Steam Workshop, Valve's community hub for downloading 
 
 URL:
 https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/
-
-------------------------------------------------------------
-
-Title:
-UK to require ID or face scan before you can make social media accounts
-
-Published:
-Tue, 16 Jun 2026 10:38:49 -0400
-
-Summary:
-Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/
-
-------------------------------------------------------------
-
-Title:
-GhostTree Attack Abused Recursive Windows Junctions to Hide Malware
-
-Published:
-Tue, 16 Jun 2026 10:17:27 -0400
-
-Summary:
-GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/
 
 ------------------------------------------------------------
 
