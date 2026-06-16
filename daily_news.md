@@ -5,6 +5,24 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures
+
+Published:
+Tue, 16 Jun 2026 23:11:28 +0530
+
+Summary:
+Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively.
+
+Attacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations.
+
+"Earlier BabaDeda activity was known for
+
+URL:
+https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html
+
+------------------------------------------------------------
+
+Title:
 New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds
 
 Published:
@@ -36,27 +54,23 @@ https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html
 
 ------------------------------------------------------------
 
-Title:
-Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week
-
-Published:
-Tue, 16 Jun 2026 16:00:41 +0530
-
-Summary:
-Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber.
-
-In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and CVE-2026-25089 over the past 24 hours.
-
-CVE-2026-39813 (CVSS score: 9.1) refers to a path traversal vulnerability in FortiSandbox JRPC API that could
-
-URL:
-https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Steam Workshop abused to spread malware via Wallpaper Engine app
+
+Published:
+Tue, 16 Jun 2026 14:27:55 -0400
+
+Summary:
+Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/
+
+------------------------------------------------------------
 
 Title:
 UK to require ID or face scan before you can make social media accounts
@@ -83,20 +97,6 @@ GhostTree uses recursive NTFS junctions to generate vast numbers of valid Window
 
 URL:
 https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/
-
-------------------------------------------------------------
-
-Title:
-FTC warns of record $3.5 billion losses to imposter scams in 2025
-
-Published:
-Tue, 16 Jun 2026 09:42:19 -0400
-
-Summary:
-The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/
 
 ------------------------------------------------------------
 
