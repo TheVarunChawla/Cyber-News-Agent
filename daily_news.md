@@ -5,52 +5,52 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware
+New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds
 
 Published:
-Tue, 16 Jun 2026 13:44:55 +0530
+Tue, 16 Jun 2026 18:40:17 +0530
 
 Summary:
-The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT.
+Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands.
 
-"The attack email contained a message impersonating an MS account security alert," the Genians Security Center (GSC) said. "It was designed to create concern over possible
+Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play
 
 URL:
-https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html
+https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html
 
 ------------------------------------------------------------
 
 Title:
-Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw
+Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive
 
 Published:
-Tue, 16 Jun 2026 11:35:58 +0530
+Tue, 16 Jun 2026 17:00:00 +0530
 
 Summary:
-Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild.
+Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms.
 
-The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0.
-
-"A vulnerability in the web UI of Cisco Catalyst SD-WAN Manager, formerly SD-WAN vManage, could allow an authenticated, remote attacker to create a file or
+Yet despite this abundance of information, many organizations continue to face a fundamental challenge: sifting through the noise to understand who is behind an IP and
 
 URL:
-https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html
+https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html
 
 ------------------------------------------------------------
 
 Title:
-CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation
+Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week
 
 Published:
-Tue, 16 Jun 2026 11:11:52 +0530
+Tue, 16 Jun 2026 16:00:41 +0530
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026.
+Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber.
 
-The vulnerability in question is CVE-2026-54420 (CVSS score: 8.5), which has been described as a case of privilege
+In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and CVE-2026-25089 over the past 24 hours.
+
+CVE-2026-39813 (CVSS score: 9.1) refers to a path traversal vulnerability in FortiSandbox JRPC API that could
 
 URL:
-https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html
+https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html
 
 ------------------------------------------------------------
 
@@ -59,50 +59,64 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Ransomware gang abuses Microsoft Teams relays to hide malicious traffic
+UK to require ID or face scan before you can make social media accounts
 
 Published:
-Tue, 16 Jun 2026 06:18:48 -0400
+Tue, 16 Jun 2026 10:38:49 -0400
 
 Summary:
-DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]
+Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/
+https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/
 
 ------------------------------------------------------------
 
 Title:
-Critical Fortinet FortiSandbox flaws now exploited in attacks
+GhostTree Attack Abused Recursive Windows Junctions to Hide Malware
 
 Published:
-Tue, 16 Jun 2026 05:19:51 -0400
+Tue, 16 Jun 2026 10:17:27 -0400
 
 Summary:
-Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]
+GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/
+https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/
 
 ------------------------------------------------------------
 
 Title:
-Windows version of SprySOCKS Linux malware used to attack govt orgs
+FTC warns of record $3.5 billion losses to imposter scams in 2025
 
 Published:
-Tue, 16 Jun 2026 05:00:00 -0400
+Tue, 16 Jun 2026 09:42:19 -0400
 
 Summary:
-Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]
+The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/
+https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+AI adoption correlates with incident frequency, underscoring need for governance
+
+Published:
+Tue, 16 Jun 2026 11:11:39 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/LvXSxgqzHmB_aeLx7BRyucRJh9zZ6jNJ9J8o8C45bVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc4MjU3NTY2LmpwZw==.webp" /></div></figure>Even organizations that haven&rsquo;t yet been breached expect an AI-related incident in the near future, a new survey found.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-cybersecurity-incidents-governance-jamf/823026/
+
+------------------------------------------------------------
 
 Title:
 China-nexus group linked to multiyear campaign targeting US, Canadian medical research
@@ -129,20 +143,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/anthropic-us-government-export-ban-mythos-fable/822909/
-
-------------------------------------------------------------
-
-Title:
-MS-ISAC enters uncertain new era after losing federal funding and thousands of members
-
-Published:
-Mon, 15 Jun 2026 08:00:00 -0400
-
-Summary:
-The information-sharing group, a vital resource for state and local governments, has cut staff and pinned its hopes on a membership surge.
-
-URL:
-https://www.cybersecuritydive.com/news/ms-isac-membership-loss-states-federal-funding-cut/821984/
 
 ------------------------------------------------------------
 
