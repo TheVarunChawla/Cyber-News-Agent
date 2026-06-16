@@ -5,52 +5,52 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails
+Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware
 
 Published:
-Tue, 16 Jun 2026 01:14:06 +0530
+Tue, 16 Jun 2026 13:44:55 +0530
 
 Summary:
-A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email.
+The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT.
 
-The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message
+"The attack email contained a message impersonating an MS account security alert," the Genians Security Center (GSC) said. "It was designed to create concern over possible
 
 URL:
-https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html
+https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html
 
 ------------------------------------------------------------
 
 Title:
-North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels
+Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw
 
 Published:
-Tue, 16 Jun 2026 01:02:52 +0530
+Tue, 16 Jun 2026 11:35:58 +0530
 
 Summary:
-Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi).
+Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild.
 
-According to a report published by Proofpoint, the threat actor has been found orchestrating phishing campaigns using developer role recruitment or code review themes
+The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0.
+
+"A vulnerability in the web UI of Cisco Catalyst SD-WAN Manager, formerly SD-WAN vManage, could allow an authenticated, remote attacker to create a file or
 
 URL:
-https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html
+https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html
 
 ------------------------------------------------------------
 
 Title:
-LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers
+CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation
 
 Published:
-Mon, 15 Jun 2026 22:09:01 +0530
+Tue, 16 Jun 2026 11:11:52 +0530
 
 Summary:
-A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026.
 
-LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface.
-
-A server takeover exposes every provider key it holds, the secrets that
+The vulnerability in question is CVE-2026-54420 (CVSS score: 8.5), which has been described as a case of privilege
 
 URL:
-https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html
+https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html
 
 ------------------------------------------------------------
 
@@ -59,44 +59,44 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act
+Ransomware gang abuses Microsoft Teams relays to hide malicious traffic
 
 Published:
-Mon, 15 Jun 2026 17:56:55 -0400
+Tue, 16 Jun 2026 06:18:48 -0400
 
 Summary:
-The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain seizure under the TAKE IT DOWN Act. [...]
+DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/
+https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/
 
 ------------------------------------------------------------
 
 Title:
-SimpleHelp bug lets hackers create rogue remote support accounts
+Critical Fortinet FortiSandbox flaws now exploited in attacks
 
 Published:
-Mon, 15 Jun 2026 16:06:52 -0400
+Tue, 16 Jun 2026 05:19:51 -0400
 
 Summary:
-A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]
+Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/
+https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/
 
 ------------------------------------------------------------
 
 Title:
-OptinMonster WordPress plugin hacked in CDN supply-chain attack
+Windows version of SprySOCKS Linux malware used to attack govt orgs
 
 Published:
-Mon, 15 Jun 2026 13:37:07 -0400
+Tue, 16 Jun 2026 05:00:00 -0400
 
 Summary:
-WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]
+Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/
+https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/
 
 ------------------------------------------------------------
 
@@ -201,6 +201,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE
+
+Published:
+Tue, 16 Jun 2026 10:00:29 +0000
+
+Summary:
+Unit 42 discovered a Vertex AI Python SDK vulnerability that allows remote code execution via bucket squatting. Read the article for more. 
+The post <a href="https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/">Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/
+
+------------------------------------------------------------
+
+Title:
 Inside the Modern SOC: The 72-Minute Race
 
 Published:
@@ -227,21 +242,6 @@ The post <a href="https://unit42.paloaltonetworks.com/new-macos-artifact-discove
 
 URL:
 https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/
-
-------------------------------------------------------------
-
-Title:
-Trust No Skill: Integrity Verification for AI Agent Supply Chains
-
-Published:
-Thu, 11 Jun 2026 10:00:24 +0000
-
-Summary:
-Protect enterprise AI agents from supply chain risks by auditing third-party skills for hidden vulnerabilities and multi-stage attack chains.
-The post <a href="https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/">Trust No Skill: Integrity Verification for AI Agent Supply Chains</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/
 
 ------------------------------------------------------------
 
