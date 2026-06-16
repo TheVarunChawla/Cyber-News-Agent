@@ -201,6 +201,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Inside the Modern SOC: The 72-Minute Race
+
+Published:
+Mon, 15 Jun 2026 23:00:19 +0000
+
+Summary:
+Attackers can move from access to exfiltration in 72 minutes. Learn how modern SOC teams close the speed gap with Unit 42's AI-driven automation, threat hunting, MDR and Managed XSIAM.
+The post <a href="https://unit42.paloaltonetworks.com/soc-72-minute-race/">Inside the Modern SOC: The 72-Minute Race</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/soc-72-minute-race/
+
+------------------------------------------------------------
+
+Title:
 Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered
 
 Published:
@@ -227,21 +242,6 @@ The post <a href="https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risk
 
 URL:
 https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/
-
-------------------------------------------------------------
-
-Title:
-Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility
-
-Published:
-Tue, 09 Jun 2026 22:00:21 +0000
-
-Summary:
-Unit 42 research examines attack scenarios targeting cloud logging services. Learn how to defend against log manipulation and defense evasion.
-The post <a href="https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/">Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/
 
 ------------------------------------------------------------
 
