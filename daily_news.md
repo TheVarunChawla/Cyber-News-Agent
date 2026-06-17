@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Google to use UK and EU user IP addresses for ad personalization
+
+Published:
+Wed, 17 Jun 2026 17:02:42 -0400
+
+Summary:
+From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices "wrong." [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/
+
+------------------------------------------------------------
+
+Title:
 FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.
 
 Published:
@@ -85,20 +99,6 @@ Account takeovers are rising as attackers bypass traditional defenses through ph
 
 URL:
 https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/
-
-------------------------------------------------------------
-
-Title:
-India's Telegram ban hit the UAE too. Here's how to get around it
-
-Published:
-Wed, 17 Jun 2026 09:12:45 -0400
-
-Summary:
-India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/
 
 ------------------------------------------------------------
 
