@@ -5,6 +5,24 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline
+
+Published:
+Wed, 17 Jun 2026 21:30:56 +0530
+
+Summary:
+A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials.
+
+Ordinary stuff, until one move near the end.
+
+Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a way back in that did not run through the C2 at all. When the Havoc server went offline the next
+
+URL:
+https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html
+
+------------------------------------------------------------
+
+Title:
 Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats
 
 Published:
@@ -33,22 +51,6 @@ The problem is no longer visibility. It's validation. Security teams must decide
 
 URL:
 https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html
-
-------------------------------------------------------------
-
-Title:
-The Top 10 Attack Surface Exposures in 2026
-
-Published:
-Wed, 17 Jun 2026 16:00:00 +0530
-
-Summary:
-Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentication — anything internet-facing is immediately at risk.
-
-With time-to-exploit now down to a
-
-URL:
-https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html
 
 ------------------------------------------------------------
 
@@ -103,6 +105,20 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
+Major critical infrastructure disruptions are inevitable, acting CISA chief says
+
+Published:
+Wed, 17 Jun 2026 12:35:00 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/VnCCflMt_DiptbTZu9wqZlTq7YwIxmlQXxe9e9XM4YI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uaWNrLWFuZGVyc2VuLWl0aV9abXJZSlFTLmpwZw==.webp" /></div></figure>In recent years, the U.S. government has reoriented its cybersecurity strategy away from prevention and toward resilience.
+
+URL:
+https://www.cybersecuritydive.com/news/cybersecurity-resilience-critical-infrastructure-cisa-nick-andersen/823166/
+
+------------------------------------------------------------
+
+Title:
 California water utility probes breach claim by Iran-linked actor
 
 Published:
@@ -127,20 +143,6 @@ More than half of cybersecurity professionals say they&rsquo;re thinking about l
 
 URL:
 https://www.cybersecuritydive.com/news/cybersecurity-workforce-ai-skills-shortage/823143/
-
-------------------------------------------------------------
-
-Title:
-AI adoption correlates with incident frequency, underscoring need for governance
-
-Published:
-Tue, 16 Jun 2026 11:11:39 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/LvXSxgqzHmB_aeLx7BRyucRJh9zZ6jNJ9J8o8C45bVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc4MjU3NTY2LmpwZw==.webp" /></div></figure>Even organizations that haven&rsquo;t been breached expect an AI-related incident in the near future, a new survey found.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-cybersecurity-incidents-governance-jamf/823026/
 
 ------------------------------------------------------------
 
