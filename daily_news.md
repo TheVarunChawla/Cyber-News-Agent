@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments
+
+Published:
+Wed, 17 Jun 2026 23:44:24 +0530
+
+Summary:
+An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research.
+
+The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, alongside GitHub and SourceForge projects promoted by fake accounts, a YouTube channel, and a
+
+URL:
+https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html
+
+------------------------------------------------------------
+
+Title:
+Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development
+
+Published:
+Wed, 17 Jun 2026 23:06:28 +0530
+
+Summary:
+Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet.
+
+The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw.
+
+"Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender
+
+URL:
+https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html
+
+------------------------------------------------------------
+
+Title:
 Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline
 
 Published:
@@ -19,38 +53,6 @@ Before his command-and-control server went dark, he installed OpenSSH and Tailsc
 
 URL:
 https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html
-
-------------------------------------------------------------
-
-Title:
-Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats
-
-Published:
-Wed, 17 Jun 2026 19:21:58 +0530
-
-Summary:
-Cybersecurity researchers have flagged a "coordinated malware campaign" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys.
-
-"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,"
-
-URL:
-https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html
-
-------------------------------------------------------------
-
-Title:
-Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization
-
-Published:
-Wed, 17 Jun 2026 17:28:00 +0530
-
-Summary:
-For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.
-
-The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. Increasingly, the challenge is not discovering potential risks. It is determining which risks
-
-URL:
-https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html
 
 ------------------------------------------------------------
 
@@ -623,47 +625,47 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-Microsoft Defender email security benchmarking: Key insights from one year of data
+Beyond the benchmark: Advancing security at AI speed
 
 Published:
-Mon, 15 Jun 2026 16:00:00 +0000
+Wed, 17 Jun 2026 19:30:00 +0000
 
 Summary:
-See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/">Microsoft Defender email security benchmarking: Key insights from one year of data</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/">Beyond the benchmark: Advancing security at AI speed </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/
+https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/
 
 ------------------------------------------------------------
 
 Title:
-Turn specs into evals for any agent with ASSERT
+​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report
 
 Published:
-Wed, 10 Jun 2026 16:00:00 +0000
+Wed, 17 Jun 2026 18:30:00 +0000
 
 Summary:
-Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents.
-The post <a href="https://commandline.microsoft.com/assert-written-intent-executable-evals/">Turn specs into evals for any agent with ASSERT</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft has been named a Leader in The Forrester Wave™: Extended Detection and Response Platforms, Q2 2026.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/">​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://commandline.microsoft.com/assert-written-intent-executable-evals/
+https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/
 
 ------------------------------------------------------------
 
 Title:
-Reconstructing AI activity in investigations
+AI is accelerating cyberattacks—here’s how to stay ahead
 
 Published:
-Tue, 09 Jun 2026 17:35:06 +0000
+Wed, 17 Jun 2026 17:00:00 +0000
 
 Summary:
-Learn how to investigate AI activity in Microsoft 365 Copilot and Azure AI services using a structured, telemetry-driven approach. This playbook helps security teams reconstruct events, assess data exposure, and detect potential threats faster.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/">Reconstructing AI activity in investigations </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster.
+The post <a href="https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592">AI is accelerating cyberattacks—here’s how to stay ahead</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/
+https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592
 
 ------------------------------------------------------------
 
