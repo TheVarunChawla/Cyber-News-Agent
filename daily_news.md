@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats
+
+Published:
+Wed, 17 Jun 2026 19:21:58 +0530
+
+Summary:
+Cybersecurity researchers have flagged a "coordinated malware campaign" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys.
+
+"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,"
+
+URL:
+https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html
+
+------------------------------------------------------------
+
+Title:
 Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization
 
 Published:
@@ -36,65 +52,49 @@ https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html
 
 ------------------------------------------------------------
 
-Title:
-Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats
-
-Published:
-Wed, 17 Jun 2026 15:08:46 +0530
-
-Summary:
-Cybersecurity researchers have flagged a "coordinated malware campaign" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys.
-
-"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,"
-
-URL:
-https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Microsoft confirms Office apps launch issues after June updates
+FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.
 
 Published:
-Wed, 17 Jun 2026 07:54:21 -0400
+Wed, 17 Jun 2026 11:12:57 -0400
 
 Summary:
-Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]
+A newly discovered data leak dubbed "FortiBleed" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/
+https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/
 
 ------------------------------------------------------------
 
 Title:
-CISA orders feds to patch max severity Joomla plugin flaw by Friday
+Why Account Takeovers Are Rising and How to Stop Them
 
 Published:
-Wed, 17 Jun 2026 06:09:24 -0400
+Wed, 17 Jun 2026 10:00:10 -0400
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]
+Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/
+https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft working on Defender patch for RoguePlanet zero-day
+India's Telegram ban hit the UAE too. Here's how to get around it
 
 Published:
-Wed, 17 Jun 2026 04:32:29 -0400
+Wed, 17 Jun 2026 09:12:45 -0400
 
 Summary:
-Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named "RoguePlanet," disclosed one week ago. [...]
+India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/
+https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/
 
 ------------------------------------------------------------
 
@@ -103,44 +103,44 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
+California water utility probes breach claim by Iran-linked actor
+
+Published:
+Wed, 17 Jun 2026 11:00:54 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/3GDORzjjJwG2KKdiiyjiBWB7336b8el9ofhXMjeHmhE/g:nowe:29:2/c:930:525/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzOTkwMjA4LmpwZw==.webp" /></div></figure>The group Handala said it attacked one of the nation&rsquo;s largest water companies.
+
+URL:
+https://www.cybersecuritydive.com/news/california-water-utility-breach-iran-hacker/823148/
+
+------------------------------------------------------------
+
+Title:
+AI isn’t solving cybersecurity workforce woes
+
+Published:
+Wed, 17 Jun 2026 10:52:28 -0400
+
+Summary:
+More than half of cybersecurity professionals say they&rsquo;re thinking about leaving the industry, according to a new report.
+
+URL:
+https://www.cybersecuritydive.com/news/cybersecurity-workforce-ai-skills-shortage/823143/
+
+------------------------------------------------------------
+
+Title:
 AI adoption correlates with incident frequency, underscoring need for governance
 
 Published:
 Tue, 16 Jun 2026 11:11:39 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/LvXSxgqzHmB_aeLx7BRyucRJh9zZ6jNJ9J8o8C45bVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc4MjU3NTY2LmpwZw==.webp" /></div></figure>Even organizations that haven&rsquo;t yet been breached expect an AI-related incident in the near future, a new survey found.
+<figure><div><img src="https://imgproxy.divecdn.com/LvXSxgqzHmB_aeLx7BRyucRJh9zZ6jNJ9J8o8C45bVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc4MjU3NTY2LmpwZw==.webp" /></div></figure>Even organizations that haven&rsquo;t been breached expect an AI-related incident in the near future, a new survey found.
 
 URL:
 https://www.cybersecuritydive.com/news/ai-cybersecurity-incidents-governance-jamf/823026/
-
-------------------------------------------------------------
-
-Title:
-China-nexus group linked to multiyear campaign targeting US, Canadian medical research
-
-Published:
-Mon, 15 Jun 2026 11:05:15 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ILbx_mJfv4cL0_0x-CTneAMzQCxl-h0Nnv7DXG2g_AY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA2MDkzODY0LmpwZw==.webp" /></div></figure>A report from Google links a sophisticated espionage effort targeting information about viruses, AI and military information.
-
-URL:
-https://www.cybersecuritydive.com/news/china-nexus-multiyear-hacking-us-canadian-medical-research/822912/
-
-------------------------------------------------------------
-
-Title:
-Cybersecurity experts blast US government for restricting Anthropic’s AI models
-
-Published:
-Mon, 15 Jun 2026 11:00:17 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/zzUD2pxrwOgszGCsVh19jYuWdweWY1hxPnvNYPgsnd8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczOTI5LmpwZw==.webp" /></div></figure>Chief information security officers and prominent researchers called a recent export-control ban &ldquo;dangerous.&rdquo;
-
-URL:
-https://www.cybersecuritydive.com/news/anthropic-us-government-export-ban-mythos-fable/822909/
 
 ------------------------------------------------------------
 
