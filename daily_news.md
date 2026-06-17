@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution
+
+Published:
+Wed, 17 Jun 2026 11:20:46 +0530
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary
+
+URL:
+https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html
+
+------------------------------------------------------------
+
+Title:
 Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting
 
 Published:
@@ -38,25 +54,23 @@ https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html
 
 ------------------------------------------------------------
 
-Title:
-New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds
-
-Published:
-Tue, 16 Jun 2026 18:40:17 +0530
-
-Summary:
-Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands.
-
-Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play
-
-URL:
-https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Kodak confirms data breach claimed by ShinyHunters extortion gang
+
+Published:
+Wed, 17 Jun 2026 03:07:56 -0400
+
+Summary:
+Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/
+
+------------------------------------------------------------
 
 Title:
 Malicious JetBrains Marketplace plugins steal AI API keys from developers
@@ -83,20 +97,6 @@ A new Android banking trojan named Rokarolla is targeting 217 banking and crypto
 
 URL:
 https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/
-
-------------------------------------------------------------
-
-Title:
-Steam Workshop abused to spread malware via Wallpaper Engine app
-
-Published:
-Tue, 16 Jun 2026 14:27:55 -0400
-
-Summary:
-Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/
 
 ------------------------------------------------------------
 
