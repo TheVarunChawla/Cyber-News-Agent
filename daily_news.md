@@ -5,52 +5,50 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution
+Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization
 
 Published:
-Wed, 17 Jun 2026 11:20:46 +0530
+Wed, 17 Jun 2026 17:28:00 +0530
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.
 
-The vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary
+The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. Increasingly, the challenge is not discovering potential risks. It is determining which risks
 
 URL:
-https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html
+https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html
 
 ------------------------------------------------------------
 
 Title:
-Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting
+The Top 10 Attack Surface Exposures in 2026
 
 Published:
-Wed, 17 Jun 2026 00:35:41 +0530
+Wed, 17 Jun 2026 16:00:00 +0530
 
 Summary:
-A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure.
+Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentication — anything internet-facing is immediately at risk.
 
-Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique "Pickle in the Middle" and said it saw no exploitation in the wild.
+With time-to-exploit now down to a
 
 URL:
-https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html
+https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html
 
 ------------------------------------------------------------
 
 Title:
-ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures
+Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats
 
 Published:
-Tue, 16 Jun 2026 23:11:28 +0530
+Wed, 17 Jun 2026 15:08:46 +0530
 
 Summary:
-Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively.
+Cybersecurity researchers have flagged a "coordinated malware campaign" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys.
 
-Attacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations.
-
-"Earlier BabaDeda activity was known for
+"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,"
 
 URL:
-https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html
+https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html
 
 ------------------------------------------------------------
 
@@ -59,44 +57,44 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Kodak confirms data breach claimed by ShinyHunters extortion gang
+Microsoft confirms Office apps launch issues after June updates
 
 Published:
-Wed, 17 Jun 2026 03:07:56 -0400
+Wed, 17 Jun 2026 07:54:21 -0400
 
 Summary:
-Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]
+Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/
 
 ------------------------------------------------------------
 
 Title:
-Malicious JetBrains Marketplace plugins steal AI API keys from developers
+CISA orders feds to patch max severity Joomla plugin flaw by Friday
 
 Published:
-Tue, 16 Jun 2026 17:54:50 -0400
+Wed, 17 Jun 2026 06:09:24 -0400
 
 Summary:
-At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/
+https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/
 
 ------------------------------------------------------------
 
 Title:
-New Rokarolla Android malware targets 217 banking, crypto apps
+Microsoft working on Defender patch for RoguePlanet zero-day
 
 Published:
-Tue, 16 Jun 2026 16:04:11 -0400
+Wed, 17 Jun 2026 04:32:29 -0400
 
 Summary:
-A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]
+Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named "RoguePlanet," disclosed one week ago. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/
 
 ------------------------------------------------------------
 
