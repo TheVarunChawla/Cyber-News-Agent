@@ -64,6 +64,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Gentlemen ransomware uses multiple EDR killers to disable defenses
+
+Published:
+Thu, 18 Jun 2026 18:31:52 -0400
+
+Summary:
+The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/
+
+------------------------------------------------------------
+
+Title:
 Nintendo confirms data stolen in WebMD subsidiary cyberattack
 
 Published:
@@ -88,20 +102,6 @@ Threat actors targeting cryptocurrency wallets have been distributing clipboard-
 
 URL:
 https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/
-
-------------------------------------------------------------
-
-Title:
-Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks
-
-Published:
-Thu, 18 Jun 2026 10:19:50 -0400
-
-Summary:
-Market intelligence platform Klue suffered a OAuth breach that enabled the "Icarus" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/
 
 ------------------------------------------------------------
 
