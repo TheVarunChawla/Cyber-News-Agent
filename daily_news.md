@@ -628,6 +628,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI
+
+Published:
+Thu, 18 Jun 2026 19:36:08 +0000
+
+Summary:
+New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/">New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/
+
+------------------------------------------------------------
+
+Title:
 From package to postinstall payload: Inside the Mastra npm supply chain compromise
 
 Published:
@@ -654,21 +669,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/crypt
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/
-
-------------------------------------------------------------
-
-Title:
-Beyond the benchmark: Advancing security at AI speed
-
-Published:
-Wed, 17 Jun 2026 19:30:00 +0000
-
-Summary:
-Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/">Beyond the benchmark: Advancing security at AI speed </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/
 
 ------------------------------------------------------------
 
