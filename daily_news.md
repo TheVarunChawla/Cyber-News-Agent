@@ -625,6 +625,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+From package to postinstall payload: Inside the Mastra npm supply chain compromise
+
+Published:
+Thu, 18 Jun 2026 03:43:04 +0000
+
+Summary:
+A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/">From package to postinstall payload: Inside the Mastra npm supply chain compromise</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/
+
+------------------------------------------------------------
+
+Title:
 Crypto Clipper uses Tor and worm-like propagation for persistence and control
 
 Published:
@@ -651,21 +666,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/beyon
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/
-
-------------------------------------------------------------
-
-Title:
-​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report
-
-Published:
-Wed, 17 Jun 2026 18:30:00 +0000
-
-Summary:
-Microsoft has been named a Leader in The Forrester Wave™: Extended Detection and Response Platforms, Q2 2026.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/">​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/
 
 ------------------------------------------------------------
 
