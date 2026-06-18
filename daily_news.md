@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
+
+Published:
+Thu, 18 Jun 2026 17:28:00 +0530
+
+Summary:
+If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?
+
+For most enterprises, the answer is a simple no.
+
+The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (
+
+URL:
+https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html
+
+------------------------------------------------------------
+
+Title:
+The Scripts on Your Checkout Page Are Now a PCI DSS Problem
+
+Published:
+Thu, 18 Jun 2026 16:30:00 +0530
+
+Summary:
+An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here →
+
+When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned
+
+URL:
+https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html
+
+------------------------------------------------------------
+
+Title:
 Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments
 
 Published:
@@ -20,85 +54,49 @@ https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html
 
 ------------------------------------------------------------
 
-Title:
-Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development
-
-Published:
-Wed, 17 Jun 2026 23:06:28 +0530
-
-Summary:
-Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet.
-
-The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw.
-
-"Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender
-
-URL:
-https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html
-
-------------------------------------------------------------
-
-Title:
-Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline
-
-Published:
-Wed, 17 Jun 2026 21:30:56 +0530
-
-Summary:
-A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials.
-
-Ordinary stuff, until one move near the end.
-
-Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a way back in that did not run through the C2 at all. When the Havoc server went offline the next
-
-URL:
-https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Leak confirms OpenAI is testing a ChatGPT for Science subscription
+Apple fixes Beats Studio Buds flaw that let hackers spy on conversations
 
 Published:
-Wed, 17 Jun 2026 21:30:08 -0400
+Thu, 18 Jun 2026 08:23:58 -0400
 
 Summary:
-OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]
+Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/
+https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/
 
 ------------------------------------------------------------
 
 Title:
-Google to use UK and EU user IP addresses for ad personalization
+Telegram admits it couldn't police exam-leak channels, India tells court
 
 Published:
-Wed, 17 Jun 2026 17:02:42 -0400
+Thu, 18 Jun 2026 08:18:49 -0400
 
 Summary:
-From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices "wrong." [...]
+India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform admitted it could not proactively detect the channels selling leaked exam papers. Telegram says it cooperated and the ban is unlawful. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/
+https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/
 
 ------------------------------------------------------------
 
 Title:
-FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.
+F5 issues out-of-band patches for critical NGINX vulnerabilities
 
 Published:
-Wed, 17 Jun 2026 11:12:57 -0400
+Thu, 18 Jun 2026 07:33:00 -0400
 
 Summary:
-A newly discovered data leak dubbed "FortiBleed" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]
+Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/
+https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/
 
 ------------------------------------------------------------
 
@@ -252,6 +250,20 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
+Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model
+
+Published:
+Thu, 18 Jun 2026 10:00:05 GMT
+
+Summary:
+Cisco Talos detailed a new approach to reverse engineering that pairs local AI agents with traditional analysis tools like the VB6 disassembler vbdec. Instead of awkwardly bolting AI onto the software, vbdec exposes its parsed data through a live COM interface.
+
+URL:
+https://blog.talosintelligence.com/scripting-the-disassembler/
+
+------------------------------------------------------------
+
+Title:
 A tale of two eras
 
 Published:
@@ -276,20 +288,6 @@ Microsoft Patch Tuesday details for June 2026.
 
 URL:
 https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/
-
-------------------------------------------------------------
-
-Title:
-Reporting from Vegas: Networking, AI, and good boys
-
-Published:
-Thu, 04 Jun 2026 18:00:59 GMT
-
-Summary:
-Joe’s on-the-ground report from Cisco Live U.S. is here, complete with therapy dog pictures and tips on handling conference overstimulation.
-
-URL:
-https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/
 
 ------------------------------------------------------------
 
