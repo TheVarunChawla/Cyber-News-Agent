@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Leak confirms OpenAI is testing a ChatGPT for Science subscription
+
+Published:
+Wed, 17 Jun 2026 21:30:08 -0400
+
+Summary:
+OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/
+
+------------------------------------------------------------
+
+Title:
 Google to use UK and EU user IP addresses for ad personalization
 
 Published:
@@ -85,20 +99,6 @@ A newly discovered data leak dubbed "FortiBleed" has exposed what appears to be 
 
 URL:
 https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/
-
-------------------------------------------------------------
-
-Title:
-Why Account Takeovers Are Rising and How to Stop Them
-
-Published:
-Wed, 17 Jun 2026 10:00:10 -0400
-
-Summary:
-Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/
 
 ------------------------------------------------------------
 
@@ -625,6 +625,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Crypto Clipper uses Tor and worm-like propagation for persistence and control
+
+Published:
+Wed, 17 Jun 2026 23:11:43 +0000
+
+Summary:
+Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/">Crypto Clipper uses Tor and worm-like propagation for persistence and control</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/
+
+------------------------------------------------------------
+
+Title:
 Beyond the benchmark: Advancing security at AI speed
 
 Published:
@@ -651,21 +666,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/forre
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/
-
-------------------------------------------------------------
-
-Title:
-AI is accelerating cyberattacks—here’s how to stay ahead
-
-Published:
-Wed, 17 Jun 2026 17:00:00 +0000
-
-Summary:
-See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster.
-The post <a href="https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592">AI is accelerating cyberattacks—here’s how to stay ahead</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592
 
 ------------------------------------------------------------
 
