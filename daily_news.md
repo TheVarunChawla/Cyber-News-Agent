@@ -8,7 +8,7 @@ Title:
 Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
 
 Published:
-Thu, 18 Jun 2026 17:28:00 +0530
+Thu, 18 Jun 2026 21:03:49 +0530
 
 Summary:
 If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?
@@ -23,34 +23,36 @@ https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html
 ------------------------------------------------------------
 
 Title:
-The Scripts on Your Checkout Page Are Now a PCI DSS Problem
+ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories
 
 Published:
-Thu, 18 Jun 2026 16:30:00 +0530
+Thu, 18 Jun 2026 20:57:54 +0530
 
 Summary:
-An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here →
+The internet did not break this week. It got used exactly as designed, which is worse.
 
-When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned
+Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers treated them like open shells.
+
+Add exposed edge gear, poisoned packages, cash courier scams,
 
 URL:
-https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html
+https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html
 
 ------------------------------------------------------------
 
 Title:
-Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments
+Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2
 
 Published:
-Wed, 17 Jun 2026 23:44:24 +0530
+Thu, 18 Jun 2026 20:00:42 +0530
 
 Summary:
-An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research.
+Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.
 
-The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, alongside GitHub and SourceForge projects promoted by fake accounts, a YouTube channel, and a
+"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server," the Microsoft Defender Security Research Team said in an analysis published Tuesday. "It
 
 URL:
-https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html
+https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html
 
 ------------------------------------------------------------
 
@@ -59,50 +61,64 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Apple fixes Beats Studio Buds flaw that let hackers spy on conversations
+Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks
 
 Published:
-Thu, 18 Jun 2026 08:23:58 -0400
+Thu, 18 Jun 2026 10:19:50 -0400
 
 Summary:
-Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]
+Market intelligence platform Klue suffered a OAuth breach that enabled the "Icarus" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/
+https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Telegram admits it couldn't police exam-leak channels, India tells court
+5 reasons Microsoft 365 backup isn’t enough for business data protection
 
 Published:
-Thu, 18 Jun 2026 08:18:49 -0400
+Thu, 18 Jun 2026 09:48:56 -0400
 
 Summary:
-India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform admitted it could not proactively detect the channels selling leaked exam papers. Telegram says it cooperated and the ban is unlawful. [...]
+Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protection. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/
+https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/
 
 ------------------------------------------------------------
 
 Title:
-F5 issues out-of-band patches for critical NGINX vulnerabilities
+Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp
 
 Published:
-Thu, 18 Jun 2026 07:33:00 -0400
+Thu, 18 Jun 2026 09:25:47 -0400
 
 Summary:
-Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]
+International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/
+https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Nation-state rivals linked to majority of consequential attacks targeting critical UK sites
+
+Published:
+Thu, 18 Jun 2026 08:20:23 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/3tytE4F2Hg2jaguKL8Tm123QQLI2Ge8VON9kfxpfMic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BQkdfSlNfYWRqdXN0ZWRfLV8xLmpwZWc=.webp" /></div></figure>The nation&rsquo;s top cybersecurity official warned that business leaders, authorities need to rethink how they protect critical infrastructure from state-sponsored adversaries.
+
+URL:
+https://www.cybersecuritydive.com/news/nation-state-rivals-linked-to-majority-of-consequential-attacks-targeting-c/823242/
+
+------------------------------------------------------------
 
 Title:
 Major critical infrastructure disruptions are inevitable, acting CISA chief says
@@ -129,20 +145,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/california-water-utility-breach-iran-hacker/823148/
-
-------------------------------------------------------------
-
-Title:
-AI isn’t solving cybersecurity workforce woes
-
-Published:
-Wed, 17 Jun 2026 10:52:28 -0400
-
-Summary:
-More than half of cybersecurity professionals say they&rsquo;re thinking about leaving the industry, according to a new report.
-
-URL:
-https://www.cybersecuritydive.com/news/cybersecurity-workforce-ai-skills-shortage/823143/
 
 ------------------------------------------------------------
 
