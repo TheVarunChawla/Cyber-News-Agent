@@ -5,6 +5,25 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution
+
+Published:
+Thu, 18 Jun 2026 23:02:14 +0530
+
+Summary:
+F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module that could be triggered by a remote unauthenticated attacker when NGINX Open Source is
+
+URL:
+https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html
+
+------------------------------------------------------------
+
+Title:
 Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
 
 Published:
@@ -40,25 +59,37 @@ https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html
 
 ------------------------------------------------------------
 
-Title:
-Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2
-
-Published:
-Thu, 18 Jun 2026 20:00:42 +0530
-
-Summary:
-Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.
-
-"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server," the Microsoft Defender Security Research Team said in an analysis published Tuesday. "It
-
-URL:
-https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Nintendo confirms data stolen in WebMD subsidiary cyberattack
+
+Published:
+Thu, 18 Jun 2026 14:31:36 -0400
+
+Summary:
+Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/
+
+------------------------------------------------------------
+
+Title:
+USB worm spreads crypto-stealing malware via Windows shortcut files
+
+Published:
+Thu, 18 Jun 2026 12:20:06 -0400
+
+Summary:
+Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/
+
+------------------------------------------------------------
 
 Title:
 Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks
@@ -71,34 +102,6 @@ Market intelligence platform Klue suffered a OAuth breach that enabled the "Icar
 
 URL:
 https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/
-
-------------------------------------------------------------
-
-Title:
-5 reasons Microsoft 365 backup isn’t enough for business data protection
-
-Published:
-Thu, 18 Jun 2026 09:48:56 -0400
-
-Summary:
-Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protection. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/
-
-------------------------------------------------------------
-
-Title:
-Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp
-
-Published:
-Thu, 18 Jun 2026 09:25:47 -0400
-
-Summary:
-International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/
 
 ------------------------------------------------------------
 
@@ -252,6 +255,20 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
+Close Encounters of the Human Kind
+
+Published:
+Thu, 18 Jun 2026 18:00:24 GMT
+
+Summary:
+In the latest Threat Source, Hazel channels her inner Spielberg to explore why humans are delightfully irrational, reminding us that while security best practices are simple in theory, they’re a lot harder to pull off when you’re busy dealing with real life.
+
+URL:
+https://blog.talosintelligence.com/close-encounters-of-the-human-kind/
+
+------------------------------------------------------------
+
+Title:
 Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model
 
 Published:
@@ -276,20 +293,6 @@ In this week’s newsletter, Amy reminisces on the tech toys of their childhood,
 
 URL:
 https://blog.talosintelligence.com/a-tale-of-two-eras/
-
-------------------------------------------------------------
-
-Title:
-Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities
-
-Published:
-Tue, 09 Jun 2026 21:21:00 GMT
-
-Summary:
-Microsoft Patch Tuesday details for June 2026.
-
-URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/
 
 ------------------------------------------------------------
 
