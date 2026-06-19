@@ -63,6 +63,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Klue OAuth breach victim list grows as Icarus hackers claim attack
+
+Published:
+Fri, 19 Jun 2026 18:31:04 -0400
+
+Summary:
+Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new "Icarus" extortion group publicly claims the attack. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/
+
+------------------------------------------------------------
+
+Title:
 Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin
 
 Published:
@@ -87,20 +101,6 @@ The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its li
 
 URL:
 https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/
-
-------------------------------------------------------------
-
-Title:
-Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way
-
-Published:
-Fri, 19 Jun 2026 09:10:19 -0400
-
-Summary:
-AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/
 
 ------------------------------------------------------------
 
