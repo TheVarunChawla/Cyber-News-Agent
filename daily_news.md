@@ -5,6 +5,42 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Forget Data Leakage: Shadow AI's Real Threat Is Access Control
+
+Published:
+Fri, 19 Jun 2026 16:00:00 +0530
+
+Summary:
+The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time.
+
+It doesn't fit the problem anymore.
+
+Shadow AI has shifted from a data leakage concern to an access control problem. The threat isn't
+
+URL:
+https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html
+
+------------------------------------------------------------
+
+Title:
+Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data
+
+Published:
+Fri, 19 Jun 2026 14:33:57 +0530
+
+Summary:
+Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026.
+
+To that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week.
+
+"Salesforce took
+
+URL:
+https://thehackernews.com/2026/06/salesforce-disables-klue-app.html
+
+------------------------------------------------------------
+
+Title:
 Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone
 
 Published:
@@ -20,86 +56,49 @@ https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html
 
 ------------------------------------------------------------
 
-Title:
-F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution
-
-Published:
-Thu, 18 Jun 2026 23:02:14 +0530
-
-Summary:
-F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems.
-
-The vulnerabilities are listed below -
-
-
-  CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module that could be triggered by a remote unauthenticated attacker when NGINX Open Source is
-
-URL:
-https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html
-
-------------------------------------------------------------
-
-Title:
-Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
-
-Published:
-Thu, 18 Jun 2026 21:03:49 +0530
-
-Summary:
-If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?
-
-For most enterprises, the answer is a simple no.
-
-The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (
-
-URL:
-https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-CISA warns Fortinet users to secure devices after FortiBleed leak
+Microsoft: June 2026 Windows updates break Recycle Bin prompts
 
 Published:
-Fri, 19 Jun 2026 02:47:55 -0400
+Fri, 19 Jun 2026 07:32:34 -0400
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed "FortiBleed." [...]
+Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/
 
 ------------------------------------------------------------
 
 Title:
-Gentlemen ransomware uses multiple EDR killers to disable defenses
+CISA: Splunk Enterprise flaw actively exploited, patch by Sunday
 
 Published:
-Thu, 18 Jun 2026 18:31:52 -0400
+Fri, 19 Jun 2026 06:39:58 -0400
 
 Summary:
-The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]
+CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/
+https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/
 
 ------------------------------------------------------------
 
 Title:
-Nintendo confirms data stolen in WebMD subsidiary cyberattack
+NY man charged after harassing college student with AI-generated nudes
 
 Published:
-Thu, 18 Jun 2026 14:31:36 -0400
+Fri, 19 Jun 2026 04:44:08 -0400
 
 Summary:
-Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]
+A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/
+https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/
 
 ------------------------------------------------------------
 
