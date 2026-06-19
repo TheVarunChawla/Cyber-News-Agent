@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone
+
+Published:
+Fri, 19 Jun 2026 12:06:09 +0530
+
+Summary:
+Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users.
+
+The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth audio SDK that makes it possible to pair a Bluetooth audio device without user consent.
+
+URL:
+https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html
+
+------------------------------------------------------------
+
+Title:
 F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution
 
 Published:
@@ -41,27 +57,23 @@ https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html
 
 ------------------------------------------------------------
 
-Title:
-ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories
-
-Published:
-Thu, 18 Jun 2026 20:57:54 +0530
-
-Summary:
-The internet did not break this week. It got used exactly as designed, which is worse.
-
-Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers treated them like open shells.
-
-Add exposed edge gear, poisoned packages, cash courier scams,
-
-URL:
-https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+CISA warns Fortinet users to secure devices after FortiBleed leak
+
+Published:
+Fri, 19 Jun 2026 02:47:55 -0400
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed "FortiBleed." [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/
+
+------------------------------------------------------------
 
 Title:
 Gentlemen ransomware uses multiple EDR killers to disable defenses
@@ -88,20 +100,6 @@ Nintendo of America has confirmed to BleepingComputer that threat actors stole s
 
 URL:
 https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/
-
-------------------------------------------------------------
-
-Title:
-USB worm spreads crypto-stealing malware via Windows shortcut files
-
-Published:
-Thu, 18 Jun 2026 12:20:06 -0400
-
-Summary:
-Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/
 
 ------------------------------------------------------------
 
@@ -586,6 +584,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+AutoJack: How a single page can RCE the host running your AI agent
+
+Published:
+Fri, 19 Jun 2026 00:17:54 +0000
+
+Summary:
+AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in localhost, missing authentication, and unsafe parameter handling, attackers can trigger arbitrary process execution through AutoGen Studio’s MCP WebSocket. The research highlights a broader pattern - when agents can browse untrusted content and access local services, traditional boundaries like localhost are no longer secure.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/">AutoJack: How a single page can RCE the host running your AI agent </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/
+
+------------------------------------------------------------
+
+Title:
 New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI
 
 Published:
@@ -612,21 +625,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/posti
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/
-
-------------------------------------------------------------
-
-Title:
-Crypto Clipper uses Tor and worm-like propagation for persistence and control
-
-Published:
-Wed, 17 Jun 2026 23:11:43 +0000
-
-Summary:
-Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/">Crypto Clipper uses Tor and worm-like propagation for persistence and control</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/
 
 ------------------------------------------------------------
 
