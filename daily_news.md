@@ -159,48 +159,6 @@ SOURCE : Trend Micro
 SOURCE : CISA
 ============================================================
 
-Title:
-CISA Issues New Directive Improving How Federal Agencies Prioritize the Mitigation of Cyber Vulnerabilities
-
-Published:
-Wed, 10 Jun 26 12:00:00 +0000
-
-Summary:
-
-
-URL:
-https://www.cisa.gov/news-events/news/cisa-issues-new-directive-improving-how-federal-agencies-prioritize-mitigation-cyber-vulnerabilities
-
-------------------------------------------------------------
-
-Title:
-CISA Announces Winners of the 2026 President’s Cup Cybersecurity Competition
-
-Published:
-Tue, 09 Jun 26 12:00:00 +0000
-
-Summary:
-
-
-URL:
-https://www.cisa.gov/news-events/news/cisa-announces-winners-2026-presidents-cup-cybersecurity-competition
-
-------------------------------------------------------------
-
-Title:
-CISA Urges Stronger Security for Automatic Tank Gauge Systems
-
-Published:
-Tue, 02 Jun 26 12:00:00 +0000
-
-Summary:
-
-
-URL:
-https://www.cisa.gov/news-events/news/cisa-urges-stronger-security-automatic-tank-gauge-systems
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
