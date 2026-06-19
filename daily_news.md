@@ -5,6 +5,42 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution
+
+Published:
+Fri, 19 Jun 2026 21:00:47 +0530
+
+Summary:
+Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.
+
+Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host.
+
+No credentials, no sign-in screen, and no further user interaction once
+
+URL:
+https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html
+
+------------------------------------------------------------
+
+Title:
+Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites
+
+Published:
+Fri, 19 Jun 2026 20:37:54 +0530
+
+Summary:
+Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infected WordPress websites.
+
+"With these actions we deprive cybercriminals of access to infected computer systems," Maikel Rollman of the Netherlands National High Tech Crime Unit said.
+
+"This prevents
+
+URL:
+https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html
+
+------------------------------------------------------------
+
+Title:
 CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices
 
 Published:
@@ -20,43 +56,23 @@ https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html
 
 ------------------------------------------------------------
 
-Title:
-From Assistive to Agentic: The AI Shift That's Redefining Threat Management
-
-Published:
-Fri, 19 Jun 2026 17:28:00 +0530
-
-Summary:
-Introduction
-
-The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead
-
-URL:
-https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html
-
-------------------------------------------------------------
-
-Title:
-Forget Data Leakage: Shadow AI's Real Threat Is Access Control
-
-Published:
-Fri, 19 Jun 2026 16:00:00 +0530
-
-Summary:
-The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time.
-
-It doesn't fit the problem anymore.
-
-Shadow AI has shifted from a data leakage concern to an access control problem. The threat isn't
-
-URL:
-https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Texas govt data breach exposes over 3 million driver’s licenses
+
+Published:
+Fri, 19 Jun 2026 12:12:41 -0400
+
+Summary:
+The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/
+
+------------------------------------------------------------
 
 Title:
 Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way
@@ -69,20 +85,6 @@ AI agents can access data, trigger workflows, deploy code, and interact with cri
 
 URL:
 https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/
-
-------------------------------------------------------------
-
-Title:
-Microsoft: June 2026 Windows updates break Recycle Bin prompts
-
-Published:
-Fri, 19 Jun 2026 07:32:34 -0400
-
-Summary:
-Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/
 
 ------------------------------------------------------------
 
