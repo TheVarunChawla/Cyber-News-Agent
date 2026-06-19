@@ -615,14 +615,14 @@ https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-sho
 ------------------------------------------------------------
 
 Title:
-From package to postinstall payload: Inside the Mastra npm supply chain compromise
+From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet
 
 Published:
 Thu, 18 Jun 2026 03:43:04 +0000
 
 Summary:
 A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/">From package to postinstall payload: Inside the Mastra npm supply chain compromise</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/">From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/
