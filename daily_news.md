@@ -63,6 +63,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin
+
+Published:
+Fri, 19 Jun 2026 16:25:02 -0400
+
+Summary:
+Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/
+
+------------------------------------------------------------
+
+Title:
 Texas govt data breach exposes over 3 million driver’s licenses
 
 Published:
