@@ -5,6 +5,42 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain
+
+Published:
+Sat, 20 Jun 2026 00:07:41 +0530
+
+Summary:
+Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.
+
+That code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use.
+
+This is not a remote attack. It requires
+
+URL:
+https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html
+
+------------------------------------------------------------
+
+Title:
+The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes
+
+Published:
+Sat, 20 Jun 2026 00:03:07 +0530
+
+Summary:
+The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.
+
+This mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller.
+
+"They also incorporate third-party or
+
+URL:
+https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html
+
+------------------------------------------------------------
+
+Title:
 AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution
 
 Published:
@@ -19,40 +55,6 @@ No credentials, no sign-in screen, and no further user interaction once
 
 URL:
 https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html
-
-------------------------------------------------------------
-
-Title:
-Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites
-
-Published:
-Fri, 19 Jun 2026 20:37:54 +0530
-
-Summary:
-Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infected WordPress websites.
-
-"With these actions we deprive cybercriminals of access to infected computer systems," Maikel Rollman of the Netherlands National High Tech Crime Unit said.
-
-"This prevents
-
-URL:
-https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html
-
-------------------------------------------------------------
-
-Title:
-CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices
-
-Published:
-Fri, 19 Jun 2026 19:30:21 +0530
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices.
-
-The sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at
-
-URL:
-https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html
 
 ------------------------------------------------------------
 
