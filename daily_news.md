@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices
+
+Published:
+Fri, 19 Jun 2026 19:30:21 +0530
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices.
+
+The sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at
+
+URL:
+https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html
+
+------------------------------------------------------------
+
+Title:
+From Assistive to Agentic: The AI Shift That's Redefining Threat Management
+
+Published:
+Fri, 19 Jun 2026 17:28:00 +0530
+
+Summary:
+Introduction
+
+The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead
+
+URL:
+https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html
+
+------------------------------------------------------------
+
+Title:
 Forget Data Leakage: Shadow AI's Real Threat Is Access Control
 
 Published:
@@ -22,43 +54,23 @@ https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html
 
 ------------------------------------------------------------
 
-Title:
-Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data
-
-Published:
-Fri, 19 Jun 2026 14:33:57 +0530
-
-Summary:
-Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026.
-
-To that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week.
-
-"Salesforce took
-
-URL:
-https://thehackernews.com/2026/06/salesforce-disables-klue-app.html
-
-------------------------------------------------------------
-
-Title:
-Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone
-
-Published:
-Fri, 19 Jun 2026 12:06:09 +0530
-
-Summary:
-Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users.
-
-The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth audio SDK that makes it possible to pair a Bluetooth audio device without user consent.
-
-URL:
-https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way
+
+Published:
+Fri, 19 Jun 2026 09:10:19 -0400
+
+Summary:
+AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/
+
+------------------------------------------------------------
 
 Title:
 Microsoft: June 2026 Windows updates break Recycle Bin prompts
@@ -71,34 +83,6 @@ Microsoft has confirmed a confusing Windows bug that causes different filenames 
 
 URL:
 https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/
-
-------------------------------------------------------------
-
-Title:
-CISA: Splunk Enterprise flaw actively exploited, patch by Sunday
-
-Published:
-Fri, 19 Jun 2026 06:39:58 -0400
-
-Summary:
-CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/
-
-------------------------------------------------------------
-
-Title:
-NY man charged after harassing college student with AI-generated nudes
-
-Published:
-Fri, 19 Jun 2026 04:44:08 -0400
-
-Summary:
-A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/
 
 ------------------------------------------------------------
 
