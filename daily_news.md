@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Microsoft links Mastra AI supply chain attack to North Korean hackers
+
+Published:
+Sat, 20 Jun 2026 10:09:19 -0400
+
+Summary:
+Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/
+
+------------------------------------------------------------
+
+Title:
 Klue OAuth breach victim list grows as Icarus hackers claim attack
 
 Published:
@@ -85,20 +99,6 @@ Threat actors are exploiting an unauthenticated information disclosure vulnerabi
 
 URL:
 https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/
-
-------------------------------------------------------------
-
-Title:
-Texas govt data breach exposes over 3 million driver’s licenses
-
-Published:
-Fri, 19 Jun 2026 12:12:41 -0400
-
-Summary:
-The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/
 
 ------------------------------------------------------------
 
