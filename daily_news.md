@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys
+
+Published:
+Sat, 20 Jun 2026 15:26:04 +0530
+
+Summary:
+Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.
+
+The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens
+
+URL:
+https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html
+
+------------------------------------------------------------
+
+Title:
 Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain
 
 Published:
@@ -37,24 +53,6 @@ This mature portfolio of EDR-terminating tools is centered around a framework th
 
 URL:
 https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html
-
-------------------------------------------------------------
-
-Title:
-AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution
-
-Published:
-Fri, 19 Jun 2026 21:00:47 +0530
-
-Summary:
-Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.
-
-Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host.
-
-No credentials, no sign-in screen, and no further user interaction once
-
-URL:
-https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html
 
 ------------------------------------------------------------
 
