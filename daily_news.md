@@ -163,6 +163,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Threat Brief: Mitigating Large-Scale Credential Attacks
+
+Published:
+Sat, 20 Jun 2026 02:05:33 +0000
+
+Summary:
+We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. 
+The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-attacks/">Threat Brief: Mitigating Large-Scale Credential Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
+
+------------------------------------------------------------
+
+Title:
 Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE
 
 Published:
@@ -189,21 +204,6 @@ The post <a href="https://unit42.paloaltonetworks.com/soc-72-minute-race/">Insid
 
 URL:
 https://unit42.paloaltonetworks.com/soc-72-minute-race/
-
-------------------------------------------------------------
-
-Title:
-Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered
-
-Published:
-Fri, 12 Jun 2026 22:00:14 +0000
-
-Summary:
-Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks user menu selections across the operating system. Learn more here. 
-The post <a href="https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/">Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/
 
 ------------------------------------------------------------
 
