@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+New Prinz Eugen ransomware prioritizes recent files for encryption
+
+Published:
+Sat, 20 Jun 2026 11:23:46 -0400
+
+Summary:
+A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/
+
+------------------------------------------------------------
+
+Title:
 Microsoft links Mastra AI supply chain attack to North Korean hackers
 
 Published:
@@ -85,20 +99,6 @@ Market intelligence platform Klue has publicly confirmed a recent security incid
 
 URL:
 https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/
-
-------------------------------------------------------------
-
-Title:
-Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin
-
-Published:
-Fri, 19 Jun 2026 16:25:02 -0400
-
-Summary:
-Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/
 
 ------------------------------------------------------------
 
