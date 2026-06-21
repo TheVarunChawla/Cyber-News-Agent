@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+AryStinger botnet infected thousands of D-Link routers worldwide
+
+Published:
+Sun, 21 Jun 2026 10:14:22 -0400
+
+Summary:
+A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/
+
+------------------------------------------------------------
+
+Title:
 New Prinz Eugen ransomware prioritizes recent files for encryption
 
 Published:
@@ -85,20 +99,6 @@ Microsoft has attributed a recent Mastra AI supply chain attack that compromised
 
 URL:
 https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/
-
-------------------------------------------------------------
-
-Title:
-Klue OAuth breach victim list grows as Icarus hackers claim attack
-
-Published:
-Fri, 19 Jun 2026 18:31:04 -0400
-
-Summary:
-Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new "Icarus" extortion group publicly claims the attack. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/
 
 ------------------------------------------------------------
 
