@@ -57,6 +57,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+WhatsApp phishing attack uses fake business docs to hack PCs
+
+Published:
+Mon, 22 Jun 2026 18:42:21 -0400
+
+Summary:
+An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/
+
+------------------------------------------------------------
+
+Title:
 JaredFromSubway MEV bot hacked in $15 million crypto theft
 
 Published:
@@ -81,20 +95,6 @@ A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote
 
 URL:
 https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/
-
-------------------------------------------------------------
-
-Title:
-FortiBleed campaign used custom FortiGate sniffer to steal credentials
-
-Published:
-Mon, 22 Jun 2026 16:01:02 -0400
-
-Summary:
-Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/
 
 ------------------------------------------------------------
 
