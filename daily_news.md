@@ -5,54 +5,50 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Stop Your Legacy Infrastructure from Hijacking Your AI Agents
+Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants
 
 Published:
-Mon, 22 Jun 2026 17:28:00 +0530
+Mon, 22 Jun 2026 21:43:28 +0530
 
 Summary:
-Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents.
+Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication.
 
-AI adoption is moving faster than security programs can account for. Roughly 71% of organizations are piloting AI agents across their
+The vulnerabilities have been collectively codenamed DifyTap by Zafran Security.
 
 URL:
-https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html
+https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html
 
 ------------------------------------------------------------
 
 Title:
-⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More
+29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests
 
 Published:
-Mon, 22 Jun 2026 16:25:10 +0530
+Mon, 22 Jun 2026 19:59:46 +0530
 
 Summary:
-It’s Monday again.
+A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy.
 
-This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control.
-
-The annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more
+The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io disclosed it in June and named it Squidbleed (
 
 URL:
-https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html
+https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html
 
 ------------------------------------------------------------
 
 Title:
-Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices
+New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer
 
 Published:
-Mon, 22 Jun 2026 14:41:37 +0530
+Mon, 22 Jun 2026 18:50:12 +0530
 
 Summary:
-Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.
+Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.
 
-The Federal Court released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way.
-
-The warrant let CSIS alter,
+According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence indicates that the threat actor is likely Russian-speaking and financially motivated, owing to the
 
 URL:
-https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html
+https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html
 
 ------------------------------------------------------------
 
@@ -61,50 +57,78 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-AryStinger botnet infected thousands of D-Link routers worldwide
+Microsoft says Windows 11 26H2 is coming soon, details upgrade process
 
 Published:
-Sun, 21 Jun 2026 10:14:22 -0400
+Mon, 22 Jun 2026 13:41:31 -0400
 
 Summary:
-A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]
+Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/
 
 ------------------------------------------------------------
 
 Title:
-New Prinz Eugen ransomware prioritizes recent files for encryption
+Microsoft fixes AutoGen Studio flaw that enabled code execution
 
 Published:
-Sat, 20 Jun 2026 11:23:46 -0400
+Mon, 22 Jun 2026 13:28:57 -0400
 
 Summary:
-A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]
+A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/
+https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft links Mastra AI supply chain attack to North Korean hackers
+A Glimpse into the “Search Your Target” Market for Stolen Credentials
 
 Published:
-Sat, 20 Jun 2026 10:09:19 -0400
+Mon, 22 Jun 2026 10:05:15 -0400
 
 Summary:
-Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]
+Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/
+https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+INTERPOL, Europol renew agreement to combat hackers and other criminals
+
+Published:
+Mon, 22 Jun 2026 11:13:48 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/93ijjenlpFAHKkEFtkt7zeEF0152ZtbtPDL5V-uqr4g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ldXJvcG9saHEuanBn.webp" /></div></figure>Experts say international partnerships are key to taking down sprawling cybercriminal operations.
+
+URL:
+https://www.cybersecuritydive.com/news/interpol-europol-cybercrime-cooperation-renew/823398/
+
+------------------------------------------------------------
+
+Title:
+CISA urges device hardening after thousands of Fortinet credentials compromised
+
+Published:
+Mon, 22 Jun 2026 11:10:41 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/VKp2nzAST2pRAPqxS5ipeTmzsLB2Xp7D6Zvsx3kVcZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVE5ULTkwOS1raWZlci0wNS5qcGc=.webp" /></div></figure>Security researchers warn of a months-long FortiBleed campaign targeting western organizations.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-device-hardening-thousands-fortinet-credentials-compromised/823397/
+
+------------------------------------------------------------
 
 Title:
 AI is transforming enterprise data risk. Here’s how security leaders are responding.
@@ -117,34 +141,6 @@ New research from 1,700 security leaders reveals 3 imperatives for securing AI a
 
 URL:
 https://www.cybersecuritydive.com/spons/ai-is-transforming-enterprise-data-risk-heres-how-security-leaders-are-re/823180/
-
-------------------------------------------------------------
-
-Title:
-3 ways AI is transforming security operations - and where it delivers real impact
-
-Published:
-Mon, 22 Jun 2026 05:00:00 -0400
-
-Summary:
-Security operations (SecOps) teams have long been exhorted to &ldquo;work smarter, not harder,&rdquo; but they need the right tools and processes to actually achieve that aim.
-
-URL:
-https://www.cybersecuritydive.com/spons/3-ways-ai-is-transforming-security-operations-and-where-it-delivers-real/822590/
-
-------------------------------------------------------------
-
-Title:
-Infrastructure downtime has a $50k-per-hour price tag. It’s time to turn hours into minutes.
-
-Published:
-Mon, 22 Jun 2026 05:00:00 -0400
-
-Summary:
-Threats move at machine speed. Network incident response still doesn't. What&rsquo;s standing in the way?
-
-URL:
-https://www.cybersecuritydive.com/spons/infrastructure-downtime-has-a-50k-per-hour-price-tag-its-time-to-turn-ho/822869/
 
 ------------------------------------------------------------
 
@@ -583,6 +579,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+One intrusion, two cyberattackers: Uncovering parallel threat activity
+
+Published:
+Mon, 22 Jun 2026 16:00:00 +0000
+
+Summary:
+Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/">One intrusion, two cyberattackers: Uncovering parallel threat activity</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/
+
+------------------------------------------------------------
+
+Title:
 AutoJack: How a single page can RCE the host running your AI agent
 
 Published:
@@ -609,21 +620,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/18/new-f
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/
-
-------------------------------------------------------------
-
-Title:
-From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet
-
-Published:
-Thu, 18 Jun 2026 03:43:04 +0000
-
-Summary:
-A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/">From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/
 
 ------------------------------------------------------------
 
