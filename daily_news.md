@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack
+
+Published:
+Mon, 22 Jun 2026 23:30:48 +0530
+
+Summary:
+Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.
+
+"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels," Wordfence said in an analysis
+
+URL:
+https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html
+
+------------------------------------------------------------
+
+Title:
 Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants
 
 Published:
@@ -36,25 +52,23 @@ https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html
 
 ------------------------------------------------------------
 
-Title:
-New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer
-
-Published:
-Mon, 22 Jun 2026 18:50:12 +0530
-
-Summary:
-Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.
-
-According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence indicates that the threat actor is likely Russian-speaking and financially motivated, owing to the
-
-URL:
-https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+FortiBleed campaign used custom FortiGate sniffer to steal credentials
+
+Published:
+Mon, 22 Jun 2026 16:01:02 -0400
+
+Summary:
+Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/
+
+------------------------------------------------------------
 
 Title:
 Microsoft says Windows 11 26H2 is coming soon, details upgrade process
@@ -81,20 +95,6 @@ A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface fo
 
 URL:
 https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/
-
-------------------------------------------------------------
-
-Title:
-A Glimpse into the “Search Your Target” Market for Stolen Credentials
-
-Published:
-Mon, 22 Jun 2026 10:05:15 -0400
-
-Summary:
-Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/
 
 ------------------------------------------------------------
 
@@ -579,6 +579,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Guarding AI memory
+
+Published:
+Mon, 22 Jun 2026 19:07:28 +0000
+
+Summary:
+What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/">Guarding AI memory</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/
+
+------------------------------------------------------------
+
+Title:
 One intrusion, two cyberattackers: Uncovering parallel threat activity
 
 Published:
@@ -605,21 +620,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/18/autoj
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/
-
-------------------------------------------------------------
-
-Title:
-New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI
-
-Published:
-Thu, 18 Jun 2026 19:36:08 +0000
-
-Summary:
-New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/">New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/
 
 ------------------------------------------------------------
 
