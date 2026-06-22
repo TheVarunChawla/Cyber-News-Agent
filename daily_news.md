@@ -57,6 +57,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+JaredFromSubway MEV bot hacked in $15 million crypto theft
+
+Published:
+Mon, 22 Jun 2026 17:52:18 -0400
+
+Summary:
+The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/
+
+------------------------------------------------------------
+
+Title:
+FFmpeg fixes PixelSmash flaw in widely used video decoder
+
+Published:
+Mon, 22 Jun 2026 17:05:01 -0400
+
+Summary:
+A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/
+
+------------------------------------------------------------
+
+Title:
 FortiBleed campaign used custom FortiGate sniffer to steal credentials
 
 Published:
@@ -67,34 +95,6 @@ Security firm SOCRadar says the large-scale FortiBleed campaign targeting Forti
 
 URL:
 https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/
-
-------------------------------------------------------------
-
-Title:
-Microsoft says Windows 11 26H2 is coming soon, details upgrade process
-
-Published:
-Mon, 22 Jun 2026 13:41:31 -0400
-
-Summary:
-Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/
-
-------------------------------------------------------------
-
-Title:
-Microsoft fixes AutoGen Studio flaw that enabled code execution
-
-Published:
-Mon, 22 Jun 2026 13:28:57 -0400
-
-Summary:
-A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/
 
 ------------------------------------------------------------
 
@@ -157,6 +157,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration
+
+Published:
+Mon, 22 Jun 2026 22:00:04 +0000
+
+Summary:
+Unit 42 research details how attackers could exploit global name uniqueness in bucket hijacking to redirect cloud data streams across major CSPs.
+The post <a href="https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/">The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/
+
+------------------------------------------------------------
+
+Title:
 Threat Brief: Mitigating Large-Scale Credential Attacks
 
 Published:
@@ -183,21 +198,6 @@ The post <a href="https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/
 
 URL:
 https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/
-
-------------------------------------------------------------
-
-Title:
-Inside the Modern SOC: The 72-Minute Race
-
-Published:
-Mon, 15 Jun 2026 23:00:19 +0000
-
-Summary:
-Attackers can move from access to exfiltration in 72 minutes. Learn how modern SOC teams close the speed gap with Unit 42's AI-driven automation, threat hunting, MDR and Managed XSIAM.
-The post <a href="https://unit42.paloaltonetworks.com/soc-72-minute-race/">Inside the Modern SOC: The 72-Minute Race</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/soc-72-minute-race/
 
 ------------------------------------------------------------
 
