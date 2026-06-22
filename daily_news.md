@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific
+
+Published:
+Mon, 22 Jun 2026 11:36:53 +0530
+
+Summary:
+A new report from INTERPOL has revealed a "dramatic increase" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity.
+
+According to INTERPOL's 2025/2026 Asia and South Pacific Cyberthreat Assessment Report, phishing has emerged as the most widespread and
+
+URL:
+https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html
+
+------------------------------------------------------------
+
+Title:
 Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys
 
 Published:
@@ -35,24 +51,6 @@ This is not a remote attack. It requires
 
 URL:
 https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html
-
-------------------------------------------------------------
-
-Title:
-The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes
-
-Published:
-Sat, 20 Jun 2026 00:03:07 +0530
-
-Summary:
-The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.
-
-This mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller.
-
-"They also incorporate third-party or
-
-URL:
-https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html
 
 ------------------------------------------------------------
 
