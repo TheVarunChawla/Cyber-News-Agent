@@ -5,52 +5,54 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific
+Stop Your Legacy Infrastructure from Hijacking Your AI Agents
 
 Published:
-Mon, 22 Jun 2026 11:36:53 +0530
+Mon, 22 Jun 2026 17:28:00 +0530
 
 Summary:
-A new report from INTERPOL has revealed a "dramatic increase" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity.
+Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents.
 
-According to INTERPOL's 2025/2026 Asia and South Pacific Cyberthreat Assessment Report, phishing has emerged as the most widespread and
+AI adoption is moving faster than security programs can account for. Roughly 71% of organizations are piloting AI agents across their
 
 URL:
-https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html
+https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html
 
 ------------------------------------------------------------
 
 Title:
-Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys
+⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More
 
 Published:
-Sat, 20 Jun 2026 15:26:04 +0530
+Mon, 22 Jun 2026 16:25:10 +0530
 
 Summary:
-Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.
+It’s Monday again.
 
-The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens
+This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control.
+
+The annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more
 
 URL:
-https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html
+https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html
 
 ------------------------------------------------------------
 
 Title:
-Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain
+Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices
 
 Published:
-Sat, 20 Jun 2026 00:07:41 +0530
+Mon, 22 Jun 2026 14:41:37 +0530
 
 Summary:
-Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.
+Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.
 
-That code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use.
+The Federal Court released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way.
 
-This is not a remote attack. It requires
+The warrant let CSIS alter,
 
 URL:
-https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html
+https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html
 
 ------------------------------------------------------------
 
@@ -105,44 +107,44 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Nation-state rivals linked to majority of consequential attacks targeting critical UK sites
+AI is transforming enterprise data risk. Here’s how security leaders are responding.
 
 Published:
-Thu, 18 Jun 2026 08:20:23 -0400
+Mon, 22 Jun 2026 05:00:00 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/3tytE4F2Hg2jaguKL8Tm123QQLI2Ge8VON9kfxpfMic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BQkdfSlNfYWRqdXN0ZWRfLV8xLmpwZWc=.webp" /></div></figure>The nation&rsquo;s top cybersecurity official warned that business leaders, authorities need to rethink how they protect critical infrastructure from state-sponsored adversaries.
+New research from 1,700 security leaders reveals 3 imperatives for securing AI adoption.
 
 URL:
-https://www.cybersecuritydive.com/news/nation-state-rivals-linked-to-majority-of-consequential-attacks-targeting-c/823242/
+https://www.cybersecuritydive.com/spons/ai-is-transforming-enterprise-data-risk-heres-how-security-leaders-are-re/823180/
 
 ------------------------------------------------------------
 
 Title:
-Major critical infrastructure disruptions are inevitable, acting CISA chief says
+3 ways AI is transforming security operations - and where it delivers real impact
 
 Published:
-Wed, 17 Jun 2026 12:35:00 -0400
+Mon, 22 Jun 2026 05:00:00 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/VnCCflMt_DiptbTZu9wqZlTq7YwIxmlQXxe9e9XM4YI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uaWNrLWFuZGVyc2VuLWl0aV9abXJZSlFTLmpwZw==.webp" /></div></figure>In recent years, the U.S. government has reoriented its cybersecurity strategy away from prevention and toward resilience.
+Security operations (SecOps) teams have long been exhorted to &ldquo;work smarter, not harder,&rdquo; but they need the right tools and processes to actually achieve that aim.
 
 URL:
-https://www.cybersecuritydive.com/news/cybersecurity-resilience-critical-infrastructure-cisa-nick-andersen/823166/
+https://www.cybersecuritydive.com/spons/3-ways-ai-is-transforming-security-operations-and-where-it-delivers-real/822590/
 
 ------------------------------------------------------------
 
 Title:
-California water utility probes breach claim by Iran-linked actor
+Infrastructure downtime has a $50k-per-hour price tag. It’s time to turn hours into minutes.
 
 Published:
-Wed, 17 Jun 2026 11:00:54 -0400
+Mon, 22 Jun 2026 05:00:00 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/3GDORzjjJwG2KKdiiyjiBWB7336b8el9ofhXMjeHmhE/g:nowe:29:2/c:930:525/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzOTkwMjA4LmpwZw==.webp" /></div></figure>The group Handala said it attacked one of the nation&rsquo;s largest water companies.
+Threats move at machine speed. Network incident response still doesn't. What&rsquo;s standing in the way?
 
 URL:
-https://www.cybersecuritydive.com/news/california-water-utility-breach-iran-hacker/823148/
+https://www.cybersecuritydive.com/spons/infrastructure-downtime-has-a-50k-per-hour-price-tag-its-time-to-turn-ho/822869/
 
 ------------------------------------------------------------
 
