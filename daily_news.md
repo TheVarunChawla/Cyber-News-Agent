@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns
+
+Published:
+Tue, 23 Jun 2026 19:52:03 +0530
+
+Summary:
+GitHub is moving to strengthen software supply chain security by updating "actions/checkout" to block pwn request attacks that exploit the risky use of the "pull_request_target workflow" trigger to run malicious code with the workflow's full privileges.
+
+Effective June 18, 2026, the latest version of "actions/checkout," the official GitHub action for checking out a repository into the
+
+URL:
+https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html
+
+------------------------------------------------------------
+
+Title:
 Agentic AI: The Weapon That No Longer Needs a Warrior
 
 Published:
@@ -41,51 +57,49 @@ https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html
 
 ------------------------------------------------------------
 
-Title:
-WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool
-
-Published:
-Tue, 23 Jun 2026 11:08:40 +0530
-
-Summary:
-Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software.
-
-Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,
-
-URL:
-https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-WhatsApp phishing attack uses fake business docs to hack PCs
+Scattered Spider members plead guilty to hacking Transport for London
 
 Published:
-Mon, 22 Jun 2026 18:42:21 -0400
+Tue, 23 Jun 2026 11:31:59 -0400
 
 Summary:
-An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]
+Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/
+https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/
 
 ------------------------------------------------------------
 
 Title:
-JaredFromSubway MEV bot hacked in $15 million crypto theft
+The Exploit Doesn't Exist. You Can Still Prove It Works Against You
 
 Published:
-Mon, 22 Jun 2026 17:52:18 -0400
+Tue, 23 Jun 2026 10:01:11 -0400
 
 Summary:
-The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]
+Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/
+https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/
+
+------------------------------------------------------------
+
+Title:
+LastPass confirms data breach in Klue supply chain attack
+
+Published:
+Tue, 23 Jun 2026 09:58:25 -0400
+
+Summary:
+LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/
 
 ------------------------------------------------------------
 
@@ -94,7 +108,35 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-INTERPOL, Europol renew agreement to combat hackers and other criminals
+Trump sets new deadlines for agencies and contractors to adopt post-quantum cryptography
+
+Published:
+Tue, 23 Jun 2026 11:11:48 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/NtPpHGjVtA-jjPiNq17IEFHlqAM_5uxSLNkd7uevgJ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgyODE1ODU5LmpwZw==.webp" /></div></figure>The president also launched new efforts to research the scientific benefits of quantum computers &mdash; and protect that research from adversaries.
+
+URL:
+https://www.cybersecuritydive.com/news/quantum-cryptography-white-house-executive-order/823530/
+
+------------------------------------------------------------
+
+Title:
+Looming AI-fueled threats require urgent cybersecurity improvements, Five Eyes members say
+
+Published:
+Tue, 23 Jun 2026 10:52:10 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/XQ7DitjrcSXyjURGx0ggFKxbtVgJ8REqnlg999ubfWU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTc0MDAzX3FGalczU0cuanBn.webp" /></div></figure>The intelligence-sharing alliance said advanced AI models will surpass expectations in a matter of months.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-cyberattacks-five-eyes-frontier-models-warning/823526/
+
+------------------------------------------------------------
+
+Title:
+Interpol, Europol renew agreement to combat hackers and other criminals
 
 Published:
 Mon, 22 Jun 2026 11:13:48 -0400
@@ -104,34 +146,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/interpol-europol-cybercrime-cooperation-renew/823398/
-
-------------------------------------------------------------
-
-Title:
-CISA urges device hardening after thousands of Fortinet credentials compromised
-
-Published:
-Mon, 22 Jun 2026 11:10:41 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/VKp2nzAST2pRAPqxS5ipeTmzsLB2Xp7D6Zvsx3kVcZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVE5ULTkwOS1raWZlci0wNS5qcGc=.webp" /></div></figure>Security researchers warn of a months-long FortiBleed campaign targeting western organizations.
-
-URL:
-https://www.cybersecuritydive.com/news/cisa-device-hardening-thousands-fortinet-credentials-compromised/823397/
-
-------------------------------------------------------------
-
-Title:
-AI is transforming enterprise data risk. Here’s how security leaders are responding.
-
-Published:
-Mon, 22 Jun 2026 05:00:00 -0400
-
-Summary:
-New research from 1,700 security leaders reveals 3 imperatives for securing AI adoption.
-
-URL:
-https://www.cybersecuritydive.com/spons/ai-is-transforming-enterprise-data-risk-heres-how-security-leaders-are-re/823180/
 
 ------------------------------------------------------------
 
