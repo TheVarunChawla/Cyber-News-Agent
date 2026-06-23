@@ -5,6 +5,20 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Agentic AI: The Weapon That No Longer Needs a Warrior
+
+Published:
+Tue, 23 Jun 2026 17:00:00 +0530
+
+Summary:
+Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance between the warrior and the wound grew wider, and yet one thing never moved: a human chose the target
+
+URL:
+https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html
+
+------------------------------------------------------------
+
+Title:
 Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT
 
 Published:
@@ -43,22 +57,6 @@ https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html
 
 ------------------------------------------------------------
 
-Title:
-OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws
-
-Published:
-Tue, 23 Jun 2026 09:26:58 +0530
-
-Summary:
-OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month.
-
-Calling GPT‑5.5‑Cyber its "strongest model yet for finding and helping patch software vulnerabilities," OpenAI said the model can "sustain deeper analysis across large codebases" to
-
-URL:
-https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
@@ -88,20 +86,6 @@ The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 
 
 URL:
 https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/
-
-------------------------------------------------------------
-
-Title:
-FFmpeg fixes PixelSmash flaw in widely used video decoder
-
-Published:
-Mon, 22 Jun 2026 17:05:01 -0400
-
-Summary:
-A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/
 
 ------------------------------------------------------------
 
