@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool
+
+Published:
+Tue, 23 Jun 2026 11:08:40 +0530
+
+Summary:
+Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software.
+
+Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,
+
+URL:
+https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html
+
+------------------------------------------------------------
+
+Title:
+OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws
+
+Published:
+Tue, 23 Jun 2026 09:26:58 +0530
+
+Summary:
+OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month.
+
+Calling GPT‑5.5‑Cyber its "strongest model yet for finding and helping patch software vulnerabilities," OpenAI said the model can "sustain deeper analysis across large codebases" to
+
+URL:
+https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html
+
+------------------------------------------------------------
+
+Title:
 ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack
 
 Published:
@@ -17,38 +49,6 @@ Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain 
 
 URL:
 https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html
-
-------------------------------------------------------------
-
-Title:
-Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants
-
-Published:
-Mon, 22 Jun 2026 21:43:28 +0530
-
-Summary:
-Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication.
-
-The vulnerabilities have been collectively codenamed DifyTap by Zafran Security.
-
-URL:
-https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html
-
-------------------------------------------------------------
-
-Title:
-29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests
-
-Published:
-Mon, 22 Jun 2026 19:59:46 +0530
-
-Summary:
-A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy.
-
-The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io disclosed it in June and named it Squidbleed (
-
-URL:
-https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html
 
 ------------------------------------------------------------
 
