@@ -5,6 +5,29 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT
+
+Published:
+Tue, 23 Jun 2026 14:24:32 +0530
+
+Summary:
+Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).
+
+The list of identified packages, is below -
+
+
+  aes-decode-runner-pro (145 downloads)
+  postcss-minify-selector (256 downloads)
+  postcss-minify-selector-parser (615 downloads)
+
+All the packages were published over the past month by an npm user named
+
+URL:
+https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html
+
+------------------------------------------------------------
+
+Title:
 WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool
 
 Published:
@@ -33,22 +56,6 @@ Calling GPT‑5.5‑Cyber its "strongest model yet for finding and helping patch
 
 URL:
 https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html
-
-------------------------------------------------------------
-
-Title:
-ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack
-
-Published:
-Mon, 22 Jun 2026 23:30:48 +0530
-
-Summary:
-Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.
-
-"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels," Wordfence said in an analysis
-
-URL:
-https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html
 
 ------------------------------------------------------------
 
