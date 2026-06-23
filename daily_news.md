@@ -5,6 +5,42 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents
+
+Published:
+Tue, 23 Jun 2026 20:46:43 +0530
+
+Summary:
+Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts.
+
+Every skill security scanner the firm tested it against marked it safe. The payload was harmless by design: it collected the user's email address and did nothing else.
+
+The point was to show
+
+URL:
+https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html
+
+------------------------------------------------------------
+
+Title:
+Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration
+
+Published:
+Tue, 23 Jun 2026 20:46:40 +0530
+
+Summary:
+President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography.
+
+Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national security systems on a separate track.
+
+The deadlines matter because of a threat that does not
+
+URL:
+https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html
+
+------------------------------------------------------------
+
+Title:
 GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns
 
 Published:
@@ -17,43 +53,6 @@ Effective June 18, 2026, the latest version of "actions/checkout," the official 
 
 URL:
 https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html
-
-------------------------------------------------------------
-
-Title:
-Agentic AI: The Weapon That No Longer Needs a Warrior
-
-Published:
-Tue, 23 Jun 2026 17:00:00 +0530
-
-Summary:
-Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance between the warrior and the wound grew wider, and yet one thing never moved: a human chose the target
-
-URL:
-https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html
-
-------------------------------------------------------------
-
-Title:
-Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT
-
-Published:
-Tue, 23 Jun 2026 14:24:32 +0530
-
-Summary:
-Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).
-
-The list of identified packages, is below -
-
-
-  aes-decode-runner-pro (145 downloads)
-  postcss-minify-selector (256 downloads)
-  postcss-minify-selector-parser (615 downloads)
-
-All the packages were published over the past month by an npm user named
-
-URL:
-https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html
 
 ------------------------------------------------------------
 
