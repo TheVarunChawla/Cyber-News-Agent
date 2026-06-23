@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation
+
+Published:
+Tue, 23 Jun 2026 23:50:49 +0530
+
+Summary:
+A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally.
+
+The campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke
+
+URL:
+https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html
+
+------------------------------------------------------------
+
+Title:
 Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents
 
 Published:
@@ -40,65 +56,49 @@ https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html
 
 ------------------------------------------------------------
 
-Title:
-GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns
-
-Published:
-Tue, 23 Jun 2026 19:52:03 +0530
-
-Summary:
-GitHub is moving to strengthen software supply chain security by updating "actions/checkout" to block pwn request attacks that exploit the risky use of the "pull_request_target workflow" trigger to run malicious code with the workflow's full privileges.
-
-Effective June 18, 2026, the latest version of "actions/checkout," the official GitHub action for checking out a repository into the
-
-URL:
-https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Scattered Spider members plead guilty to hacking Transport for London
+Windows 11 KB5095093 update rolls out new Point-in-Time restore feature
 
 Published:
-Tue, 23 Jun 2026 11:31:59 -0400
+Tue, 23 Jun 2026 16:22:21 -0400
 
 Summary:
-Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]
+​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/
+https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/
 
 ------------------------------------------------------------
 
 Title:
-The Exploit Doesn't Exist. You Can Still Prove It Works Against You
+Healthtech firm Xolis suffers data breach impacting 1.4 million people
 
 Published:
-Tue, 23 Jun 2026 10:01:11 -0400
+Tue, 23 Jun 2026 15:59:12 -0400
 
 Summary:
-Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]
+Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/
+https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/
 
 ------------------------------------------------------------
 
 Title:
-LastPass confirms data breach in Klue supply chain attack
+New macOS ClickFix attack silently mounts DMGs to push infostealer
 
 Published:
-Tue, 23 Jun 2026 09:58:25 -0400
+Tue, 23 Jun 2026 14:30:16 -0400
 
 Summary:
-LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]
+A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/
+https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/
 
 ------------------------------------------------------------
 
