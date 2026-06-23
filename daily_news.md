@@ -61,6 +61,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks
+
+Published:
+Tue, 23 Jun 2026 17:48:32 -0400
+
+Summary:
+A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/
+
+------------------------------------------------------------
+
+Title:
+Tata Electronics confirms cyberattack as hackers leak data
+
+Published:
+Tue, 23 Jun 2026 17:06:32 -0400
+
+Summary:
+Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/
+
+------------------------------------------------------------
+
+Title:
 Windows 11 KB5095093 update rolls out new Point-in-Time restore feature
 
 Published:
@@ -71,34 +99,6 @@ Summary:
 
 URL:
 https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/
-
-------------------------------------------------------------
-
-Title:
-Healthtech firm Xolis suffers data breach impacting 1.4 million people
-
-Published:
-Tue, 23 Jun 2026 15:59:12 -0400
-
-Summary:
-Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/
-
-------------------------------------------------------------
-
-Title:
-New macOS ClickFix attack silently mounts DMGs to push infostealer
-
-Published:
-Tue, 23 Jun 2026 14:30:16 -0400
-
-Summary:
-A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/
 
 ------------------------------------------------------------
 
@@ -161,6 +161,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat
+
+Published:
+Tue, 23 Jun 2026 22:00:51 +0000
+
+Summary:
+Unit 42's analysis of ClawHub revealed evasive malicious skills bypassing automated scanners to deploy infostealers and execute agentic financial fraud.
+The post <a href="https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/">OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/
+
+------------------------------------------------------------
+
+Title:
 The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration
 
 Published:
@@ -187,21 +202,6 @@ The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-att
 
 URL:
 https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
-
-------------------------------------------------------------
-
-Title:
-Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE
-
-Published:
-Tue, 16 Jun 2026 10:00:29 +0000
-
-Summary:
-Unit 42 discovered a Vertex AI Python SDK vulnerability that allows remote code execution via bucket squatting. Read the article for more. 
-The post <a href="https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/">Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/
 
 ------------------------------------------------------------
 
