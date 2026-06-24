@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root
+
+Published:
+Wed, 24 Jun 2026 12:20:38 +0530
+
+Summary:
+Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME).
+
+The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote
+
+URL:
+https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html
+
+------------------------------------------------------------
+
+Title:
 FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation
 
 Published:
@@ -35,24 +51,6 @@ The point was to show
 
 URL:
 https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html
-
-------------------------------------------------------------
-
-Title:
-Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration
-
-Published:
-Tue, 23 Jun 2026 20:46:40 +0530
-
-Summary:
-President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography.
-
-Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national security systems on a separate track.
-
-The deadlines matter because of a threat that does not
-
-URL:
-https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html
 
 ------------------------------------------------------------
 
