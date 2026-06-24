@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited
+
+Published:
+Wed, 24 Jun 2026 22:49:18 +0530
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026.
+
+The vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution
+
+URL:
+https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html
+
+------------------------------------------------------------
+
+Title:
+Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered
+
+Published:
+Wed, 24 Jun 2026 21:29:50 +0530
+
+Summary:
+A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC.
+
+"The main common goal was to disrupt the 'assembly lines' cybercriminals use to launch ransomware, financial fraud, and attacks on critical infrastructure," Europol said in
+
+URL:
+https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html
+
+------------------------------------------------------------
+
+Title:
 Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks
 
 Published:
@@ -17,38 +49,6 @@ The "critical exploitable pattern" has been codenamed Cordyceps by Novee Securit
 
 URL:
 https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html
-
-------------------------------------------------------------
-
-Title:
-Dawn of the Apex Agentic Adversary
-
-Published:
-Wed, 24 Jun 2026 17:00:00 +0530
-
-Summary:
-We are standing at the end of an era we never thought to mourn: the era of human-speed threats.
-
-For years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch cycle, and weeks or even months later, a fix was deployed. In this era, dwell time was measured in days, sometimes weeks. We are now approaching an
-
-URL:
-https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html
-
-------------------------------------------------------------
-
-Title:
-DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering
-
-Published:
-Wed, 24 Jun 2026 14:25:12 +0530
-
-Summary:
-The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group.
-
-"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of
-
-URL:
-https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html
 
 ------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Published:
 Wed, 24 Jun 2026 11:13:21 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, Bitsight charted a massive surge in internet-exposed AI services.
+<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, the company also charted a massive surge in internet-exposed AI services.
 
 URL:
 https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
