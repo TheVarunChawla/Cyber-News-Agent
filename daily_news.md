@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering
+
+Published:
+Wed, 24 Jun 2026 14:25:12 +0530
+
+Summary:
+The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group.
+
+"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of
+
+URL:
+https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html
+
+------------------------------------------------------------
+
+Title:
 Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root
 
 Published:
@@ -36,27 +52,23 @@ https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html
 
 ------------------------------------------------------------
 
-Title:
-Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents
-
-Published:
-Tue, 23 Jun 2026 20:46:43 +0530
-
-Summary:
-Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts.
-
-Every skill security scanner the firm tested it against marked it safe. The payload was harmless by design: it collected the user's email address and did nothing else.
-
-The point was to show
-
-URL:
-https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Stealthy Mistic backdoor linked to ransomware access broker KongTuke
+
+Published:
+Wed, 24 Jun 2026 06:41:51 -0400
+
+Summary:
+A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/
+
+------------------------------------------------------------
 
 Title:
 Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks
@@ -83,20 +95,6 @@ Tata Electronics has confirmed in a statement to BleepingComputer that it was th
 
 URL:
 https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/
-
-------------------------------------------------------------
-
-Title:
-Windows 11 KB5095093 update rolls out new Point-in-Time restore feature
-
-Published:
-Tue, 23 Jun 2026 16:22:21 -0400
-
-Summary:
-​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/
 
 ------------------------------------------------------------
 
