@@ -57,6 +57,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+DraftKings hacker 'Snoopy' sentenced to 18 months in prison
+
+Published:
+Wed, 24 Jun 2026 17:55:43 -0400
+
+Summary:
+A 21-year-old using the alias "Snoopy" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/
+
+------------------------------------------------------------
+
+Title:
 Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access
 
 Published:
@@ -81,20 +95,6 @@ A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a rans
 
 URL:
 https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/
-
-------------------------------------------------------------
-
-Title:
-CISA warns of max severity Ubiquiti flaws exploited in attacks
-
-Published:
-Wed, 24 Jun 2026 10:35:15 -0400
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/
 
 ------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Published:
 Wed, 24 Jun 2026 11:13:21 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, the company also charted a massive surge in internet-exposed AI services.
+<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, Bitsight charted a massive surge in internet-exposed AI services.
 
 URL:
 https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
