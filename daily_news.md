@@ -57,50 +57,78 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Stealthy Mistic backdoor linked to ransomware access broker KongTuke
+CISA warns of max severity Ubiquiti flaws exploited in attacks
 
 Published:
-Wed, 24 Jun 2026 06:41:51 -0400
+Wed, 24 Jun 2026 10:35:15 -0400
 
 Summary:
-A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks
+Amadey, StealC malware operations disrupted in Operation Endgame action
 
 Published:
-Tue, 23 Jun 2026 17:48:32 -0400
+Wed, 24 Jun 2026 10:35:11 -0400
 
 Summary:
-A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]
+Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/
+https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/
 
 ------------------------------------------------------------
 
 Title:
-Tata Electronics confirms cyberattack as hackers leak data
+Securing the service desk: Why social engineering attacks keep succeeding
 
 Published:
-Tue, 23 Jun 2026 17:06:32 -0400
+Wed, 24 Jun 2026 10:02:12 -0400
 
 Summary:
-Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]
+Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/
+https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Microsoft, Europol lead international takedown against infostealer malware
+
+Published:
+Wed, 24 Jun 2026 11:32:05 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp" /></div></figure>Cybercriminals used Amadey and StealC to infect thousands of computers worldwide, leading to ransomware and other digital crimes.
+
+URL:
+https://www.cybersecuritydive.com/news/microsoft-europol-international-takedown-infostealer-malware/823655/
+
+------------------------------------------------------------
+
+Title:
+Ransomware attacks grew in 2025 as traditional data breaches fell
+
+Published:
+Wed, 24 Jun 2026 11:13:21 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, Bitsight charted a massive surge in internet-exposed AI services.
+
+URL:
+https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
+
+------------------------------------------------------------
 
 Title:
 White House’s state infrastructure cybersecurity initiative stalled
@@ -113,34 +141,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/white-house-states-cybersecurity-pilot-programs-oncd/823453/
-
-------------------------------------------------------------
-
-Title:
-Trump sets new deadlines for agencies and contractors to adopt post-quantum cryptography
-
-Published:
-Tue, 23 Jun 2026 11:11:48 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/NtPpHGjVtA-jjPiNq17IEFHlqAM_5uxSLNkd7uevgJ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgyODE1ODU5LmpwZw==.webp" /></div></figure>The president also launched efforts to research the scientific benefits of quantum computers &mdash; and protect that research from adversaries.
-
-URL:
-https://www.cybersecuritydive.com/news/quantum-cryptography-white-house-executive-order/823530/
-
-------------------------------------------------------------
-
-Title:
-Klue investigating supply chain attack that targeted Salesforce integrations
-
-Published:
-Tue, 23 Jun 2026 11:11:20 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ohJtMBfSGKPS9l_wb8SifrZkqFDT-35YyKPswWzuI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MDgxNTc4MzIuanBn.webp" /></div></figure>Customer data from several prominent cybersecurity firms was among that of hundreds of potential enterprise victims.
-
-URL:
-https://www.cybersecuritydive.com/news/klue-investigating-supply-chain-attack-salesforce-integrations/823532/
 
 ------------------------------------------------------------
 
