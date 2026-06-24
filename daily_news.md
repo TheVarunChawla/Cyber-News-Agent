@@ -103,7 +103,7 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Microsoft, Europol lead international takedown against infostealer malware
+Microsoft, Europol lead global takedown of infostealer malware
 
 Published:
 Wed, 24 Jun 2026 11:32:05 -0400
@@ -123,7 +123,7 @@ Published:
 Wed, 24 Jun 2026 11:13:21 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, the company also charted a massive surge in internet-exposed AI services.
+<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, Bitsight charted a massive surge in internet-exposed AI services.
 
 URL:
 https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
@@ -579,6 +579,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms
+
+Published:
+Wed, 24 Jun 2026 18:00:00 +0000
+
+Summary:
+Learn how CNAPP platforms are helping organizations prioritize exploitable risks, reduce exposure, and operationalize security across the application lifecycle.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/">CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/
+
+------------------------------------------------------------
+
+Title:
 StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them
 
 Published:
@@ -605,21 +620,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/22/guard
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/
-
-------------------------------------------------------------
-
-Title:
-One intrusion, two cyberattackers: Uncovering parallel threat activity
-
-Published:
-Mon, 22 Jun 2026 16:00:00 +0000
-
-Summary:
-Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/">One intrusion, two cyberattackers: Uncovering parallel threat activity</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/
 
 ------------------------------------------------------------
 
