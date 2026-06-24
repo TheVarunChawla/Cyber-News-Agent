@@ -57,6 +57,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access
+
+Published:
+Wed, 24 Jun 2026 17:29:10 -0400
+
+Summary:
+New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/
+
+------------------------------------------------------------
+
+Title:
+Malicious Edge extension abuses Native Messaging as bridge to malware
+
+Published:
+Wed, 24 Jun 2026 16:58:22 -0400
+
+Summary:
+A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/
+
+------------------------------------------------------------
+
+Title:
 CISA warns of max severity Ubiquiti flaws exploited in attacks
 
 Published:
@@ -70,40 +98,12 @@ https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiqui
 
 ------------------------------------------------------------
 
-Title:
-Amadey, StealC malware operations disrupted in Operation Endgame action
-
-Published:
-Wed, 24 Jun 2026 10:35:11 -0400
-
-Summary:
-Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/
-
-------------------------------------------------------------
-
-Title:
-Securing the service desk: Why social engineering attacks keep succeeding
-
-Published:
-Wed, 24 Jun 2026 10:02:12 -0400
-
-Summary:
-Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Microsoft, Europol lead global takedown of infostealer malware
+Microsoft, Europol lead international takedown against infostealer malware
 
 Published:
 Wed, 24 Jun 2026 11:32:05 -0400
@@ -123,7 +123,7 @@ Published:
 Wed, 24 Jun 2026 11:13:21 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, Bitsight charted a massive surge in internet-exposed AI services.
+<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, the company also charted a massive surge in internet-exposed AI services.
 
 URL:
 https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
