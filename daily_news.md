@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks
+
+Published:
+Wed, 24 Jun 2026 18:18:11 +0530
+
+Summary:
+Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.
+
+The "critical exploitable pattern" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and
+
+URL:
+https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html
+
+------------------------------------------------------------
+
+Title:
+Dawn of the Apex Agentic Adversary
+
+Published:
+Wed, 24 Jun 2026 17:00:00 +0530
+
+Summary:
+We are standing at the end of an era we never thought to mourn: the era of human-speed threats.
+
+For years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch cycle, and weeks or even months later, a fix was deployed. In this era, dwell time was measured in days, sometimes weeks. We are now approaching an
+
+URL:
+https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html
+
+------------------------------------------------------------
+
+Title:
 DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering
 
 Published:
@@ -17,38 +49,6 @@ The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud
 
 URL:
 https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html
-
-------------------------------------------------------------
-
-Title:
-Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root
-
-Published:
-Wed, 24 Jun 2026 12:20:38 +0530
-
-Summary:
-Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME).
-
-The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote
-
-URL:
-https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html
-
-------------------------------------------------------------
-
-Title:
-FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation
-
-Published:
-Tue, 23 Jun 2026 23:50:49 +0530
-
-Summary:
-A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally.
-
-The campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke
-
-URL:
-https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html
 
 ------------------------------------------------------------
 
@@ -103,13 +103,27 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
+White House’s state infrastructure cybersecurity initiative stalled
+
+Published:
+Wed, 24 Jun 2026 09:37:00 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/DdqEFpCeaMtT5w-qT-QRDOwz7tyYWnqBXC3DOvozg8Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk0MzExNDUuanBn.webp" /></div></figure>The Trump administration says it wants to help states implement innovative defenses. Most states are still waiting for the call to participate.
+
+URL:
+https://www.cybersecuritydive.com/news/white-house-states-cybersecurity-pilot-programs-oncd/823453/
+
+------------------------------------------------------------
+
+Title:
 Trump sets new deadlines for agencies and contractors to adopt post-quantum cryptography
 
 Published:
 Tue, 23 Jun 2026 11:11:48 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/NtPpHGjVtA-jjPiNq17IEFHlqAM_5uxSLNkd7uevgJ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgyODE1ODU5LmpwZw==.webp" /></div></figure>The president also launched new efforts to research the scientific benefits of quantum computers &mdash; and protect that research from adversaries.
+<figure><div><img src="https://imgproxy.divecdn.com/NtPpHGjVtA-jjPiNq17IEFHlqAM_5uxSLNkd7uevgJ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgyODE1ODU5LmpwZw==.webp" /></div></figure>The president also launched efforts to research the scientific benefits of quantum computers &mdash; and protect that research from adversaries.
 
 URL:
 https://www.cybersecuritydive.com/news/quantum-cryptography-white-house-executive-order/823530/
@@ -117,30 +131,16 @@ https://www.cybersecuritydive.com/news/quantum-cryptography-white-house-executiv
 ------------------------------------------------------------
 
 Title:
-Looming AI-fueled threats require urgent cybersecurity improvements, Five Eyes members say
+Klue investigating supply chain attack that targeted Salesforce integrations
 
 Published:
-Tue, 23 Jun 2026 10:52:10 -0400
+Tue, 23 Jun 2026 11:11:20 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/XQ7DitjrcSXyjURGx0ggFKxbtVgJ8REqnlg999ubfWU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTc0MDAzX3FGalczU0cuanBn.webp" /></div></figure>The intelligence-sharing alliance said advanced AI models will surpass expectations in a matter of months.
+<figure><div><img src="https://imgproxy.divecdn.com/ohJtMBfSGKPS9l_wb8SifrZkqFDT-35YyKPswWzuI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MDgxNTc4MzIuanBn.webp" /></div></figure>Customer data from several prominent cybersecurity firms was among that of hundreds of potential enterprise victims.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-cyberattacks-five-eyes-frontier-models-warning/823526/
-
-------------------------------------------------------------
-
-Title:
-Interpol, Europol renew agreement to combat hackers and other criminals
-
-Published:
-Mon, 22 Jun 2026 11:13:48 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/93ijjenlpFAHKkEFtkt7zeEF0152ZtbtPDL5V-uqr4g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ldXJvcG9saHEuanBn.webp" /></div></figure>Experts say international partnerships are key to taking down sprawling cybercriminal operations.
-
-URL:
-https://www.cybersecuritydive.com/news/interpol-europol-cybercrime-cooperation-renew/823398/
+https://www.cybersecuritydive.com/news/klue-investigating-supply-chain-attack-salesforce-integrations/823532/
 
 ------------------------------------------------------------
 
@@ -579,6 +579,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them
+
+Published:
+Wed, 24 Jun 2026 12:30:00 +0000
+
+Summary:
+On June 24, 2026, Microsoft’s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/">StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/
+
+------------------------------------------------------------
+
+Title:
 Guarding AI memory
 
 Published:
@@ -605,21 +620,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/22/one-i
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/
-
-------------------------------------------------------------
-
-Title:
-AutoJack: How a single page can RCE the host running your AI agent
-
-Published:
-Fri, 19 Jun 2026 00:17:54 +0000
-
-Summary:
-AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in localhost, missing authentication, and unsafe parameter handling, attackers can trigger arbitrary process execution through AutoGen Studio’s MCP WebSocket. The research highlights a broader pattern - when agents can browse untrusted content and access local services, traditional boundaries like localhost are no longer secure.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/">AutoJack: How a single page can RCE the host running your AI agent </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/
 
 ------------------------------------------------------------
 
