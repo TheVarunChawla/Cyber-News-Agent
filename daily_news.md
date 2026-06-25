@@ -61,6 +61,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Anthropic is testing desktop-like Claude Cowork for mobile
+
+Published:
+Thu, 25 Jun 2026 18:53:32 -0400
+
+Summary:
+Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/
+
+------------------------------------------------------------
+
+Title:
+Poland busts SIM-swapping gang tied to millions in crypto theft
+
+Published:
+Thu, 25 Jun 2026 18:37:42 -0400
+
+Summary:
+Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/
+
+------------------------------------------------------------
+
+Title:
 Order-tracking app Shop abused to push callback phishing attacks
 
 Published:
@@ -71,34 +99,6 @@ Threat actors are increasingly abusing Shop, the order-tracking app from Shopify
 
 URL:
 https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/
-
-------------------------------------------------------------
-
-Title:
-Microsoft quietly extends free Windows 10 ESU support to October 2027
-
-Published:
-Thu, 25 Jun 2026 14:29:20 -0400
-
-Summary:
-Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/
-
-------------------------------------------------------------
-
-Title:
-New macOS malware embeds fake errors to confuse AI analysis tools
-
-Published:
-Thu, 25 Jun 2026 12:23:19 -0400
-
-Summary:
-A newly discovered macOS malware dubbed "Gaslight" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/
 
 ------------------------------------------------------------
 
@@ -161,6 +161,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure
+
+Published:
+Thu, 25 Jun 2026 22:00:52 +0000
+
+Summary:
+Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor. 
+The post <a href="https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/">CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/
+
+------------------------------------------------------------
+
+Title:
 OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat
 
 Published:
@@ -187,21 +202,6 @@ The post <a href="https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-ris
 
 URL:
 https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/
-
-------------------------------------------------------------
-
-Title:
-Threat Brief: Mitigating Large-Scale Credential Attacks
-
-Published:
-Sat, 20 Jun 2026 02:05:33 +0000
-
-Summary:
-We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. 
-The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-attacks/">Threat Brief: Mitigating Large-Scale Credential Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
 
 ------------------------------------------------------------
 
@@ -583,6 +583,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access
+
+Published:
+Thu, 25 Jun 2026 22:30:29 +0000
+
+Summary:
+Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/">Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/
+
+------------------------------------------------------------
+
+Title:
 Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms
 
 Published:
@@ -609,21 +624,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/
-
-------------------------------------------------------------
-
-Title:
-StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them
-
-Published:
-Wed, 24 Jun 2026 12:30:00 +0000
-
-Summary:
-On June 24, 2026, Microsoft’s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/">StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/
 
 ------------------------------------------------------------
 
