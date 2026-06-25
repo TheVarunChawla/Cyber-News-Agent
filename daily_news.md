@@ -57,6 +57,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Google releases new privacy controls for activity history, personalization
+
+Published:
+Wed, 24 Jun 2026 19:46:17 -0400
+
+Summary:
+Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/
+
+------------------------------------------------------------
+
+Title:
 DraftKings hacker 'Snoopy' sentenced to 18 months in prison
 
 Published:
@@ -81,20 +95,6 @@ New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN 
 
 URL:
 https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/
-
-------------------------------------------------------------
-
-Title:
-Malicious Edge extension abuses Native Messaging as bridge to malware
-
-Published:
-Wed, 24 Jun 2026 16:58:22 -0400
-
-Summary:
-A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/
 
 ------------------------------------------------------------
 
