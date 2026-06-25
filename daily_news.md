@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories
+
+Published:
+Thu, 25 Jun 2026 17:54:43 +0530
+
+Summary:
+It’s dumb out there again.
+
+This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was not enough hell already.
+
+The worst part is how cheap some of it feels. Not elite. Not cinematic.
+
+URL:
+https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html
+
+------------------------------------------------------------
+
+Title:
+Surviving the Mythos Era: Richard Bejtlich on the Case for NDR
+
+Published:
+Thu, 25 Jun 2026 16:47:31 +0530
+
+Summary:
+Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context?
+
+Answering these questions requires teams to go beyond alerts, the most common basis for initial triage. But investigations (and their outcomes)
+
+URL:
+https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html
+
+------------------------------------------------------------
+
+Title:
 New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis
 
 Published:
@@ -17,38 +51,6 @@ The malware has been codenamed Gaslight owing to this deceptive behavior. It's b
 
 URL:
 https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html
-
-------------------------------------------------------------
-
-Title:
-New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns
-
-Published:
-Thu, 25 Jun 2026 14:24:37 +0530
-
-Summary:
-A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026.
-
-According to Symantec and Carbon Black's Threat Hunter Team, the backdoor, also tracked as MLTBackdoor, is said to be linked to an initial access broker (IAB) named
-
-URL:
-https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html
-
-------------------------------------------------------------
-
-Title:
-Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access
-
-Published:
-Thu, 25 Jun 2026 11:16:54 +0530
-
-Summary:
-An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant.
-
-The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authenticated, local attacker to execute arbitrary commands with elevated privileges
-
-URL:
-https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html
 
 ------------------------------------------------------------
 
@@ -81,20 +83,6 @@ A 21-year-old using the alias "Snoopy" was sentenced to 18 months in prison for 
 
 URL:
 https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/
-
-------------------------------------------------------------
-
-Title:
-Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access
-
-Published:
-Wed, 24 Jun 2026 17:29:10 -0400
-
-Summary:
-New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/
 
 ------------------------------------------------------------
 
