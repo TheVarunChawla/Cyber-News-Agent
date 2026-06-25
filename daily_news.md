@@ -5,6 +5,24 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability
+
+Published:
+Thu, 25 Jun 2026 19:42:52 +0530
+
+Summary:
+An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.
+
+According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store.
+
+The extension description states that it allows users to prevent web
+
+URL:
+https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html
+
+------------------------------------------------------------
+
+Title:
 ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories
 
 Published:
@@ -38,51 +56,49 @@ https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html
 
 ------------------------------------------------------------
 
-Title:
-New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis
-
-Published:
-Thu, 25 Jun 2026 14:53:03 +0530
-
-Summary:
-A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact.
-
-The malware has been codenamed Gaslight owing to this deceptive behavior. It's been assessed with high confidence that the tool is
-
-URL:
-https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Google releases new privacy controls for activity history, personalization
+PirloTV sports piracy network disrupted as 44 domains seized
 
 Published:
-Wed, 24 Jun 2026 19:46:17 -0400
+Thu, 25 Jun 2026 11:36:56 -0400
 
 Summary:
-Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]
+A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/
+https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/
 
 ------------------------------------------------------------
 
 Title:
-DraftKings hacker 'Snoopy' sentenced to 18 months in prison
+Bluekit phishing kit adopts browser-in-the-middle for login theft
 
 Published:
-Wed, 24 Jun 2026 17:55:43 -0400
+Thu, 25 Jun 2026 11:00:00 -0400
 
 Summary:
-A 21-year-old using the alias "Snoopy" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]
+The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/
+https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/
+
+------------------------------------------------------------
+
+Title:
+The Four Elevations of Effective Fraud Prevention
+
+Published:
+Thu, 25 Jun 2026 10:01:11 -0400
+
+Summary:
+Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/
 
 ------------------------------------------------------------
 
@@ -91,7 +107,35 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Microsoft, Europol lead international takedown against infostealer malware
+NIST offers security guidance for water utilities using remote-access tools
+
+Published:
+Thu, 25 Jun 2026 11:10:04 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/7xzWjRJQD709YYxhNzXJ0k22vUKC-9sco92QsJgsX6M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTMxMjc1LmpwZw==.webp" /></div></figure>Remote-access technology is one of the water sector&rsquo;s biggest cybersecurity weaknesses.
+
+URL:
+https://www.cybersecuritydive.com/news/water-utilities-remote-access-nist-guidance/823776/
+
+------------------------------------------------------------
+
+Title:
+As cyber risk continues to evolve, the insurance industry tightens its guardrails
+
+Published:
+Thu, 25 Jun 2026 10:21:44 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/XzHVMIv5DwCk7ftEqFZb3NMGjCicflku6CgpSLHvADw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NTA5ODY2NTZfZVJ5Z09XSS5qcGc=.webp" /></div></figure>C-suite executives are concerned about resilience, but claims are increasingly tied to strict underwriting standards.
+
+URL:
+https://www.cybersecuritydive.com/news/cyber-risk-insurance-industry-guardrails/823762/
+
+------------------------------------------------------------
+
+Title:
+Microsoft, Europol lead global takedown of infostealer malware
 
 Published:
 Wed, 24 Jun 2026 11:32:05 -0400
@@ -101,34 +145,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/microsoft-europol-international-takedown-infostealer-malware/823655/
-
-------------------------------------------------------------
-
-Title:
-Ransomware attacks grew in 2025 as traditional data breaches fell
-
-Published:
-Wed, 24 Jun 2026 11:13:21 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, the company also charted a massive surge in internet-exposed AI services.
-
-URL:
-https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
-
-------------------------------------------------------------
-
-Title:
-White House’s state infrastructure cybersecurity initiative stalled
-
-Published:
-Wed, 24 Jun 2026 09:37:00 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/DdqEFpCeaMtT5w-qT-QRDOwz7tyYWnqBXC3DOvozg8Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk0MzExNDUuanBn.webp" /></div></figure>The Trump administration says it wants to help states implement innovative defenses. Most states are still waiting for the call to participate.
-
-URL:
-https://www.cybersecuritydive.com/news/white-house-states-cybersecurity-pilot-programs-oncd/823453/
 
 ------------------------------------------------------------
 
