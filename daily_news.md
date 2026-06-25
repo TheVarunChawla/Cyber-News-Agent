@@ -61,6 +61,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Order-tracking app Shop abused to push callback phishing attacks
+
+Published:
+Thu, 25 Jun 2026 15:45:48 -0400
+
+Summary:
+Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/
+
+------------------------------------------------------------
+
+Title:
+Microsoft quietly extends free Windows 10 ESU support to October 2027
+
+Published:
+Thu, 25 Jun 2026 14:29:20 -0400
+
+Summary:
+Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/
+
+------------------------------------------------------------
+
+Title:
 New macOS malware embeds fake errors to confuse AI analysis tools
 
 Published:
@@ -71,34 +99,6 @@ A newly discovered macOS malware dubbed "Gaslight" is designed to confuse AI-as
 
 URL:
 https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/
-
-------------------------------------------------------------
-
-Title:
-PirloTV sports piracy network disrupted as 44 domains seized
-
-Published:
-Thu, 25 Jun 2026 11:36:56 -0400
-
-Summary:
-A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/
-
-------------------------------------------------------------
-
-Title:
-Bluekit phishing kit adopts browser-in-the-middle for login theft
-
-Published:
-Thu, 25 Jun 2026 11:00:00 -0400
-
-Summary:
-The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/
 
 ------------------------------------------------------------
 
