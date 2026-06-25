@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+New macOS malware embeds fake errors to confuse AI analysis tools
+
+Published:
+Thu, 25 Jun 2026 12:23:19 -0400
+
+Summary:
+A newly discovered macOS malware dubbed "Gaslight" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/
+
+------------------------------------------------------------
+
+Title:
 PirloTV sports piracy network disrupted as 44 domains seized
 
 Published:
@@ -85,20 +99,6 @@ The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 ne
 
 URL:
 https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/
-
-------------------------------------------------------------
-
-Title:
-The Four Elevations of Effective Fraud Prevention
-
-Published:
-Thu, 25 Jun 2026 10:01:11 -0400
-
-Summary:
-Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/
 
 ------------------------------------------------------------
 
@@ -210,6 +210,20 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
+Beyond IOCs: AI-enabled threat intelligence
+
+Published:
+Thu, 25 Jun 2026 18:00:26 GMT
+
+Summary:
+In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.
+
+URL:
+https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/
+
+------------------------------------------------------------
+
+Title:
 Introduction to COM usage by Windows threats
 
 Published:
@@ -234,20 +248,6 @@ In the latest Threat Source, Hazel channels her inner Spielberg to explore why h
 
 URL:
 https://blog.talosintelligence.com/close-encounters-of-the-human-kind/
-
-------------------------------------------------------------
-
-Title:
-Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model
-
-Published:
-Thu, 18 Jun 2026 10:00:05 GMT
-
-Summary:
-Cisco Talos detailed a new approach to reverse engineering that pairs local AI agents with traditional analysis tools like the VB6 disassembler vbdec. Instead of awkwardly bolting AI onto the software, vbdec exposes its parsed data through a live COM interface.
-
-URL:
-https://blog.talosintelligence.com/scripting-the-disassembler/
 
 ------------------------------------------------------------
 
@@ -583,6 +583,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms
+
+Published:
+Thu, 25 Jun 2026 16:00:00 +0000
+
+Summary:
+Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/
+
+------------------------------------------------------------
+
+Title:
 CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms
 
 Published:
@@ -609,21 +624,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/24/steal
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/
-
-------------------------------------------------------------
-
-Title:
-Guarding AI memory
-
-Published:
-Mon, 22 Jun 2026 19:07:28 +0000
-
-Summary:
-What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/">Guarding AI memory</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/
 
 ------------------------------------------------------------
 
