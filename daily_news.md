@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis
+
+Published:
+Thu, 25 Jun 2026 14:53:03 +0530
+
+Summary:
+A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact.
+
+The malware has been codenamed Gaslight owing to this deceptive behavior. It's been assessed with high confidence that the tool is
+
+URL:
+https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html
+
+------------------------------------------------------------
+
+Title:
+New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns
+
+Published:
+Thu, 25 Jun 2026 14:24:37 +0530
+
+Summary:
+A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026.
+
+According to Symantec and Carbon Black's Threat Hunter Team, the backdoor, also tracked as MLTBackdoor, is said to be linked to an initial access broker (IAB) named
+
+URL:
+https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html
+
+------------------------------------------------------------
+
+Title:
 Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access
 
 Published:
@@ -17,38 +49,6 @@ The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authen
 
 URL:
 https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html
-
-------------------------------------------------------------
-
-Title:
-CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited
-
-Published:
-Wed, 24 Jun 2026 22:49:18 +0530
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026.
-
-The vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution
-
-URL:
-https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html
-
-------------------------------------------------------------
-
-Title:
-Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered
-
-Published:
-Wed, 24 Jun 2026 21:29:50 +0530
-
-Summary:
-A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC.
-
-"The main common goal was to disrupt the 'assembly lines' cybercriminals use to launch ransomware, financial fraud, and attacks on critical infrastructure," Europol said in
-
-URL:
-https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html
 
 ------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Published:
 Wed, 24 Jun 2026 11:13:21 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, Bitsight charted a massive surge in internet-exposed AI services.
+<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, the company also charted a massive surge in internet-exposed AI services.
 
 URL:
 https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
@@ -206,6 +206,20 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
+Introduction to COM usage by Windows threats
+
+Published:
+Thu, 25 Jun 2026 10:00:26 GMT
+
+Summary:
+Component Object Model (COM) is a fundamental Windows technology used by legitimate applications for object activation, inter-process communication, automation and language-independent component reuse. Those same qualities make it useful to threat actors.
+
+URL:
+https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/
+
+------------------------------------------------------------
+
+Title:
 Close Encounters of the Human Kind
 
 Published:
@@ -230,20 +244,6 @@ Cisco Talos detailed a new approach to reverse engineering that pairs local AI a
 
 URL:
 https://blog.talosintelligence.com/scripting-the-disassembler/
-
-------------------------------------------------------------
-
-Title:
-A tale of two eras
-
-Published:
-Thu, 11 Jun 2026 18:00:49 GMT
-
-Summary:
-In this week’s newsletter, Amy reminisces on the tech toys of their childhood, inspired by a hilarious lesson about why your digital privacy shouldn't be left on an open channel.
-
-URL:
-https://blog.talosintelligence.com/a-tale-of-two-eras/
 
 ------------------------------------------------------------
 
