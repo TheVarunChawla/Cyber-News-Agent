@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access
+
+Published:
+Thu, 25 Jun 2026 11:16:54 +0530
+
+Summary:
+An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant.
+
+The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authenticated, local attacker to execute arbitrary commands with elevated privileges
+
+URL:
+https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html
+
+------------------------------------------------------------
+
+Title:
 CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited
 
 Published:
@@ -33,22 +49,6 @@ A coordinated law enforcement operation, in partnership with private sector comp
 
 URL:
 https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html
-
-------------------------------------------------------------
-
-Title:
-Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks
-
-Published:
-Wed, 24 Jun 2026 18:18:11 +0530
-
-Summary:
-Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.
-
-The "critical exploitable pattern" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and
-
-URL:
-https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html
 
 ------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Published:
 Wed, 24 Jun 2026 11:13:21 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, the company also charted a massive surge in internet-exposed AI services.
+<figure><div><img src="https://imgproxy.divecdn.com/-XasLnMbLrWo0CnJyYzn1Kd9wNWiuKHEpiCN7Oo-t54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYW5zb213YXJlR2V0dHlJbWFnZXMtMjAyMjY4OTI5M19jb3B5X0dMRk5oclQuanBlZw==.webp" /></div></figure>In a new report, Bitsight charted a massive surge in internet-exposed AI services.
 
 URL:
 https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
