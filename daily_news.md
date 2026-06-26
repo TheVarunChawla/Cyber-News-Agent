@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack
+
+Published:
+Fri, 26 Jun 2026 16:35:45 +0530
+
+Summary:
+Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.
+
+"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go
+
+URL:
+https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html
+
+------------------------------------------------------------
+
+Title:
+Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant
+
+Published:
+Fri, 26 Jun 2026 14:57:12 +0530
+
+Summary:
+An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says.
+
+The company has not attributed the activity to a known threat actor, and the operators' end goal is still unclear.
+
+The lure plays to how hotels work.
+
+URL:
+https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html
+
+------------------------------------------------------------
+
+Title:
 Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff
 
 Published:
@@ -17,40 +51,6 @@ The finding, published June 25 by the Citizen Lab, rests on two things that rare
 
 URL:
 https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html
-
-------------------------------------------------------------
-
-Title:
-Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks
-
-Published:
-Fri, 26 Jun 2026 12:45:46 +0530
-
-Summary:
-The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy.
-
-Describing the Windows backdoor as continually developed by the hacking group, Google Threat Intelligence Group (
-
-URL:
-https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html
-
-------------------------------------------------------------
-
-Title:
-Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability
-
-Published:
-Thu, 25 Jun 2026 19:42:52 +0530
-
-Summary:
-An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.
-
-According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store.
-
-The extension description states that it allows users to prevent web
-
-URL:
-https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html
 
 ------------------------------------------------------------
 
