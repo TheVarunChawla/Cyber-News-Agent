@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks
+
+Published:
+Fri, 26 Jun 2026 23:47:46 +0530
+
+Summary:
+A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts.
+
+Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign has targeted a diplomatic organization in Indonesia, government organizations in Taiwan,
+
+URL:
+https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html
+
+------------------------------------------------------------
+
+Title:
 Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign
 
 Published:
@@ -36,27 +52,37 @@ https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html
 
 ------------------------------------------------------------
 
-Title:
-Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs
-
-Published:
-Fri, 26 Jun 2026 19:23:00 +0530
-
-Summary:
-A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it.
-
-Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers.
-
-Wiz
-
-URL:
-https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Polymarket customers lose $3 million in supply-chain attack
+
+Published:
+Fri, 26 Jun 2026 14:04:12 -0400
+
+Summary:
+Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/
+
+------------------------------------------------------------
+
+Title:
+Cybersecurity firms targeted by fraudulent OpenAI organization invites
+
+Published:
+Fri, 26 Jun 2026 13:49:07 -0400
+
+Summary:
+Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/
+
+------------------------------------------------------------
 
 Title:
 Your First GRC Agent: A Red Teamer's Walkthrough
@@ -69,34 +95,6 @@ AI won't replace GRC analysts, but it can eliminate much of the repetitive work 
 
 URL:
 https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/
-
-------------------------------------------------------------
-
-Title:
-Anthropic is testing desktop-like Claude Cowork for mobile
-
-Published:
-Thu, 25 Jun 2026 18:53:32 -0400
-
-Summary:
-Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/
-
-------------------------------------------------------------
-
-Title:
-Poland busts SIM-swapping gang tied to millions in crypto theft
-
-Published:
-Thu, 25 Jun 2026 18:37:42 -0400
-
-Summary:
-Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/
 
 ------------------------------------------------------------
 
