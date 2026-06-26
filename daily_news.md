@@ -57,6 +57,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+FBI: Russian hackers now target Signal backup recovery keys
+
+Published:
+Fri, 26 Jun 2026 18:06:17 -0400
+
+Summary:
+The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/
+
+------------------------------------------------------------
+
+Title:
 CISA sets urgent deadline to fix Cisco flaw exploited in attacks
 
 Published:
@@ -81,20 +95,6 @@ Polymarket says it will fully reimburse customers who lost an estimated $3 milli
 
 URL:
 https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/
-
-------------------------------------------------------------
-
-Title:
-Cybersecurity firms targeted by fraudulent OpenAI organization invites
-
-Published:
-Fri, 26 Jun 2026 13:49:07 -0400
-
-Summary:
-Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/
 
 ------------------------------------------------------------
 
