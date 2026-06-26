@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign
+
+Published:
+Fri, 26 Jun 2026 21:51:25 +0530
+
+Summary:
+A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia.
+
+The activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks
+
+URL:
+https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html
+
+------------------------------------------------------------
+
+Title:
 New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries
 
 Published:
@@ -35,22 +51,6 @@ Wiz
 
 URL:
 https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html
-
-------------------------------------------------------------
-
-Title:
-CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue
-
-Published:
-Fri, 26 Jun 2026 18:01:56 +0530
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The vulnerability in question is
-
-URL:
-https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html
 
 ------------------------------------------------------------
 
@@ -105,44 +105,44 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
+Software, AI companies form alliance to tackle open-source security flaws
+
+Published:
+Fri, 26 Jun 2026 10:34:51 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/M3HPAJxk-UrOmMQzGWIW6sOTLiZCCLRWWc9mr7XuCAc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZXR0eWltYWdlcy02NTUxNDY5NTYtMTcwNjY3YS5qcGc=.webp" /></div></figure>The emergence of frontier AI models has increased the speed and capabilities of malicious hackers.
+
+URL:
+https://www.cybersecuritydive.com/news/software-ai-alliance-open-source-security-flaws/823889/
+
+------------------------------------------------------------
+
+Title:
+FCC requires emergency alert distributors to secure their systems
+
+Published:
+Fri, 26 Jun 2026 10:23:16 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/q6Q9Xbly4im6ICq2Yv8hEzD1cE9po0GM7wDH2sIOMu8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mY2MuanBn.webp" /></div></figure>More than a decade after a high-profile hacking campaign, the commission is moving from recommending basic security protocols to requiring them.
+
+URL:
+https://www.cybersecuritydive.com/news/fcc-emergency-alerts-cybersecurity-requirements/823880/
+
+------------------------------------------------------------
+
+Title:
 AWS unveils agent security, data access tools
 
 Published:
 Fri, 26 Jun 2026 08:23:00 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/FDuOWVuXvsWn1VdWptaxYr_fRq0kg7vlXCEcD7vTYG0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMTdfYXRfMi40Mi4yNFBNLnBuZw==.webp" /></div></figure>The updates reflect Anthropic's Mythos model and the speed at which vulnerabilities can be surfaced.
+<figure><div><img src="https://imgproxy.divecdn.com/FDuOWVuXvsWn1VdWptaxYr_fRq0kg7vlXCEcD7vTYG0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMTdfYXRfMi40Mi4yNFBNLnBuZw==.webp" /></div></figure>The updates reflect Anthropic&rsquo;s Mythos model and the speed at which vulnerabilities can be surfaced.
 
 URL:
 https://www.cybersecuritydive.com/news/aws-continuum-ai-security-claude-mythos/823393/
-
-------------------------------------------------------------
-
-Title:
-NIST offers security guidance for water utilities using remote-access tools
-
-Published:
-Thu, 25 Jun 2026 11:10:04 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/7xzWjRJQD709YYxhNzXJ0k22vUKC-9sco92QsJgsX6M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTMxMjc1LmpwZw==.webp" /></div></figure>The technology is one of the water sector&rsquo;s biggest cybersecurity weaknesses.
-
-URL:
-https://www.cybersecuritydive.com/news/water-utilities-remote-access-nist-guidance/823776/
-
-------------------------------------------------------------
-
-Title:
-As cyber risk evolves, the insurance industry tightens guardrails
-
-Published:
-Thu, 25 Jun 2026 10:21:44 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/XzHVMIv5DwCk7ftEqFZb3NMGjCicflku6CgpSLHvADw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NTA5ODY2NTZfZVJ5Z09XSS5qcGc=.webp" /></div></figure>C-suite executives are concerned about resilience, but claims are increasingly tied to strict underwriting standards.
-
-URL:
-https://www.cybersecuritydive.com/news/cyber-risk-insurance-industry-guardrails/823762/
 
 ------------------------------------------------------------
 
