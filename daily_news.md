@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff
+
+Published:
+Fri, 26 Jun 2026 14:19:35 +0530
+
+Summary:
+Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus.
+
+The finding, published June 25 by the Citizen Lab, rests on two things that rarely line up: traces on the phone itself and an official Russian
+
+URL:
+https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html
+
+------------------------------------------------------------
+
+Title:
+Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks
+
+Published:
+Fri, 26 Jun 2026 12:45:46 +0530
+
+Summary:
+The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy.
+
+Describing the Windows backdoor as continually developed by the hacking group, Google Threat Intelligence Group (
+
+URL:
+https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html
+
+------------------------------------------------------------
+
+Title:
 Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability
 
 Published:
@@ -19,40 +51,6 @@ The extension description states that it allows users to prevent web
 
 URL:
 https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html
-
-------------------------------------------------------------
-
-Title:
-ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories
-
-Published:
-Thu, 25 Jun 2026 17:54:43 +0530
-
-Summary:
-It’s dumb out there again.
-
-This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was not enough hell already.
-
-The worst part is how cheap some of it feels. Not elite. Not cinematic.
-
-URL:
-https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html
-
-------------------------------------------------------------
-
-Title:
-Surviving the Mythos Era: Richard Bejtlich on the Case for NDR
-
-Published:
-Thu, 25 Jun 2026 16:47:31 +0530
-
-Summary:
-Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context?
-
-Answering these questions requires teams to go beyond alerts, the most common basis for initial triage. But investigations (and their outcomes)
-
-URL:
-https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html
 
 ------------------------------------------------------------
 
