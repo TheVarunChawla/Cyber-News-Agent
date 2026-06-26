@@ -5,58 +5,72 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack
+New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries
 
 Published:
-Fri, 26 Jun 2026 16:35:45 +0530
+Fri, 26 Jun 2026 19:27:55 +0530
 
 Summary:
-Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.
+A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.
 
-"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go
+CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared within a day of the CVE assignment on June 16. Red Hat rates the flaw as
 
 URL:
-https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html
+https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html
 
 ------------------------------------------------------------
 
 Title:
-Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant
+Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs
 
 Published:
-Fri, 26 Jun 2026 14:57:12 +0530
+Fri, 26 Jun 2026 19:23:00 +0530
 
 Summary:
-An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says.
+A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it.
 
-The company has not attributed the activity to a known threat actor, and the operators' end goal is still unclear.
+Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers.
 
-The lure plays to how hotels work.
+Wiz
 
 URL:
-https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html
+https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html
 
 ------------------------------------------------------------
 
 Title:
-Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff
+CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue
 
 Published:
-Fri, 26 Jun 2026 14:19:35 +0530
+Fri, 26 Jun 2026 18:01:56 +0530
 
 Summary:
-Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
 
-The finding, published June 25 by the Citizen Lab, rests on two things that rarely line up: traces on the phone itself and an official Russian
+The vulnerability in question is
 
 URL:
-https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html
+https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Your First GRC Agent: A Red Teamer's Walkthrough
+
+Published:
+Fri, 26 Jun 2026 10:01:11 -0400
+
+Summary:
+AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/
+
+------------------------------------------------------------
 
 Title:
 Anthropic is testing desktop-like Claude Cowork for mobile
@@ -86,23 +100,23 @@ https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-ti
 
 ------------------------------------------------------------
 
-Title:
-Order-tracking app Shop abused to push callback phishing attacks
-
-Published:
-Thu, 25 Jun 2026 15:45:48 -0400
-
-Summary:
-Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+AWS unveils agent security, data access tools
+
+Published:
+Fri, 26 Jun 2026 08:23:00 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/FDuOWVuXvsWn1VdWptaxYr_fRq0kg7vlXCEcD7vTYG0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMTdfYXRfMi40Mi4yNFBNLnBuZw==.webp" /></div></figure>The updates reflect Anthropic's Mythos model and the speed at which vulnerabilities can be surfaced.
+
+URL:
+https://www.cybersecuritydive.com/news/aws-continuum-ai-security-claude-mythos/823393/
+
+------------------------------------------------------------
 
 Title:
 NIST offers security guidance for water utilities using remote-access tools
@@ -111,7 +125,7 @@ Published:
 Thu, 25 Jun 2026 11:10:04 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/7xzWjRJQD709YYxhNzXJ0k22vUKC-9sco92QsJgsX6M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTMxMjc1LmpwZw==.webp" /></div></figure>Remote-access technology is one of the water sector&rsquo;s biggest cybersecurity weaknesses.
+<figure><div><img src="https://imgproxy.divecdn.com/7xzWjRJQD709YYxhNzXJ0k22vUKC-9sco92QsJgsX6M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTMxMjc1LmpwZw==.webp" /></div></figure>The technology is one of the water sector&rsquo;s biggest cybersecurity weaknesses.
 
 URL:
 https://www.cybersecuritydive.com/news/water-utilities-remote-access-nist-guidance/823776/
@@ -119,7 +133,7 @@ https://www.cybersecuritydive.com/news/water-utilities-remote-access-nist-guidan
 ------------------------------------------------------------
 
 Title:
-As cyber risk continues to evolve, the insurance industry tightens its guardrails
+As cyber risk evolves, the insurance industry tightens guardrails
 
 Published:
 Thu, 25 Jun 2026 10:21:44 -0400
@@ -129,20 +143,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/cyber-risk-insurance-industry-guardrails/823762/
-
-------------------------------------------------------------
-
-Title:
-Microsoft, Europol lead global takedown of infostealer malware
-
-Published:
-Wed, 24 Jun 2026 11:32:05 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp" /></div></figure>Cybercriminals used Amadey and StealC to infect thousands of computers worldwide, leading to ransomware and other digital crimes.
-
-URL:
-https://www.cybersecuritydive.com/news/microsoft-europol-international-takedown-infostealer-malware/823655/
 
 ------------------------------------------------------------
 
