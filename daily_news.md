@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys
+
+Published:
+Sat, 27 Jun 2026 01:08:29 +0530
+
+Summary:
+The FBI and CISA have updated their March warning about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key.
+
+Hand it over once, and the attacker can restore the account's backup, read the private and group message history, and take over the account. Worse, the key keeps working.
+
+URL:
+https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
+
+------------------------------------------------------------
+
+Title:
 New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks
 
 Published:
@@ -36,25 +52,23 @@ https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html
 
 ------------------------------------------------------------
 
-Title:
-New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries
-
-Published:
-Fri, 26 Jun 2026 19:27:55 +0530
-
-Summary:
-A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.
-
-CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared within a day of the CVE assignment on June 16. Red Hat rates the flaw as
-
-URL:
-https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+CISA sets urgent deadline to fix Cisco flaw exploited in attacks
+
+Published:
+Fri, 26 Jun 2026 15:43:06 -0400
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/
+
+------------------------------------------------------------
 
 Title:
 Polymarket customers lose $3 million in supply-chain attack
@@ -81,20 +95,6 @@ Threat actors are creating OpenAI tenants that impersonate legitimate companies 
 
 URL:
 https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/
-
-------------------------------------------------------------
-
-Title:
-Your First GRC Agent: A Red Teamer's Walkthrough
-
-Published:
-Fri, 26 Jun 2026 10:01:11 -0400
-
-Summary:
-AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/
 
 ------------------------------------------------------------
 
@@ -157,6 +157,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Threat Brief: Mitigating Large-Scale Credential Attacks
+
+Published:
+Fri, 26 Jun 2026 19:05:33 +0000
+
+Summary:
+We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. 
+The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-attacks/">Threat Brief: Mitigating Large-Scale Credential Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
+
+------------------------------------------------------------
+
+Title:
 CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure
 
 Published:
@@ -183,21 +198,6 @@ The post <a href="https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-r
 
 URL:
 https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/
-
-------------------------------------------------------------
-
-Title:
-The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration
-
-Published:
-Mon, 22 Jun 2026 22:00:04 +0000
-
-Summary:
-Unit 42 research details how attackers could exploit global name uniqueness in bucket hijacking to redirect cloud data streams across major CSPs.
-The post <a href="https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/">The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/
 
 ------------------------------------------------------------
 
