@@ -5,6 +5,24 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards
+
+Published:
+Sat, 27 Jun 2026 17:49:37 +0530
+
+Summary:
+OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.
+
+While Sol is the latest flagship model and the most powerful, Terra strikes a balance between efficiency and power, and Luna is fine-tuned for speed and affordability.
+
+"GPT‑5.6 Sol launches with our most
+
+URL:
+https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html
+
+------------------------------------------------------------
+
+Title:
 FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys
 
 Published:
@@ -33,22 +51,6 @@ Kaspersky, which is tracking the activity under the moniker StrikeShark, said th
 
 URL:
 https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html
-
-------------------------------------------------------------
-
-Title:
-Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign
-
-Published:
-Fri, 26 Jun 2026 21:51:25 +0530
-
-Summary:
-A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia.
-
-The activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks
-
-URL:
-https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html
 
 ------------------------------------------------------------
 
