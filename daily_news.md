@@ -119,7 +119,7 @@ https://www.cybersecuritydive.com/news/software-ai-alliance-open-source-security
 ------------------------------------------------------------
 
 Title:
-FCC requires emergency-alert distributors to secure their systems
+FCC requires emergency alert distributors to secure their systems
 
 Published:
 Fri, 26 Jun 2026 10:23:16 -0400
