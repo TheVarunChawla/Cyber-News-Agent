@@ -59,6 +59,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Clean GitHub repo tricks AI coding agents into running malware
+
+Published:
+Sat, 27 Jun 2026 10:22:36 -0400
+
+Summary:
+An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/
+
+------------------------------------------------------------
+
+Title:
 FBI: Russian hackers now target Signal backup recovery keys
 
 Published:
@@ -83,20 +97,6 @@ The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving feder
 
 URL:
 https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/
-
-------------------------------------------------------------
-
-Title:
-Polymarket customers lose $3 million in supply-chain attack
-
-Published:
-Fri, 26 Jun 2026 14:04:12 -0400
-
-Summary:
-Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/
 
 ------------------------------------------------------------
 
