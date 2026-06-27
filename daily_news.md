@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials
+
+Published:
+Sat, 27 Jun 2026 22:57:11 +0530
+
+Summary:
+The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in Ukraine, Europe, and the U.S.
+
+The systematic cyber attacks aimed at stealing sensitive
+
+URL:
+https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html
+
+------------------------------------------------------------
+
+Title:
 OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards
 
 Published:
@@ -35,22 +51,6 @@ Hand it over once, and the attacker can restore the account's backup, read the p
 
 URL:
 https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
-
-------------------------------------------------------------
-
-Title:
-New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks
-
-Published:
-Fri, 26 Jun 2026 23:47:46 +0530
-
-Summary:
-A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts.
-
-Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign has targeted a diplomatic organization in Indonesia, government organizations in Taiwan,
-
-URL:
-https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html
 
 ------------------------------------------------------------
 
