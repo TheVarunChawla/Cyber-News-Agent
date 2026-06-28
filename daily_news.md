@@ -58,6 +58,48 @@ https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
 SOURCE : BleepingComputer
 ============================================================
 
+Title:
+Data breach exposes up to 14.2 million email logins at six ISPs
+
+Published:
+Sun, 28 Jun 2026 10:13:46 -0400
+
+Summary:
+Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/
+
+------------------------------------------------------------
+
+Title:
+Clean GitHub repo tricks AI coding agents into running malware
+
+Published:
+Sat, 27 Jun 2026 10:22:36 -0400
+
+Summary:
+An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/
+
+------------------------------------------------------------
+
+Title:
+FBI: Russian hackers now target Signal backup recovery keys
+
+Published:
+Fri, 26 Jun 2026 18:06:17 -0400
+
+Summary:
+The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
