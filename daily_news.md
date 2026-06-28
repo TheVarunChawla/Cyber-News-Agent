@@ -59,6 +59,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Data breach exposes up to 14.2 million email logins at six ISPs
+
+Published:
+Sun, 28 Jun 2026 10:13:46 -0400
+
+Summary:
+Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/
+
+------------------------------------------------------------
+
+Title:
 Clean GitHub repo tricks AI coding agents into running malware
 
 Published:
@@ -83,20 +97,6 @@ The FBI and CISA are warning that a phishing campaign targeting Signal users tie
 
 URL:
 https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/
-
-------------------------------------------------------------
-
-Title:
-CISA sets urgent deadline to fix Cisco flaw exploited in attacks
-
-Published:
-Fri, 26 Jun 2026 15:43:06 -0400
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/
 
 ------------------------------------------------------------
 
