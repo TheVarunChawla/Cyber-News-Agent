@@ -5,54 +5,90 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers
+WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private
 
 Published:
-Mon, 29 Jun 2026 17:27:40 +0530
+Mon, 29 Jun 2026 21:39:21 +0530
 
 Summary:
-New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App.
+WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform.
 
-The templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation
+The optional feature is designed to help users connect with someone on the service through usernames, as opposed to directly sharing their phone numbers. Username reservations will start rolling out starting today,
 
 URL:
-https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html
+https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html
 
 ------------------------------------------------------------
 
 Title:
-Why Post-Quantum Cryptography Starts With Credentials
+Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks
 
 Published:
-Mon, 29 Jun 2026 17:12:16 +0530
+Mon, 29 Jun 2026 20:33:40 +0530
 
 Summary:
-Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by
+The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel.
+
+Acronis Threat Research Unit found active compromises inside Indian government networks, including machines used by senior administrative staff, and worked with 
 
 URL:
-https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html
+https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html
 
 ------------------------------------------------------------
 
 Title:
-Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse
+⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More
 
 Published:
-Mon, 29 Jun 2026 17:10:24 +0530
+Mon, 29 Jun 2026 20:11:07 +0530
 
 Summary:
-A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.
+This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.
 
-Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these
+The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting.
+
+Here’s the full Monday recap.
+
+⚡ Threat of the Week
+
+New DirtyClone Linux Kernel Flaw Lets Local
 
 URL:
-https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html
+https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Microsoft extends Windows Server 2022 hotpatching until October 2027
+
+Published:
+Mon, 29 Jun 2026 13:11:15 -0400
+
+Summary:
+Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/
+
+------------------------------------------------------------
+
+Title:
+U.S. offers $10 million for hackers targeting WhatsApp, Signal users
+
+Published:
+Mon, 29 Jun 2026 11:09:43 -0400
+
+Summary:
+The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/
+
+------------------------------------------------------------
 
 Title:
 Agentic AI Has an Identity Problem and Attackers Know It
@@ -68,37 +104,37 @@ https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-proble
 
 ------------------------------------------------------------
 
-Title:
-Critical SimpleHelp flaw exploited to deploy new stealer malware
-
-Published:
-Mon, 29 Jun 2026 10:00:00 -0400
-
-Summary:
-Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/
-
-------------------------------------------------------------
-
-Title:
-Hackers now exploit critical Oracle E-Business flaw in attacks
-
-Published:
-Mon, 29 Jun 2026 09:46:17 -0400
-
-Summary:
-Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Insurance body confirms hackers posted Oracle PeopleSoft breach data
+
+Published:
+Mon, 29 Jun 2026 11:10:57 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/PW_Pz6nukNi5n47k75VaVoRXoJO1qMaWoOhpL7myW5A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMjE0NTAzNzMwNDI3MDg0LktsbFU3OWR0V0lWOEhneFczTERrX2hlaWdodDY0MC5wbmc=.webp" /></div></figure>NAIC warned that some ratings agencies have suspended data feeds as a precaution. 
+
+URL:
+https://www.cybersecuritydive.com/news/insurance-body-hackers-oracle-peoplesoft-breach-data/823978/
+
+------------------------------------------------------------
+
+Title:
+OpenAI voluntarily limits new AI models at government’s request
+
+Published:
+Mon, 29 Jun 2026 10:22:28 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/j86tkTymFfZtpYkXBMUvHHrLFlzs4f8sBupbaxYOCyQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExXzJzY2dRWG8uanBn.webp" /></div></figure>The company said it was working with the government on a more formal process for reviewing model releases.
+
+URL:
+https://www.cybersecuritydive.com/news/openai-model-government-limit-request/823966/
+
+------------------------------------------------------------
 
 Title:
 From mythos to reality: Why the 2026 state of pentesting report proves the need for programmatic defenses
@@ -111,34 +147,6 @@ AI can find zero-days in minutes. Your defense strategy must evolve now.
 
 URL:
 https://www.cybersecuritydive.com/spons/from-mythos-to-reality-why-the-2026-state-of-pentesting-report-proves-the/823726/
-
-------------------------------------------------------------
-
-Title:
-Software, AI companies form alliance to tackle open-source security flaws
-
-Published:
-Fri, 26 Jun 2026 10:34:51 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/M3HPAJxk-UrOmMQzGWIW6sOTLiZCCLRWWc9mr7XuCAc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZXR0eWltYWdlcy02NTUxNDY5NTYtMTcwNjY3YS5qcGc=.webp" /></div></figure>The emergence of frontier AI models has increased the speed and capabilities of malicious hackers.
-
-URL:
-https://www.cybersecuritydive.com/news/software-ai-alliance-open-source-security-flaws/823889/
-
-------------------------------------------------------------
-
-Title:
-FCC requires emergency-alert distributors to secure their systems
-
-Published:
-Fri, 26 Jun 2026 10:23:16 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/q6Q9Xbly4im6ICq2Yv8hEzD1cE9po0GM7wDH2sIOMu8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mY2MuanBn.webp" /></div></figure>More than a decade after a high-profile hacking campaign, the commission is moving from recommending basic security protocols to requiring them.
-
-URL:
-https://www.cybersecuritydive.com/news/fcc-emergency-alerts-cybersecurity-requirements/823880/
 
 ------------------------------------------------------------
 
