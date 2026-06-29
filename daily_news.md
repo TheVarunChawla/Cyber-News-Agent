@@ -57,6 +57,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Nissan discloses employee data breach linked to Oracle zero-day attacks
+
+Published:
+Mon, 29 Jun 2026 16:40:44 -0400
+
+Summary:
+Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/
+
+------------------------------------------------------------
+
+Title:
+NAIC says public data stolen in ShinyHunters' PeopleSoft breach
+
+Published:
+Mon, 29 Jun 2026 16:30:28 -0400
+
+Summary:
+The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/
+
+------------------------------------------------------------
+
+Title:
 WhatsApp rolls out usernames to help users hide their phone number
 
 Published:
@@ -67,34 +95,6 @@ WhatsApp is finally allowing users to reserve usernames, a privacy feature that 
 
 URL:
 https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/
-
-------------------------------------------------------------
-
-Title:
-Microsoft extends Windows Server 2022 hotpatching until October 2027
-
-Published:
-Mon, 29 Jun 2026 13:11:15 -0400
-
-Summary:
-Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/
-
-------------------------------------------------------------
-
-Title:
-U.S. offers $10 million for hackers targeting WhatsApp, Signal users
-
-Published:
-Mon, 29 Jun 2026 11:09:43 -0400
-
-Summary:
-The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/
 
 ------------------------------------------------------------
 
