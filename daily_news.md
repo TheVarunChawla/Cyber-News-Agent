@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input
+
+Published:
+Tue, 30 Jun 2026 00:10:09 +0530
+
+Summary:
+Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results.
+
+Microsoft says Google removed it from the store after responsible disclosure. The extension was called "
+
+URL:
+https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html
+
+------------------------------------------------------------
+
+Title:
 WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private
 
 Published:
@@ -36,31 +52,23 @@ https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html
 
 ------------------------------------------------------------
 
-Title:
-⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More
-
-Published:
-Mon, 29 Jun 2026 20:11:07 +0530
-
-Summary:
-This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.
-
-The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting.
-
-Here’s the full Monday recap.
-
-⚡ Threat of the Week
-
-New DirtyClone Linux Kernel Flaw Lets Local
-
-URL:
-https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+WhatsApp rolls out usernames to help users hide their phone number
+
+Published:
+Mon, 29 Jun 2026 13:48:28 -0400
+
+Summary:
+WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/
+
+------------------------------------------------------------
 
 Title:
 Microsoft extends Windows Server 2022 hotpatching until October 2027
@@ -87,20 +95,6 @@ The U.S. Department of State is offering up to $10 million for information that 
 
 URL:
 https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/
-
-------------------------------------------------------------
-
-Title:
-Agentic AI Has an Identity Problem and Attackers Know It
-
-Published:
-Mon, 29 Jun 2026 10:01:11 -0400
-
-Summary:
-AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/
 
 ------------------------------------------------------------
 
@@ -585,6 +579,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Chromium extension uses AI‑related branding to redirect browser search
+
+Published:
+Mon, 29 Jun 2026 16:27:46 +0000
+
+Summary:
+A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/">Chromium extension uses AI‑related branding to redirect browser search</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/
+
+------------------------------------------------------------
+
+Title:
 Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access
 
 Published:
@@ -611,21 +620,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/25/micro
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/
-
-------------------------------------------------------------
-
-Title:
-CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms
-
-Published:
-Wed, 24 Jun 2026 18:00:00 +0000
-
-Summary:
-Learn how CNAPP platforms are helping organizations prioritize exploitable risks, reduce exposure, and operationalize security across the application lifecycle.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/">CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/
 
 ------------------------------------------------------------
 
