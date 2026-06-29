@@ -5,50 +5,48 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts
+236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers
 
 Published:
-Mon, 29 Jun 2026 14:02:31 +0530
+Mon, 29 Jun 2026 17:27:40 +0530
 
 Summary:
-Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud.
+New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App.
 
-The company calls it StegoAd, a mash-up of steganography and adware, and ties 119 extensions to a single threat actor it says has been active since at least 2021.
+The templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation
 
 URL:
-https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html
+https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html
 
 ------------------------------------------------------------
 
 Title:
-Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw
+Why Post-Quantum Cryptography Starts With Credentials
 
 Published:
-Mon, 29 Jun 2026 12:36:34 +0530
+Mon, 29 Jun 2026 17:12:16 +0530
 
 Summary:
-A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1.11.1 and carries a CVSS 4.0 score of 9.2.
-
-libssh2 is a client-side SSH library, not a server.
+Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by
 
 URL:
-https://thehackernews.com/2026/06/public-poc-released-for-critical.html
+https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html
 
 ------------------------------------------------------------
 
 Title:
-Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer
+Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse
 
 Published:
-Mon, 29 Jun 2026 11:06:06 +0530
+Mon, 29 Jun 2026 17:10:24 +0530
 
 Summary:
-Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts.
+A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.
 
-"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in an attempt to remain 'compatible' with npm v12's security hardenings," JFrog said in a
+Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these
 
 URL:
-https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html
+https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html
 
 ------------------------------------------------------------
 
@@ -57,44 +55,44 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Data breach exposes up to 14.2 million email logins at six ISPs
+Agentic AI Has an Identity Problem and Attackers Know It
 
 Published:
-Sun, 28 Jun 2026 10:13:46 -0400
+Mon, 29 Jun 2026 10:01:11 -0400
 
 Summary:
-Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]
+AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/
+https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/
 
 ------------------------------------------------------------
 
 Title:
-Clean GitHub repo tricks AI coding agents into running malware
+Critical SimpleHelp flaw exploited to deploy new stealer malware
 
 Published:
-Sat, 27 Jun 2026 10:22:36 -0400
+Mon, 29 Jun 2026 10:00:00 -0400
 
 Summary:
-An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]
+Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/
 
 ------------------------------------------------------------
 
 Title:
-FBI: Russian hackers now target Signal backup recovery keys
+Hackers now exploit critical Oracle E-Business flaw in attacks
 
 Published:
-Fri, 26 Jun 2026 18:06:17 -0400
+Mon, 29 Jun 2026 09:46:17 -0400
 
 Summary:
-The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]
+Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/
+https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/
 
 ------------------------------------------------------------
 
