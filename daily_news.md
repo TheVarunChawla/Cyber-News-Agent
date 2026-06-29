@@ -5,52 +5,50 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials
+Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts
 
 Published:
-Sat, 27 Jun 2026 22:57:11 +0530
+Mon, 29 Jun 2026 14:02:31 +0530
 
 Summary:
-The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in Ukraine, Europe, and the U.S.
+Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud.
 
-The systematic cyber attacks aimed at stealing sensitive
+The company calls it StegoAd, a mash-up of steganography and adware, and ties 119 extensions to a single threat actor it says has been active since at least 2021.
 
 URL:
-https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html
+https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html
 
 ------------------------------------------------------------
 
 Title:
-OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards
+Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw
 
 Published:
-Sat, 27 Jun 2026 17:49:37 +0530
+Mon, 29 Jun 2026 12:36:34 +0530
 
 Summary:
-OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.
+A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1.11.1 and carries a CVSS 4.0 score of 9.2.
 
-While Sol is the latest flagship model and the most powerful, Terra strikes a balance between efficiency and power, and Luna is fine-tuned for speed and affordability.
-
-"GPT‑5.6 Sol launches with our most
+libssh2 is a client-side SSH library, not a server.
 
 URL:
-https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html
+https://thehackernews.com/2026/06/public-poc-released-for-critical.html
 
 ------------------------------------------------------------
 
 Title:
-FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys
+Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer
 
 Published:
-Sat, 27 Jun 2026 01:08:29 +0530
+Mon, 29 Jun 2026 11:06:06 +0530
 
 Summary:
-The FBI and CISA have updated their March warning about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key.
+Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts.
 
-Hand it over once, and the attacker can restore the account's backup, read the private and group message history, and take over the account. Worse, the key keeps working.
+"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in an attempt to remain 'compatible' with npm v12's security hardenings," JFrog said in a
 
 URL:
-https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
+https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html
 
 ------------------------------------------------------------
 
@@ -105,6 +103,20 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
+From mythos to reality: Why the 2026 state of pentesting report proves the need for programmatic defenses
+
+Published:
+Mon, 29 Jun 2026 05:00:00 -0400
+
+Summary:
+AI can find zero-days in minutes. Your defense strategy must evolve now.
+
+URL:
+https://www.cybersecuritydive.com/spons/from-mythos-to-reality-why-the-2026-state-of-pentesting-report-proves-the/823726/
+
+------------------------------------------------------------
+
+Title:
 Software, AI companies form alliance to tackle open-source security flaws
 
 Published:
@@ -119,7 +131,7 @@ https://www.cybersecuritydive.com/news/software-ai-alliance-open-source-security
 ------------------------------------------------------------
 
 Title:
-FCC requires emergency alert distributors to secure their systems
+FCC requires emergency-alert distributors to secure their systems
 
 Published:
 Fri, 26 Jun 2026 10:23:16 -0400
@@ -129,20 +141,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/fcc-emergency-alerts-cybersecurity-requirements/823880/
-
-------------------------------------------------------------
-
-Title:
-AWS unveils agent security, data access tools
-
-Published:
-Fri, 26 Jun 2026 08:23:00 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/FDuOWVuXvsWn1VdWptaxYr_fRq0kg7vlXCEcD7vTYG0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMTdfYXRfMi40Mi4yNFBNLnBuZw==.webp" /></div></figure>The updates reflect Anthropic&rsquo;s Mythos model and the speed at which vulnerabilities can be surfaced.
-
-URL:
-https://www.cybersecuritydive.com/news/aws-continuum-ai-security-claude-mythos/823393/
 
 ------------------------------------------------------------
 
