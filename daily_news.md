@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints
+
+Published:
+Tue, 30 Jun 2026 21:17:20 +0530
+
+Summary:
+Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner.
+
+The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)
+
+URL:
+https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html
+
+------------------------------------------------------------
+
+Title:
+Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses
+
+Published:
+Tue, 30 Jun 2026 21:10:18 +0530
+
+Summary:
+Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction.
+
+The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs.
+
+"The campaign is delivered through unsigned installers – observed in both .NET and Golang variants – that
+
+URL:
+https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html
+
+------------------------------------------------------------
+
+Title:
 GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks
 
 Published:
@@ -20,43 +54,23 @@ https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html
 
 ------------------------------------------------------------
 
-Title:
-282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study
-
-Published:
-Tue, 30 Jun 2026 19:19:34 +0530
-
-Summary:
-Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic.
-
-In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all.
-
-Whoever grabs it can send model requests on the developer's account,
-
-URL:
-https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html
-
-------------------------------------------------------------
-
-Title:
-What the Numbers Say About FIFA 2026 Cyber Risk
-
-Published:
-Tue, 30 Jun 2026 17:00:00 +0530
-
-Summary:
-The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages.
-
-Check Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering
-
-URL:
-https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Fake Perplexity extension on Chrome Web Store tracked searches
+
+Published:
+Tue, 30 Jun 2026 11:46:19 -0400
+
+Summary:
+A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/
+
+------------------------------------------------------------
 
 Title:
 Lessons from the Underground: How to Combat Business Email Compromise
@@ -86,23 +100,23 @@ https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-d
 
 ------------------------------------------------------------
 
-Title:
-Microsoft adds smarter bot protection to Teams meetings
-
-Published:
-Tue, 30 Jun 2026 06:52:26 -0400
-
-Summary:
-Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Critical flaw in SimpleHelp exploited in attacks targeting sensitive credentials
+
+Published:
+Tue, 30 Jun 2026 11:18:03 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/VRjSPBKKhGx40_7fw_b7vqGWkpnQOx8PN3Z3nDkYcv4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTM0MjgxMTc1LmpwZw==.webp" /></div></figure>Researchers found two previously undisclosed malware samples used to steal AI assistant tokens and other valuable secrets.
+
+URL:
+https://www.cybersecuritydive.com/news/critical-flaw-simplehelp-exploited-attacks-credentials/824105/
+
+------------------------------------------------------------
 
 Title:
 DHS proposes new framework for public-private infrastructure security collaboration
@@ -129,20 +143,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/insurance-body-hackers-oracle-peoplesoft-breach-data/823978/
-
-------------------------------------------------------------
-
-Title:
-OpenAI voluntarily limits new AI models at government’s request
-
-Published:
-Mon, 29 Jun 2026 10:22:28 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/j86tkTymFfZtpYkXBMUvHHrLFlzs4f8sBupbaxYOCyQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExXzJzY2dRWG8uanBn.webp" /></div></figure>The company said Friday it was working with the government on a more formal process for reviewing model releases.
-
-URL:
-https://www.cybersecuritydive.com/news/openai-model-government-limit-request/823966/
 
 ------------------------------------------------------------
 
@@ -581,6 +581,36 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+​​What’s new in Microsoft Security: June 2026
+
+Published:
+Tue, 30 Jun 2026 16:00:00 +0000
+
+Summary:
+This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/">​​What’s new in Microsoft Security: June 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/
+
+------------------------------------------------------------
+
+Title:
+Securing AI agents: When AI tools move from reading to acting
+
+Published:
+Tue, 30 Jun 2026 15:57:11 +0000
+
+Summary:
+MCP tool poisoning turns trusted AI agents into a control plane for data loss. Learn how threat actors manipulate tool descriptions to trigger unauthorized actions, and how to detect, contain, and prevent it.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/">Securing AI agents: When AI tools move from reading to acting</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/
+
+------------------------------------------------------------
+
+Title:
 Chromium extension uses AI‑related branding to redirect browser search
 
 Published:
@@ -592,36 +622,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/29/chrom
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/
-
-------------------------------------------------------------
-
-Title:
-Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access
-
-Published:
-Thu, 25 Jun 2026 22:30:29 +0000
-
-Summary:
-Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/">Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/
-
-------------------------------------------------------------
-
-Title:
-Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms
-
-Published:
-Thu, 25 Jun 2026 16:00:00 +0000
-
-Summary:
-Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/
 
 ------------------------------------------------------------
 
