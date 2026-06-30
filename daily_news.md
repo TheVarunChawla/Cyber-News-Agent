@@ -5,6 +5,24 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild
+
+Published:
+Tue, 30 Jun 2026 10:34:06 +0530
+
+Summary:
+A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber.
+
+The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be abused to take over susceptible instances.
+
+"Easily exploitable vulnerability allows
+
+URL:
+https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html
+
+------------------------------------------------------------
+
+Title:
 Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input
 
 Published:
@@ -33,22 +51,6 @@ The optional feature is designed to help users connect with someone on the servi
 
 URL:
 https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html
-
-------------------------------------------------------------
-
-Title:
-Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks
-
-Published:
-Mon, 29 Jun 2026 20:33:40 +0530
-
-Summary:
-The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel.
-
-Acronis Threat Research Unit found active compromises inside Indian government networks, including machines used by senior administrative staff, and worked with 
-
-URL:
-https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html
 
 ------------------------------------------------------------
 
