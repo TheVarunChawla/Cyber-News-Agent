@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer
+
+Published:
+Tue, 30 Jun 2026 16:48:47 +0530
+
+Summary:
+An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer.
+
+The intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated
+
+URL:
+https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html
+
+------------------------------------------------------------
+
+Title:
+AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks
+
+Published:
+Tue, 30 Jun 2026 14:57:58 +0530
+
+Summary:
+Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network.
+
+An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt.
+
+The same research found Quick Share flaws that
+
+URL:
+https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html
+
+------------------------------------------------------------
+
+Title:
 New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials
 
 Published:
@@ -22,46 +56,37 @@ https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html
 
 ------------------------------------------------------------
 
-Title:
-Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth
-
-Published:
-Tue, 30 Jun 2026 13:08:07 +0530
-
-Summary:
-A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API.
-
-The flaw, tracked as CVE-2026-8037, carries a CVSS score of 9.8 according to ZDI. A patch is available. If you run LoadMaster with the API enabled, update now.
-
-Progress published its advisory on June
-
-URL:
-https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html
-
-------------------------------------------------------------
-
-Title:
-Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs
-
-Published:
-Tue, 30 Jun 2026 12:45:07 +0530
-
-Summary:
-Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security.
-
-The WebKit vulnerabilities are listed below -
-
-
-  CVE-2026-43707 - A memory corruption issue that could result in an
-
-URL:
-https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Insurance giant Aflac discloses data breach after subsidiary hack
+
+Published:
+Tue, 30 Jun 2026 07:12:18 -0400
+
+Summary:
+American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/
+
+------------------------------------------------------------
+
+Title:
+Microsoft adds smarter bot protection to Teams meetings
+
+Published:
+Tue, 30 Jun 2026 06:52:26 -0400
+
+Summary:
+Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/
+
+------------------------------------------------------------
 
 Title:
 Kali Linux 2026.2 released with 9 new tools, NetHunter updates
@@ -74,34 +99,6 @@ Kali Linux 2026.2, the second release of the year, is now available for downloa
 
 URL:
 https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/
-
-------------------------------------------------------------
-
-Title:
-Blackfield ransomware asks Nidec Corporation for $2 million ransom
-
-Published:
-Tue, 30 Jun 2026 05:41:05 -0400
-
-Summary:
-The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/
-
-------------------------------------------------------------
-
-Title:
-CISA: Windows BlueHammer flaw now exploited by ransomware gangs
-
-Published:
-Tue, 30 Jun 2026 04:53:13 -0400
-
-Summary:
-CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/
 
 ------------------------------------------------------------
 
@@ -130,7 +127,7 @@ Published:
 Mon, 29 Jun 2026 10:22:28 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/j86tkTymFfZtpYkXBMUvHHrLFlzs4f8sBupbaxYOCyQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExXzJzY2dRWG8uanBn.webp" /></div></figure>The company said Friday it was working with the government on a more formal process for reviewing model releases.
+<figure><div><img src="https://imgproxy.divecdn.com/j86tkTymFfZtpYkXBMUvHHrLFlzs4f8sBupbaxYOCyQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExXzJzY2dRWG8uanBn.webp" /></div></figure>The company said it was working with the government on a more formal process for reviewing model releases.
 
 URL:
 https://www.cybersecuritydive.com/news/openai-model-government-limit-request/823966/
