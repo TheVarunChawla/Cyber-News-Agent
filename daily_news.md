@@ -61,6 +61,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+New BioShocking attack manipulates AI browser into data theft
+
+Published:
+Tue, 30 Jun 2026 17:50:24 -0400
+
+Summary:
+A new prompt injection attack dubbed "BioShocking" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/
+
+------------------------------------------------------------
+
+Title:
+Microsoft accelerates quantum-safe roadmap as risks grow
+
+Published:
+Tue, 30 Jun 2026 17:20:06 -0400
+
+Summary:
+Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/
+
+------------------------------------------------------------
+
+Title:
 Malicious PyPI packages give hackers control of Telegram bot servers
 
 Published:
@@ -71,34 +99,6 @@ A campaign active since last November has been targeting Python developers build
 
 URL:
 https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/
-
-------------------------------------------------------------
-
-Title:
-Fake Perplexity extension on Chrome Web Store tracked searches
-
-Published:
-Tue, 30 Jun 2026 11:46:19 -0400
-
-Summary:
-A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/
-
-------------------------------------------------------------
-
-Title:
-Lessons from the Underground: How to Combat Business Email Compromise
-
-Published:
-Tue, 30 Jun 2026 10:00:10 -0400
-
-Summary:
-Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/
 
 ------------------------------------------------------------
 
