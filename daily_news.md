@@ -5,6 +5,42 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data
+
+Published:
+Tue, 30 Jun 2026 23:16:07 +0530
+
+Summary:
+New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider.
+
+The trick is that the agent never breaks a rule. Every step looks routine, so in a default setup no alarm may fire.
+
+The work comes from Microsoft Incident Response and its
+
+URL:
+https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html
+
+------------------------------------------------------------
+
+Title:
+RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS
+
+Published:
+Tue, 30 Jun 2026 23:15:25 +0530
+
+Summary:
+A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline.
+
+Researchers at QiAnXin's XLab have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing.
+
+The end goal is a
+
+URL:
+https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html
+
+------------------------------------------------------------
+
+Title:
 Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints
 
 Published:
@@ -17,40 +53,6 @@ The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an un
 
 URL:
 https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html
-
-------------------------------------------------------------
-
-Title:
-Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses
-
-Published:
-Tue, 30 Jun 2026 21:10:18 +0530
-
-Summary:
-Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction.
-
-The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs.
-
-"The campaign is delivered through unsigned installers – observed in both .NET and Golang variants – that
-
-URL:
-https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html
-
-------------------------------------------------------------
-
-Title:
-GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks
-
-Published:
-Tue, 30 Jun 2026 19:56:15 +0530
-
-Summary:
-The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades.
-
-New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, "Continue," was built to
-
-URL:
-https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html
 
 ------------------------------------------------------------
 
