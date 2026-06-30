@@ -5,60 +5,72 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer
+GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks
 
 Published:
-Tue, 30 Jun 2026 16:48:47 +0530
+Tue, 30 Jun 2026 19:56:15 +0530
 
 Summary:
-An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer.
+The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades.
 
-The intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated
+New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, "Continue," was built to
 
 URL:
-https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html
+https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html
 
 ------------------------------------------------------------
 
 Title:
-AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks
+282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study
 
 Published:
-Tue, 30 Jun 2026 14:57:58 +0530
+Tue, 30 Jun 2026 19:19:34 +0530
 
 Summary:
-Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network.
+Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic.
 
-An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt.
+In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all.
 
-The same research found Quick Share flaws that
+Whoever grabs it can send model requests on the developer's account,
 
 URL:
-https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html
+https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html
 
 ------------------------------------------------------------
 
 Title:
-New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials
+What the Numbers Say About FIFA 2026 Cyber Risk
 
 Published:
-Tue, 30 Jun 2026 14:07:19 +0530
+Tue, 30 Jun 2026 17:00:00 +0530
 
 Summary:
-Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker.
+The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages.
 
-The targets included OpenAI's ChatGPT Atlas, Perplexity's Comet, and Anthropic's Claude browser extension.
-
-An
+Check Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering
 
 URL:
-https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html
+https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Lessons from the Underground: How to Combat Business Email Compromise
+
+Published:
+Tue, 30 Jun 2026 10:00:10 -0400
+
+Summary:
+Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/
+
+------------------------------------------------------------
 
 Title:
 Insurance giant Aflac discloses data breach after subsidiary hack
@@ -84,27 +96,27 @@ Summary:
 Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/
-
-------------------------------------------------------------
-
-Title:
-Kali Linux 2026.2 released with 9 new tools, NetHunter updates
-
-Published:
-Tue, 30 Jun 2026 05:46:39 -0400
-
-Summary:
-Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+DHS proposes new framework for public-private infrastructure security collaboration
+
+Published:
+Tue, 30 Jun 2026 10:07:02 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/1fS6Kdr322ijnpsg-H0_IxzbccxrahQBHCwCBbRsbGE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ESFNHZXR0eUltYWdlcy0xMTY5MzY1MDA4LmpwZw==.webp" /></div></figure>The Trump administration eliminated the previous system in 2025, sparking a backlash from experts and infrastructure operators.
+
+URL:
+https://www.cybersecuritydive.com/news/critical-infrastructure-collaboration-dhs-anchor-ci/824081/
+
+------------------------------------------------------------
 
 Title:
 Insurance body confirms hackers posted Oracle PeopleSoft breach data
@@ -127,24 +139,10 @@ Published:
 Mon, 29 Jun 2026 10:22:28 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/j86tkTymFfZtpYkXBMUvHHrLFlzs4f8sBupbaxYOCyQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExXzJzY2dRWG8uanBn.webp" /></div></figure>The company said it was working with the government on a more formal process for reviewing model releases.
+<figure><div><img src="https://imgproxy.divecdn.com/j86tkTymFfZtpYkXBMUvHHrLFlzs4f8sBupbaxYOCyQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExXzJzY2dRWG8uanBn.webp" /></div></figure>The company said Friday it was working with the government on a more formal process for reviewing model releases.
 
 URL:
 https://www.cybersecuritydive.com/news/openai-model-government-limit-request/823966/
-
-------------------------------------------------------------
-
-Title:
-From mythos to reality: Why the 2026 state of pentesting report proves the need for programmatic defenses
-
-Published:
-Mon, 29 Jun 2026 05:00:00 -0400
-
-Summary:
-AI can find zero-days in minutes. Your defense strategy must evolve now.
-
-URL:
-https://www.cybersecuritydive.com/spons/from-mythos-to-reality-why-the-2026-state-of-pentesting-report-proves-the/823726/
 
 ------------------------------------------------------------
 
