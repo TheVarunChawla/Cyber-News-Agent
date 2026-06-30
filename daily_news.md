@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price
+
+Published:
+Tue, 30 Jun 2026 19:13:07 -0400
+
+Summary:
+Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/
+
+------------------------------------------------------------
+
+Title:
 New BioShocking attack manipulates AI browser into data theft
 
 Published:
@@ -85,20 +99,6 @@ Microsoft announced today that it is accelerating its quantum-safe security road
 
 URL:
 https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/
-
-------------------------------------------------------------
-
-Title:
-Malicious PyPI packages give hackers control of Telegram bot servers
-
-Published:
-Tue, 30 Jun 2026 17:02:55 -0400
-
-Summary:
-A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/
 
 ------------------------------------------------------------
 
