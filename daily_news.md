@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Malicious PyPI packages give hackers control of Telegram bot servers
+
+Published:
+Tue, 30 Jun 2026 17:02:55 -0400
+
+Summary:
+A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/
+
+------------------------------------------------------------
+
+Title:
 Fake Perplexity extension on Chrome Web Store tracked searches
 
 Published:
@@ -85,20 +99,6 @@ Business Email Compromise is more than an email scam. It's a coordinated operati
 
 URL:
 https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/
-
-------------------------------------------------------------
-
-Title:
-Insurance giant Aflac discloses data breach after subsidiary hack
-
-Published:
-Tue, 30 Jun 2026 07:12:18 -0400
-
-Summary:
-American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/
 
 ------------------------------------------------------------
 
@@ -583,6 +583,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Accelerating the quantum-safe timeline
+
+Published:
+Tue, 30 Jun 2026 19:00:00 +0000
+
+Summary:
+We’re accelerating quantum-safe readiness—and sharing what organizations can do now to transition earlier and with confidence.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/">Accelerating the quantum-safe timeline</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/
+
+------------------------------------------------------------
+
+Title:
 ​​What’s new in Microsoft Security: June 2026
 
 Published:
@@ -609,21 +624,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/30/secur
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/
-
-------------------------------------------------------------
-
-Title:
-Chromium extension uses AI‑related branding to redirect browser search
-
-Published:
-Mon, 29 Jun 2026 16:27:46 +0000
-
-Summary:
-A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/">Chromium extension uses AI‑related branding to redirect browser search</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/
 
 ------------------------------------------------------------
 
