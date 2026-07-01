@@ -5,60 +5,74 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures
+Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters
 
 Published:
-Wed, 01 Jul 2026 20:56:55 +0530
+Thu, 02 Jul 2026 01:10:06 +0530
 
 Summary:
-A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026.
+Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port.
 
-It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image.
-
-The goal is the usual one: steal banking logins and take
+Synacktiv, which found the bug, says it can lead to a full cluster takeover. There is no fix and no CVE. The firm says it reported the flaw to Argo CD's maintainers in
 
 URL:
-https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html
+https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html
 
 ------------------------------------------------------------
 
 Title:
-Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic
+19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges
 
 Published:
-Wed, 01 Jul 2026 20:55:46 +0530
+Thu, 02 Jul 2026 00:58:07 +0530
 
 Summary:
-Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic.
+A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice announced on July 1.
 
-The ColdFusion updates "resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass," Adobe said in an alert released Tuesday.
+Peter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody.
 
-The vulnerabilities are listed
+Finnish police
 
 URL:
-https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html
+https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html
 
 ------------------------------------------------------------
 
 Title:
-Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands
+SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT
 
 Published:
-Wed, 01 Jul 2026 20:12:54 +0530
+Wed, 01 Jul 2026 23:23:06 +0530
 
 Summary:
-Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore.
+Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT.
 
-Cato AI Labs found the pair and named them DuneSlide. They are tracked as CVE-2026-50548 and CVE-2026-50549, both rated 9.8 out of 10 (or 9.3
+Kaspersky said the activity is part of a "massive, multi-domain, multi-language" campaign that distributes malicious installer archives hosted on spoofed websites.
+
+These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.
 
 URL:
-https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html
+https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+ChocoPoc malware delivered via trojanized exploits on GitHub
+
+Published:
+Wed, 01 Jul 2026 16:08:13 -0400
+
+Summary:
+Multiple weaponized proof-of-concept (PoC) exploits on GitHub delivered a Python-based remote access trojan (RAT) called ChocoPoC that can execute commands and steal sensitive data. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/chocopoc-malware-delivered-via-trojanized-exploits-on-github/
+
+------------------------------------------------------------
 
 Title:
 DHS confirms hackers breached HSIN info-sharing platform
@@ -71,20 +85,6 @@ The Department of Homeland Security is investigating a cyberattack that compromi
 
 URL:
 https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/
-
-------------------------------------------------------------
-
-Title:
-Hackers target Microsoft 365 accounts with 81 million login attempts
-
-Published:
-Wed, 01 Jul 2026 12:38:01 -0400
-
-Summary:
-An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/
 
 ------------------------------------------------------------
 
