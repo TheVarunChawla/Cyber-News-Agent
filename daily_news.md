@@ -5,58 +5,74 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience
+Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures
 
 Published:
-Wed, 01 Jul 2026 17:00:00 +0530
+Wed, 01 Jul 2026 20:56:55 +0530
 
 Summary:
-Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions.
+A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026.
 
-Here are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals
+It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image.
+
+The goal is the usual one: steal banking logins and take
 
 URL:
-https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html
+https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html
 
 ------------------------------------------------------------
 
 Title:
-Microsoft Accelerates Post-Quantum Cryptography Shift to 2029
+Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic
 
 Published:
-Wed, 01 Jul 2026 16:11:36 +0530
+Wed, 01 Jul 2026 20:55:46 +0530
 
 Summary:
-Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected.
+Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic.
 
-"Advances in quantum research and development have shifted the risk horizon," Mark Russinovich, chief technology officer of Microsoft Azure, said. "We believe
+The ColdFusion updates "resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass," Adobe said in an alert released Tuesday.
+
+The vulnerabilities are listed
 
 URL:
-https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html
+https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html
 
 ------------------------------------------------------------
 
 Title:
-Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware
+Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands
 
 Published:
-Wed, 01 Jul 2026 12:50:51 +0530
+Wed, 01 Jul 2026 20:12:54 +0530
 
 Summary:
-Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way.
+Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore.
 
-Palo Alto Networks' Unit 42 calls the trick phantom squatting, and its new research shows it is already happening in the wild.
-
-The reason it matters is
+Cato AI Labs found the pair and named them DuneSlide. They are tracked as CVE-2026-50548 and CVE-2026-50549, both rated 9.8 out of 10 (or 9.3
 
 URL:
-https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html
+https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Turning Indicators into Intelligence in OpenCTI with Criminal IP
+
+Published:
+Wed, 01 Jul 2026 10:01:11 -0400
+
+Summary:
+Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/
+
+------------------------------------------------------------
 
 Title:
 Over 900 Oracle E-Business instances exposed to ongoing attacks
@@ -86,23 +102,37 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionalit
 
 ------------------------------------------------------------
 
-Title:
-Amazon fined $2.25M for withholding evidence from fraud victims
-
-Published:
-Wed, 01 Jul 2026 05:43:27 -0400
-
-Summary:
-The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Critical flaw in Oracle E-Business Suite is under immediate threat
+
+Published:
+Wed, 01 Jul 2026 11:11:21 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/eVQeuvSnd0Q9BwYDA9gJWAtI2NOjxOj8Zb4qNdQ5WBg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg0ODIxNjk4LmpwZw==.webp" /></div></figure>Researchers warn that successful exploitation of the vulnerability could allow an attacker to compromise Oracle Payments.
+
+URL:
+https://www.cybersecuritydive.com/news/critical-flaw-oracle-e-business-suite-threat/824230/
+
+------------------------------------------------------------
+
+Title:
+Anthropic reactivates Fable, Mythos after securing government approval
+
+Published:
+Wed, 01 Jul 2026 10:20:11 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/zzUD2pxrwOgszGCsVh19jYuWdweWY1hxPnvNYPgsnd8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczOTI5LmpwZw==.webp" /></div></figure>The company&rsquo;s powerful frontier models are back, but vetting issues remain unresolved.
+
+URL:
+https://www.cybersecuritydive.com/news/anthropic-ai-mythos-fable-reenable/824214/
+
+------------------------------------------------------------
 
 Title:
 Critical flaw in SimpleHelp exploited in attacks targeting sensitive credentials
@@ -115,34 +145,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/critical-flaw-simplehelp-exploited-attacks-credentials/824105/
-
-------------------------------------------------------------
-
-Title:
-DHS proposes new framework for public-private infrastructure security collaboration
-
-Published:
-Tue, 30 Jun 2026 10:07:02 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/1fS6Kdr322ijnpsg-H0_IxzbccxrahQBHCwCBbRsbGE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ESFNHZXR0eUltYWdlcy0xMTY5MzY1MDA4LmpwZw==.webp" /></div></figure>The Trump administration eliminated the previous system in 2025, sparking a backlash from experts and infrastructure operators.
-
-URL:
-https://www.cybersecuritydive.com/news/critical-infrastructure-collaboration-dhs-anchor-ci/824081/
-
-------------------------------------------------------------
-
-Title:
-Insurance body confirms hackers posted Oracle PeopleSoft breach data
-
-Published:
-Mon, 29 Jun 2026 11:10:57 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/PW_Pz6nukNi5n47k75VaVoRXoJO1qMaWoOhpL7myW5A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMjE0NTAzNzMwNDI3MDg0LktsbFU3OWR0V0lWOEhneFczTERrX2hlaWdodDY0MC5wbmc=.webp" /></div></figure>NAIC warned that some ratings agencies have suspended data feeds as a precaution. 
-
-URL:
-https://www.cybersecuritydive.com/news/insurance-body-hackers-oracle-peoplesoft-breach-data/823978/
 
 ------------------------------------------------------------
 
