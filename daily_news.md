@@ -61,30 +61,44 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-ChocoPoc malware delivered via trojanized exploits on GitHub
+FortiBleed credential-theft campaign linked to Lynx ransomware
+
+Published:
+Wed, 01 Jul 2026 17:37:24 -0400
+
+Summary:
+The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/
+
+------------------------------------------------------------
+
+Title:
+Kubota says hackers had month-long access to network systems
+
+Published:
+Wed, 01 Jul 2026 17:09:06 -0400
+
+Summary:
+Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/
+
+------------------------------------------------------------
+
+Title:
+New ChocoPoC malware targets researchers via trojanized PoC exploits
 
 Published:
 Wed, 01 Jul 2026 16:08:13 -0400
 
 Summary:
-Multiple weaponized proof-of-concept (PoC) exploits on GitHub delivered a Python-based remote access trojan (RAT) called ChocoPoC that can execute commands and steal sensitive data. [...]
+Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/chocopoc-malware-delivered-via-trojanized-exploits-on-github/
-
-------------------------------------------------------------
-
-Title:
-DHS confirms hackers breached HSIN info-sharing platform
-
-Published:
-Wed, 01 Jul 2026 13:32:22 -0400
-
-Summary:
-The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/
+https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/
 
 ------------------------------------------------------------
 
