@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Anthropic to restore Claude Fable access on Wednesday
+
+Published:
+Tue, 30 Jun 2026 20:35:14 -0400
+
+Summary:
+Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/
+
+------------------------------------------------------------
+
+Title:
 Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price
 
 Published:
@@ -85,20 +99,6 @@ A new prompt injection attack dubbed "BioShocking" could trick AI-powered browse
 
 URL:
 https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/
-
-------------------------------------------------------------
-
-Title:
-Microsoft accelerates quantum-safe roadmap as risks grow
-
-Published:
-Tue, 30 Jun 2026 17:20:06 -0400
-
-Summary:
-Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/
 
 ------------------------------------------------------------
 
@@ -161,6 +161,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector
+
+Published:
+Wed, 01 Jul 2026 01:00:11 +0000
+
+Summary:
+Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. 
+The post <a href="https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/">Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/
+
+------------------------------------------------------------
+
+Title:
 Threat Brief: Mitigating Large-Scale Credential Attacks
 
 Published:
@@ -187,21 +202,6 @@ The post <a href="https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdo
 
 URL:
 https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/
-
-------------------------------------------------------------
-
-Title:
-OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat
-
-Published:
-Tue, 23 Jun 2026 22:00:51 +0000
-
-Summary:
-Unit 42's analysis of ClawHub revealed evasive malicious skills bypassing automated scanners to deploy infostealers and execute agentic financial fraud.
-The post <a href="https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/">OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/
 
 ------------------------------------------------------------
 
