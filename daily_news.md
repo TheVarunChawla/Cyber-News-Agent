@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience
+
+Published:
+Wed, 01 Jul 2026 17:00:00 +0530
+
+Summary:
+Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions.
+
+Here are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals
+
+URL:
+https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html
+
+------------------------------------------------------------
+
+Title:
 Microsoft Accelerates Post-Quantum Cryptography Shift to 2029
 
 Published:
@@ -38,27 +54,23 @@ https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html
 
 ------------------------------------------------------------
 
-Title:
-Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls
-
-Published:
-Wed, 01 Jul 2026 12:16:17 +0530
-
-Summary:
-Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier.
-
-Fable 5 returns to users on Wednesday, July 1, across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork.
-
-Export controls restrict who can
-
-URL:
-https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Over 900 Oracle E-Business instances exposed to ongoing attacks
+
+Published:
+Wed, 01 Jul 2026 08:30:01 -0400
+
+Summary:
+Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/
+
+------------------------------------------------------------
 
 Title:
 Microsoft fixes GIF functionality in the Windows Emoji Panel
@@ -67,7 +79,7 @@ Published:
 Wed, 01 Jul 2026 06:52:26 -0400
 
 Summary:
-Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 and Windows Server users after the provider shut down its service. [...]
+Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]
 
 URL:
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/
@@ -85,20 +97,6 @@ The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civ
 
 URL:
 https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/
-
-------------------------------------------------------------
-
-Title:
-Adobe patches seven max severity ColdFusion, Campaign flaws
-
-Published:
-Wed, 01 Jul 2026 03:34:52 -0400
-
-Summary:
-Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/
 
 ------------------------------------------------------------
 
