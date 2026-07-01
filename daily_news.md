@@ -5,60 +5,74 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
-Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data
+Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls
 
 Published:
-Tue, 30 Jun 2026 23:16:07 +0530
+Wed, 01 Jul 2026 12:16:17 +0530
 
 Summary:
-New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider.
+Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier.
 
-The trick is that the agent never breaks a rule. Every step looks routine, so in a default setup no alarm may fire.
+Fable 5 returns to users on Wednesday, July 1, across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork.
 
-The work comes from Microsoft Incident Response and its
+Export controls restrict who can
 
 URL:
-https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html
+https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html
 
 ------------------------------------------------------------
 
 Title:
-RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS
+Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts
 
 Published:
-Tue, 30 Jun 2026 23:15:25 +0530
+Wed, 01 Jul 2026 11:16:03 +0530
 
 Summary:
-A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline.
+Cybersecurity researchers have warned of a "massive, ongoing, automated password spray attack" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.
 
-Researchers at QiAnXin's XLab have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing.
+The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by internet infrastructure provider LSHIY LLC (AS32167).
 
-The end goal is a
+"Between June 12 and June 26, the threat
 
 URL:
-https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html
+https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html
 
 ------------------------------------------------------------
 
 Title:
-Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints
+Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery
 
 Published:
-Tue, 30 Jun 2026 21:17:20 +0530
+Wed, 01 Jul 2026 11:02:12 +0530
 
 Summary:
-Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner.
+ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.
 
-The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)
+New research shows the malicious commands behind its fake "prove you're human" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same research also turned up a new delivery method built to slip past Windows' script scanning.
 
 URL:
-https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html
+https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Adobe patches seven max severity ColdFusion, Campaign flaws
+
+Published:
+Wed, 01 Jul 2026 03:34:52 -0400
+
+Summary:
+Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/
+
+------------------------------------------------------------
 
 Title:
 Anthropic to restore Claude Fable access on Wednesday
@@ -85,20 +99,6 @@ Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range
 
 URL:
 https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/
-
-------------------------------------------------------------
-
-Title:
-New BioShocking attack manipulates AI browser into data theft
-
-Published:
-Tue, 30 Jun 2026 17:50:24 -0400
-
-Summary:
-A new prompt injection attack dubbed "BioShocking" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/
 
 ------------------------------------------------------------
 
