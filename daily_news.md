@@ -61,44 +61,30 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Turning Indicators into Intelligence in OpenCTI with Criminal IP
+DHS confirms hackers breached HSIN info-sharing platform
 
 Published:
-Wed, 01 Jul 2026 10:01:11 -0400
+Wed, 01 Jul 2026 13:32:22 -0400
 
 Summary:
-Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]
+The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/
+https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/
 
 ------------------------------------------------------------
 
 Title:
-Over 900 Oracle E-Business instances exposed to ongoing attacks
+Hackers target Microsoft 365 accounts with 81 million login attempts
 
 Published:
-Wed, 01 Jul 2026 08:30:01 -0400
+Wed, 01 Jul 2026 12:38:01 -0400
 
 Summary:
-Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]
+An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/
-
-------------------------------------------------------------
-
-Title:
-Microsoft fixes GIF functionality in the Windows Emoji Panel
-
-Published:
-Wed, 01 Jul 2026 06:52:26 -0400
-
-Summary:
-Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/
+https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/
 
 ------------------------------------------------------------
 
@@ -583,6 +569,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Microsoft named a leader in the Frost Radar for cloud and application runtime security
+
+Published:
+Wed, 01 Jul 2026 16:00:00 +0000
+
+Summary:
+Frost &#038; Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/">Microsoft named a leader in the Frost Radar for cloud and application runtime security</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/
+
+------------------------------------------------------------
+
+Title:
 Accelerating the quantum-safe timeline
 
 Published:
@@ -609,21 +610,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/30/whats
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/
-
-------------------------------------------------------------
-
-Title:
-Securing AI agents: When AI tools move from reading to acting
-
-Published:
-Tue, 30 Jun 2026 15:57:11 +0000
-
-Summary:
-MCP tool poisoning turns trusted AI agents into a control plane for data loss. Learn how threat actors manipulate tool descriptions to trigger unauthorized actions, and how to detect, contain, and prevent it.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/">Securing AI agents: When AI tools move from reading to acting</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/
 
 ------------------------------------------------------------
 
