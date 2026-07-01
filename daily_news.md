@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Microsoft Accelerates Post-Quantum Cryptography Shift to 2029
+
+Published:
+Wed, 01 Jul 2026 16:11:36 +0530
+
+Summary:
+Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected.
+
+"Advances in quantum research and development have shifted the risk horizon," Mark Russinovich, chief technology officer of Microsoft Azure, said. "We believe
+
+URL:
+https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html
+
+------------------------------------------------------------
+
+Title:
+Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware
+
+Published:
+Wed, 01 Jul 2026 12:50:51 +0530
+
+Summary:
+Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way.
+
+Palo Alto Networks' Unit 42 calls the trick phantom squatting, and its new research shows it is already happening in the wild.
+
+The reason it matters is
+
+URL:
+https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html
+
+------------------------------------------------------------
+
+Title:
 Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls
 
 Published:
@@ -22,43 +56,37 @@ https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html
 
 ------------------------------------------------------------
 
-Title:
-Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts
-
-Published:
-Wed, 01 Jul 2026 11:16:03 +0530
-
-Summary:
-Cybersecurity researchers have warned of a "massive, ongoing, automated password spray attack" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.
-
-The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by internet infrastructure provider LSHIY LLC (AS32167).
-
-"Between June 12 and June 26, the threat
-
-URL:
-https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html
-
-------------------------------------------------------------
-
-Title:
-Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery
-
-Published:
-Wed, 01 Jul 2026 11:02:12 +0530
-
-Summary:
-ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.
-
-New research shows the malicious commands behind its fake "prove you're human" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same research also turned up a new delivery method built to slip past Windows' script scanning.
-
-URL:
-https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Microsoft fixes GIF functionality in the Windows Emoji Panel
+
+Published:
+Wed, 01 Jul 2026 06:52:26 -0400
+
+Summary:
+Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 and Windows Server users after the provider shut down its service. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/
+
+------------------------------------------------------------
+
+Title:
+Amazon fined $2.25M for withholding evidence from fraud victims
+
+Published:
+Wed, 01 Jul 2026 05:43:27 -0400
+
+Summary:
+The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/
+
+------------------------------------------------------------
 
 Title:
 Adobe patches seven max severity ColdFusion, Campaign flaws
@@ -71,34 +99,6 @@ Adobe has released security patches for seven maximum-severity vulnerabilities i
 
 URL:
 https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/
-
-------------------------------------------------------------
-
-Title:
-Anthropic to restore Claude Fable access on Wednesday
-
-Published:
-Tue, 30 Jun 2026 20:35:14 -0400
-
-Summary:
-Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/
-
-------------------------------------------------------------
-
-Title:
-Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price
-
-Published:
-Tue, 30 Jun 2026 19:13:07 -0400
-
-Summary:
-Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/
 
 ------------------------------------------------------------
 
@@ -210,6 +210,34 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
+Martin Lee: Running through the Arctic (and the threat landscape)
+
+Published:
+Wed, 01 Jul 2026 10:00:57 GMT
+
+Summary:
+Ever wonder how someone goes from studying human viruses to leading cybersecurity teams? In this Humans of Talos, we’re joined by Martin Lee, EMEA Lead, to talk about his journey into the industry.
+
+URL:
+https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/
+
+------------------------------------------------------------
+
+Title:
+ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365
+
+Published:
+Wed, 01 Jul 2026 10:00:38 GMT
+
+Summary:
+Talos has identified "ARToken," a phishing-as-a-service platform that targets Microsoft 365. The ARToken panel exposes 80+ API endpoints for device code phishing, Primary Refresh Token persistence, email access, BEC operations, and SharePoint exfiltration.
+
+URL:
+https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/
+
+------------------------------------------------------------
+
+Title:
 Beyond IOCs: AI-enabled threat intelligence
 
 Published:
@@ -220,34 +248,6 @@ In this week’s newsletter, Martin considers how AI will help threat intelligen
 
 URL:
 https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/
-
-------------------------------------------------------------
-
-Title:
-Introduction to COM usage by Windows threats
-
-Published:
-Thu, 25 Jun 2026 10:00:26 GMT
-
-Summary:
-Component Object Model (COM) is a fundamental Windows technology used by legitimate applications for object activation, inter-process communication, automation and language-independent component reuse. Those same qualities make it useful to threat actors.
-
-URL:
-https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/
-
-------------------------------------------------------------
-
-Title:
-Close Encounters of the Human Kind
-
-Published:
-Thu, 18 Jun 2026 18:00:24 GMT
-
-Summary:
-In the latest Threat Source, Hazel channels her inner Spielberg to explore why humans are delightfully irrational, reminding us that while security best practices are simple in theory, they’re a lot harder to pull off when you’re busy dealing with real life.
-
-URL:
-https://blog.talosintelligence.com/close-encounters-of-the-human-kind/
 
 ------------------------------------------------------------
 
