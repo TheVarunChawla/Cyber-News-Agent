@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories
+
+Published:
+Thu, 02 Jul 2026 20:54:18 +0530
+
+Summary:
+This week’s security news is mostly about weak spots.
+
+Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through.
+
+This is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs
+
+URL:
+https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html
+
+------------------------------------------------------------
+
+Title:
+ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API
+
+Published:
+Thu, 02 Jul 2026 18:34:13 +0530
+
+Summary:
+The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.
+
+"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs," Kaspersky said in a detailed report published this week. "
+
+URL:
+https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html
+
+------------------------------------------------------------
+
+Title:
 Identity Lifecycle Management Wasn't Built for AI Agents
 
 Published:
@@ -18,43 +52,37 @@ https://thehackernews.com/2026/07/identity-lifecycle-management.html
 
 ------------------------------------------------------------
 
-Title:
-AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack
-
-Published:
-Thu, 02 Jul 2026 14:43:13 +0530
-
-Summary:
-Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent.
-
-Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database.
-
-Ransomware has always
-
-URL:
-https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html
-
-------------------------------------------------------------
-
-Title:
-FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations
-
-Published:
-Thu, 02 Jul 2026 13:30:49 +0530
-
-Summary:
-The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions.
-
-"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment
-
-URL:
-https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Google loses final appeal to overturn €4.1 billion EU fine
+
+Published:
+Thu, 02 Jul 2026 11:18:51 -0400
+
+Summary:
+Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/
+
+------------------------------------------------------------
+
+Title:
+ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds
+
+Published:
+Thu, 02 Jul 2026 10:00:10 -0400
+
+Summary:
+ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/
+
+------------------------------------------------------------
 
 Title:
 Microsoft fixes bug that removed Copilot buttons in Outlook
@@ -70,37 +98,23 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed
 
 ------------------------------------------------------------
 
-Title:
-Cisco finally confirms attackers exploiting Unified CM flaw
-
-Published:
-Thu, 02 Jul 2026 07:35:25 -0400
-
-Summary:
-Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/
-
-------------------------------------------------------------
-
-Title:
-CISA: Microsoft SharePoint RCE flaw now actively exploited
-
-Published:
-Thu, 02 Jul 2026 06:52:43 -0400
-
-Summary:
-CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Most cybersecurity workers have been told to conceal a breach, report finds
+
+Published:
+Thu, 02 Jul 2026 10:14:31 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/mGLMd9ZXyPlefun5bLb6wm2QkQKUuXUBCDY1E-9Gvm4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9icmVhY2hfLmpwZw==.webp" /></div></figure>The security firm Bitdefender&rsquo;s annual survey also found that U.S. companies were simultaneously more confident and more strained on cyber defense than foreign peers.
+
+URL:
+https://www.cybersecuritydive.com/news/data-breach-coverups-ai-bitdefender/824331/
+
+------------------------------------------------------------
 
 Title:
 Critical flaw in Oracle E-Business Suite is under immediate threat
@@ -127,20 +141,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/anthropic-ai-mythos-fable-reenable/824214/
-
-------------------------------------------------------------
-
-Title:
-Critical flaw in SimpleHelp exploited in attacks targeting sensitive credentials
-
-Published:
-Tue, 30 Jun 2026 11:18:03 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/VRjSPBKKhGx40_7fw_b7vqGWkpnQOx8PN3Z3nDkYcv4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTM0MjgxMTc1LmpwZw==.webp" /></div></figure>Researchers found two previously undisclosed malware samples used to steal AI assistant tokens and other valuable secrets.
-
-URL:
-https://www.cybersecuritydive.com/news/critical-flaw-simplehelp-exploited-attacks-credentials/824105/
 
 ------------------------------------------------------------
 
