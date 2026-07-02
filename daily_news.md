@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack
+
+Published:
+Thu, 02 Jul 2026 14:43:13 +0530
+
+Summary:
+Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent.
+
+Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database.
+
+Ransomware has always
+
+URL:
+https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html
+
+------------------------------------------------------------
+
+Title:
+FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations
+
+Published:
+Thu, 02 Jul 2026 13:30:49 +0530
+
+Summary:
+The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions.
+
+"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment
+
+URL:
+https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html
+
+------------------------------------------------------------
+
+Title:
 New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos
 
 Published:
@@ -20,81 +54,49 @@ https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html
 
 ------------------------------------------------------------
 
-Title:
-SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation
-
-Published:
-Thu, 02 Jul 2026 11:16:45 +0530
-
-Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue
-
-URL:
-https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html
-
-------------------------------------------------------------
-
-Title:
-Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters
-
-Published:
-Thu, 02 Jul 2026 01:10:06 +0530
-
-Summary:
-Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port.
-
-Synacktiv, which found the bug, says it can lead to a full cluster takeover. There is no fix and no CVE. The firm says it reported the flaw to Argo CD's maintainers in
-
-URL:
-https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Medtronic notifies customers impacted by ShinyHunters data breach
+CISA: Microsoft SharePoint RCE flaw now actively exploited
 
 Published:
-Thu, 02 Jul 2026 00:25:42 -0400
+Thu, 02 Jul 2026 06:52:43 -0400
 
 Summary:
-Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]
+CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/
+https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/
 
 ------------------------------------------------------------
 
 Title:
-FortiBleed credential-theft campaign linked to Lynx ransomware
+Opera rolls out Paste Protect feature to fight ClickFix attacks
 
 Published:
-Wed, 01 Jul 2026 17:37:24 -0400
+Thu, 02 Jul 2026 06:46:58 -0400
 
 Summary:
-The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]
+Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/
+https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Kubota says hackers had month-long access to network systems
+Alleged Scattered Spider hacker extradited to the United States
 
 Published:
-Wed, 01 Jul 2026 17:09:06 -0400
+Thu, 02 Jul 2026 04:58:25 -0400
 
 Summary:
-Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]
+A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/
+https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/
 
 ------------------------------------------------------------
 
