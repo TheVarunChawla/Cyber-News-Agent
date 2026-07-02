@@ -5,6 +5,38 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos
+
+Published:
+Thu, 02 Jul 2026 12:54:23 +0530
+
+Summary:
+Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs.
+
+Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine. YesWeHack and
+
+URL:
+https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html
+
+------------------------------------------------------------
+
+Title:
+SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation
+
+Published:
+Thu, 02 Jul 2026 11:16:45 +0530
+
+Summary:
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue
+
+URL:
+https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html
+
+------------------------------------------------------------
+
+Title:
 Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters
 
 Published:
@@ -17,42 +49,6 @@ Synacktiv, which found the bug, says it can lead to a full cluster takeover. The
 
 URL:
 https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html
-
-------------------------------------------------------------
-
-Title:
-19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges
-
-Published:
-Thu, 02 Jul 2026 00:58:07 +0530
-
-Summary:
-A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice announced on July 1.
-
-Peter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody.
-
-Finnish police
-
-URL:
-https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html
-
-------------------------------------------------------------
-
-Title:
-SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT
-
-Published:
-Wed, 01 Jul 2026 23:23:06 +0530
-
-Summary:
-Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT.
-
-Kaspersky said the activity is part of a "massive, multi-domain, multi-language" campaign that distributes malicious installer archives hosted on spoofed websites.
-
-These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.
-
-URL:
-https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html
 
 ------------------------------------------------------------
 
