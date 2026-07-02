@@ -61,6 +61,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Medtronic notifies customers impacted by ShinyHunters data breach
+
+Published:
+Thu, 02 Jul 2026 00:25:42 -0400
+
+Summary:
+Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/
+
+------------------------------------------------------------
+
+Title:
 FortiBleed credential-theft campaign linked to Lynx ransomware
 
 Published:
@@ -85,20 +99,6 @@ Kubota North America Corporation disclosed that hackers had access to some of it
 
 URL:
 https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/
-
-------------------------------------------------------------
-
-Title:
-New ChocoPoC malware targets researchers via trojanized PoC exploits
-
-Published:
-Wed, 01 Jul 2026 16:08:13 -0400
-
-Summary:
-Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/
 
 ------------------------------------------------------------
 
