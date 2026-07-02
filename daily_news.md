@@ -5,6 +5,20 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Identity Lifecycle Management Wasn't Built for AI Agents
+
+Published:
+Thu, 02 Jul 2026 17:00:00 +0530
+
+Summary:
+Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren't designed to detect. This guide covers where that model breaks, what it
+
+URL:
+https://thehackernews.com/2026/07/identity-lifecycle-management.html
+
+------------------------------------------------------------
+
+Title:
 AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack
 
 Published:
@@ -38,25 +52,37 @@ https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html
 
 ------------------------------------------------------------
 
-Title:
-New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos
-
-Published:
-Thu, 02 Jul 2026 12:54:23 +0530
-
-Summary:
-Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs.
-
-Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine. YesWeHack and
-
-URL:
-https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Microsoft fixes bug that removed Copilot buttons in Outlook
+
+Published:
+Thu, 02 Jul 2026 08:15:47 -0400
+
+Summary:
+Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/
+
+------------------------------------------------------------
+
+Title:
+Cisco finally confirms attackers exploiting Unified CM flaw
+
+Published:
+Thu, 02 Jul 2026 07:35:25 -0400
+
+Summary:
+Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/
+
+------------------------------------------------------------
 
 Title:
 CISA: Microsoft SharePoint RCE flaw now actively exploited
@@ -69,34 +95,6 @@ CISA warned on Wednesday that attackers have begun exploiting a high-severity Mi
 
 URL:
 https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/
-
-------------------------------------------------------------
-
-Title:
-Opera rolls out Paste Protect feature to fight ClickFix attacks
-
-Published:
-Thu, 02 Jul 2026 06:46:58 -0400
-
-Summary:
-Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/
-
-------------------------------------------------------------
-
-Title:
-Alleged Scattered Spider hacker extradited to the United States
-
-Published:
-Thu, 02 Jul 2026 04:58:25 -0400
-
-Summary:
-A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/
 
 ------------------------------------------------------------
 
