@@ -103,6 +103,20 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
+FortiBleed campaign traced to INC and Lynx ransomware operations
+
+Published:
+Thu, 02 Jul 2026 11:05:16 -0400
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/VKp2nzAST2pRAPqxS5ipeTmzsLB2Xp7D6Zvsx3kVcZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVE5ULTkwOS1raWZlci0wNS5qcGc=.webp" /></div></figure>Researchers are also investigating the role of a suspected zero-day vulnerability.
+
+URL:
+https://www.cybersecuritydive.com/news/fortibleed-campaign-traced-to-inc-and-lynx-ransomware-operations/824348/
+
+------------------------------------------------------------
+
+Title:
 Most cybersecurity workers have been told to conceal a breach, report finds
 
 Published:
@@ -127,20 +141,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/critical-flaw-oracle-e-business-suite-threat/824230/
-
-------------------------------------------------------------
-
-Title:
-Anthropic reactivates Fable, Mythos after securing government approval
-
-Published:
-Wed, 01 Jul 2026 10:20:11 -0400
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/zzUD2pxrwOgszGCsVh19jYuWdweWY1hxPnvNYPgsnd8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczOTI5LmpwZw==.webp" /></div></figure>The company&rsquo;s powerful frontier models are back, but vetting issues remain unresolved.
-
-URL:
-https://www.cybersecuritydive.com/news/anthropic-ai-mythos-fable-reenable/824214/
 
 ------------------------------------------------------------
 
