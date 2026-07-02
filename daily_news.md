@@ -5,6 +5,40 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices
+
+Published:
+Fri, 03 Jul 2026 00:24:06 +0530
+
+Summary:
+Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.
+
+Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millions.
+
+Google identifies NetNut, also tracked as Popa, as a network spread across home
+
+URL:
+https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html
+
+------------------------------------------------------------
+
+Title:
+Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials
+
+Published:
+Fri, 03 Jul 2026 00:00:33 +0530
+
+Summary:
+Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.
+
+"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral
+
+URL:
+https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html
+
+------------------------------------------------------------
+
+Title:
 ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories
 
 Published:
@@ -19,36 +53,6 @@ This is not one big break. It is small permissions, weak checks, open systems, a
 
 URL:
 https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html
-
-------------------------------------------------------------
-
-Title:
-ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API
-
-Published:
-Thu, 02 Jul 2026 18:34:13 +0530
-
-Summary:
-The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.
-
-"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs," Kaspersky said in a detailed report published this week. "
-
-URL:
-https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html
-
-------------------------------------------------------------
-
-Title:
-Identity Lifecycle Management Wasn't Built for AI Agents
-
-Published:
-Thu, 02 Jul 2026 17:00:00 +0530
-
-Summary:
-Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren't designed to detect. This guide covers where that model breaks, what it
-
-URL:
-https://thehackernews.com/2026/07/identity-lifecycle-management.html
 
 ------------------------------------------------------------
 
