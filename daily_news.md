@@ -206,6 +206,20 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
+Catan and Mouse
+
+Published:
+Thu, 02 Jul 2026 18:00:34 GMT
+
+Summary:
+What do board games and cybersecurity have in common? Pattern recognition. Strategy. Adaptation. In this week’s Threat Source Bill explores why curiosity may be a defender’s most valuable skill.
+
+URL:
+https://blog.talosintelligence.com/catan-and-mouse/
+
+------------------------------------------------------------
+
+Title:
 Martin Lee: Running through the Arctic (and the threat landscape)
 
 Published:
@@ -230,20 +244,6 @@ Talos has identified "ARToken," a phishing-as-a-service platform that targets Mi
 
 URL:
 https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/
-
-------------------------------------------------------------
-
-Title:
-Beyond IOCs: AI-enabled threat intelligence
-
-Published:
-Thu, 25 Jun 2026 18:00:26 GMT
-
-Summary:
-In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.
-
-URL:
-https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/
 
 ------------------------------------------------------------
 
@@ -579,6 +579,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Improving security posture across the Microsoft partner ecosystem
+
+Published:
+Thu, 02 Jul 2026 16:00:00 +0000
+
+Summary:
+Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/">Improving security posture across the Microsoft partner ecosystem</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/
+
+------------------------------------------------------------
+
+Title:
 Microsoft named a leader in the Frost Radar for cloud and application runtime security
 
 Published:
@@ -605,21 +620,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/30/micro
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/
-
-------------------------------------------------------------
-
-Title:
-​​What’s new in Microsoft Security: June 2026
-
-Published:
-Tue, 30 Jun 2026 16:00:00 +0000
-
-Summary:
-This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/">​​What’s new in Microsoft Security: June 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/
 
 ------------------------------------------------------------
 
