@@ -161,6 +161,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+How We Added WebAuthn to a Browser-Based RDP Client
+
+Published:
+Thu, 02 Jul 2026 22:00:39 +0000
+
+Summary:
+A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.
+The post <a href="https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/">How We Added WebAuthn to a Browser-Based RDP Client</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
+
+------------------------------------------------------------
+
+Title:
 Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector
 
 Published:
@@ -187,21 +202,6 @@ The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-att
 
 URL:
 https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
-
-------------------------------------------------------------
-
-Title:
-CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure
-
-Published:
-Thu, 25 Jun 2026 22:00:52 +0000
-
-Summary:
-Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor. 
-The post <a href="https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/">CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/
 
 ------------------------------------------------------------
 
