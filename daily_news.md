@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+European Parliament Member Investigating Spyware Was Hacked With Pegasus
+
+Published:
+Fri, 03 Jul 2026 16:35:43 +0530
+
+Summary:
+A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.
+
+"Through forensic analysis of his device, we found that the attackers could have had
+
+URL:
+https://thehackernews.com/2026/07/european-parliament-member.html
+
+------------------------------------------------------------
+
+Title:
 PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords
 
 Published:
@@ -35,22 +51,6 @@ Google identifies NetNut, also tracked as Popa, as a network spread across home
 
 URL:
 https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html
-
-------------------------------------------------------------
-
-Title:
-Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials
-
-Published:
-Fri, 03 Jul 2026 00:00:33 +0530
-
-Summary:
-Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.
-
-"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral
-
-URL:
-https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html
 
 ------------------------------------------------------------
 
