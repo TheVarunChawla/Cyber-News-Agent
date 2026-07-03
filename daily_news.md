@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords
+
+Published:
+Fri, 03 Jul 2026 13:33:37 +0530
+
+Summary:
+Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.
+
+The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to
+
+URL:
+https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html
+
+------------------------------------------------------------
+
+Title:
 Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices
 
 Published:
@@ -35,24 +51,6 @@ Threat actors associated with the Anubis ransomware operation have been observed
 
 URL:
 https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html
-
-------------------------------------------------------------
-
-Title:
-ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories
-
-Published:
-Thu, 02 Jul 2026 20:54:18 +0530
-
-Summary:
-This week’s security news is mostly about weak spots.
-
-Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through.
-
-This is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs
-
-URL:
-https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html
 
 ------------------------------------------------------------
 
