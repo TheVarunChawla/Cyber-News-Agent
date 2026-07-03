@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer
+
+Published:
+Fri, 03 Jul 2026 19:06:33 +0530
+
+Summary:
+A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.
+
+"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations," Kaspersky said in a technical analysis published today. "
+
+URL:
+https://thehackernews.com/2026/07/armored-likho-targets-government.html
+
+------------------------------------------------------------
+
+Title:
 European Parliament Member Investigating Spyware Was Hacked With Pegasus
 
 Published:
@@ -36,27 +52,23 @@ https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html
 
 ------------------------------------------------------------
 
-Title:
-Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices
-
-Published:
-Fri, 03 Jul 2026 00:24:06 +0530
-
-Summary:
-Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.
-
-Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millions.
-
-Google identifies NetNut, also tracked as Popa, as a network spread across home
-
-URL:
-https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit
+
+Published:
+Fri, 03 Jul 2026 10:12:22 -0400
+
+Summary:
+A new phishing-as-a-service (PhaaS) platform dubbed "ARToken" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/
+
+------------------------------------------------------------
 
 Title:
 Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says
@@ -83,20 +95,6 @@ Claude Fable, the company's most powerful model, is now available to all users, 
 
 URL:
 https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/
-
-------------------------------------------------------------
-
-Title:
-Google loses final appeal to overturn €4.1 billion EU fine
-
-Published:
-Thu, 02 Jul 2026 11:18:51 -0400
-
-Summary:
-Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/
 
 ------------------------------------------------------------
 
