@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices
+
+Published:
+Sat, 04 Jul 2026 01:49:31 +0530
+
+Summary:
+Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards.
+
+The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on
+
+URL:
+https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html
+
+------------------------------------------------------------
+
+Title:
 New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android
 
 Published:
@@ -35,22 +51,6 @@ Avalon combines credential collection, lateral movement, remote access, recovery
 
 URL:
 https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html
-
-------------------------------------------------------------
-
-Title:
-North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets
-
-Published:
-Fri, 03 Jul 2026 21:37:15 +0530
-
-Summary:
-Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.
-
-According to JFrog, the packages "rollup-packages-polyfill-core" and "rollup-runtime-polyfill-core" mimic the legitimate "rollup-plugin-polyfill-node" project, down to the description, repository metadata, and
-
-URL:
-https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html
 
 ------------------------------------------------------------
 
