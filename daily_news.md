@@ -5,6 +5,24 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android
+
+Published:
+Sat, 04 Jul 2026 01:10:01 +0530
+
+Summary:
+A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.
+
+Bad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.
+
+The AI caught one flaw and missed
+
+URL:
+https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html
+
+------------------------------------------------------------
+
+Title:
 New Avalon Malware Framework Packs CrownX Ransomware Capabilities
 
 Published:
@@ -33,22 +51,6 @@ According to JFrog, the packages "rollup-packages-polyfill-core" and "rollup-run
 
 URL:
 https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html
-
-------------------------------------------------------------
-
-Title:
-Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer
-
-Published:
-Fri, 03 Jul 2026 19:06:33 +0530
-
-Summary:
-A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.
-
-"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations," Kaspersky said in a technical analysis published today. "
-
-URL:
-https://thehackernews.com/2026/07/armored-likho-targets-government.html
 
 ------------------------------------------------------------
 
