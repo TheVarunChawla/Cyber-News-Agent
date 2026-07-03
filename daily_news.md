@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets
+
+Published:
+Fri, 03 Jul 2026 21:37:15 +0530
+
+Summary:
+Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.
+
+According to JFrog, the packages "rollup-packages-polyfill-core" and "rollup-runtime-polyfill-core" mimic the legitimate "rollup-plugin-polyfill-node" project, down to the description, repository metadata, and
+
+URL:
+https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html
+
+------------------------------------------------------------
+
+Title:
 Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer
 
 Published:
@@ -33,22 +49,6 @@ A new report from the Citizen Lab has revealed that former Member of the Europea
 
 URL:
 https://thehackernews.com/2026/07/european-parliament-member.html
-
-------------------------------------------------------------
-
-Title:
-PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords
-
-Published:
-Fri, 03 Jul 2026 13:33:37 +0530
-
-Summary:
-Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.
-
-The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to
-
-URL:
-https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html
 
 ------------------------------------------------------------
 
