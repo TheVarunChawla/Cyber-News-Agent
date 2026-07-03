@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+New Avalon Malware Framework Packs CrownX Ransomware Capabilities
+
+Published:
+Sat, 04 Jul 2026 00:25:24 +0530
+
+Summary:
+Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.
+
+Avalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one
+
+URL:
+https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html
+
+------------------------------------------------------------
+
+Title:
 North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets
 
 Published:
@@ -36,25 +52,23 @@ https://thehackernews.com/2026/07/armored-likho-targets-government.html
 
 ------------------------------------------------------------
 
-Title:
-European Parliament Member Investigating Spyware Was Hacked With Pegasus
-
-Published:
-Fri, 03 Jul 2026 16:35:43 +0530
-
-Summary:
-A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.
-
-"Through forensic analysis of his device, we found that the attackers could have had
-
-URL:
-https://thehackernews.com/2026/07/european-parliament-member.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+NetNut proxy network disrupted, 2 million infected devices cut off
+
+Published:
+Fri, 03 Jul 2026 13:50:04 -0400
+
+Summary:
+A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/
+
+------------------------------------------------------------
 
 Title:
 ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit
@@ -81,20 +95,6 @@ Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after
 
 URL:
 https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/
-
-------------------------------------------------------------
-
-Title:
-Claude Fable relaunch disappoints users with nerfed performance
-
-Published:
-Thu, 02 Jul 2026 20:48:30 -0400
-
-Summary:
-Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/
 
 ------------------------------------------------------------
 
