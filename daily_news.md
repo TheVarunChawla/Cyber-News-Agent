@@ -61,6 +61,34 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says
+
+Published:
+Thu, 02 Jul 2026 21:37:09 -0400
+
+Summary:
+Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/
+
+------------------------------------------------------------
+
+Title:
+Claude Fable relaunch disappoints users with nerfed performance
+
+Published:
+Thu, 02 Jul 2026 20:48:30 -0400
+
+Summary:
+Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/
+
+------------------------------------------------------------
+
+Title:
 Google loses final appeal to overturn €4.1 billion EU fine
 
 Published:
@@ -71,34 +99,6 @@ Court of Justice of the European Union (CJEU) has dismissed Google's final appea
 
 URL:
 https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/
-
-------------------------------------------------------------
-
-Title:
-ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds
-
-Published:
-Thu, 02 Jul 2026 10:00:10 -0400
-
-Summary:
-ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/
-
-------------------------------------------------------------
-
-Title:
-Microsoft fixes bug that removed Copilot buttons in Outlook
-
-Published:
-Thu, 02 Jul 2026 08:15:47 -0400
-
-Summary:
-Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/
 
 ------------------------------------------------------------
 
