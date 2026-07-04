@@ -57,6 +57,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+JadePuffer ransomware used AI agent to automate entire attack
+
+Published:
+Sat, 04 Jul 2026 10:16:38 -0400
+
+Summary:
+Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/
+
+------------------------------------------------------------
+
+Title:
 NetNut proxy network disrupted, 2 million infected devices cut off
 
 Published:
@@ -81,20 +95,6 @@ A new phishing-as-a-service (PhaaS) platform dubbed "ARToken" appears to opera
 
 URL:
 https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/
-
-------------------------------------------------------------
-
-Title:
-Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says
-
-Published:
-Thu, 02 Jul 2026 21:37:09 -0400
-
-Summary:
-Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/
 
 ------------------------------------------------------------
 
