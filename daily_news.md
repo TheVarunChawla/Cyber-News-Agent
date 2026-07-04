@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign
+
+Published:
+Sat, 04 Jul 2026 16:47:24 +0530
+
+Summary:
+The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider.
+
+"The campaign remains active, and new malicious packages are likely to continue appearing as threat actors compromise maintainer accounts,
+
+URL:
+https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html
+
+------------------------------------------------------------
+
+Title:
 Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices
 
 Published:
@@ -35,22 +51,6 @@ The AI caught one flaw and missed
 
 URL:
 https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html
-
-------------------------------------------------------------
-
-Title:
-New Avalon Malware Framework Packs CrownX Ransomware Capabilities
-
-Published:
-Sat, 04 Jul 2026 00:25:24 +0530
-
-Summary:
-Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.
-
-Avalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one
-
-URL:
-https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html
 
 ------------------------------------------------------------
 
