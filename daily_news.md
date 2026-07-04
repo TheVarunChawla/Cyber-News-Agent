@@ -5,6 +5,22 @@ SOURCE : The Hacker News
 ============================================================
 
 Title:
+U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case
+
+Published:
+Sat, 04 Jul 2026 18:17:53 +0530
+
+Summary:
+A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left.
+
+The odd part: the group that took the money calls itself Kairos, but it may not be a ransomware gang at all. Krishnan found no sign that it ever locked a single
+
+URL:
+https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html
+
+------------------------------------------------------------
+
+Title:
 North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign
 
 Published:
@@ -33,24 +49,6 @@ The flaws matter because FatFs is nearly everywhere. It ships inside the firmwar
 
 URL:
 https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html
-
-------------------------------------------------------------
-
-Title:
-New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android
-
-Published:
-Sat, 04 Jul 2026 01:10:01 +0530
-
-Summary:
-A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.
-
-Bad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.
-
-The AI caught one flaw and missed
-
-URL:
-https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html
 
 ------------------------------------------------------------
 
