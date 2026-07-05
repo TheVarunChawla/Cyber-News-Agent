@@ -57,6 +57,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Flipper Zero firmware development continues with community help
+
+Published:
+Sun, 05 Jul 2026 10:14:52 -0400
+
+Summary:
+Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/
+
+------------------------------------------------------------
+
+Title:
 JadePuffer ransomware used AI agent to automate entire attack
 
 Published:
@@ -81,20 +95,6 @@ A joint operation involving Google has disrupted NetNut, a residential proxy net
 
 URL:
 https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/
-
-------------------------------------------------------------
-
-Title:
-ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit
-
-Published:
-Fri, 03 Jul 2026 10:12:22 -0400
-
-Summary:
-A new phishing-as-a-service (PhaaS) platform dubbed "ARToken" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/
 
 ------------------------------------------------------------
 
