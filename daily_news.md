@@ -123,7 +123,7 @@ Published:
 Thu, 02 Jul 2026 10:14:31 -0400
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/mGLMd9ZXyPlefun5bLb6wm2QkQKUuXUBCDY1E-9Gvm4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9icmVhY2hfLmpwZw==.webp" /></div></figure>The security firm Bitdefender&rsquo;s annual survey also found that U.S. companies were simultaneously more confident and more strained on cyber defense than foreign peers.
+<figure><div><img src="https://imgproxy.divecdn.com/mGLMd9ZXyPlefun5bLb6wm2QkQKUuXUBCDY1E-9Gvm4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9icmVhY2hfLmpwZw==.webp" /></div></figure>Security firm Bitdefender also found that U.S. companies were simultaneously more confident and more strained on cyber defense than foreign peers.
 
 URL:
 https://www.cybersecuritydive.com/news/data-breach-coverups-ai-bitdefender/824331/
