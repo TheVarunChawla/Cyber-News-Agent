@@ -1,88 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-07 05:29 UTC_
+_Last run: 2026-07-08 04:21 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations
+RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service
 
 Published:
-2026-07-06 18:34 UTC
+2026-07-07 17:10 UTC
 
 Summary:
-An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations.
+A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts.
 
-The activity, which has primarily singled out IT providers and government sectors, has been attributed to a threat cluster tracked by Check Point Research
+Zimperium's zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool
 
 URL:
-https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html
+https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html
 
 ------------------------------------------------------------
 
 Title:
-16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems
+Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots
 
 Published:
-2026-07-06 17:37 UTC
+2026-07-07 16:37 UTC
 
 Summary:
-A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.
+A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.
 
-Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims that a separate, unreleased exploit
+From there, they could read live conversations, steal the data users shared, and make the bots send attacker-written messages, including requests to re-enter a password.
+
+Security firm Varonis found it
 
 URL:
-https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html
+https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html
 
 ------------------------------------------------------------
 
 Title:
-Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure
+DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts
 
 Published:
-2026-07-06 16:28 UTC
+2026-07-07 15:14 UTC
 
 Summary:
-Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.
+A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC.
 
-The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the "X-WEBAUTH-USER" header from any source IP address, effectively allowing an unauthenticated internet client to get elevated
+"The campaign did not depend on a fake Microsoft password page. It used a malicious collaboration-style lure to push users into the legitimate Microsoft device login experience,
 
 URL:
-https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html
+https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html
 
 ------------------------------------------------------------
 
 Title:
-⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More
+Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data
 
 Published:
-2026-07-06 13:01 UTC
+2026-07-07 14:04 UTC
 
 Summary:
-A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary.
+A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.
 
-Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructions. Same soft spot throughout: trust
+The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones
 
 URL:
-https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html
+https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html
 
 ------------------------------------------------------------
 
 Title:
-How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions
+Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker
 
 Published:
-2026-07-06 11:30 UTC
+2026-07-07 13:27 UTC
 
 Summary:
-Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, and response on their own data foundation.
+U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.
 
-Whether a platform will materially change outcomes for
+Microsoft records tied that ID first to the account the attackers used to keep access during the May 2025 intrusion, then to online accounts prosecutors say belong to 19-year-old Peter Stokes.
+
+Stokes is
 
 URL:
-https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html
+https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html
 
 ------------------------------------------------------------
 
@@ -91,72 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Phishing poses as big-brand job interview to steal Google accounts
+Accenture confirms breach after hacker offers stolen data for sale
 
 Published:
-2026-07-06 20:27 UTC
+2026-07-07 22:06 UTC
 
 Summary:
-A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]
+IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/
+https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/
 
 ------------------------------------------------------------
 
 Title:
-Fake IT support calls on Microsoft Teams push EtherRAT malware
+Chinese hackers develop LONGLEASH malware to expand ORB network
 
 Published:
-2026-07-06 20:23 UTC
+2026-07-07 18:52 UTC
 
 Summary:
-Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]
+Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/
+https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/
 
 ------------------------------------------------------------
 
 Title:
-Vietnam arrests suspects behind HiAnime anime piracy service
+Hidden backdoor in Tenda router firmware grants admin access
 
 Published:
-2026-07-06 18:25 UTC
+2026-07-07 17:27 UTC
 
 Summary:
-​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]
+A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/
+https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/
 
 ------------------------------------------------------------
 
 Title:
-Software Is Now Written at the Speed of Thought. Security Isn't.
+Spain arrests suspected member of pro-Russian hacktivist groups
 
 Published:
-2026-07-06 14:00 UTC
+2026-07-07 15:21 UTC
 
 Summary:
-Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have traditionally taken place. [...]
+The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/
+https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/
 
 ------------------------------------------------------------
 
 Title:
-Max severity Adobe ColdFusion flaw now exploited in attacks
+The GitHub Actions Attack Pattern Your CI Security Scanners Miss
 
 Published:
-2026-07-06 13:18 UTC
+2026-07-07 14:01 UTC
 
 Summary:
-Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]
+ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/
+https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/
 
 ------------------------------------------------------------
 
@@ -165,13 +169,27 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
+Businesses modernizing networks for AI fear expanding attack surface, limited visibility
+
+Published:
+2026-07-07 14:32 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/8ZL3QnwpzsDKjtJnyqsMb59ILeKbtf9EU4pziUeQ0EY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ2OTI5OTYzLmpwZw==.webp" /></div></figure>IT leaders are worried that security controls aren&rsquo;t keeping pace with threats to AI systems.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-network-expansion-security-concerns-cisco/824581/
+
+------------------------------------------------------------
+
+Title:
 Alleged member of Scattered Spider extradited to US
 
 Published:
 2026-07-06 15:11 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/h5uJalb_uweTP14BDkaVmMuGxE1sk88SOhsAKxbTh9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ET0pfMy5qcGc=.webp" /></div></figure>A man with dual US-Estonian citizenship was charged in connection to the hack of a luxury jewelry retailer.
+<figure><div><img src="https://imgproxy.divecdn.com/h5uJalb_uweTP14BDkaVmMuGxE1sk88SOhsAKxbTh9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ET0pfMy5qcGc=.webp" /></div></figure>A man with dual U.S.-Estonian citizenship was charged in connection to the hack of a luxury jewelry retailer.
 
 URL:
 https://www.cybersecuritydive.com/news/member-scattered-spider-extradited-us-retailer/824476/
@@ -222,50 +240,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-How We Added WebAuthn to a Browser-Based RDP Client
+Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation
 
 Published:
-2026-07-02 22:00 UTC
+2026-07-07 22:00 UTC
 
 Summary:
-A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.
-The post <a href="https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/">How We Added WebAuthn to a Browser-Based RDP Client</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination.
+The post <a href="https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/">Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
-
-------------------------------------------------------------
-
-Title:
-Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector
-
-Published:
-2026-07-01 01:00 UTC
-
-Summary:
-Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. 
-The post <a href="https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/">Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/
-
-------------------------------------------------------------
-
-Title:
-Threat Brief: Mitigating Large-Scale Credential Attacks
-
-Published:
-2026-06-26 19:05 UTC
-
-Summary:
-We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. 
-The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-attacks/">Threat Brief: Mitigating Large-Scale Credential Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
+https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/
 
 ------------------------------------------------------------
 
@@ -273,47 +259,17 @@ https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Catan and Mouse
+UAT-7810 continues building ORB networks using new malware
 
 Published:
-2026-07-02 18:00 UTC
+2026-07-07 10:00 UTC
 
 Summary:
-What do board games and cybersecurity have in common? Pattern recognition. Strategy. Adaptation. In this week’s Threat Source Bill explores why curiosity may be a defender’s most valuable skill.
+Talos’ latest findings on UAT-7810 indicate that the threat actor continues to develop their custom-made malware.
 
 URL:
-https://blog.talosintelligence.com/catan-and-mouse/
-
-------------------------------------------------------------
-
-Title:
-Martin Lee: Running through the Arctic (and the threat landscape)
-
-Published:
-2026-07-01 10:00 UTC
-
-Summary:
-Ever wonder how someone goes from studying human viruses to leading cybersecurity teams? In this Humans of Talos, we’re joined by Martin Lee, EMEA Lead, to talk about his journey into the industry.
-
-URL:
-https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/
-
-------------------------------------------------------------
-
-Title:
-ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365
-
-Published:
-2026-07-01 10:00 UTC
-
-Summary:
-Talos has identified "ARToken," a phishing-as-a-service platform that targets Microsoft 365. The ARToken panel exposes 80+ API endpoints for device code phishing, Primary Refresh Token persistence, email access, BEC operations, and SharePoint exfiltration.
-
-URL:
-https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/
+https://blog.talosintelligence.com/uat-7810/
 
 ------------------------------------------------------------
 
@@ -321,7 +277,7 @@ https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-
 SOURCE : Microsoft Security Response Center
 ============================================================
 
-[Feed error, no entries returned: <unknown>:127:158: not well-formed (invalid token)]
+[Feed error, no entries returned: <unknown>:173:31: not well-formed (invalid token)]
 
 ============================================================
 SOURCE : Google Security Blog
@@ -673,5 +629,5 @@ FEED ERRORS THIS RUN
 
 - Trend Micro: text/html; charset=iso-8859-1 is not an XML media type
 - CISA: <unknown>:10:2: mismatched tag
-- Microsoft Security Response Center: <unknown>:127:158: not well-formed (invalid token)
+- Microsoft Security Response Center: <unknown>:173:31: not well-formed (invalid token)
 
