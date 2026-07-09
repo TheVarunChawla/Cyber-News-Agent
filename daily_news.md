@@ -1,10 +1,42 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-09 04:39 UTC_
+_Last run: 2026-07-09 04:55 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
+
+Title:
+GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents
+
+Published:
+2026-07-09 04:27 UTC
+
+Summary:
+Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead.
+
+The affected tools are Amazon Q Developer, Anthropic's Claude Code, Augment, Cursor, Google Antigravity, and Windsurf.
+
+URL:
+https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html
+
+------------------------------------------------------------
+
+Title:
+Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes
+
+Published:
+2026-07-09 04:01 UTC
+
+Summary:
+Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains.
+
+The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, observed earlier this year, involved the
+
+URL:
+https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html
+
+------------------------------------------------------------
 
 Title:
 AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers
@@ -56,38 +88,6 @@ The list of vulnerabilities is as follows -
 
 URL:
 https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html
-
-------------------------------------------------------------
-
-Title:
-New Ghost Phishing Wave Is Breaking Traditional Email Security
-
-Published:
-2026-07-08 13:00 UTC
-
-Summary:
-A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s browser.
-
-For security leaders, the risk is clear: traditional URL checks may miss the attack while Microsoft 365 access, sensitive data, and response time
-
-URL:
-https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html
-
-------------------------------------------------------------
-
-Title:
-SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users
-
-Published:
-2026-07-08 12:52 UTC
-
-Summary:
-A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.
-
-The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification pages that deceive them into running a malicious command that installs a PowerShell toolkit dubbed
-
-URL:
-https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html
 
 ------------------------------------------------------------
 
