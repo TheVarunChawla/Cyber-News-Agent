@@ -1,92 +1,93 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-08 04:41 UTC_
+_Last run: 2026-07-09 04:39 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service
+AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers
 
 Published:
-2026-07-07 17:10 UTC
+2026-07-08 17:02 UTC
 
 Summary:
-A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts.
+Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.
 
-Zimperium's zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool
+The agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like an attack.
+
+Decrypting browser credentials, listing what sits in Windows' credential store,
 
 URL:
-https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html
+https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html
 
 ------------------------------------------------------------
 
 Title:
-Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots
+New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware
 
 Published:
-2026-07-07 16:37 UTC
+2026-07-08 15:07 UTC
 
 Summary:
-A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.
+AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.
 
-From there, they could read live conversations, steal the data users shared, and make the bots send attacker-written messages, including requests to re-enter a password.
-
-Security firm Varonis found it
+New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant to fetch your trap on a user's
 
 URL:
-https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html
+https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html
 
 ------------------------------------------------------------
 
 Title:
-DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts
+Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS
 
 Published:
-2026-07-07 15:14 UTC
+2026-07-08 14:38 UTC
 
 Summary:
-A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC.
+Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution.
 
-"The campaign did not depend on a fake Microsoft password page. It used a malicious collaboration-style lure to push users into the legitimate Microsoft device login experience,
+The list of vulnerabilities is as follows -
+
+
+  CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Connect Application that an attacker
 
 URL:
-https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html
+https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html
 
 ------------------------------------------------------------
 
 Title:
-Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data
+New Ghost Phishing Wave Is Breaking Traditional Email Security
 
 Published:
-2026-07-07 14:04 UTC
+2026-07-08 13:00 UTC
 
 Summary:
-A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.
+A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s browser.
 
-The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones
+For security leaders, the risk is clear: traditional URL checks may miss the attack while Microsoft 365 access, sensitive data, and response time
 
 URL:
-https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html
+https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html
 
 ------------------------------------------------------------
 
 Title:
-Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker
+SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users
 
 Published:
-2026-07-07 13:27 UTC
+2026-07-08 12:52 UTC
 
 Summary:
-U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.
+A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.
 
-Microsoft records tied that ID first to the account the attackers used to keep access during the May 2025 intrusion, then to online accounts prosecutors say belong to 19-year-old Peter Stokes.
-
-Stokes is
+The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification pages that deceive them into running a malicious command that installs a PowerShell toolkit dubbed
 
 URL:
-https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html
+https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html
 
 ------------------------------------------------------------
 
@@ -95,78 +96,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Accenture confirms breach after hacker offers stolen data for sale
+Mount Royal University confirms breach as hackers claim attack
 
 Published:
-2026-07-07 22:06 UTC
+2026-07-08 21:26 UTC
 
 Summary:
-IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]
+Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/
+https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/
 
 ------------------------------------------------------------
 
 Title:
-Chinese hackers develop LONGLEASH malware to expand ORB network
+Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials
 
 Published:
-2026-07-07 18:52 UTC
+2026-07-08 19:54 UTC
 
 Summary:
-Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]
+Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/
+https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/
 
 ------------------------------------------------------------
 
 Title:
-Hidden backdoor in Tenda router firmware grants admin access
+Hackers exploit Roundcube flaw to spy on academic researchers
 
 Published:
-2026-07-07 17:27 UTC
+2026-07-08 18:56 UTC
 
 Summary:
-A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]
+A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/
 
 ------------------------------------------------------------
 
 Title:
-Spain arrests suspected member of pro-Russian hacktivist groups
+Entra passkey enrollment vishing targets Microsoft 365 users
 
 Published:
-2026-07-07 15:21 UTC
+2026-07-08 16:47 UTC
 
 Summary:
-The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]
+A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/
+https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/
 
 ------------------------------------------------------------
 
 Title:
-The GitHub Actions Attack Pattern Your CI Security Scanners Miss
+3 Ways AI Powers Service Desk Attacks and How to Prevent Them
 
 Published:
-2026-07-07 14:01 UTC
+2026-07-08 14:01 UTC
 
 Summary:
-ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]
+Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/
+https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+US enterprises incorporate cyber risk into larger strategic focus
+
+Published:
+2026-07-08 15:31 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/fsE6uDu8zgEUeWA5duwyeZuBf3HxdSVz4qexTVY8BNg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3X1RLdUMwNG8uanBn.webp" /></div></figure>The rapid adoption of AI and cloud is forcing significant shifts toward business resilience and financial impact.
+
+URL:
+https://www.cybersecuritydive.com/news/us-enterprises-cyber-risk-strategic-focus/824707/
+
+------------------------------------------------------------
+
+Title:
+Accenture faces massive data breach that could put clients at risk
+
+Published:
+2026-07-08 14:33 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/IQUOO1jgqjorLgsdafWZ6r0gSI0ib9Dkb9WBHJ5jNpA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU0MDM4Mzg0LmpwZw==.webp" /></div></figure>The threat actor claiming responsibility says they stole source code, encryption keys and more.
+
+URL:
+https://www.cybersecuritydive.com/news/accenture-data-breach-access-keys-source-code/824694/
+
+------------------------------------------------------------
 
 Title:
 Businesses modernizing networks for AI fear expanding attack surface, limited visibility
@@ -183,44 +212,16 @@ https://www.cybersecuritydive.com/news/ai-network-expansion-security-concerns-ci
 ------------------------------------------------------------
 
 Title:
-Alleged member of Scattered Spider extradited to US
+Sophisticated threat campaign pushes Cisco to the very edge
 
 Published:
-2026-07-06 15:11 UTC
+2026-07-07 13:41 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/h5uJalb_uweTP14BDkaVmMuGxE1sk88SOhsAKxbTh9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ET0pfMy5qcGc=.webp" /></div></figure>A man with dual U.S.-Estonian citizenship was charged in connection to the hack of a luxury jewelry retailer.
+<figure><div><img src="https://imgproxy.divecdn.com/g7W4cQChu40SgRNPoEKhf223sSARwcdppzjVAtgbfBA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNjb19saXZlX3NpemVfYWRqXy1fMV85OURpRjBULmpwZWc=.webp" /></div></figure>A monthslong exploitation wave against Cisco SD-WAN systems raises larger questions about trust and the insecurity of network infrastructure.
 
 URL:
-https://www.cybersecuritydive.com/news/member-scattered-spider-extradited-us-retailer/824476/
-
-------------------------------------------------------------
-
-Title:
-Why schools are easy prey for hackers — and why they struggle to fight back
-
-Published:
-2026-07-06 12:00 UTC
-
-Summary:
-Power plants and gas pipelines might receive more attention, but schools are arguably more vulnerable.
-
-URL:
-https://www.cybersecuritydive.com/news/schools-cybersecurity-threats-education-sector-reporters-notebook/824123/
-
-------------------------------------------------------------
-
-Title:
-The security leaders defining the next decade aren’t in CISO seats yet
-
-Published:
-2026-07-06 09:00 UTC
-
-Summary:
-The first recognition program for the security leaders who will define the future of cybersecurity.
-
-URL:
-https://www.cybersecuritydive.com/spons/the-security-leaders-defining-the-next-decade-arent-in-ciso-seats-yet/824263/
+https://www.cybersecuritydive.com/news/sophisticated-threat-campaign-pushes-cisco-to-the-very-edge/824569/
 
 ------------------------------------------------------------
 
@@ -277,7 +278,7 @@ https://blog.talosintelligence.com/uat-7810/
 SOURCE : Microsoft Security Response Center
 ============================================================
 
-[Feed error, no entries returned: <unknown>:173:31: not well-formed (invalid token)]
+[Feed error, no entries returned: <unknown>:127:158: not well-formed (invalid token)]
 
 ============================================================
 SOURCE : Google Security Blog
@@ -609,17 +610,17 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management
+Protecting Microsoft at AI speed: How SFI proactively hardens our cloud
 
 Published:
-2026-07-06 16:00 UTC
+2026-07-08 17:00 UTC
 
 Summary:
-Read five key learnings from the Frost &#038; Sullivan 2025 Frost Radar™ for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/">5 insights from Frost &amp; Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/">Protecting Microsoft at AI speed: How SFI proactively hardens our cloud  </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/
+https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/
 
 ------------------------------------------------------------
 
@@ -629,5 +630,5 @@ FEED ERRORS THIS RUN
 
 - Trend Micro: text/html; charset=iso-8859-1 is not an XML media type
 - CISA: <unknown>:10:2: mismatched tag
-- Microsoft Security Response Center: <unknown>:173:31: not well-formed (invalid token)
+- Microsoft Security Response Center: <unknown>:127:158: not well-formed (invalid token)
 
