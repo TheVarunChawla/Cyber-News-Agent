@@ -1,93 +1,101 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-09 05:30 UTC_
+_Last run: 2026-07-10 04:20 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents
+Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs
 
 Published:
-2026-07-09 04:27 UTC
+2026-07-09 18:38 UTC
 
 Summary:
-Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead.
+Datadog Security Labs is warning of "several overlapping campaigns" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API.
 
-The affected tools are Amazon Q Developer, Anthropic's Claude Code, Augment, Cursor, Google Antigravity, and Windsurf.
+"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveraging GitHub 'ghost' accounts that are often years old, or compromised OAuth tokens and personal
 
 URL:
-https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html
+https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html
 
 ------------------------------------------------------------
 
 Title:
-Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes
+New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware
 
 Published:
-2026-07-09 04:01 UTC
+2026-07-09 18:08 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains.
+Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from.
 
-The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, observed earlier this year, involved the
+Each is a different way to break a machine: wipe the whole disk, overwrite the Windows drive, or run fake "ransomware" that scrambles files with a key it never saves
 
 URL:
-https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html
+https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html
 
 ------------------------------------------------------------
 
 Title:
-AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers
+npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk
 
 Published:
-2026-07-08 17:02 UTC
+2026-07-09 16:49 UTC
 
 Summary:
-Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.
+GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).
 
-The agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like an attack.
+The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in -
 
-Decrypting browser credentials, listing what sits in Windows' credential store,
+
+  allowScripts defaults to off, meaning
 
 URL:
-https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html
+https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html
 
 ------------------------------------------------------------
 
 Title:
-New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware
+ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories
 
 Published:
-2026-07-08 15:07 UTC
+2026-07-09 15:09 UTC
 
 Summary:
-AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.
+Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it.
 
-New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant to fetch your trap on a user's
+This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives.
+
+The full ThreatsDay list is below.
+
+
+
+
+
+  
+
+  
+  
+    Global
 
 URL:
-https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html
+https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html
 
 ------------------------------------------------------------
 
 Title:
-Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS
+Summer of Clearinghouses
 
 Published:
-2026-07-08 14:38 UTC
+2026-07-09 11:00 UTC
 
 Summary:
-Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution.
-
-The list of vulnerabilities is as follows -
-
-
-  CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Connect Application that an attacker
+Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,
 
 URL:
-https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html
+https://thehackernews.com/2026/07/summer-of-clearinghouses.html
 
 ------------------------------------------------------------
 
@@ -96,78 +104,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Mount Royal University confirms breach as hackers claim attack
+OpenMandriva Linux says contributor tried to sabotage the project
 
 Published:
-2026-07-08 21:26 UTC
+2026-07-09 22:14 UTC
 
 Summary:
-Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]
+The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/
+https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/
 
 ------------------------------------------------------------
 
 Title:
-Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials
+Injective SDK on npm infected with cryptocurrency wallet stealer
 
 Published:
-2026-07-08 19:54 UTC
+2026-07-09 20:10 UTC
 
 Summary:
-Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]
+Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/
+https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/
 
 ------------------------------------------------------------
 
 Title:
-Hackers exploit Roundcube flaw to spy on academic researchers
+New Helix vishing group emerges in SharePoint data theft attacks
 
 Published:
-2026-07-08 18:56 UTC
+2026-07-09 17:08 UTC
 
 Summary:
-A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]
+A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/
+https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Entra passkey enrollment vishing targets Microsoft 365 users
+Microsoft expects more Windows security updates from AI-discovered flaws
 
 Published:
-2026-07-08 16:47 UTC
+2026-07-09 17:00 UTC
 
 Summary:
-A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]
+Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/
 
 ------------------------------------------------------------
 
 Title:
-3 Ways AI Powers Service Desk Attacks and How to Prevent Them
+New Forg365 phishing platform uses AI to target Microsoft 365 accounts
 
 Published:
-2026-07-08 14:01 UTC
+2026-07-09 14:39 UTC
 
 Summary:
-Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]
+A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/
+https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Data breach hits car insurance provider
+
+Published:
+2026-07-09 15:19 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/D10z7c5IY4J4mgJSU82U1p3baPWWPf8ql9j_WKXXAMw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmVhY2guanBn.webp" /></div></figure>Hackers gained access to more than 6.9 million records at AssuranceAmerica by targeting a company employee.
+
+URL:
+https://www.cybersecuritydive.com/news/data-breach-car-insurance-provider/824835/
+
+------------------------------------------------------------
+
+Title:
+Ransomware ecosystem grows, but ‘four-headed monster’ dominates
+
+Published:
+2026-07-09 14:35 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/T3xriZRS8EXJXdz3Gus7lJnwn2omEwnFhURyHxpP1YY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYwMjguanBn.webp" /></div></figure>AI is helping hackers, a new report finds, but mostly by automating very human behaviors.
+
+URL:
+https://www.cybersecuritydive.com/news/ransomware-concentrated-ai-guidepoint/824828/
+
+------------------------------------------------------------
 
 Title:
 US enterprises incorporate cyber risk into larger strategic focus
@@ -197,34 +233,6 @@ https://www.cybersecuritydive.com/news/accenture-data-breach-access-keys-source-
 
 ------------------------------------------------------------
 
-Title:
-Businesses modernizing networks for AI fear expanding attack surface, limited visibility
-
-Published:
-2026-07-07 14:32 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/8ZL3QnwpzsDKjtJnyqsMb59ILeKbtf9EU4pziUeQ0EY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ2OTI5OTYzLmpwZw==.webp" /></div></figure>IT leaders are worried that security controls aren&rsquo;t keeping pace with threats to AI systems.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-network-expansion-security-concerns-cisco/824581/
-
-------------------------------------------------------------
-
-Title:
-Sophisticated threat campaign pushes Cisco to the very edge
-
-Published:
-2026-07-07 13:41 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/g7W4cQChu40SgRNPoEKhf223sSARwcdppzjVAtgbfBA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNjb19saXZlX3NpemVfYWRqXy1fMV85OURpRjBULmpwZWc=.webp" /></div></figure>A monthslong exploitation wave against Cisco SD-WAN systems raises larger questions about trust and the insecurity of network infrastructure.
-
-URL:
-https://www.cybersecuritydive.com/news/sophisticated-threat-campaign-pushes-cisco-to-the-very-edge/824569/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -241,6 +249,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation
 
@@ -256,21 +266,65 @@ https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/
 
 ------------------------------------------------------------
 
+Title:
+How We Added WebAuthn to a Browser-Based RDP Client
+
+Published:
+2026-07-02 22:00 UTC
+
+Summary:
+A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.
+The post <a href="https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/">How We Added WebAuthn to a Browser-Based RDP Client</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
+
+------------------------------------------------------------
+
+Title:
+Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector
+
+Published:
+2026-07-01 01:00 UTC
+
+Summary:
+Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. 
+The post <a href="https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/">Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
 
 Title:
-UAT-7810 continues building ORB networks using new malware
+WolfSSL, GeoVision, VTK vulnerabilities
 
 Published:
-2026-07-07 10:00 UTC
+2026-07-09 18:52 UTC
 
 Summary:
-Talos’ latest findings on UAT-7810 indicate that the threat actor continues to develop their custom-made malware.
+Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed three vulnerabilities in WolfSSF, fourteen in GeoVision, and one vulnerability in VTK-DICOM.The vulnerabilities mentioned in this blog post have been patched by their respective vendors, in adherence to<a href="https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html"><u> Cisco&#x2019;s third-party vulnerability disclosure policy</u></a>.&#xa0;For
 
 URL:
-https://blog.talosintelligence.com/uat-7810/
+https://blog.talosintelligence.com/wolfssl-vulnerabilities/
+
+------------------------------------------------------------
+
+Title:
+Winning 54% of the time
+
+Published:
+2026-07-09 18:00 UTC
+
+Summary:
+With Wimbledon's help, Hazel argues against the popular myth that "Attackers only need to be right once, but defenders need to be right 100% of the time."
+
+URL:
+https://blog.talosintelligence.com/winning-54-of-the-time/
 
 ------------------------------------------------------------
 
@@ -608,6 +662,21 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 ============================================================
 SOURCE : Microsoft Security Blog
 ============================================================
+
+Title:
+GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware
+
+Published:
+2026-07-09 15:00 UTC
+
+Summary:
+GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/">GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/
+
+------------------------------------------------------------
 
 Title:
 Protecting Microsoft at AI speed: How SFI proactively hardens our cloud
