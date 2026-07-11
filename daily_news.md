@@ -1,101 +1,93 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-10 05:29 UTC_
+_Last run: 2026-07-11 04:37 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs
+URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat
 
 Published:
-2026-07-09 18:38 UTC
+2026-07-10 16:30 UTC
 
 Summary:
-Datadog Security Labs is warning of "several overlapping campaigns" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API.
+Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a "credible external security threat."
 
-"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveraging GitHub 'ghost' accounts that are often years old, or compromised OAuth tokens and personal
+The company has temporarily disabled access to the affected accounts, a step it says it took "out of an abundance of caution" while it works with internal and external security
 
 URL:
-https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html
+https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html
 
 ------------------------------------------------------------
 
 Title:
-New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware
+Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages
 
 Published:
-2026-07-09 18:08 UTC
+2026-07-10 16:29 UTC
 
 Summary:
-Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from.
+Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases.
 
-Each is a different way to break a machine: wipe the whole disk, overwrite the Windows drive, or run fake "ransomware" that scrambles files with a key it never saves
+The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was
 
 URL:
-https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html
+https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html
 
 ------------------------------------------------------------
 
 Title:
-npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk
+Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot
 
 Published:
-2026-07-09 16:49 UTC
+2026-07-10 15:57 UTC
 
 Summary:
-GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).
+Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers.
 
-The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in -
-
-
-  allowScripts defaults to off, meaning
+Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device
 
 URL:
-https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html
+https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories
+Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched
 
 Published:
-2026-07-09 15:09 UTC
+2026-07-10 14:51 UTC
 
 Summary:
-Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it.
+Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks.
 
-This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives.
+No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out.
 
-The full ThreatsDay list is below.
-
-
-
-
-
-  
-
-  
-  
-    Global
+This is not an emergency for most owners. The attack needs
 
 URL:
-https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html
+https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html
 
 ------------------------------------------------------------
 
 Title:
-Summer of Clearinghouses
+Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws
 
 Published:
-2026-07-09 11:00 UTC
+2026-07-10 14:19 UTC
 
 Summary:
-Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,
+Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host.
+
+A brief description of the high-severity vulnerabilities is as follows -
+
+
+  GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system
 
 URL:
-https://thehackernews.com/2026/07/summer-of-clearinghouses.html
+https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html
 
 ------------------------------------------------------------
 
@@ -104,78 +96,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-OpenMandriva Linux says contributor tried to sabotage the project
+New U-Boot flaws could enable stealthy firmware attacks
 
 Published:
-2026-07-09 22:14 UTC
+2026-07-10 21:59 UTC
 
 Summary:
-The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]
+Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/
+https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Injective SDK on npm infected with cryptocurrency wallet stealer
+Ryuk ransomware member pleads guilty in the US, faces 15 years in prison
 
 Published:
-2026-07-09 20:10 UTC
+2026-07-10 17:46 UTC
 
 Summary:
-Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]
+A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/
+https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/
 
 ------------------------------------------------------------
 
 Title:
-New Helix vishing group emerges in SharePoint data theft attacks
+Police suspects Dutch hackers were involved in Odido breach
 
 Published:
-2026-07-09 17:08 UTC
+2026-07-10 16:37 UTC
 
 Summary:
-A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]
+The Dutch National Police (Politie) says it has found "strong indications" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/
+https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft expects more Windows security updates from AI-discovered flaws
+Progress urges ShareFile admins to shut down servers over “credible” threat
 
 Published:
-2026-07-09 17:00 UTC
+2026-07-10 16:26 UTC
 
 Summary:
-Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]
+Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a "credible external security threat" targeting the on-premises secure file-sharing software. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/
+https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/
 
 ------------------------------------------------------------
 
 Title:
-New Forg365 phishing platform uses AI to target Microsoft 365 accounts
+Hackers exploit critical auth bypass in Gitea Docker image
 
 Published:
-2026-07-09 14:39 UTC
+2026-07-10 15:48 UTC
 
 Summary:
-A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]
+Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Initial access broker linked to weaponization of CitrixBleed2 flaw
+
+Published:
+2026-07-10 15:24 UTC
+
+Summary:
+Similar exploitation was seen in a series of attacks involving an open-source machine emulator. 
+
+URL:
+https://www.cybersecuritydive.com/news/initial-access-broker-citrixbleed2-flaw-DragonForce/824961/
+
+------------------------------------------------------------
+
+Title:
+CISA details security lapses that led to GitHub leak of passwords, cloud access keys
+
+Published:
+2026-07-10 14:49 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>The agency&rsquo;s blog post came as lawmakers pressed the agency for answers.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-report/824953/
+
+------------------------------------------------------------
 
 Title:
 Data breach hits car insurance provider
@@ -205,34 +225,6 @@ https://www.cybersecuritydive.com/news/ransomware-concentrated-ai-guidepoint/824
 
 ------------------------------------------------------------
 
-Title:
-US enterprises incorporate cyber risk into larger strategic focus
-
-Published:
-2026-07-08 15:31 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/fsE6uDu8zgEUeWA5duwyeZuBf3HxdSVz4qexTVY8BNg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3X1RLdUMwNG8uanBn.webp" /></div></figure>The rapid adoption of AI and cloud is forcing significant shifts toward business resilience and financial impact.
-
-URL:
-https://www.cybersecuritydive.com/news/us-enterprises-cyber-risk-strategic-focus/824707/
-
-------------------------------------------------------------
-
-Title:
-Accenture faces massive data breach that could put clients at risk
-
-Published:
-2026-07-08 14:33 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/IQUOO1jgqjorLgsdafWZ6r0gSI0ib9Dkb9WBHJ5jNpA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU0MDM4Mzg0LmpwZw==.webp" /></div></figure>The threat actor claiming responsibility says they stole source code, encryption keys and more.
-
-URL:
-https://www.cybersecuritydive.com/news/accenture-data-breach-access-keys-source-code/824694/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -249,50 +241,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation
+No Manners Here: The Ruthless Rise of The Gentlemen Ransomware
 
 Published:
-2026-07-07 22:00 UTC
+2026-07-10 22:00 UTC
 
 Summary:
-A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination.
-The post <a href="https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/">Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here.
+The post <a href="https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/">No Manners Here: The Ruthless Rise of The Gentlemen Ransomware</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/
-
-------------------------------------------------------------
-
-Title:
-How We Added WebAuthn to a Browser-Based RDP Client
-
-Published:
-2026-07-02 22:00 UTC
-
-Summary:
-A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.
-The post <a href="https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/">How We Added WebAuthn to a Browser-Based RDP Client</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
-
-------------------------------------------------------------
-
-Title:
-Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector
-
-Published:
-2026-07-01 01:00 UTC
-
-Summary:
-Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. 
-The post <a href="https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/">Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/
+https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/
 
 ------------------------------------------------------------
 
@@ -664,6 +624,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative
+
+Published:
+2026-07-10 16:00 UTC
+
+Summary:
+Microsoft’s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/">Securing our future: July 2026 progress report on Microsoft&#8217;s Secure Future Initiative</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/
+
+------------------------------------------------------------
+
+Title:
 GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware
 
 Published:
@@ -675,21 +650,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/09/gigaw
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/
-
-------------------------------------------------------------
-
-Title:
-Protecting Microsoft at AI speed: How SFI proactively hardens our cloud
-
-Published:
-2026-07-08 17:00 UTC
-
-Summary:
-At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/">Protecting Microsoft at AI speed: How SFI proactively hardens our cloud  </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/
 
 ------------------------------------------------------------
 
