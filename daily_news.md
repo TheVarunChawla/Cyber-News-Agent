@@ -1,10 +1,60 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-11 04:37 UTC_
+_Last run: 2026-07-12 04:47 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
+
+Title:
+Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install
+
+Published:
+2026-07-11 17:59 UTC
+
+Summary:
+The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and executes a native binary, one build each for Windows, macOS, and Linux.
+
+Socket flagged the release six minutes after it was published. If you or one of your
+
+URL:
+https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html
+
+------------------------------------------------------------
+
+Title:
+Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns
+
+Published:
+2026-07-11 17:49 UTC
+
+Summary:
+Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026.
+
+"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and
+
+URL:
+https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html
+
+------------------------------------------------------------
+
+Title:
+Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions
+
+Published:
+2026-07-11 06:45 UTC
+
+Summary:
+Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.
+
+The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier.
+
+"The
+
+URL:
+https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html
+
+------------------------------------------------------------
 
 Title:
 URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat
@@ -38,62 +88,37 @@ https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html
 
 ------------------------------------------------------------
 
-Title:
-Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot
-
-Published:
-2026-07-10 15:57 UTC
-
-Summary:
-Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers.
-
-Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device
-
-URL:
-https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html
-
-------------------------------------------------------------
-
-Title:
-Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched
-
-Published:
-2026-07-10 14:51 UTC
-
-Summary:
-Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks.
-
-No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out.
-
-This is not an emergency for most owners. The attack needs
-
-URL:
-https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html
-
-------------------------------------------------------------
-
-Title:
-Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws
-
-Published:
-2026-07-10 14:19 UTC
-
-Summary:
-Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host.
-
-A brief description of the high-severity vulnerabilities is as follows -
-
-
-  GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system
-
-URL:
-https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Australia warns of global campaign targeting vulnerable CMS platforms
+
+Published:
+2026-07-11 14:18 UTC
+
+Summary:
+The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/
+
+------------------------------------------------------------
+
+Title:
+'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets
+
+Published:
+2026-07-11 09:03 UTC
+
+Summary:
+A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into the code as a list of numbers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/
+
+------------------------------------------------------------
 
 Title:
 New U-Boot flaws could enable stealthy firmware attacks
@@ -137,34 +162,6 @@ https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-wer
 
 ------------------------------------------------------------
 
-Title:
-Progress urges ShareFile admins to shut down servers over “credible” threat
-
-Published:
-2026-07-10 16:26 UTC
-
-Summary:
-Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a "credible external security threat" targeting the on-premises secure file-sharing software. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/
-
-------------------------------------------------------------
-
-Title:
-Hackers exploit critical auth bypass in Gitea Docker image
-
-Published:
-2026-07-10 15:48 UTC
-
-Summary:
-Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
@@ -194,34 +191,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-report/824953/
-
-------------------------------------------------------------
-
-Title:
-Data breach hits car insurance provider
-
-Published:
-2026-07-09 15:19 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/D10z7c5IY4J4mgJSU82U1p3baPWWPf8ql9j_WKXXAMw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmVhY2guanBn.webp" /></div></figure>Hackers gained access to more than 6.9 million records at AssuranceAmerica by targeting a company employee.
-
-URL:
-https://www.cybersecuritydive.com/news/data-breach-car-insurance-provider/824835/
-
-------------------------------------------------------------
-
-Title:
-Ransomware ecosystem grows, but ‘four-headed monster’ dominates
-
-Published:
-2026-07-09 14:35 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/T3xriZRS8EXJXdz3Gus7lJnwn2omEwnFhURyHxpP1YY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYwMjguanBn.webp" /></div></figure>AI is helping hackers, a new report finds, but mostly by automating very human behaviors.
-
-URL:
-https://www.cybersecuritydive.com/news/ransomware-concentrated-ai-guidepoint/824828/
 
 ------------------------------------------------------------
 
@@ -260,6 +229,8 @@ https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/
 SOURCE : Cisco Talos
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 WolfSSL, GeoVision, VTK vulnerabilities
 
@@ -285,6 +256,20 @@ With Wimbledon's help, Hazel argues against the popular myth that "Attackers onl
 
 URL:
 https://blog.talosintelligence.com/winning-54-of-the-time/
+
+------------------------------------------------------------
+
+Title:
+UAT-7810 continues building ORB networks using new malware
+
+Published:
+2026-07-07 10:00 UTC
+
+Summary:
+Talos’ latest findings on UAT-7810 indicate that the threat actor continues to develop their custom-made malware.
+
+URL:
+https://blog.talosintelligence.com/uat-7810/
 
 ------------------------------------------------------------
 
@@ -635,21 +620,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/10/secur
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/
-
-------------------------------------------------------------
-
-Title:
-GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware
-
-Published:
-2026-07-09 15:00 UTC
-
-Summary:
-GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/">GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/
 
 ------------------------------------------------------------
 
