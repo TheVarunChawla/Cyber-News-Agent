@@ -1,6 +1,6 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-12 04:47 UTC_
+_Last run: 2026-07-13 04:16 UTC_
 
 ============================================================
 SOURCE : The Hacker News
@@ -56,41 +56,51 @@ https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473
 
 ------------------------------------------------------------
 
-Title:
-URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat
-
-Published:
-2026-07-10 16:30 UTC
-
-Summary:
-Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a "credible external security threat."
-
-The company has temporarily disabled access to the affected accounts, a step it says it took "out of an abundance of caution" while it works with internal and external security
-
-URL:
-https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html
-
-------------------------------------------------------------
-
-Title:
-Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages
-
-Published:
-2026-07-10 16:29 UTC
-
-Summary:
-Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases.
-
-The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was
-
-URL:
-https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+OpenAI temporarily relaxes GPT-5.6 Sol usage limits
+
+Published:
+2026-07-13 00:44 UTC
+
+Summary:
+OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/
+
+------------------------------------------------------------
+
+Title:
+Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time
+
+Published:
+2026-07-12 19:39 UTC
+
+Summary:
+Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/
+
+------------------------------------------------------------
+
+Title:
+RedHook Android malware now uses Wireless ADB for shell access
+
+Published:
+2026-07-12 14:27 UTC
+
+Summary:
+A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/
+
+------------------------------------------------------------
 
 Title:
 Australia warns of global campaign targeting vulnerable CMS platforms
@@ -120,51 +130,11 @@ https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injectio
 
 ------------------------------------------------------------
 
-Title:
-New U-Boot flaws could enable stealthy firmware attacks
-
-Published:
-2026-07-10 21:59 UTC
-
-Summary:
-Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/
-
-------------------------------------------------------------
-
-Title:
-Ryuk ransomware member pleads guilty in the US, faces 15 years in prison
-
-Published:
-2026-07-10 17:46 UTC
-
-Summary:
-A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/
-
-------------------------------------------------------------
-
-Title:
-Police suspects Dutch hackers were involved in Odido breach
-
-Published:
-2026-07-10 16:37 UTC
-
-Summary:
-The Dutch National Police (Politie) says it has found "strong indications" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Initial access broker linked to weaponization of CitrixBleed2 flaw
@@ -194,6 +164,20 @@ https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-rep
 
 ------------------------------------------------------------
 
+Title:
+Data breach hits car insurance provider
+
+Published:
+2026-07-09 15:19 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/D10z7c5IY4J4mgJSU82U1p3baPWWPf8ql9j_WKXXAMw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmVhY2guanBn.webp" /></div></figure>Hackers gained access to more than 6.9 million records at AssuranceAmerica by targeting a company employee.
+
+URL:
+https://www.cybersecuritydive.com/news/data-breach-car-insurance-provider/824835/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -210,6 +194,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 No Manners Here: The Ruthless Rise of The Gentlemen Ransomware
 
@@ -222,6 +208,36 @@ The post <a href="https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/"
 
 URL:
 https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/
+
+------------------------------------------------------------
+
+Title:
+Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation
+
+Published:
+2026-07-07 22:00 UTC
+
+Summary:
+A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination.
+The post <a href="https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/">Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/
+
+------------------------------------------------------------
+
+Title:
+How We Added WebAuthn to a Browser-Based RDP Client
+
+Published:
+2026-07-02 22:00 UTC
+
+Summary:
+A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.
+The post <a href="https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/">How We Added WebAuthn to a Browser-Based RDP Client</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
 
 ------------------------------------------------------------
 
@@ -608,6 +624,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative
 
@@ -620,6 +638,36 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/10/secur
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/
+
+------------------------------------------------------------
+
+Title:
+GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware
+
+Published:
+2026-07-09 15:00 UTC
+
+Summary:
+GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/">GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/
+
+------------------------------------------------------------
+
+Title:
+Protecting Microsoft at AI speed: How SFI proactively hardens our cloud
+
+Published:
+2026-07-08 17:00 UTC
+
+Summary:
+At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/">Protecting Microsoft at AI speed: How SFI proactively hardens our cloud  </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/
 
 ------------------------------------------------------------
 
