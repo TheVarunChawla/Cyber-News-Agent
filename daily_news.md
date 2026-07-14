@@ -1,58 +1,94 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-13 04:54 UTC_
+_Last run: 2026-07-14 04:23 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install
+CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks
 
 Published:
-2026-07-11 17:59 UTC
+2026-07-13 17:36 UTC
 
 Summary:
-The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and executes a native binary, one build each for Windows, macOS, and Linux.
+Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems.
 
-Socket flagged the release six minutes after it was published. If you or one of your
+Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in native C++, according to Jamf Threat Labs.
+
+"It validates the victim's login password locally before
 
 URL:
-https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html
+https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html
 
 ------------------------------------------------------------
 
 Title:
-Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns
+Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found
 
 Published:
-2026-07-11 17:49 UTC
+2026-07-13 17:17 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026.
+Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version.
 
-"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and
+The collector was dormant. An empty allow-list kept it switched off, and no proof has emerged that it ever gathered or sent a single browsing domain.
+
+The
 
 URL:
-https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html
+https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html
 
 ------------------------------------------------------------
 
 Title:
-Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions
+⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More
 
 Published:
-2026-07-11 06:45 UTC
+2026-07-13 15:05 UTC
 
 Summary:
-Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.
+Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets.
 
-The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier.
-
-"The
+That's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too
 
 URL:
-https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html
+https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html
+
+------------------------------------------------------------
+
+Title:
+New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email
+
+Published:
+2026-07-13 13:49 UTC
+
+Summary:
+Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false "fact" about the user, hide the change, and quietly steer its answers in later sessions.
+
+When it works, the person reads an ordinary-looking reply and never learns their assistant was tampered with.
+
+The
+
+URL:
+https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html
+
+------------------------------------------------------------
+
+Title:
+Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft
+
+Published:
+2026-07-13 13:03 UTC
+
+Summary:
+A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts.
+
+Distributed via Telegram and costing $400 a month (or $3,800 per year), attack chains leverage phishing
+
+URL:
+https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html
 
 ------------------------------------------------------------
 
@@ -61,72 +97,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-OpenAI temporarily relaxes GPT-5.6 Sol usage limits
+Japan's largest taxi operator shuts systems after cyberattack
 
 Published:
-2026-07-13 00:44 UTC
+2026-07-13 20:18 UTC
 
 Summary:
-OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]
+Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/
+https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/
 
 ------------------------------------------------------------
 
 Title:
-Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time
+Hackers backdoor Jscrambler npm package with infostealer malware
 
 Published:
-2026-07-12 19:39 UTC
+2026-07-13 19:44 UTC
 
 Summary:
-Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]
+The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/
+https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/
 
 ------------------------------------------------------------
 
 Title:
-RedHook Android malware now uses Wireless ADB for shell access
+New CrashStealer malware poses as Apple crash reporting tool
 
 Published:
-2026-07-12 14:27 UTC
+2026-07-13 19:04 UTC
 
 Summary:
-A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]
+A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/
+https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/
 
 ------------------------------------------------------------
 
 Title:
-Australia warns of global campaign targeting vulnerable CMS platforms
+CISA warns of actively exploited RCE flaws in Joomla extensions
 
 Published:
-2026-07-11 14:18 UTC
+2026-07-13 15:20 UTC
 
 Summary:
-The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/
 
 ------------------------------------------------------------
 
 Title:
-'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets
+Lidl discloses online shop breach after service provider hack
 
 Published:
-2026-07-11 09:03 UTC
+2026-07-13 14:19 UTC
 
 Summary:
-A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into the code as a list of numbers. [...]
+German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/
+https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/
 
 ------------------------------------------------------------
 
@@ -134,47 +170,59 @@ https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injectio
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Initial access broker linked to weaponization of CitrixBleed2 flaw
+US authorities warn that state-linked hackers are targeting vulnerable networking devices
 
 Published:
-2026-07-10 15:24 UTC
+2026-07-13 15:03 UTC
 
 Summary:
-Similar exploitation was seen in a series of attacks involving an open-source machine emulator. 
+<figure><div><img src="https://imgproxy.divecdn.com/snRNJq5QohuT1c6yu1_4euaLtkbXsmzNUpY4I0egpeY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDE4ODQxNjg0LmpwZw==.webp" /></div></figure>Hackers linked to Russian intelligence have exploited vulnerabilities in Cisco Smart Install devices.
 
 URL:
-https://www.cybersecuritydive.com/news/initial-access-broker-citrixbleed2-flaw-DragonForce/824961/
+https://www.cybersecuritydive.com/news/us-authorities-state-linked-hackers-vulnerable-networking-devices-Cisco/825062/
 
 ------------------------------------------------------------
 
 Title:
-CISA details security lapses that led to GitHub leak of passwords, cloud access keys
+Hackers have found a new trick to collect Microsoft Entra user data without raising red flags
 
 Published:
-2026-07-10 14:49 UTC
+2026-07-13 14:31 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>The agency&rsquo;s blog post came as lawmakers pressed the agency for answers.
+<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>Organizations should check their logs for signs of an increasingly popular obfuscation technique, Proofpoint said.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-report/824953/
+https://www.cybersecuritydive.com/news/microsoft-entra-user-enumeration-bypass-proofpoint/825052/
 
 ------------------------------------------------------------
 
 Title:
-Data breach hits car insurance provider
+When cybercriminals outrun the feed
 
 Published:
-2026-07-09 15:19 UTC
+2026-07-13 09:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/D10z7c5IY4J4mgJSU82U1p3baPWWPf8ql9j_WKXXAMw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmVhY2guanBn.webp" /></div></figure>Hackers gained access to more than 6.9 million records at AssuranceAmerica by targeting a company employee.
+How can you defend against yesterday?
 
 URL:
-https://www.cybersecuritydive.com/news/data-breach-car-insurance-provider/824835/
+https://www.cybersecuritydive.com/spons/when-cybercriminals-outrun-the-feed/824053/
+
+------------------------------------------------------------
+
+Title:
+Copy-paste might be the riskiest thing your enterprise employees do all day
+
+Published:
+2026-07-13 09:00 UTC
+
+Summary:
+This source of data leakage takes them less than a second and happens hundreds of times a day.
+
+URL:
+https://www.cybersecuritydive.com/spons/copy-paste-might-be-the-riskiest-thing-your-enterprise-employees-do-all-day/824419/
 
 ------------------------------------------------------------
 
@@ -624,50 +672,33 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative
+Defending SaaS-based applications against ShinyHunters OAuth abuse
 
 Published:
-2026-07-10 16:00 UTC
+2026-07-13 22:02 UTC
 
 Summary:
-Microsoft’s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/">Securing our future: July 2026 progress report on Microsoft&#8217;s Secure Future Initiative</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/">Defending SaaS-based applications against ShinyHunters OAuth abuse</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/
+https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/
 
 ------------------------------------------------------------
 
 Title:
-GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware
+Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID
 
 Published:
-2026-07-09 15:00 UTC
+2026-07-13 17:00 UTC
 
 Summary:
-GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/">GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/">Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/
-
-------------------------------------------------------------
-
-Title:
-Protecting Microsoft at AI speed: How SFI proactively hardens our cloud
-
-Published:
-2026-07-08 17:00 UTC
-
-Summary:
-At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/">Protecting Microsoft at AI speed: How SFI proactively hardens our cloud  </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/
+https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/
 
 ------------------------------------------------------------
 
