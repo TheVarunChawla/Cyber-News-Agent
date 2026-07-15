@@ -1,94 +1,88 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-14 04:23 UTC_
+_Last run: 2026-07-15 04:22 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks
+Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack
 
 Published:
-2026-07-13 17:36 UTC
+2026-07-14 20:25 UTC
 
 Summary:
-Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems.
+Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200.
 
-Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in native C++, according to Jamf Threat Labs.
-
-"It validates the victim's login password locally before
+Those two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are
 
 URL:
-https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html
+https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html
 
 ------------------------------------------------------------
 
 Title:
-Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found
+SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data
 
 Published:
-2026-07-13 17:17 UTC
+2026-07-14 18:17 UTC
 
 Summary:
-Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version.
+SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.
 
-The collector was dormant. An empty allow-list kept it switched off, and no proof has emerged that it ever gathered or sent a single browsing domain.
-
-The
+The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could
 
 URL:
-https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html
+https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html
 
 ------------------------------------------------------------
 
 Title:
-⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More
+Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads
 
 Published:
-2026-07-13 15:05 UTC
+2026-07-14 17:27 UTC
 
 Summary:
-Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets.
+Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.
 
-That's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too
+Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the 
 
 URL:
-https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html
+https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html
 
 ------------------------------------------------------------
 
 Title:
-New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email
+LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts
 
 Published:
-2026-07-13 13:49 UTC
+2026-07-14 16:52 UTC
 
 Summary:
-Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false "fact" about the user, hide the change, and quietly steer its answers in later sessions.
+Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.
 
-When it works, the person reads an ordinary-looking reply and never learns their assistant was tampered with.
-
-The
+"LabubaRAT creates a reusable foothold for hands-on activity," Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. "Once deployed, it can profile the host,
 
 URL:
-https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html
+https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html
 
 ------------------------------------------------------------
 
 Title:
-Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft
+RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata
 
 Published:
-2026-07-13 13:03 UTC
+2026-07-14 13:48 UTC
 
 Summary:
-A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts.
+Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries.
 
-Distributed via Telegram and costing $400 a month (or $3,800 per year), attack chains leverage phishing
+Miggo's security team, which discovered and reported the flaws, said one "leaks the broker's confidential OAuth
 
 URL:
-https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html
+https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html
 
 ------------------------------------------------------------
 
@@ -97,78 +91,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Japan's largest taxi operator shuts systems after cyberattack
+SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now
 
 Published:
-2026-07-13 20:18 UTC
+2026-07-14 21:23 UTC
 
 Summary:
-Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]
+SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/
+https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/
 
 ------------------------------------------------------------
 
 Title:
-Hackers backdoor Jscrambler npm package with infostealer malware
+Spanish Police take down €140 million cyber fraud ring, arrest four
 
 Published:
-2026-07-13 19:44 UTC
+2026-07-14 20:23 UTC
 
 Summary:
-The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]
+The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/
+https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/
 
 ------------------------------------------------------------
 
 Title:
-New CrashStealer malware poses as Apple crash reporting tool
+Nearly 300 GitHub repos pose as legit software to push malware
 
 Published:
-2026-07-13 19:04 UTC
+2026-07-14 19:15 UTC
 
 Summary:
-A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]
+A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/
+https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/
 
 ------------------------------------------------------------
 
 Title:
-CISA warns of actively exploited RCE flaws in Joomla extensions
+Microsoft releases Windows 10 KB5099539 extended security update
 
 Published:
-2026-07-13 15:20 UTC
+2026-07-14 18:49 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]
+Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/
 
 ------------------------------------------------------------
 
 Title:
-Lidl discloses online shop breach after service provider hack
+Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days
 
 Published:
-2026-07-13 14:19 UTC
+2026-07-14 18:01 UTC
 
 Summary:
-German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]
+Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Sharp rise in AI adoption for cyber defense exposes major governance gap
+
+Published:
+2026-07-14 14:46 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/kZapVZYNXFB94F0d_fROOXaB3U46A6xASeuToNr_2pw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDIyOTc1MzI0LmpwZw==.webp" /></div></figure>A report by the SANS Institute indicates a split between senior security leaders and frontline practitioners. 
+
+URL:
+https://www.cybersecuritydive.com/news/ai-adoption-cyber-defense-governance-gap/825179/
+
+------------------------------------------------------------
+
+Title:
+Healthcare sector faces persistent supply-chain security, identity management challenges
+
+Published:
+2026-07-14 14:36 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/KNb1Rmr4sfrU3aC6o3nZXBo2Oe8YFxR054kRE4OXhgY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TUl9GaXJzdF9wcm9jZWR1cmVfaW5fS29yZWEuanBn.webp" /></div></figure>A new report says doctors and nurses should train for cyberattacks the way firefighters train for major blazes &mdash; even if they expect them to be rare.
+
+URL:
+https://www.cybersecuritydive.com/news/healthcare-cybersecurity-risk-management-identity-fortified/825175/
+
+------------------------------------------------------------
 
 Title:
 US authorities warn that state-linked hackers are targeting vulnerable networking devices
@@ -185,7 +207,7 @@ https://www.cybersecuritydive.com/news/us-authorities-state-linked-hackers-vulne
 ------------------------------------------------------------
 
 Title:
-Hackers have found a new trick to collect Microsoft Entra user data without raising red flags
+Hackers find a new trick to collect Microsoft Entra user data without raising red flags
 
 Published:
 2026-07-13 14:31 UTC
@@ -209,20 +231,6 @@ How can you defend against yesterday?
 
 URL:
 https://www.cybersecuritydive.com/spons/when-cybercriminals-outrun-the-feed/824053/
-
-------------------------------------------------------------
-
-Title:
-Copy-paste might be the riskiest thing your enterprise employees do all day
-
-Published:
-2026-07-13 09:00 UTC
-
-Summary:
-This source of data leakage takes them less than a second and happens hundreds of times a day.
-
-URL:
-https://www.cybersecuritydive.com/spons/copy-paste-might-be-the-riskiest-thing-your-enterprise-employees-do-all-day/824419/
 
 ------------------------------------------------------------
 
@@ -293,47 +301,45 @@ https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-WolfSSL, GeoVision, VTK vulnerabilities
+Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities
 
 Published:
-2026-07-09 18:52 UTC
+2026-07-14 20:27 UTC
 
 Summary:
-Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed three vulnerabilities in WolfSSF, fourteen in GeoVision, and one vulnerability in VTK-DICOM.The vulnerabilities mentioned in this blog post have been patched by their respective vendors, in adherence to<a href="https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html"><u> Cisco&#x2019;s third-party vulnerability disclosure policy</u></a>.&#xa0;For
+Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as &quot;critical&quot;.Microsoft notes that two of the vulnerabilities disclosed this month have been exploited in the wild.<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56155">CVE-2026-56155</a> is an important-
 
 URL:
-https://blog.talosintelligence.com/wolfssl-vulnerabilities/
+https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/
 
 ------------------------------------------------------------
 
 Title:
-Winning 54% of the time
+[Video] Where protection starts: Cisco Talos Intelligence Integrations
 
 Published:
-2026-07-09 18:00 UTC
+2026-07-14 10:47 UTC
 
 Summary:
-With Wimbledon's help, Hazel argues against the popular myth that "Attackers only need to be right once, but defenders need to be right 100% of the time."
+Every day, defenders make high-consequence decisions with incomplete information. Learn how Cisco Talos Intelligence Integrations help reduce uncertainty by turning the latest threat intelligence into proactive protections across Cisco technologies.
 
 URL:
-https://blog.talosintelligence.com/winning-54-of-the-time/
+https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/
 
 ------------------------------------------------------------
 
 Title:
-UAT-7810 continues building ORB networks using new malware
+The serpent’s tongue: Luring the Python out of its den
 
 Published:
-2026-07-07 10:00 UTC
+2026-07-14 10:00 UTC
 
 Summary:
-Talos’ latest findings on UAT-7810 indicate that the threat actor continues to develop their custom-made malware.
+This blog examines the full lifecycle of a Python package, from hosting on repositories such as PyPI or custom web servers, through source and wheel distribution formats, to the final installation into virtual or system-wide Python environments.
 
 URL:
-https://blog.talosintelligence.com/uat-7810/
+https://blog.talosintelligence.com/the-serpents-tongue-luring-the-python-out-of-its-den/
 
 ------------------------------------------------------------
 
