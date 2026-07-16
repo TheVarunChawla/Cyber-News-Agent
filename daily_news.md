@@ -1,88 +1,96 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-15 04:22 UTC_
+_Last run: 2026-07-16 04:33 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack
+TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development
 
 Published:
-2026-07-14 20:25 UTC
+2026-07-15 18:43 UTC
 
 Summary:
-Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200.
+Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results.
 
-Those two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are
+"While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed
 
 URL:
-https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html
+https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html
 
 ------------------------------------------------------------
 
 Title:
-SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data
+OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps
 
 Published:
-2026-07-14 18:17 UTC
+2026-07-15 15:30 UTC
 
 Summary:
-SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.
+A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.
 
-The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could
+On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and
 
 URL:
-https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html
+https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html
 
 ------------------------------------------------------------
 
 Title:
-Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads
+Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws
 
 Published:
-2026-07-14 17:27 UTC
+2026-07-15 13:18 UTC
 
 Summary:
-Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.
+Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.
 
-Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the 
+The vulnerabilities are listed below -
+
+
+  CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component
+  CVE-2026-15719, a site isolation in the DOM: Navigation component
+
+"We are aware that exploit code for this is public, however we are not aware of
 
 URL:
-https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html
+https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html
 
 ------------------------------------------------------------
 
 Title:
-LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts
+SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.
 
 Published:
-2026-07-14 16:52 UTC
+2026-07-15 11:50 UTC
 
 Summary:
-Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.
+For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up.
 
-"LabubaRAT creates a reusable foothold for hands-on activity," Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. "Once deployed, it can profile the host,
+Enterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned browser extensions, and autonomous agents. Employees routinely paste intellectual property into
 
 URL:
-https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html
+https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html
 
 ------------------------------------------------------------
 
 Title:
-RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata
+Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday
 
 Published:
-2026-07-14 13:48 UTC
+2026-07-15 11:07 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries.
+Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.
 
-Miggo's security team, which discovered and reported the flaws, said one "leaks the broker's confidential OAuth
+It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments.
+
+"The PoC requires
 
 URL:
-https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html
+https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html
 
 ------------------------------------------------------------
 
@@ -91,78 +99,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now
+Dutch police bust investment fraud ring stealing over €100 million
 
 Published:
-2026-07-14 21:23 UTC
+2026-07-15 21:55 UTC
 
 Summary:
-SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]
+The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/
+https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/
 
 ------------------------------------------------------------
 
 Title:
-Spanish Police take down €140 million cyber fraud ring, arrest four
+Zoom warns of critical account takeover vulnerability
 
 Published:
-2026-07-14 20:23 UTC
+2026-07-15 20:16 UTC
 
 Summary:
-The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]
+Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/
+https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/
 
 ------------------------------------------------------------
 
 Title:
-Nearly 300 GitHub repos pose as legit software to push malware
+Google Gemini CLI abused as a hacking agent, malware botnet operator
 
 Published:
-2026-07-14 19:15 UTC
+2026-07-15 18:33 UTC
 
 Summary:
-A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]
+A Russian-speaking threat actor known as "bandcampro" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/
+https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft releases Windows 10 KB5099539 extended security update
+AsyncAPI npm packages infected with credential-stealing malware
 
 Published:
-2026-07-14 18:49 UTC
+2026-07-15 15:37 UTC
 
 Summary:
-Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]
+Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/
+https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days
+We built a vulnerability vending machine: AI tokens in, zero-days out
 
 Published:
-2026-07-14 18:01 UTC
+2026-07-15 14:01 UTC
 
 Summary:
-Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]
+Intruder built an AI-powered "vulnerability vending machine" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already under responsible disclosure. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/
+https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+CISA warns that multiple vulnerabilities in SharePoint are under exploitation
+
+Published:
+2026-07-15 15:05 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>Security researchers say additional flaws are being chained together and a patch will not be available until August.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-multiple-vulnerabilities-sharepoint-exploitation/825306/
+
+------------------------------------------------------------
+
+Title:
+US launches vulnerability clearinghouse amid AI-fueled surge in flaws
+
+Published:
+2026-07-15 14:51 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/VKKyfS11wh5pXPKcDH5nVkAIf1kePrBaV_XUC3Tn4ic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XaGl0ZV9Ib3VzZV9zdG9ja19waG90b18tX05pY2tfdmFuX0JyZWUuanBn.webp" /></div></figure>The Trump administration hopes the program will accelerate the discovery and fixing of serious technical problems before hackers exploit them.
+
+URL:
+https://www.cybersecuritydive.com/news/vulnerability-clearinghouse-ai-white-house-launch-gold-eagle/825298/
+
+------------------------------------------------------------
 
 Title:
 Sharp rise in AI adoption for cyber defense exposes major governance gap
@@ -192,48 +228,6 @@ https://www.cybersecuritydive.com/news/healthcare-cybersecurity-risk-management-
 
 ------------------------------------------------------------
 
-Title:
-US authorities warn that state-linked hackers are targeting vulnerable networking devices
-
-Published:
-2026-07-13 15:03 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/snRNJq5QohuT1c6yu1_4euaLtkbXsmzNUpY4I0egpeY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDE4ODQxNjg0LmpwZw==.webp" /></div></figure>Hackers linked to Russian intelligence have exploited vulnerabilities in Cisco Smart Install devices.
-
-URL:
-https://www.cybersecuritydive.com/news/us-authorities-state-linked-hackers-vulnerable-networking-devices-Cisco/825062/
-
-------------------------------------------------------------
-
-Title:
-Hackers find a new trick to collect Microsoft Entra user data without raising red flags
-
-Published:
-2026-07-13 14:31 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>Organizations should check their logs for signs of an increasingly popular obfuscation technique, Proofpoint said.
-
-URL:
-https://www.cybersecuritydive.com/news/microsoft-entra-user-enumeration-bypass-proofpoint/825052/
-
-------------------------------------------------------------
-
-Title:
-When cybercriminals outrun the feed
-
-Published:
-2026-07-13 09:00 UTC
-
-Summary:
-How can you defend against yesterday?
-
-URL:
-https://www.cybersecuritydive.com/spons/when-cybercriminals-outrun-the-feed/824053/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -250,50 +244,33 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-No Manners Here: The Ruthless Rise of The Gentlemen Ransomware
+The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)
 
 Published:
-2026-07-10 22:00 UTC
+2026-07-15 23:00 UTC
 
 Summary:
-Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here.
-The post <a href="https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/">No Manners Here: The Ruthless Rise of The Gentlemen Ransomware</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. 
+The post <a href="https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/">The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/
+https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation
+TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development
 
 Published:
-2026-07-07 22:00 UTC
+2026-07-15 10:00 UTC
 
 Summary:
-A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination.
-The post <a href="https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/">Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+TuxBot v3 Evolution, an IoT botnet framework built with LLMs. Read our analysis of its cross-compiled binaries, C2 architecture and bugs.
+The post <a href="https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/">TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/
-
-------------------------------------------------------------
-
-Title:
-How We Added WebAuthn to a Browser-Based RDP Client
-
-Published:
-2026-07-02 22:00 UTC
-
-Summary:
-A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.
-The post <a href="https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/">How We Added WebAuthn to a Browser-Based RDP Client</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
+https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/
 
 ------------------------------------------------------------
 
@@ -308,7 +285,7 @@ Published:
 2026-07-14 20:27 UTC
 
 Summary:
-Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as &quot;critical&quot;.Microsoft notes that two of the vulnerabilities disclosed this month have been exploited in the wild.<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56155">CVE-2026-56155</a> is an important-
+Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as "critical."
 
 URL:
 https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/
@@ -679,32 +656,32 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-Defending SaaS-based applications against ShinyHunters OAuth abuse
+Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery
 
 Published:
-2026-07-13 22:02 UTC
+2026-07-16 01:36 UTC
 
 Summary:
-Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/">Defending SaaS-based applications against ShinyHunters OAuth abuse</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/">Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/
+https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID
+Turning threat intelligence into decisive action with Defender Experts
 
 Published:
-2026-07-13 17:00 UTC
+2026-07-15 16:00 UTC
 
 Summary:
-Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/">Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/">Turning threat intelligence into decisive action with Defender Experts</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/
+https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/
 
 ------------------------------------------------------------
 
