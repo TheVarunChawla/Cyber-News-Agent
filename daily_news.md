@@ -1,96 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-16 04:33 UTC_
+_Last run: 2026-07-17 04:36 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development
+Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack
 
 Published:
-2026-07-15 18:43 UTC
+2026-07-16 17:09 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results.
+Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.
 
-"While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed
+The attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office to get their passwords reset in person. Both the NCA and the CPS put TfL's losses and recovery
 
 URL:
-https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html
+https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html
 
 ------------------------------------------------------------
 
 Title:
-OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps
+ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories
 
 Published:
-2026-07-15 15:30 UTC
+2026-07-16 15:41 UTC
 
 Summary:
-A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.
+A lot of this week’s trouble starts with something that looks close enough.
 
-On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and
+A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation.
+
+Old bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely feel like research. Here’s the mess.
 
 URL:
-https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html
+https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html
 
 ------------------------------------------------------------
 
 Title:
-Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws
+n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer
 
 Published:
-2026-07-15 13:18 UTC
+2026-07-16 13:33 UTC
 
 Summary:
-Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.
+n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss.
 
-The vulnerabilities are listed below -
-
-
-  CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component
-  CVE-2026-15719, a site isolation in the DOM: Navigation component
-
-"We are aware that exploit code for this is public, however we are not aware of
+A valid token from issuer A carrying a sub that belongs to someone under issuer B logged you in as them. Their password never
 
 URL:
-https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html
+https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html
 
 ------------------------------------------------------------
 
 Title:
-SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.
+New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands
 
 Published:
-2026-07-15 11:50 UTC
+2026-07-16 12:50 UTC
 
 Summary:
-For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up.
+Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026.
 
-Enterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned browser extensions, and autonomous agents. Employees routinely paste intellectual property into
+"The malware is full-featured, lightweight, and modular," Elastic Security Labs researcher Cyril François said in a technical report. "While the number of C2 [command-and-control] domains is currently small, the daily
 
 URL:
-https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html
+https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html
 
 ------------------------------------------------------------
 
 Title:
-Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday
+New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password
 
 Published:
-2026-07-15 11:07 UTC
+2026-07-16 12:33 UTC
 
 Summary:
-Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.
+ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog, and when the victim cancels, installs two LaunchAgents and quietly exits.
 
-It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments.
-
-"The PoC requires
+At the next login, Finder, the Dock, Spotlight, Terminal, Activity Monitor, and
 
 URL:
-https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html
+https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html
 
 ------------------------------------------------------------
 
@@ -99,78 +93,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Dutch police bust investment fraud ring stealing over €100 million
+New ClickLock macOS malware traps users into revealing login password
 
 Published:
-2026-07-15 21:55 UTC
+2026-07-16 21:52 UTC
 
 Summary:
-The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]
+A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/
+https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/
 
 ------------------------------------------------------------
 
 Title:
-Zoom warns of critical account takeover vulnerability
+Coca-Cola says Fairlife ransomware attack halts US dairy production
 
 Published:
-2026-07-15 20:16 UTC
+2026-07-16 21:09 UTC
 
 Summary:
-Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]
+The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/
+https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/
 
 ------------------------------------------------------------
 
 Title:
-Google Gemini CLI abused as a hacking agent, malware botnet operator
+Claude Chrome extension flaw lets malicious extensions trigger AI actions
 
 Published:
-2026-07-15 18:33 UTC
+2026-07-16 19:26 UTC
 
 Summary:
-A Russian-speaking threat actor known as "bandcampro" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]
+A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/
+https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/
 
 ------------------------------------------------------------
 
 Title:
-AsyncAPI npm packages infected with credential-stealing malware
+New OkoBot framework deploys 20 payloads to steal data, crypto
 
 Published:
-2026-07-15 15:37 UTC
+2026-07-16 19:09 UTC
 
 Summary:
-Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]
+A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/
+https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/
 
 ------------------------------------------------------------
 
 Title:
-We built a vulnerability vending machine: AI tokens in, zero-days out
+AI Agents Broke the Security Playbook. Here's What Replaces It.
 
 Published:
-2026-07-15 14:01 UTC
+2026-07-16 14:00 UTC
 
 Summary:
-Intruder built an AI-powered "vulnerability vending machine" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already under responsible disclosure. [...]
+Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/
+https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Gaps in network security, oversight strategy hamper US’s aviation cybersecurity regulators
+
+Published:
+2026-07-16 15:03 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/y0rwOObsMcYu1lJ9Zd2ZZd5BuuPGq65wBfmvdJesz4A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4NjE3Njc0LmpwZw==.webp" /></div></figure>A new government audit identified several weaknesses at the two agencies that protect air travel from hackers.
+
+URL:
+https://www.cybersecuritydive.com/news/aviation-cybersecurity-faa-tsa-gao-report/825416/
+
+------------------------------------------------------------
+
+Title:
+Iran-nexus actors using AI to enhance cyber playbook
+
+Published:
+2026-07-16 14:58 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/3GDORzjjJwG2KKdiiyjiBWB7336b8el9ofhXMjeHmhE/g:nowe:29:2/c:930:525/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzOTkwMjA4LmpwZw==.webp" /></div></figure>A report shows state-linked and hacktivist groups have used ChatGPT and other tools for malware development, phishing and mapping out industrial sites.
+
+URL:
+https://www.cybersecuritydive.com/news/iran-nexus-actors-ai-cyber-ChatGPT-malware/825415/
+
+------------------------------------------------------------
 
 Title:
 CISA warns that multiple vulnerabilities in SharePoint are under exploitation
@@ -200,34 +222,6 @@ https://www.cybersecuritydive.com/news/vulnerability-clearinghouse-ai-white-hous
 
 ------------------------------------------------------------
 
-Title:
-Sharp rise in AI adoption for cyber defense exposes major governance gap
-
-Published:
-2026-07-14 14:46 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/kZapVZYNXFB94F0d_fROOXaB3U46A6xASeuToNr_2pw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDIyOTc1MzI0LmpwZw==.webp" /></div></figure>A report by the SANS Institute indicates a split between senior security leaders and frontline practitioners. 
-
-URL:
-https://www.cybersecuritydive.com/news/ai-adoption-cyber-defense-governance-gap/825179/
-
-------------------------------------------------------------
-
-Title:
-Healthcare sector faces persistent supply-chain security, identity management challenges
-
-Published:
-2026-07-14 14:36 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/KNb1Rmr4sfrU3aC6o3nZXBo2Oe8YFxR054kRE4OXhgY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TUl9GaXJzdF9wcm9jZWR1cmVfaW5fS29yZWEuanBn.webp" /></div></figure>A new report says doctors and nurses should train for cyberattacks the way firefighters train for major blazes &mdash; even if they expect them to be rare.
-
-URL:
-https://www.cybersecuritydive.com/news/healthcare-cybersecurity-risk-management-identity-fortified/825175/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -243,6 +237,21 @@ SOURCE : CISA
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+Title:
+AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report
+
+Published:
+2026-07-16 23:00 UTC
+
+Summary:
+Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.
+The post <a href="https://unit42.paloaltonetworks.com/ai-incident-response-report/">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/ai-incident-response-report/
+
+------------------------------------------------------------
 
 Title:
 The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)
@@ -279,44 +288,44 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities
+Begun, the Patch Wars have
 
 Published:
-2026-07-14 20:27 UTC
+2026-07-16 18:00 UTC
 
 Summary:
-Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as "critical."
+Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.
 
 URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/
+https://blog.talosintelligence.com/begun-the-patch-wars-have/
 
 ------------------------------------------------------------
 
 Title:
-[Video] Where protection starts: Cisco Talos Intelligence Integrations
+The Hunter's Paradox: Is it time to embrace automated threat hunting?
 
 Published:
-2026-07-14 10:47 UTC
+2026-07-16 10:00 UTC
 
 Summary:
-Every day, defenders make high-consequence decisions with incomplete information. Learn how Cisco Talos Intelligence Integrations help reduce uncertainty by turning the latest threat intelligence into proactive protections across Cisco technologies.
+Humans can no longer keep up with the volume and velocity of security data on their own, but AI can't be fully trusted. David discusses the merits of both and muses on what the future might look like.
 
 URL:
-https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/
+https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/
 
 ------------------------------------------------------------
 
 Title:
-The serpent’s tongue: Luring the Python out of its den
+UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign
 
 Published:
-2026-07-14 10:00 UTC
+2026-07-16 10:00 UTC
 
 Summary:
-This blog examines the full lifecycle of a Python package, from hosting on repositories such as PyPI or custom web servers, through source and wheel distribution formats, to the final installation into virtual or system-wide Python environments.
+Cisco Talos is disclosing UAT-11795, a sophisticated, Russian-speaking, financially motivated adversary that has been conducting a malicious campaign targeting users in the U.S. and Europe since at least June 2025.
 
 URL:
-https://blog.talosintelligence.com/the-serpents-tongue-luring-the-python-out-of-its-den/
+https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/
 
 ------------------------------------------------------------
 
@@ -654,6 +663,36 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 ============================================================
 SOURCE : Microsoft Security Blog
 ============================================================
+
+Title:
+ACR Stealer: Two observed intrusion chains amid increased threat activity
+
+Published:
+2026-07-16 23:12 UTC
+
+Summary:
+From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/">ACR Stealer: Two observed intrusion chains amid increased threat activity</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/
+
+------------------------------------------------------------
+
+Title:
+Least privilege for AI agents: Identity, access, and tool binding
+
+Published:
+2026-07-16 16:00 UTC
+
+Summary:
+As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/">Least privilege for AI agents: Identity, access, and tool binding</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/
+
+------------------------------------------------------------
 
 Title:
 Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery
