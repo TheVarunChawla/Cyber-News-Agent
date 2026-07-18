@@ -1,90 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-17 04:36 UTC_
+_Last run: 2026-07-18 04:19 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack
+New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code
 
 Published:
-2026-07-16 17:09 UTC
+2026-07-17 21:20 UTC
 
 Summary:
-Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.
+An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.
 
-The attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office to get their passwords reset in person. Both the NCA and the CPS put TfL's losses and recovery
+Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system.
+
+Adam Kues at Assetnote, Searchlight Cyber's attack surface management arm, found the flaw and reported
 
 URL:
-https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html
+https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories
+OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests
 
 Published:
-2026-07-16 15:41 UTC
+2026-07-17 20:20 UTC
 
 Summary:
-A lot of this week’s trouble starts with something that looks close enough.
+Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.
 
-A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation.
-
-Old bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely feel like research. Here’s the mess.
+OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the
 
 URL:
-https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html
+https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html
 
 ------------------------------------------------------------
 
 Title:
-n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer
+Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT
 
 Published:
-2026-07-16 13:33 UTC
+2026-07-17 18:54 UTC
 
 Summary:
-n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss.
+Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.
 
-A valid token from issuer A carrying a sub that belongs to someone under issuer B logged you in as them. Their password never
+The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an "unprecedented" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,
 
 URL:
-https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html
+https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html
 
 ------------------------------------------------------------
 
 Title:
-New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands
+New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens
 
 Published:
-2026-07-16 12:50 UTC
+2026-07-17 17:12 UTC
 
 Summary:
-Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026.
+A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.
 
-"The malware is full-featured, lightweight, and modular," Elastic Security Labs researcher Cyril François said in a technical report. "While the number of C2 [command-and-control] domains is currently small, the daily
+A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late.
+
+The intel feed behind that counter
 
 URL:
-https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html
+https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html
 
 ------------------------------------------------------------
 
 Title:
-New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password
+GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft
 
 Published:
-2026-07-16 12:33 UTC
+2026-07-17 16:39 UTC
 
 Summary:
-ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog, and when the victim cancels, installs two LaunchAgents and quietly exits.
+Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.
 
-At the next login, Finder, the Dock, Spotlight, Terminal, Activity Monitor, and
+Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using
 
 URL:
-https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html
+https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html
 
 ------------------------------------------------------------
 
@@ -93,78 +95,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-New ClickLock macOS malware traps users into revealing login password
+Abbott probes two cyber incidents amid extortion claims
 
 Published:
-2026-07-16 21:52 UTC
+2026-07-17 20:45 UTC
 
 Summary:
-A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]
+Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/
+https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/
 
 ------------------------------------------------------------
 
 Title:
-Coca-Cola says Fairlife ransomware attack halts US dairy production
+HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload
 
 Published:
-2026-07-16 21:09 UTC
+2026-07-17 17:56 UTC
 
 Summary:
-The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]
+A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/
+https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/
 
 ------------------------------------------------------------
 
 Title:
-Claude Chrome extension flaw lets malicious extensions trigger AI actions
+Ernst & Young discloses data breach after support system hack
 
 Published:
-2026-07-16 19:26 UTC
+2026-07-17 14:55 UTC
 
 Summary:
-A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]
+Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/
+https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/
 
 ------------------------------------------------------------
 
 Title:
-New OkoBot framework deploys 20 payloads to steal data, crypto
+Inside the Search for "Clean" Residential Proxies for Carding
 
 Published:
-2026-07-16 19:09 UTC
+2026-07-17 14:00 UTC
 
 Summary:
-A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]
+Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek "clean" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/
+https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/
 
 ------------------------------------------------------------
 
 Title:
-AI Agents Broke the Security Playbook. Here's What Replaces It.
+New Windows LegacyHive zero-day gives hackers admin privileges
 
 Published:
-2026-07-16 14:00 UTC
+2026-07-17 11:05 UTC
 
 Summary:
-Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]
+A security researcher using the "Nightmare Eclipse" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/
+https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Abbott discloses cyberattack on cancer diagnostics business
+
+Published:
+2026-07-17 15:29 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/otXKWk5IW410v1ZEZBVedv94wFthlU3Q4SfgVjYEJaQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XQkE4ODEuanBn.webp" /></div></figure>The cyberattack follows Abbott&rsquo;s recent $21 billion purchase of Exact Sciences. Abbott did not disclose what kind of information was accessed.
+
+URL:
+https://www.cybersecuritydive.com/news/abbott-discloses-cyberattack-on-cancer-diagnostics-business/825552/
+
+------------------------------------------------------------
+
+Title:
+Ransomware attack forces Coca-Cola to suspend US production at dairy unit
+
+Published:
+2026-07-17 14:35 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/8KMQQx9oFU_XqX30l7XnnSFMow2MEfissHE8kTg-Z8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjMtMDUtMDlfMTI0NzQ2LnBuZw==.webp" /></div></figure>The beverage company is still working to determine the full scope of the breach at its Fairlife business.
+
+URL:
+https://www.cybersecuritydive.com/news/ransomware-attack-coca-cola-suspend-production-dairy/825540/
+
+------------------------------------------------------------
 
 Title:
 Gaps in network security, oversight strategy hamper US’s aviation cybersecurity regulators
@@ -194,34 +224,6 @@ https://www.cybersecuritydive.com/news/iran-nexus-actors-ai-cyber-ChatGPT-malwar
 
 ------------------------------------------------------------
 
-Title:
-CISA warns that multiple vulnerabilities in SharePoint are under exploitation
-
-Published:
-2026-07-15 15:05 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>Security researchers say additional flaws are being chained together and a patch will not be available until August.
-
-URL:
-https://www.cybersecuritydive.com/news/cisa-multiple-vulnerabilities-sharepoint-exploitation/825306/
-
-------------------------------------------------------------
-
-Title:
-US launches vulnerability clearinghouse amid AI-fueled surge in flaws
-
-Published:
-2026-07-15 14:51 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/VKKyfS11wh5pXPKcDH5nVkAIf1kePrBaV_XUC3Tn4ic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XaGl0ZV9Ib3VzZV9zdG9ja19waG90b18tX05pY2tfdmFuX0JyZWUuanBn.webp" /></div></figure>The Trump administration hopes the program will accelerate the discovery and fixing of serious technical problems before hackers exploit them.
-
-URL:
-https://www.cybersecuritydive.com/news/vulnerability-clearinghouse-ai-white-house-launch-gold-eagle/825298/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -239,6 +241,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy
+
+Published:
+2026-07-17 10:00 UTC
+
+Summary:
+A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access.
+The post <a href="https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/">Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/
+
+------------------------------------------------------------
+
+Title:
 AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report
 
 Published:
@@ -250,36 +267,6 @@ The post <a href="https://unit42.paloaltonetworks.com/ai-incident-response-repor
 
 URL:
 https://unit42.paloaltonetworks.com/ai-incident-response-report/
-
-------------------------------------------------------------
-
-Title:
-The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)
-
-Published:
-2026-07-15 23:00 UTC
-
-Summary:
-Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. 
-The post <a href="https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/">The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/
-
-------------------------------------------------------------
-
-Title:
-TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development
-
-Published:
-2026-07-15 10:00 UTC
-
-Summary:
-TuxBot v3 Evolution, an IoT botnet framework built with LLMs. Read our analysis of its cross-compiled binaries, C2 architecture and bugs.
-The post <a href="https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/">TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/
 
 ------------------------------------------------------------
 
@@ -665,6 +652,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks
+
+Published:
+2026-07-17 16:00 UTC
+
+Summary:
+Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/">Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/
+
+------------------------------------------------------------
+
+Title:
 ACR Stealer: Two observed intrusion chains amid increased threat activity
 
 Published:
@@ -691,36 +693,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/least
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/
-
-------------------------------------------------------------
-
-Title:
-Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery
-
-Published:
-2026-07-16 01:36 UTC
-
-Summary:
-Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/">Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/
-
-------------------------------------------------------------
-
-Title:
-Turning threat intelligence into decisive action with Defender Experts
-
-Published:
-2026-07-15 16:00 UTC
-
-Summary:
-Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/">Turning threat intelligence into decisive action with Defender Experts</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/
 
 ------------------------------------------------------------
 
