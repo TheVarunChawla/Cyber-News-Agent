@@ -1,6 +1,6 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-18 04:20 UTC_
+_Last run: 2026-07-19 04:43 UTC_
 
 ============================================================
 SOURCE : The Hacker News
@@ -13,11 +13,9 @@ Published:
 2026-07-17 21:20 UTC
 
 Summary:
-An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.
+Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it.
 
-Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system.
-
-Adam Kues at Assetnote, Searchlight Cyber's attack surface management arm, found the flaw and reported
+An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until
 
 URL:
 https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html
@@ -95,6 +93,62 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Update now: 7-Zip fixes RCE flaw exploitable with malicious archives
+
+Published:
+2026-07-18 19:32 UTC
+
+Summary:
+7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/
+
+------------------------------------------------------------
+
+Title:
+WordPress Core "wp2shell" RCE flaws get public exploits, patch now
+
+Published:
+2026-07-18 17:22 UTC
+
+Summary:
+Public exploits have been released for the critical "wp2shell" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/
+
+------------------------------------------------------------
+
+Title:
+Microsoft warns of surge in ACR Stealer attacks on customers
+
+Published:
+2026-07-18 14:17 UTC
+
+Summary:
+Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/
+
+------------------------------------------------------------
+
+Title:
+The Future of Age Verification: Your Face Never Leaves Your Device
+
+Published:
+2026-07-18 13:15 UTC
+
+Summary:
+As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting compliance. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/
+
+------------------------------------------------------------
+
+Title:
 Abbott probes two cyber incidents amid extortion claims
 
 Published:
@@ -105,62 +159,6 @@ Abbott Laboratories is investigating two separate cybersecurity incidents after 
 
 URL:
 https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/
-
-------------------------------------------------------------
-
-Title:
-HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload
-
-Published:
-2026-07-17 17:56 UTC
-
-Summary:
-A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/
-
-------------------------------------------------------------
-
-Title:
-Ernst & Young discloses data breach after support system hack
-
-Published:
-2026-07-17 14:55 UTC
-
-Summary:
-Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/
-
-------------------------------------------------------------
-
-Title:
-Inside the Search for "Clean" Residential Proxies for Carding
-
-Published:
-2026-07-17 14:00 UTC
-
-Summary:
-Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek "clean" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/
-
-------------------------------------------------------------
-
-Title:
-New Windows LegacyHive zero-day gives hackers admin privileges
-
-Published:
-2026-07-17 11:05 UTC
-
-Summary:
-A security researcher using the "Nightmare Eclipse" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/
 
 ------------------------------------------------------------
 
@@ -196,34 +194,6 @@ https://www.cybersecuritydive.com/news/ransomware-attack-coca-cola-suspend-produ
 
 ------------------------------------------------------------
 
-Title:
-Gaps in network security, oversight strategy hamper US’s aviation cybersecurity regulators
-
-Published:
-2026-07-16 15:03 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/y0rwOObsMcYu1lJ9Zd2ZZd5BuuPGq65wBfmvdJesz4A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4NjE3Njc0LmpwZw==.webp" /></div></figure>A new government audit identified several weaknesses at the two agencies that protect air travel from hackers.
-
-URL:
-https://www.cybersecuritydive.com/news/aviation-cybersecurity-faa-tsa-gao-report/825416/
-
-------------------------------------------------------------
-
-Title:
-Iran-nexus actors using AI to enhance cyber playbook
-
-Published:
-2026-07-16 14:58 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/3GDORzjjJwG2KKdiiyjiBWB7336b8el9ofhXMjeHmhE/g:nowe:29:2/c:930:525/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzOTkwMjA4LmpwZw==.webp" /></div></figure>A report shows state-linked and hacktivist groups have used ChatGPT and other tools for malware development, phishing and mapping out industrial sites.
-
-URL:
-https://www.cybersecuritydive.com/news/iran-nexus-actors-ai-cyber-ChatGPT-malware/825415/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -255,24 +225,11 @@ https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/
 
 ------------------------------------------------------------
 
-Title:
-AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report
-
-Published:
-2026-07-16 23:00 UTC
-
-Summary:
-Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.
-The post <a href="https://unit42.paloaltonetworks.com/ai-incident-response-report/">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-incident-response-report/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Begun, the Patch Wars have
@@ -663,36 +620,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/17/micro
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/
-
-------------------------------------------------------------
-
-Title:
-ACR Stealer: Two observed intrusion chains amid increased threat activity
-
-Published:
-2026-07-16 23:12 UTC
-
-Summary:
-From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/">ACR Stealer: Two observed intrusion chains amid increased threat activity</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/
-
-------------------------------------------------------------
-
-Title:
-Least privilege for AI agents: Identity, access, and tool binding
-
-Published:
-2026-07-16 16:00 UTC
-
-Summary:
-As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/">Least privilege for AI agents: Identity, access, and tool binding</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/
 
 ------------------------------------------------------------
 
