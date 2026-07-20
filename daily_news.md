@@ -1,90 +1,56 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-19 04:43 UTC_
+_Last run: 2026-07-20 05:01 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code
+Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution
 
 Published:
-2026-07-17 21:20 UTC
+2026-07-19 20:42 UTC
 
 Summary:
-Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it.
+F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade.
 
-An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until
+Triggering it can crash or restart the worker, causing a denial of
 
 URL:
-https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html
+https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html
 
 ------------------------------------------------------------
 
 Title:
-OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests
+UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware
 
 Published:
-2026-07-17 20:20 UTC
+2026-07-19 13:30 UTC
 
 Summary:
-Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.
+Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware.
 
-OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the
+According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's
 
 URL:
-https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html
+https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html
 
 ------------------------------------------------------------
 
 Title:
-Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT
+SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access
 
 Published:
-2026-07-17 18:54 UTC
+2026-07-19 13:18 UTC
 
 Summary:
-Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.
+A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026.
 
-The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an "unprecedented" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,
-
-URL:
-https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html
-
-------------------------------------------------------------
-
-Title:
-New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens
-
-Published:
-2026-07-17 17:12 UTC
-
-Summary:
-A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.
-
-A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late.
-
-The intel feed behind that counter
+Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this
 
 URL:
-https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html
-
-------------------------------------------------------------
-
-Title:
-GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft
-
-Published:
-2026-07-17 16:39 UTC
-
-Summary:
-Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.
-
-Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using
-
-URL:
-https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html
+https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html
 
 ------------------------------------------------------------
 
@@ -93,13 +59,27 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+Hackers abuse ViPNet software to target Russian govt agencies
+
+Published:
+2026-07-19 14:23 UTC
+
+Summary:
+An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/
+
+------------------------------------------------------------
+
+Title:
 Update now: 7-Zip fixes RCE flaw exploitable with malicious archives
 
 Published:
 2026-07-18 19:32 UTC
 
 Summary:
-7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]
+7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]
 
 URL:
 https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/
@@ -148,23 +128,11 @@ https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-yo
 
 ------------------------------------------------------------
 
-Title:
-Abbott probes two cyber incidents amid extortion claims
-
-Published:
-2026-07-17 20:45 UTC
-
-Summary:
-Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Abbott discloses cyberattack on cancer diagnostics business
@@ -194,6 +162,20 @@ https://www.cybersecuritydive.com/news/ransomware-attack-coca-cola-suspend-produ
 
 ------------------------------------------------------------
 
+Title:
+Gaps in network security, oversight strategy hamper US’s aviation cybersecurity regulators
+
+Published:
+2026-07-16 15:03 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/y0rwOObsMcYu1lJ9Zd2ZZd5BuuPGq65wBfmvdJesz4A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4NjE3Njc0LmpwZw==.webp" /></div></figure>A new government audit identified several weaknesses at the two agencies that protect air travel from hackers.
+
+URL:
+https://www.cybersecuritydive.com/news/aviation-cybersecurity-faa-tsa-gao-report/825416/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -210,6 +192,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy
 
@@ -222,6 +206,36 @@ The post <a href="https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vu
 
 URL:
 https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/
+
+------------------------------------------------------------
+
+Title:
+AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report
+
+Published:
+2026-07-16 23:00 UTC
+
+Summary:
+Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.
+The post <a href="https://unit42.paloaltonetworks.com/ai-incident-response-report/">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/ai-incident-response-report/
+
+------------------------------------------------------------
+
+Title:
+The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)
+
+Published:
+2026-07-15 23:00 UTC
+
+Summary:
+Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. 
+The post <a href="https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/">The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/
 
 ------------------------------------------------------------
 
@@ -608,6 +622,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks
 
@@ -620,6 +636,36 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/17/micro
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/
+
+------------------------------------------------------------
+
+Title:
+ACR Stealer: Two observed intrusion chains amid increased threat activity
+
+Published:
+2026-07-16 23:12 UTC
+
+Summary:
+From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/">ACR Stealer: Two observed intrusion chains amid increased threat activity</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/
+
+------------------------------------------------------------
+
+Title:
+Least privilege for AI agents: Identity, access, and tool binding
+
+Published:
+2026-07-16 16:00 UTC
+
+Summary:
+As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/">Least privilege for AI agents: Identity, access, and tool binding</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/
 
 ------------------------------------------------------------
 
