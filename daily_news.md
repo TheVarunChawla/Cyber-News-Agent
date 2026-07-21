@@ -1,56 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-20 05:01 UTC_
+_Last run: 2026-07-21 04:41 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution
+FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware
 
 Published:
-2026-07-19 20:42 UTC
+2026-07-20 18:23 UTC
 
 Summary:
-F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade.
+Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.
 
-Triggering it can crash or restart the worker, causing a denial of
+"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP
 
 URL:
-https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html
+https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html
 
 ------------------------------------------------------------
 
 Title:
-UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware
+Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign
 
 Published:
-2026-07-19 13:30 UTC
+2026-07-20 17:29 UTC
 
 Summary:
-Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware.
+A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV.
 
-According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's
+What makes it more than a
 
 URL:
-https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html
+https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html
 
 ------------------------------------------------------------
 
 Title:
-SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access
+HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050
 
 Published:
-2026-07-19 13:18 UTC
+2026-07-20 14:33 UTC
 
 Summary:
-A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026.
+A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050.
 
-Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this
+Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks
 
 URL:
-https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html
+https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html
+
+------------------------------------------------------------
+
+Title:
+⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More
+
+Published:
+2026-07-20 13:32 UTC
+
+Summary:
+A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.
+
+The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch.
+
+Here is the full
+
+URL:
+https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html
+
+------------------------------------------------------------
+
+Title:
+Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine
+
+Published:
+2026-07-20 12:13 UTC
+
+Summary:
+At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.
+
+That is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence
+
+URL:
+https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html
 
 ------------------------------------------------------------
 
@@ -59,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers abuse ViPNet software to target Russian govt agencies
+Estée Lauder discloses data breach via Oracle E-Business flaw
 
 Published:
-2026-07-19 14:23 UTC
+2026-07-20 22:39 UTC
 
 Summary:
-An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]
+Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/
+https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/
 
 ------------------------------------------------------------
 
 Title:
-Update now: 7-Zip fixes RCE flaw exploitable with malicious archives
+SonicWall SMA1000 flaws exploited as zero-days to push custom malware
 
 Published:
-2026-07-18 19:32 UTC
+2026-07-20 22:23 UTC
 
 Summary:
-7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]
+Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/
+https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/
 
 ------------------------------------------------------------
 
 Title:
-WordPress Core "wp2shell" RCE flaws get public exploits, patch now
+Hackers steal $23.7 million in crypto from Ostium in off-chain attack
 
 Published:
-2026-07-18 17:22 UTC
+2026-07-20 22:22 UTC
 
 Summary:
-Public exploits have been released for the critical "wp2shell" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]
+The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/
+https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft warns of surge in ACR Stealer attacks on customers
+Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes
 
 Published:
-2026-07-18 14:17 UTC
+2026-07-20 21:14 UTC
 
 Summary:
-Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]
+Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/
+https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/
 
 ------------------------------------------------------------
 
 Title:
-The Future of Age Verification: Your Face Never Leaves Your Device
+JadePuffer agentic attacks now target AI model data with ransomware
 
 Published:
-2026-07-18 13:15 UTC
+2026-07-20 21:08 UTC
 
 Summary:
-As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting compliance. [...]
+The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/
+https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/
 
 ------------------------------------------------------------
 
@@ -132,47 +166,73 @@ https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-yo
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Abbott discloses cyberattack on cancer diagnostics business
+Researchers trace SonicWall SMA1000 exploitation to late June
 
 Published:
-2026-07-17 15:29 UTC
+2026-07-20 15:10 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/otXKWk5IW410v1ZEZBVedv94wFthlU3Q4SfgVjYEJaQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XQkE4ODEuanBn.webp" /></div></figure>The cyberattack follows Abbott&rsquo;s recent $21 billion purchase of Exact Sciences. Abbott did not disclose what kind of information was accessed.
+Multiple threat actors, including INC ransomware, have targeted vulnerable firewall systems.
 
 URL:
-https://www.cybersecuritydive.com/news/abbott-discloses-cyberattack-on-cancer-diagnostics-business/825552/
+https://www.cybersecuritydive.com/news/researchers-sonicwall-sma1000-exploitation-june/825654/
 
 ------------------------------------------------------------
 
 Title:
-Ransomware attack forces Coca-Cola to suspend US production at dairy unit
+Hackers steal customer data from major hospital software vendor
 
 Published:
-2026-07-17 14:35 UTC
+2026-07-20 14:28 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/8KMQQx9oFU_XqX30l7XnnSFMow2MEfissHE8kTg-Z8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjMtMDUtMDlfMTI0NzQ2LnBuZw==.webp" /></div></figure>The beverage company is still working to determine the full scope of the breach at its Fairlife business.
+<figure><div><img src="https://imgproxy.divecdn.com/E2GCSChl_Kjubah2Wxw5gqAJatP0sqhsdgbT1B5wiL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzODc1NzkwLmpwZw==.webp" /></div></figure>The breach is another reminder of how vulnerable the healthcare industry is to supply-chain attacks.
 
 URL:
-https://www.cybersecuritydive.com/news/ransomware-attack-coca-cola-suspend-production-dairy/825540/
+https://www.cybersecuritydive.com/news/craneware-health-care-data-breach/825643/
 
 ------------------------------------------------------------
 
 Title:
-Gaps in network security, oversight strategy hamper US’s aviation cybersecurity regulators
+Your attack surface is bigger than you think
 
 Published:
-2026-07-16 15:03 UTC
+2026-07-20 09:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/y0rwOObsMcYu1lJ9Zd2ZZd5BuuPGq65wBfmvdJesz4A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4NjE3Njc0LmpwZw==.webp" /></div></figure>A new government audit identified several weaknesses at the two agencies that protect air travel from hackers.
+New data reveals where attack surfaces are hiding the most risk.
 
 URL:
-https://www.cybersecuritydive.com/news/aviation-cybersecurity-faa-tsa-gao-report/825416/
+https://www.cybersecuritydive.com/spons/your-attack-surface-is-bigger-than-you-think/825160/
+
+------------------------------------------------------------
+
+Title:
+How agentic endpoint security shuts down IDE-based supply chain attacks
+
+Published:
+2026-07-20 09:00 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/QGattufvHUdqcs_Fv89bqzipf0AX6DhPjLFUQcpJO54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VUERBVEVEX0dldHR5SW1hZ2VzLTIyNjkyODE4NzEuanBn.webp" /></div></figure>Attention shifts from EDR to Agentic Endpoint Security to close visibility gaps that AI can exploit.
+
+URL:
+https://www.cybersecuritydive.com/spons/how-agentic-endpoint-security-shuts-down-ide-based-supply-chain-attacks/825550/
+
+------------------------------------------------------------
+
+Title:
+The secret problem in AI infrastructure: Why MCP security starts with secrets
+
+Published:
+2026-07-20 09:00 UTC
+
+Summary:
+AI changes how infrastructure is accessed. Here's what to secure.
+
+URL:
+https://www.cybersecuritydive.com/spons/the-secret-problem-in-ai-infrastructure-why-mcp-security-starts-with-secre/825210/
 
 ------------------------------------------------------------
 
@@ -217,10 +277,10 @@ Published:
 
 Summary:
 Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.
-The post <a href="https://unit42.paloaltonetworks.com/ai-incident-response-report/">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+The post <a href="https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/ai-incident-response-report/
+https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/
 
 ------------------------------------------------------------
 
