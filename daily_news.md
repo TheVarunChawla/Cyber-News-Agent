@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-21 04:41 UTC_
+_Last run: 2026-07-22 04:42 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware
+Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs
 
 Published:
-2026-07-20 18:23 UTC
+2026-07-21 18:46 UTC
 
 Summary:
-Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.
+Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.
 
-"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP
+404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was disclosed to the company by Tyler Murphy, co-founder of EasyOptOuts.
+
+Hide My Email
 
 URL:
-https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html
+https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html
 
 ------------------------------------------------------------
 
 Title:
-Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign
+AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code
 
 Published:
-2026-07-20 17:29 UTC
+2026-07-21 16:06 UTC
 
 Summary:
-A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV.
+Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.
 
-What makes it more than a
+Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been
 
 URL:
-https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html
+https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html
 
 ------------------------------------------------------------
 
 Title:
-HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050
+Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities
 
 Published:
-2026-07-20 14:33 UTC
+2026-07-21 15:09 UTC
 
 Summary:
-A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050.
+Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently.
 
-Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks
+According to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot
 
 URL:
-https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html
+https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html
 
 ------------------------------------------------------------
 
 Title:
-⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More
+Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC
 
 Published:
-2026-07-20 13:32 UTC
+2026-07-21 14:57 UTC
 
 Summary:
-A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.
+A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.
 
-The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch.
-
-Here is the full
+The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE
 
 URL:
-https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html
+https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html
 
 ------------------------------------------------------------
 
 Title:
-Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine
+Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access
 
 Published:
-2026-07-20 12:13 UTC
+2026-07-21 14:04 UTC
 
 Summary:
-At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.
+Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.
 
-That is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence
+Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway
 
 URL:
-https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html
+https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html
 
 ------------------------------------------------------------
 
@@ -93,78 +93,92 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Estée Lauder discloses data breach via Oracle E-Business flaw
+Police dismantle Kratos phishing platform, arrest developer
 
 Published:
-2026-07-20 22:39 UTC
+2026-07-21 23:07 UTC
 
 Summary:
-Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]
+Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/
+https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/
 
 ------------------------------------------------------------
 
 Title:
-SonicWall SMA1000 flaws exploited as zero-days to push custom malware
+FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware
 
 Published:
-2026-07-20 22:23 UTC
+2026-07-21 22:34 UTC
 
 Summary:
-Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]
+A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/
+https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/
 
 ------------------------------------------------------------
 
 Title:
-Hackers steal $23.7 million in crypto from Ostium in off-chain attack
+Critical SharePoint RCE flaw exploited to steal machine keys
 
 Published:
-2026-07-20 22:22 UTC
+2026-07-21 20:06 UTC
 
 Summary:
-The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]
+Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/
+https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/
 
 ------------------------------------------------------------
 
 Title:
-Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes
+Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak
 
 Published:
-2026-07-20 21:14 UTC
+2026-07-21 18:50 UTC
 
 Summary:
-Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]
+The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/
+https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/
 
 ------------------------------------------------------------
 
 Title:
-JadePuffer agentic attacks now target AI model data with ransomware
+Critical wp2shell WordPress flaws exploited to install webshells
 
 Published:
-2026-07-20 21:08 UTC
+2026-07-21 16:41 UTC
 
 Summary:
-The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]
+Hackers are exploiting the "wp2shell" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/
+https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Ransomware victims fail to fix flaws that exposed them
+
+Published:
+2026-07-21 15:08 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/ohJtMBfSGKPS9l_wb8SifrZkqFDT-35YyKPswWzuI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MDgxNTc4MzIuanBn.webp" /></div></figure>Many organizations still aren&rsquo;t securing their email or patching vulnerabilities after recovering from attacks, a new report found.
+
+URL:
+https://www.cybersecuritydive.com/news/ransomware-lingering-weaknesses-black-kite/825791/
+
+------------------------------------------------------------
 
 Title:
 Researchers trace SonicWall SMA1000 exploitation to late June
@@ -195,34 +209,6 @@ https://www.cybersecuritydive.com/news/craneware-health-care-data-breach/825643/
 ------------------------------------------------------------
 
 Title:
-Your attack surface is bigger than you think
-
-Published:
-2026-07-20 09:00 UTC
-
-Summary:
-New data reveals where attack surfaces are hiding the most risk.
-
-URL:
-https://www.cybersecuritydive.com/spons/your-attack-surface-is-bigger-than-you-think/825160/
-
-------------------------------------------------------------
-
-Title:
-How agentic endpoint security shuts down IDE-based supply chain attacks
-
-Published:
-2026-07-20 09:00 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/QGattufvHUdqcs_Fv89bqzipf0AX6DhPjLFUQcpJO54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VUERBVEVEX0dldHR5SW1hZ2VzLTIyNjkyODE4NzEuanBn.webp" /></div></figure>Attention shifts from EDR to Agentic Endpoint Security to close visibility gaps that AI can exploit.
-
-URL:
-https://www.cybersecuritydive.com/spons/how-agentic-endpoint-security-shuts-down-ide-based-supply-chain-attacks/825550/
-
-------------------------------------------------------------
-
-Title:
 The secret problem in AI infrastructure: Why MCP security starts with secrets
 
 Published:
@@ -233,6 +219,20 @@ AI changes how infrastructure is accessed. Here's what to secure.
 
 URL:
 https://www.cybersecuritydive.com/spons/the-secret-problem-in-ai-infrastructure-why-mcp-security-starts-with-secre/825210/
+
+------------------------------------------------------------
+
+Title:
+Your attack surface is bigger than you think
+
+Published:
+2026-07-20 09:00 UTC
+
+Summary:
+New data reveals where attack surfaces are hiding the most risk.
+
+URL:
+https://www.cybersecuritydive.com/spons/your-attack-surface-is-bigger-than-you-think/825160/
 
 ------------------------------------------------------------
 
