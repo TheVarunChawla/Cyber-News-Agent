@@ -1,90 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-22 04:42 UTC_
+_Last run: 2026-07-23 04:46 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs
+GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier
 
 Published:
-2026-07-21 18:46 UTC
+2026-07-22 18:37 UTC
 
 Summary:
-Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.
+Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more.
 
-404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was disclosed to the company by Tyler Murphy, co-founder of EasyOptOuts.
+Reports filed before that date, including those already in GitHub's growing triage queue, will retain the previous payout terms.
 
-Hide My Email
+GitHub said the
 
 URL:
-https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html
+https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html
 
 ------------------------------------------------------------
 
 Title:
-AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code
+Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs
 
 Published:
-2026-07-21 16:06 UTC
+2026-07-22 18:07 UTC
 
 Summary:
-Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.
+Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment.
 
-Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been
+The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as
 
 URL:
-https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html
+https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html
 
 ------------------------------------------------------------
 
 Title:
-Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities
+Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data
 
 Published:
-2026-07-21 15:09 UTC
+2026-07-22 15:01 UTC
 
 Summary:
-Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently.
+Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data.
 
-According to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot
+The shortcoming has been codenamed HermeticReader by Guardio Labs. It's officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability
 
 URL:
-https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html
+https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html
 
 ------------------------------------------------------------
 
 Title:
-Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC
+Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication
 
 Published:
-2026-07-21 14:57 UTC
+2026-07-22 12:36 UTC
 
 Summary:
-A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.
+A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.
 
-The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE
+The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's "get_log_file" endpoint ("/api/w/{workspace}/jobs_u/get_log_file/{filename}").
+
+"The filename parameter is concatenated into
 
 URL:
-https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html
+https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html
 
 ------------------------------------------------------------
 
 Title:
-Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access
+The Fastest Path to AI Adoption Runs Through Security
 
 Published:
-2026-07-21 14:04 UTC
+2026-07-22 11:58 UTC
 
 Summary:
-Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.
+Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned.
 
-Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway
+According to McKinsey's State of AI report, 76 percent of employees now use AI in some capacity at work, up from 55
 
 URL:
-https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html
+https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html
 
 ------------------------------------------------------------
 
@@ -93,78 +95,120 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Police dismantle Kratos phishing platform, arrest developer
+Upbound says hack caused $13 million in fraudulent Acima leases
 
 Published:
-2026-07-21 23:07 UTC
+2026-07-22 21:43 UTC
 
 Summary:
-Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]
+The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/
+https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/
 
 ------------------------------------------------------------
 
 Title:
-FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware
+South Korea discloses data breach impacting diplomats worldwide
 
 Published:
-2026-07-21 22:34 UTC
+2026-07-22 20:06 UTC
 
 Summary:
-A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]
+South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/
+https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/
 
 ------------------------------------------------------------
 
 Title:
-Critical SharePoint RCE flaw exploited to steal machine keys
+Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack
 
 Published:
-2026-07-21 20:06 UTC
+2026-07-22 16:59 UTC
 
 Summary:
-Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]
+Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/
+https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/
 
 ------------------------------------------------------------
 
 Title:
-Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak
+How enterprise GenAI can amplify ransomware risk — and how to contain it
 
 Published:
-2026-07-21 18:50 UTC
+2026-07-22 15:30 UTC
 
 Summary:
-The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]
+Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/
+https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/
 
 ------------------------------------------------------------
 
 Title:
-Critical wp2shell WordPress flaws exploited to install webshells
+New InfraTrust report reveals infrastructure flaws admins should patch first
 
 Published:
-2026-07-21 16:41 UTC
+2026-07-22 14:15 UTC
 
 Summary:
-Hackers are exploiting the "wp2shell" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]
+Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/
+https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Threat group claims credit for ransomware attack on Coca-Cola’s dairy unit
+
+Published:
+2026-07-22 15:11 UTC
+
+Summary:
+The attackers previously exploited vulnerabilities or used stolen credentials for initial access. 
+
+URL:
+https://www.cybersecuritydive.com/news/threat-group-ransomware-coca-colas-dairy-Fairlife/825900/
+
+------------------------------------------------------------
+
+Title:
+OpenAI models escaped containment and hacked a major AI application library
+
+Published:
+2026-07-22 15:11 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/kA4uWTp6CHOB6zjCOOxTVcwaF4gDiokgKM9VkGCzxzI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExLmpwZw==.webp" /></div></figure>The attack is the first known instance of frontier models autonomously breaking out of a testing environment and into another company&rsquo;s servers.
+
+URL:
+https://www.cybersecuritydive.com/news/openai-hugging-face-hack-autonomous/825898/
+
+------------------------------------------------------------
+
+Title:
+4 ways to secure local developer IDEs and tools without sacrificing velocity
+
+Published:
+2026-07-21 18:29 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/QGattufvHUdqcs_Fv89bqzipf0AX6DhPjLFUQcpJO54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VUERBVEVEX0dldHR5SW1hZ2VzLTIyNjkyODE4NzEuanBn.webp" /></div></figure>Attention shifts from EDR to Agentic Endpoint Security to close visibility gaps that AI can exploit.
+
+URL:
+https://www.cybersecuritydive.com/spons/4-ways-to-secure-local-developer-ides-and-tools-without-sacrificing-velocit/825550/
+
+------------------------------------------------------------
 
 Title:
 Ransomware victims fail to fix flaws that exposed them
@@ -181,58 +225,16 @@ https://www.cybersecuritydive.com/news/ransomware-lingering-weaknesses-black-kit
 ------------------------------------------------------------
 
 Title:
-Researchers trace SonicWall SMA1000 exploitation to late June
+Microsoft SharePoint under attack via new exploit
 
 Published:
-2026-07-20 15:10 UTC
+2026-07-21 15:06 UTC
 
 Summary:
-Multiple threat actors, including INC ransomware, have targeted vulnerable firewall systems.
+<figure><div><img src="https://imgproxy.divecdn.com/nVrw5rdF9p8cPaeSAY4NsHBBdWAS4A5HVCLPASAcT4U/g:nowe:0:305/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU5ODY3MDU1XzZwa3RQM0UuanBn.webp" /></div></figure>Security researchers warn the potential risk could rival the widespread ToolShell campaign of 2025.
 
 URL:
-https://www.cybersecuritydive.com/news/researchers-sonicwall-sma1000-exploitation-june/825654/
-
-------------------------------------------------------------
-
-Title:
-Hackers steal customer data from major hospital software vendor
-
-Published:
-2026-07-20 14:28 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/E2GCSChl_Kjubah2Wxw5gqAJatP0sqhsdgbT1B5wiL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzODc1NzkwLmpwZw==.webp" /></div></figure>The breach is another reminder of how vulnerable the healthcare industry is to supply-chain attacks.
-
-URL:
-https://www.cybersecuritydive.com/news/craneware-health-care-data-breach/825643/
-
-------------------------------------------------------------
-
-Title:
-The secret problem in AI infrastructure: Why MCP security starts with secrets
-
-Published:
-2026-07-20 09:00 UTC
-
-Summary:
-AI changes how infrastructure is accessed. Here's what to secure.
-
-URL:
-https://www.cybersecuritydive.com/spons/the-secret-problem-in-ai-infrastructure-why-mcp-security-starts-with-secre/825210/
-
-------------------------------------------------------------
-
-Title:
-Your attack surface is bigger than you think
-
-Published:
-2026-07-20 09:00 UTC
-
-Summary:
-New data reveals where attack surfaces are hiding the most risk.
-
-URL:
-https://www.cybersecuritydive.com/spons/your-attack-surface-is-bigger-than-you-think/825160/
+https://www.cybersecuritydive.com/news/microsoft-sharepoint-attack-new-exploit/825797/
 
 ------------------------------------------------------------
 
@@ -682,50 +684,18 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks
+Real world incident response: Microsoft and AXA XL strengthen cyber resilience
 
 Published:
-2026-07-17 16:00 UTC
+2026-07-22 16:00 UTC
 
 Summary:
-Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/">Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/">Real world incident response: Microsoft and AXA XL strengthen cyber resilience</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/
-
-------------------------------------------------------------
-
-Title:
-ACR Stealer: Two observed intrusion chains amid increased threat activity
-
-Published:
-2026-07-16 23:12 UTC
-
-Summary:
-From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/">ACR Stealer: Two observed intrusion chains amid increased threat activity</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/
-
-------------------------------------------------------------
-
-Title:
-Least privilege for AI agents: Identity, access, and tool binding
-
-Published:
-2026-07-16 16:00 UTC
-
-Summary:
-As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/">Least privilege for AI agents: Identity, access, and tool binding</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/
+https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/
 
 ------------------------------------------------------------
 
