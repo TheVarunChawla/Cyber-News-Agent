@@ -1,92 +1,96 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-23 04:46 UTC_
+_Last run: 2026-07-24 04:43 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier
+Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes
 
 Published:
-2026-07-22 18:37 UTC
+2026-07-23 18:36 UTC
 
 Summary:
-Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more.
+A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.
 
-Reports filed before that date, including those already in GitHub's growing triage queue, will retain the previous payout terms.
+The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it.
 
-GitHub said the
+The NSA, CISA and partner agencies published
 
 URL:
-https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html
+https://thehackernews.com/2026/07/russian-espionage-group-exploited.html
 
 ------------------------------------------------------------
 
 Title:
-Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs
+ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories
 
 Published:
-2026-07-22 18:07 UTC
+2026-07-23 15:02 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment.
+Most of this week's trouble came dressed as something useful.
 
-The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as
+A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic.
+
+
+ The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out.
+
+
+The danger was
 
 URL:
-https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html
+https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html
 
 ------------------------------------------------------------
 
 Title:
-Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data
+Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files
 
 Published:
-2026-07-22 15:01 UTC
+2026-07-23 13:27 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data.
+Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac.
 
-The shortcoming has been codenamed HermeticReader by Guardio Labs. It's officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability
+Accomplish AI, which shared details of the vulnerability with The Hacker News ahead of publication, said about 500,000 macOS users running
 
 URL:
-https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html
+https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html
 
 ------------------------------------------------------------
 
 Title:
-Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication
+Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge
 
 Published:
-2026-07-22 12:36 UTC
+2026-07-23 13:11 UTC
 
 Summary:
-A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.
+The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor.
 
-The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's "get_log_file" endpoint ("/api/w/{workspace}/jobs_u/get_log_file/{filename}").
-
-"The filename parameter is concatenated into
+The implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and nothing else. It starts Chrome or Edge in headless mode and drives the browser
 
 URL:
-https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html
+https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html
 
 ------------------------------------------------------------
 
 Title:
-The Fastest Path to AI Adoption Runs Through Security
+China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks
 
 Published:
-2026-07-22 11:58 UTC
+2026-07-23 12:20 UTC
 
 Summary:
-Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned.
+An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader.
 
-According to McKinsey's State of AI report, 76 percent of employees now use AI in some capacity at work, up from 55
+Group-IB found the server in mid-April 2026 in Alibaba Cloud's Singapore region; it was offline by the time the report
 
 URL:
-https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html
+https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html
 
 ------------------------------------------------------------
 
@@ -95,78 +99,120 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Upbound says hack caused $13 million in fraudulent Acima leases
+New Dolphin X malware uses AI to rank high-value targets
 
 Published:
-2026-07-22 21:43 UTC
+2026-07-23 21:20 UTC
 
 Summary:
-The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]
+A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/
+https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/
 
 ------------------------------------------------------------
 
 Title:
-South Korea discloses data breach impacting diplomats worldwide
+Australian energy provider Origin says data breach exposes client data
 
 Published:
-2026-07-22 20:06 UTC
+2026-07-23 20:14 UTC
 
 Summary:
-South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]
+Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/
+https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/
 
 ------------------------------------------------------------
 
 Title:
-Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack
+Fake Claude app promoted by Bing ads pushes SectopRAT malware
 
 Published:
-2026-07-22 16:59 UTC
+2026-07-23 19:48 UTC
 
 Summary:
-Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]
+A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/
+https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/
 
 ------------------------------------------------------------
 
 Title:
-How enterprise GenAI can amplify ransomware risk — and how to contain it
+Russian hackers exploit Zimbra zero-click flaw for email theft
 
 Published:
-2026-07-22 15:30 UTC
+2026-07-23 16:49 UTC
 
 Summary:
-Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]
+CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/
+https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/
 
 ------------------------------------------------------------
 
 Title:
-New InfraTrust report reveals infrastructure flaws admins should patch first
+Hackers abuse Notepad++ plugins to stealthily install malware
 
 Published:
-2026-07-22 14:15 UTC
+2026-07-23 16:32 UTC
 
 Summary:
-Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]
+Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/
+https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Russia-backed threat actor targets Western organizations in phishing campaign
+
+Published:
+2026-07-23 15:35 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/zNAZfAmDRhhlMAJ-UnM8x_ytURoM2eugJpDA-iMEza0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg5OTQzNTI4LmpwZw==.webp" /></div></figure>The threat actor exploited a zero-day flaw in Zimbra to exfiltrate months of emails and other sensitive information.
+
+URL:
+https://www.cybersecuritydive.com/news/russia-threat-actor-western-organizations-Zimbra-phishing/826029/
+
+------------------------------------------------------------
+
+Title:
+CISA, FBI warn that Iran-linked hackers are expanding target set for water, energy
+
+Published:
+2026-07-23 15:24 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/JCOUZDUAM8d4zswkbTCrFKGq06ogf0fbTr1fAS8UcYc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE5NzU3MzAyLmpwZw==.webp" /></div></figure>The agencies said threat groups have disrupted critical infrastructure sites by exploiting vulnerable PLC devices.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-fbi-iran-hackers-target-water-energy/826025/
+
+------------------------------------------------------------
+
+Title:
+GAO report details scope of cybersecurity regulation overlap
+
+Published:
+2026-07-23 14:30 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/rB__aUohpi9ECbG76JKMiTw6E91vdBMFi5-s1okhE5w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDEzX0dBT19FeHRlcmlvcl8wMS5KUEcud2VicA==.webp" /></div></figure>A morass of rules is forcing companies to report the same information multiple times &mdash; and sometimes, those rules conflict.
+
+URL:
+https://www.cybersecuritydive.com/news/cybersecurity-regulations-overlap-harmonization-gao/826012/
+
+------------------------------------------------------------
 
 Title:
 Threat group claims credit for ransomware attack on Coca-Cola’s dairy unit
@@ -183,7 +229,7 @@ https://www.cybersecuritydive.com/news/threat-group-ransomware-coca-colas-dairy-
 ------------------------------------------------------------
 
 Title:
-OpenAI models escaped containment and hacked a major AI application library
+OpenAI models escaped containment, hacked major AI application library
 
 Published:
 2026-07-22 15:11 UTC
@@ -193,48 +239,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/openai-hugging-face-hack-autonomous/825898/
-
-------------------------------------------------------------
-
-Title:
-4 ways to secure local developer IDEs and tools without sacrificing velocity
-
-Published:
-2026-07-21 18:29 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/QGattufvHUdqcs_Fv89bqzipf0AX6DhPjLFUQcpJO54/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VUERBVEVEX0dldHR5SW1hZ2VzLTIyNjkyODE4NzEuanBn.webp" /></div></figure>Attention shifts from EDR to Agentic Endpoint Security to close visibility gaps that AI can exploit.
-
-URL:
-https://www.cybersecuritydive.com/spons/4-ways-to-secure-local-developer-ides-and-tools-without-sacrificing-velocit/825550/
-
-------------------------------------------------------------
-
-Title:
-Ransomware victims fail to fix flaws that exposed them
-
-Published:
-2026-07-21 15:08 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ohJtMBfSGKPS9l_wb8SifrZkqFDT-35YyKPswWzuI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MDgxNTc4MzIuanBn.webp" /></div></figure>Many organizations still aren&rsquo;t securing their email or patching vulnerabilities after recovering from attacks, a new report found.
-
-URL:
-https://www.cybersecuritydive.com/news/ransomware-lingering-weaknesses-black-kite/825791/
-
-------------------------------------------------------------
-
-Title:
-Microsoft SharePoint under attack via new exploit
-
-Published:
-2026-07-21 15:06 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/nVrw5rdF9p8cPaeSAY4NsHBBdWAS4A5HVCLPASAcT4U/g:nowe:0:305/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU5ODY3MDU1XzZwa3RQM0UuanBn.webp" /></div></figure>Security researchers warn the potential risk could rival the widespread ToolShell campaign of 2025.
-
-URL:
-https://www.cybersecuritydive.com/news/microsoft-sharepoint-attack-new-exploit/825797/
 
 ------------------------------------------------------------
 
@@ -254,50 +258,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy
+Russian Global Webmail Espionage
 
 Published:
-2026-07-17 10:00 UTC
+2026-07-23 14:10 UTC
 
 Summary:
-A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access.
-The post <a href="https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/">Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 details a Russian cyberespionage campaign targeting  Zimbra webmail servers using JavaScript injection to steal credentials.
+The post <a href="https://unit42.paloaltonetworks.com/russian-webmail-espionage/">Russian Global Webmail Espionage</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/
-
-------------------------------------------------------------
-
-Title:
-AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report
-
-Published:
-2026-07-16 23:00 UTC
-
-Summary:
-Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.
-The post <a href="https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/
-
-------------------------------------------------------------
-
-Title:
-The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)
-
-Published:
-2026-07-15 23:00 UTC
-
-Summary:
-Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. 
-The post <a href="https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/">The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/
+https://unit42.paloaltonetworks.com/russian-webmail-espionage/
 
 ------------------------------------------------------------
 
@@ -305,47 +277,45 @@ https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Begun, the Patch Wars have
+Don’t swing at everything
 
 Published:
-2026-07-16 18:00 UTC
+2026-07-23 18:00 UTC
 
 Summary:
-Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.
+Thorsten explores Q2 2026 stats, the artificial buffer zone of 2026, and why smart, prioritized patching is more critical than ever.
 
 URL:
-https://blog.talosintelligence.com/begun-the-patch-wars-have/
+https://blog.talosintelligence.com/dont-swing-at-everything/
 
 ------------------------------------------------------------
 
 Title:
-The Hunter's Paradox: Is it time to embrace automated threat hunting?
+Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel
 
 Published:
-2026-07-16 10:00 UTC
+2026-07-23 10:00 UTC
 
 Summary:
-Humans can no longer keep up with the volume and velocity of security data on their own, but AI can't be fully trusted. David discusses the merits of both and muses on what the future might look like.
+The Chaos ransomware group uses new malware "msaRAT" that hijacks browsers. The malware doesn't communicate directly with C2 but connects through the browser. It enables arbitrary command execution while hiding the attacker's IP from victims via WebRTC over TURN.
 
 URL:
-https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/
+https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/
 
 ------------------------------------------------------------
 
 Title:
-UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign
+Preview: Cisco Talos at Black Hat USA 2026
 
 Published:
-2026-07-16 10:00 UTC
+2026-07-23 10:00 UTC
 
 Summary:
-Cisco Talos is disclosing UAT-11795, a sophisticated, Russian-speaking, financially motivated adversary that has been conducting a malicious campaign targeting users in the U.S. and Europe since at least June 2025.
+Here’s some of the ways Talos is showing up at Black Hat, alongside our friends at Cisco and Splunk.
 
 URL:
-https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/
+https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/
 
 ------------------------------------------------------------
 
@@ -683,6 +653,21 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 ============================================================
 SOURCE : Microsoft Security Blog
 ============================================================
+
+Title:
+Email threat landscape: Q2 2026 trends and insights
+
+Published:
+2026-07-23 15:00 UTC
+
+Summary:
+In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/">Email threat landscape: Q2 2026 trends and insights</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/
+
+------------------------------------------------------------
 
 Title:
 Real world incident response: Microsoft and AXA XL strengthen cyber resilience
