@@ -1,96 +1,86 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-24 04:43 UTC_
+_Last run: 2026-07-25 04:38 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes
+BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery
 
 Published:
-2026-07-23 18:36 UTC
+2026-07-24 15:12 UTC
 
 Summary:
-A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.
+The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware.
 
-The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it.
-
-The NSA, CISA and partner agencies published
+"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet
 
 URL:
-https://thehackernews.com/2026/07/russian-espionage-group-exploited.html
+https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories
+Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller
 
 Published:
-2026-07-23 15:02 UTC
+2026-07-24 14:15 UTC
 
 Summary:
-Most of this week's trouble came dressed as something useful.
+Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.
 
-A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic.
-
-
- The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out.
-
-
-The danger was
+They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.
 
 URL:
-https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html
+https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html
 
 ------------------------------------------------------------
 
 Title:
-Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files
+ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link
 
 Published:
-2026-07-23 13:27 UTC
+2026-07-24 11:53 UTC
 
 Summary:
-Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac.
+Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization.
 
-Accomplish AI, which shared details of the vulnerability with The Hacker News ahead of publication, said about 500,000 macOS users running
+The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,
 
 URL:
-https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html
+https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html
 
 ------------------------------------------------------------
 
 Title:
-Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge
+Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers
 
 Published:
-2026-07-23 13:11 UTC
+2026-07-24 11:45 UTC
 
 Summary:
-The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor.
+A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.
 
-The implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and nothing else. It starts Chrome or Edge in headless mode and drives the browser
+XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and
 
 URL:
-https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html
+https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html
 
 ------------------------------------------------------------
 
 Title:
-China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks
+Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do
 
 Published:
-2026-07-23 12:20 UTC
+2026-07-24 11:30 UTC
 
 Summary:
-An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader.
-
-Group-IB found the server in mid-April 2026 in Alibaba Cloud's Singapore region; it was offline by the time the report
+AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively landed is that understanding the intent of
 
 URL:
-https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html
+https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html
 
 ------------------------------------------------------------
 
@@ -99,78 +89,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-New Dolphin X malware uses AI to rank high-value targets
+OnTrac notifies customers of data breach after network hack
 
 Published:
-2026-07-23 21:20 UTC
+2026-07-24 19:55 UTC
 
 Summary:
-A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]
+OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/
+https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/
 
 ------------------------------------------------------------
 
 Title:
-Australian energy provider Origin says data breach exposes client data
+Hermes AI agent used to automate attack on Thai Finance Ministry
 
 Published:
-2026-07-23 20:14 UTC
+2026-07-24 19:09 UTC
 
 Summary:
-Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]
+A threat actor used the open-source Hermes AI agent in unattended "YOLO" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/
+https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/
 
 ------------------------------------------------------------
 
 Title:
-Fake Claude app promoted by Bing ads pushes SectopRAT malware
+Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts
 
 Published:
-2026-07-23 19:48 UTC
+2026-07-24 17:50 UTC
 
 Summary:
-A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]
+Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/
+https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/
 
 ------------------------------------------------------------
 
 Title:
-Russian hackers exploit Zimbra zero-click flaw for email theft
+Microsoft blames massive Microsoft 365 outage on maintenance bug
 
 Published:
-2026-07-23 16:49 UTC
+2026-07-24 15:41 UTC
 
 Summary:
-CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]
+Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/
 
 ------------------------------------------------------------
 
 Title:
-Hackers abuse Notepad++ plugins to stealthily install malware
+Chick-fil-A data breach affects more than 13,000 customers
 
 Published:
-2026-07-23 16:32 UTC
+2026-07-24 14:04 UTC
 
 Summary:
-Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]
+Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/
+https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Zero-day flaw in Check Point SmartConsole is under exploitation
+
+Published:
+2026-07-24 14:55 UTC
+
+Summary:
+Researchers warned the vulnerability offers an attacker the ability to make key changes to security configurations.
+
+URL:
+https://www.cybersecuritydive.com/news/zero-day-flaw-check-point-smartconsole-exploitation/826149/
+
+------------------------------------------------------------
+
+Title:
+The most vulnerable AI products are also some of the most commonly exposed online
+
+Published:
+2026-07-24 14:26 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/3AMHXqqFt_CCtFWVmFuihh3Rr1bYf-lATSwgP4fGYuw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ0NTQ5NTExLmpwZw==.webp" /></div></figure>It is becoming increasingly easy for hackers to target vulnerable AI tools on companies&rsquo; networks, even as those companies come to depend on them for more tasks.
+
+URL:
+https://www.cybersecuritydive.com/news/industrial-control-systems-ai-internet-exposure-censys-report-preview/826133/
+
+------------------------------------------------------------
 
 Title:
 Russia-backed threat actor targets Western organizations in phishing campaign
@@ -211,34 +229,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/cybersecurity-regulations-overlap-harmonization-gao/826012/
-
-------------------------------------------------------------
-
-Title:
-Threat group claims credit for ransomware attack on Coca-Cola’s dairy unit
-
-Published:
-2026-07-22 15:11 UTC
-
-Summary:
-The attackers previously exploited vulnerabilities or used stolen credentials for initial access. 
-
-URL:
-https://www.cybersecuritydive.com/news/threat-group-ransomware-coca-colas-dairy-Fairlife/825900/
-
-------------------------------------------------------------
-
-Title:
-OpenAI models escaped containment, hacked major AI application library
-
-Published:
-2026-07-22 15:11 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/kA4uWTp6CHOB6zjCOOxTVcwaF4gDiokgKM9VkGCzxzI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExLmpwZw==.webp" /></div></figure>The attack is the first known instance of frontier models autonomously breaking out of a testing environment and into another company&rsquo;s servers.
-
-URL:
-https://www.cybersecuritydive.com/news/openai-hugging-face-hack-autonomous/825898/
 
 ------------------------------------------------------------
 
@@ -666,21 +656,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/23/email
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/
-
-------------------------------------------------------------
-
-Title:
-Real world incident response: Microsoft and AXA XL strengthen cyber resilience
-
-Published:
-2026-07-22 16:00 UTC
-
-Summary:
-Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/">Real world incident response: Microsoft and AXA XL strengthen cyber resilience</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/
 
 ------------------------------------------------------------
 
