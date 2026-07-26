@@ -1,92 +1,152 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-25 04:38 UTC_
+_Last run: 2026-07-26 04:52 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery
+Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable
 
 Published:
-2026-07-24 15:12 UTC
+2026-07-25 18:48 UTC
 
 Summary:
-The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware.
+A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL.
 
-"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet
+Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and
 
 URL:
-https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html
+https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html
 
 ------------------------------------------------------------
 
 Title:
-Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller
+Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available
 
 Published:
-2026-07-24 14:15 UTC
+2026-07-25 12:52 UTC
 
 Summary:
-Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.
+Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process.
 
-They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.
+Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires
 
 URL:
-https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html
+https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html
 
 ------------------------------------------------------------
 
 Title:
-ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link
+Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git
 
 Published:
-2026-07-24 11:53 UTC
+2026-07-25 10:14 UTC
 
 Summary:
-Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization.
+Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update.
 
-The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,
+Any authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap
 
 URL:
-https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html
+https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html
 
 ------------------------------------------------------------
 
 Title:
-Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers
+CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking
 
 Published:
-2026-07-24 11:45 UTC
+2026-07-25 10:14 UTC
 
 Summary:
-A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.
+For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose.
 
-XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and
+That model is changing.
+
+Recent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting
 
 URL:
-https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html
+https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html
 
 ------------------------------------------------------------
 
 Title:
-Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do
+Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE
 
 Published:
-2026-07-24 11:30 UTC
+2026-07-25 10:14 UTC
 
 Summary:
-AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively landed is that understanding the intent of
+Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign.
+
+"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling
 
 URL:
-https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html
+https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Steam forum ClickFix attacks infect gamers with XMRig cryptominers
+
+Published:
+2026-07-25 22:37 UTC
+
+Summary:
+Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/
+
+------------------------------------------------------------
+
+Title:
+Malicious sites use JavaScript to build malware in browser memory
+
+Published:
+2026-07-25 15:21 UTC
+
+Summary:
+A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/
+
+------------------------------------------------------------
+
+Title:
+ShinyHunters data leaks fuel $2,000 sextortion email scam
+
+Published:
+2026-07-25 14:16 UTC
+
+Summary:
+Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/
+
+------------------------------------------------------------
+
+Title:
+OpenAI confirms ChatGPT is down worldwide
+
+Published:
+2026-07-25 09:31 UTC
+
+Summary:
+ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/
+
+------------------------------------------------------------
 
 Title:
 OnTrac notifies customers of data breach after network hack
@@ -99,62 +159,6 @@ OnTrac parcel delivery company is informing that hackers breached its corporate 
 
 URL:
 https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/
-
-------------------------------------------------------------
-
-Title:
-Hermes AI agent used to automate attack on Thai Finance Ministry
-
-Published:
-2026-07-24 19:09 UTC
-
-Summary:
-A threat actor used the open-source Hermes AI agent in unattended "YOLO" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/
-
-------------------------------------------------------------
-
-Title:
-Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts
-
-Published:
-2026-07-24 17:50 UTC
-
-Summary:
-Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/
-
-------------------------------------------------------------
-
-Title:
-Microsoft blames massive Microsoft 365 outage on maintenance bug
-
-Published:
-2026-07-24 15:41 UTC
-
-Summary:
-Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/
-
-------------------------------------------------------------
-
-Title:
-Chick-fil-A data breach affects more than 13,000 customers
-
-Published:
-2026-07-24 14:04 UTC
-
-Summary:
-Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/
 
 ------------------------------------------------------------
 
@@ -190,48 +194,6 @@ https://www.cybersecuritydive.com/news/industrial-control-systems-ai-internet-ex
 
 ------------------------------------------------------------
 
-Title:
-Russia-backed threat actor targets Western organizations in phishing campaign
-
-Published:
-2026-07-23 15:35 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/zNAZfAmDRhhlMAJ-UnM8x_ytURoM2eugJpDA-iMEza0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg5OTQzNTI4LmpwZw==.webp" /></div></figure>The threat actor exploited a zero-day flaw in Zimbra to exfiltrate months of emails and other sensitive information.
-
-URL:
-https://www.cybersecuritydive.com/news/russia-threat-actor-western-organizations-Zimbra-phishing/826029/
-
-------------------------------------------------------------
-
-Title:
-CISA, FBI warn that Iran-linked hackers are expanding target set for water, energy
-
-Published:
-2026-07-23 15:24 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/JCOUZDUAM8d4zswkbTCrFKGq06ogf0fbTr1fAS8UcYc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE5NzU3MzAyLmpwZw==.webp" /></div></figure>The agencies said threat groups have disrupted critical infrastructure sites by exploiting vulnerable PLC devices.
-
-URL:
-https://www.cybersecuritydive.com/news/cisa-fbi-iran-hackers-target-water-energy/826025/
-
-------------------------------------------------------------
-
-Title:
-GAO report details scope of cybersecurity regulation overlap
-
-Published:
-2026-07-23 14:30 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/rB__aUohpi9ECbG76JKMiTw6E91vdBMFi5-s1okhE5w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDEzX0dBT19FeHRlcmlvcl8wMS5KUEcud2VicA==.webp" /></div></figure>A morass of rules is forcing companies to report the same information multiple times &mdash; and sometimes, those rules conflict.
-
-URL:
-https://www.cybersecuritydive.com/news/cybersecurity-regulations-overlap-harmonization-gao/826012/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -248,6 +210,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Russian Global Webmail Espionage
 
@@ -263,9 +227,41 @@ https://unit42.paloaltonetworks.com/russian-webmail-espionage/
 
 ------------------------------------------------------------
 
+Title:
+Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy
+
+Published:
+2026-07-17 10:00 UTC
+
+Summary:
+A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access.
+The post <a href="https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/">Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/
+
+------------------------------------------------------------
+
+Title:
+AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report
+
+Published:
+2026-07-16 23:00 UTC
+
+Summary:
+Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.
+The post <a href="https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Don’t swing at everything
@@ -644,6 +640,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Email threat landscape: Q2 2026 trends and insights
 
@@ -656,6 +654,36 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/23/email
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/
+
+------------------------------------------------------------
+
+Title:
+Real world incident response: Microsoft and AXA XL strengthen cyber resilience
+
+Published:
+2026-07-22 16:00 UTC
+
+Summary:
+Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/">Real world incident response: Microsoft and AXA XL strengthen cyber resilience</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/
+
+------------------------------------------------------------
+
+Title:
+Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks
+
+Published:
+2026-07-17 16:00 UTC
+
+Summary:
+Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/">Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/
 
 ------------------------------------------------------------
 
