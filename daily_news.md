@@ -1,6 +1,6 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-26 04:52 UTC_
+_Last run: 2026-07-27 05:04 UTC_
 
 ============================================================
 SOURCE : The Hacker News
@@ -93,6 +93,20 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+GitHub, PyPI add time-based defenses against supply chain attacks
+
+Published:
+2026-07-26 14:13 UTC
+
+Summary:
+GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/
+
+------------------------------------------------------------
+
+Title:
 Steam forum ClickFix attacks infect gamers with XMRig cryptominers
 
 Published:
@@ -148,23 +162,11 @@ https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-ch
 
 ------------------------------------------------------------
 
-Title:
-OnTrac notifies customers of data breach after network hack
-
-Published:
-2026-07-24 19:55 UTC
-
-Summary:
-OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Zero-day flaw in Check Point SmartConsole is under exploitation
@@ -191,6 +193,20 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/industrial-control-systems-ai-internet-exposure-censys-report-preview/826133/
+
+------------------------------------------------------------
+
+Title:
+Russia-backed threat actor targets Western organizations in phishing campaign
+
+Published:
+2026-07-23 15:35 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/zNAZfAmDRhhlMAJ-UnM8x_ytURoM2eugJpDA-iMEza0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg5OTQzNTI4LmpwZw==.webp" /></div></figure>The threat actor exploited a zero-day flaw in Zimbra to exfiltrate months of emails and other sensitive information.
+
+URL:
+https://www.cybersecuritydive.com/news/russia-threat-actor-western-organizations-Zimbra-phishing/826029/
 
 ------------------------------------------------------------
 
