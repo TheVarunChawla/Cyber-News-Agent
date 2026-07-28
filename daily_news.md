@@ -1,90 +1,94 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-27 05:04 UTC_
+_Last run: 2026-07-28 04:37 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable
+NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework
 
 Published:
-2026-07-25 18:48 UTC
+2026-07-27 18:10 UTC
 
 Summary:
-A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL.
+NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.
 
-Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and
+The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux
 
 URL:
-https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html
+https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html
 
 ------------------------------------------------------------
 
 Title:
-Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available
+Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption
 
 Published:
-2026-07-25 12:52 UTC
+2026-07-27 17:16 UTC
 
 Summary:
-Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process.
+Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt.
 
-Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires
+CNCERT, China's national computer emergency response team, and XLab, the threat-intelligence lab of Chinese
 
 URL:
-https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html
+https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html
 
 ------------------------------------------------------------
 
 Title:
-Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git
+Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw
 
 Published:
-2026-07-25 10:14 UTC
+2026-07-27 14:40 UTC
 
 Summary:
-Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update.
+Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user.
 
-Any authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap
+SSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version
 
 URL:
-https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html
+https://thehackernews.com/2026/07/public-exploit-released-for-patched.html
 
 ------------------------------------------------------------
 
 Title:
-CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking
+⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More
 
 Published:
-2026-07-25 10:14 UTC
+2026-07-27 14:10 UTC
 
 Summary:
-For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose.
+Monday starts with the usual promise that everything is under control. Then the logs wake up.
 
-That model is changing.
+This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped.
 
-Recent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting
+That is the mood. Here is the full recap.
+
+⚡ Threat of the Week
+
+OpenAI Says Its AI Agent Went Rogue
 
 URL:
-https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html
+https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html
 
 ------------------------------------------------------------
 
 Title:
-Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE
+n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process
 
 Published:
-2026-07-25 10:14 UTC
+2026-07-27 13:05 UTC
 
 Summary:
-Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign.
+n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass.
 
-"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling
+The affected ranges are &lt;2.31.5 and &gt;=2.32.0,&lt;2.32.1. n8n fixed the flaw in versions 2.31.5 and
 
 URL:
-https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html
+https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html
 
 ------------------------------------------------------------
 
@@ -93,72 +97,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-GitHub, PyPI add time-based defenses against supply chain attacks
+Hackers target US firms in FastJson RCE zero-day attacks
 
 Published:
-2026-07-26 14:13 UTC
+2026-07-27 23:49 UTC
 
 Summary:
-GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]
+Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/
+https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Steam forum ClickFix attacks infect gamers with XMRig cryptominers
+Arista patches VeloCloud Orchestrator zero-day exploited in attacks
 
 Published:
-2026-07-25 22:37 UTC
+2026-07-27 22:49 UTC
 
 Summary:
-Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]
+Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/
+https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Malicious sites use JavaScript to build malware in browser memory
+New Dysphoria DDoS botnet spreads to 200k devices worldwide
 
 Published:
-2026-07-25 15:21 UTC
+2026-07-27 21:08 UTC
 
 Summary:
-A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]
+A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/
+https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/
 
 ------------------------------------------------------------
 
 Title:
-ShinyHunters data leaks fuel $2,000 sextortion email scam
+New Certighost PoC exploit lets attackers hijack Windows domains
 
 Published:
-2026-07-25 14:16 UTC
+2026-07-27 21:00 UTC
 
 Summary:
-Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]
+A proof-of-concept exploit for "Certighost," a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/
+https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI confirms ChatGPT is down worldwide
+Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin
 
 Published:
-2026-07-25 09:31 UTC
+2026-07-27 17:29 UTC
 
 Summary:
-ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]
+Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/
+https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/
 
 ------------------------------------------------------------
 
@@ -166,47 +170,59 @@ https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-ch
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Zero-day flaw in Check Point SmartConsole is under exploitation
+Coca-Cola restores most production capacity at dairy unit after ransomware attack
 
 Published:
-2026-07-24 14:55 UTC
+2026-07-27 15:15 UTC
 
 Summary:
-Researchers warned the vulnerability offers an attacker the ability to make key changes to security configurations.
+The company said it does not expect the Fairlife disruption to have a material impact on financial performance or operations. 
 
 URL:
-https://www.cybersecuritydive.com/news/zero-day-flaw-check-point-smartconsole-exploitation/826149/
+https://www.cybersecuritydive.com/news/coca-cola-restores-most-production-capacity-at-dairy-unit-after-ransomware/826250/
 
 ------------------------------------------------------------
 
 Title:
-The most vulnerable AI products are also some of the most commonly exposed online
+Tech industry giants say US must embrace openness, transparency in AI
 
 Published:
-2026-07-24 14:26 UTC
+2026-07-27 14:44 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/3AMHXqqFt_CCtFWVmFuihh3Rr1bYf-lATSwgP4fGYuw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ0NTQ5NTExLmpwZw==.webp" /></div></figure>It is becoming increasingly easy for hackers to target vulnerable AI tools on companies&rsquo; networks, even as those companies come to depend on them for more tasks.
+<figure><div><img src="https://imgproxy.divecdn.com/ck4RQvjpGSvGkZupe3GhVIvt5MrsX1rZg9-3ocs1B14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjAzMTgxNDM4LmpwZw==.webp" /></div></figure>Open-source and open-weight AI models are essential cybersecurity tools, two groups of major AI and security firms said.
 
 URL:
-https://www.cybersecuritydive.com/news/industrial-control-systems-ai-internet-exposure-censys-report-preview/826133/
+https://www.cybersecuritydive.com/news/ai-open-source-weights-tech-industry-promote/826240/
 
 ------------------------------------------------------------
 
 Title:
-Russia-backed threat actor targets Western organizations in phishing campaign
+In the Mythos era, security belongs at runtime
 
 Published:
-2026-07-23 15:35 UTC
+2026-07-27 09:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/zNAZfAmDRhhlMAJ-UnM8x_ytURoM2eugJpDA-iMEza0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg5OTQzNTI4LmpwZw==.webp" /></div></figure>The threat actor exploited a zero-day flaw in Zimbra to exfiltrate months of emails and other sensitive information.
+Frontier AI cut time-to-exploit from years to hours. Why defense now has to happen at runtime.
 
 URL:
-https://www.cybersecuritydive.com/news/russia-threat-actor-western-organizations-Zimbra-phishing/826029/
+https://www.cybersecuritydive.com/spons/in-the-mythos-era-security-belongs-at-runtime/825478/
+
+------------------------------------------------------------
+
+Title:
+What the Trojan horse gets right (and wrong) about AI security
+
+Published:
+2026-07-27 09:00 UTC
+
+Summary:
+Agentic AI didn't invent new risk. It removed the friction that used to keep environments in check.
+
+URL:
+https://www.cybersecuritydive.com/spons/what-the-trojan-horse-gets-right-and-wrong-about-ai-security/825935/
 
 ------------------------------------------------------------
 
@@ -656,50 +672,33 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Email threat landscape: Q2 2026 trends and insights
+Rethinking security for the age of AI
 
 Published:
-2026-07-23 15:00 UTC
+2026-07-27 16:40 UTC
 
 Summary:
-In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/">Email threat landscape: Q2 2026 trends and insights</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+The physics of cybersecurity are changing. Introducing security's new cyber stack: Project Perception.
+The post <a href="https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/">Rethinking security for the age of AI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/
+https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/
 
 ------------------------------------------------------------
 
 Title:
-Real world incident response: Microsoft and AXA XL strengthen cyber resilience
+Enhancing AI security through global AI red teaming
 
 Published:
-2026-07-22 16:00 UTC
+2026-07-27 16:25 UTC
 
 Summary:
-Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/">Real world incident response: Microsoft and AXA XL strengthen cyber resilience</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilience of frontier AI systems.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/">Enhancing AI security through global AI red teaming</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/
-
-------------------------------------------------------------
-
-Title:
-Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks
-
-Published:
-2026-07-17 16:00 UTC
-
-Summary:
-Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/">Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/
+https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/
 
 ------------------------------------------------------------
 
