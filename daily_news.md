@@ -1,94 +1,96 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-28 04:37 UTC_
+_Last run: 2026-07-29 04:41 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework
+Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js
 
 Published:
-2026-07-27 18:10 UTC
+2026-07-29 04:20 UTC
 
 Summary:
-NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.
+Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.
 
-The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux
+The list of affected packages is as follows -
+
+
+  @joyfill/layouts@0.1.2-2773.beta.0
+  @joyfill/components@4.0.0-rc24-2773-beta.4
+
+The two packages "contain an import-time JavaScript implant that resolves encrypted code
 
 URL:
-https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html
+https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html
 
 ------------------------------------------------------------
 
 Title:
-Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption
+Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack
 
 Published:
-2026-07-27 17:16 UTC
+2026-07-28 18:59 UTC
 
 Summary:
-Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt.
+Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.
 
-CNCERT, China's national computer emergency response team, and XLab, the threat-intelligence lab of Chinese
+The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server
 
 URL:
-https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html
+https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html
 
 ------------------------------------------------------------
 
 Title:
-Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw
+Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process
 
 Published:
-2026-07-27 14:40 UTC
+2026-07-28 15:01 UTC
 
 Summary:
-Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user.
+A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.
 
-SSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version
+If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force.
+
+Tengu supports 25 distributed denial-of-service (
 
 URL:
-https://thehackernews.com/2026/07/public-exploit-released-for-patched.html
+https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html
 
 ------------------------------------------------------------
 
 Title:
-⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More
+24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login
 
 Published:
-2026-07-27 14:10 UTC
+2026-07-28 14:41 UTC
 
 Summary:
-Monday starts with the usual promise that everything is under control. Then the logs wake up.
+Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet.
 
-This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped.
-
-That is the mood. Here is the full recap.
-
-⚡ Threat of the Week
-
-OpenAI Says Its AI Agent Went Rogue
+Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to
 
 URL:
-https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html
+https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html
 
 ------------------------------------------------------------
 
 Title:
-n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process
+JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach
 
 Published:
-2026-07-27 13:05 UTC
+2026-07-28 13:33 UTC
 
 Summary:
-n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass.
+JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.
 
-The affected ranges are &lt;2.31.5 and &gt;=2.32.0,&lt;2.32.1. n8n fixed the flaw in versions 2.31.5 and
+Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud
 
 URL:
-https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html
+https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html
 
 ------------------------------------------------------------
 
@@ -97,78 +99,120 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers target US firms in FastJson RCE zero-day attacks
+CubePilot drone software dev hit by DNS hijacking to intercept traffic
 
 Published:
-2026-07-27 23:49 UTC
+2026-07-28 21:17 UTC
 
 Summary:
-Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]
+CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/
+https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/
 
 ------------------------------------------------------------
 
 Title:
-Arista patches VeloCloud Orchestrator zero-day exploited in attacks
+OpenAI models used Artifactory zero-days to escape to the internet
 
 Published:
-2026-07-27 22:49 UTC
+2026-07-28 20:37 UTC
 
 Summary:
-Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]
+JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/
+https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/
 
 ------------------------------------------------------------
 
 Title:
-New Dysphoria DDoS botnet spreads to 200k devices worldwide
+CISA shares advice on isolating vital systems during cyberattacks
 
 Published:
-2026-07-27 21:08 UTC
+2026-07-28 18:41 UTC
 
 Summary:
-A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]
+The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/
+https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/
 
 ------------------------------------------------------------
 
 Title:
-New Certighost PoC exploit lets attackers hijack Windows domains
+vBulletin fixes critical pre-auth RCE flaw with public exploit
 
 Published:
-2026-07-27 21:00 UTC
+2026-07-28 18:08 UTC
 
 Summary:
-A proof-of-concept exploit for "Certighost," a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]
+A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/
+https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/
 
 ------------------------------------------------------------
 
 Title:
-Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin
+Is Your SSO Protected Against Modern Credential Attacks?
 
 Published:
-2026-07-27 17:29 UTC
+2026-07-28 14:00 UTC
 
 Summary:
-Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]
+A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/
+https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Authorities investigating a coordinated cyberattack against Minnesota water systems
+
+Published:
+2026-07-28 21:20 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/edg5S-WYicOKe-zq4UrV552d74kOEI4zkjOgLyGv4Kg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjIxNTMyOTY3XzEuanBn.webp" /></div></figure>The two-day attack comes days after federal officials warned of state-linked threat groups targeting a wider set of industrial devices.
+
+URL:
+https://www.cybersecuritydive.com/news/authorities-investigating-a-coordinated-cyberattack-against-minnesota-water/826427/
+
+------------------------------------------------------------
+
+Title:
+Microsoft launches agentic security platform designed to combat AI-based attacks
+
+Published:
+2026-07-28 15:12 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>The rollout comes amid growing concerns about the ability of hackers to launch campaigns using autonomous methods. 
+
+URL:
+https://www.cybersecuritydive.com/news/microsoft-agentic-security-platform-ai-attacks/826365/
+
+------------------------------------------------------------
+
+Title:
+Companies fear AI risks more than common cybersecurity threats
+
+Published:
+2026-07-28 14:27 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/uUgyhFbWMkfmwVUYCYUghryNWcLsa95yQjgiEnDPEeI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTU5NDY0NjIuanBn.webp" /></div></figure>That misprioritization could blind companies to the threats they should be focusing on, Arctic Wolf said in a new report.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-cybersecurity-threats-business-fears/826352/
+
+------------------------------------------------------------
 
 Title:
 Coca-Cola restores most production capacity at dairy unit after ransomware attack
@@ -195,34 +239,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/ai-open-source-weights-tech-industry-promote/826240/
-
-------------------------------------------------------------
-
-Title:
-In the Mythos era, security belongs at runtime
-
-Published:
-2026-07-27 09:00 UTC
-
-Summary:
-Frontier AI cut time-to-exploit from years to hours. Why defense now has to happen at runtime.
-
-URL:
-https://www.cybersecuritydive.com/spons/in-the-mythos-era-security-belongs-at-runtime/825478/
-
-------------------------------------------------------------
-
-Title:
-What the Trojan horse gets right (and wrong) about AI security
-
-Published:
-2026-07-27 09:00 UTC
-
-Summary:
-Agentic AI didn't invent new risk. It removed the friction that used to keep environments in check.
-
-URL:
-https://www.cybersecuritydive.com/spons/what-the-trojan-horse-gets-right-and-wrong-about-ai-security/825935/
 
 ------------------------------------------------------------
 
@@ -293,47 +309,17 @@ https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Don’t swing at everything
+IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains
 
 Published:
-2026-07-23 18:00 UTC
+2026-07-28 10:00 UTC
 
 Summary:
-Thorsten explores Q2 2026 stats, the artificial buffer zone of 2026, and why smart, prioritized patching is more critical than ever.
+Talos IR's Q2 report highlights a significant surge in phishing-based initial access and the weaponization of legitimate remote management tools. Learn how to sharpen your defenses.
 
 URL:
-https://blog.talosintelligence.com/dont-swing-at-everything/
-
-------------------------------------------------------------
-
-Title:
-Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel
-
-Published:
-2026-07-23 10:00 UTC
-
-Summary:
-The Chaos ransomware group uses new malware "msaRAT" that hijacks browsers. The malware doesn't communicate directly with C2 but connects through the browser. It enables arbitrary command execution while hiding the attacker's IP from victims via WebRTC over TURN.
-
-URL:
-https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/
-
-------------------------------------------------------------
-
-Title:
-Preview: Cisco Talos at Black Hat USA 2026
-
-Published:
-2026-07-23 10:00 UTC
-
-Summary:
-Here’s some of the ways Talos is showing up at Black Hat, alongside our friends at Cisco and Splunk.
-
-URL:
-https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/
+https://blog.talosintelligence.com/ir-trends-q2-2026/
 
 ------------------------------------------------------------
 
