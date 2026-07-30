@@ -1,96 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-29 04:41 UTC_
+_Last run: 2026-07-30 04:28 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js
+Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
 
 Published:
-2026-07-29 04:20 UTC
+2026-07-29 18:10 UTC
 
 Summary:
-Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.
+Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.
 
-The list of affected packages is as follows -
-
-
-  @joyfill/layouts@0.1.2-2773.beta.0
-  @joyfill/components@4.0.0-rc24-2773-beta.4
-
-The two packages "contain an import-time JavaScript implant that resolves encrypted code
+Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,
 
 URL:
-https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html
+https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html
 
 ------------------------------------------------------------
 
 Title:
-Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack
+Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory
 
 Published:
-2026-07-28 18:59 UTC
+2026-07-29 15:39 UTC
 
 Summary:
-Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.
+Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.
 
-The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server
+The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's
 
 URL:
-https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html
+https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html
 
 ------------------------------------------------------------
 
 Title:
-Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process
+Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape
 
 Published:
-2026-07-28 15:01 UTC
+2026-07-29 15:31 UTC
 
 Summary:
-A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.
+Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.
 
-If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force.
+The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter.
 
-Tengu supports 25 distributed denial-of-service (
+"A malicious actor with network access to vCenter
 
 URL:
-https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html
+https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html
 
 ------------------------------------------------------------
 
 Title:
-24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login
+Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline
 
 Published:
-2026-07-28 14:41 UTC
+2026-07-29 13:48 UTC
 
 Summary:
-Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet.
+A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.
 
-Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to
+Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.
+
+Braham's water plant went offline, and the city asked residents to minimize
 
 URL:
-https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html
+https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html
 
 ------------------------------------------------------------
 
 Title:
-JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach
+Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments
 
 Published:
-2026-07-28 13:33 UTC
+2026-07-29 13:42 UTC
 
 Summary:
-JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.
+Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.
 
-Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud
+According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies
 
 URL:
-https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html
+https://thehackernews.com/2026/07/nine-year-fraud-campaign.html
 
 ------------------------------------------------------------
 
@@ -99,78 +95,92 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-CubePilot drone software dev hit by DNS hijacking to intercept traffic
+Russian hackers exploit Exchange OWA zero-day for long-term mailbox access
 
 Published:
-2026-07-28 21:17 UTC
+2026-07-29 23:44 UTC
 
 Summary:
-CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]
+The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/
+https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI models used Artifactory zero-days to escape to the internet
+Anthropic confirms Claude is down worldwide
 
 Published:
-2026-07-28 20:37 UTC
+2026-07-29 21:39 UTC
 
 Summary:
-JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]
+Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a "529 Overloaded" message, including in Claude and tools that rely on its API. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/
 
 ------------------------------------------------------------
 
 Title:
-CISA shares advice on isolating vital systems during cyberattacks
+Cisco warns of FMC static credential flaw exploited in zero-day attacks
 
 Published:
-2026-07-28 18:41 UTC
+2026-07-29 21:35 UTC
 
 Summary:
-The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]
+Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/
+https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/
 
 ------------------------------------------------------------
 
 Title:
-vBulletin fixes critical pre-auth RCE flaw with public exploit
+Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare
 
 Published:
-2026-07-28 18:08 UTC
+2026-07-29 17:54 UTC
 
 Summary:
-A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]
+Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/
+https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/
 
 ------------------------------------------------------------
 
 Title:
-Is Your SSO Protected Against Modern Credential Attacks?
+OpenAI agent used exposed credentials at 4 services in Hugging Face breach
 
 Published:
-2026-07-28 14:00 UTC
+2026-07-29 16:04 UTC
 
 Summary:
-A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]
+In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/
+https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+As data breaches grow costlier, ungoverned AI creates new risks
+
+Published:
+2026-07-29 14:18 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/mGLMd9ZXyPlefun5bLb6wm2QkQKUuXUBCDY1E-9Gvm4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9icmVhY2hfLmpwZw==.webp" /></div></figure>Meanwhile, many companies still aren&rsquo;t doing the basics to protect on-premises data, IBM found.
+
+URL:
+https://www.cybersecuritydive.com/news/data-breach-costs-ai-governance-ibm/826463/
+
+------------------------------------------------------------
 
 Title:
 Authorities investigating a coordinated cyberattack against Minnesota water systems
@@ -211,34 +221,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/ai-cybersecurity-threats-business-fears/826352/
-
-------------------------------------------------------------
-
-Title:
-Coca-Cola restores most production capacity at dairy unit after ransomware attack
-
-Published:
-2026-07-27 15:15 UTC
-
-Summary:
-The company said it does not expect the Fairlife disruption to have a material impact on financial performance or operations. 
-
-URL:
-https://www.cybersecuritydive.com/news/coca-cola-restores-most-production-capacity-at-dairy-unit-after-ransomware/826250/
-
-------------------------------------------------------------
-
-Title:
-Tech industry giants say US must embrace openness, transparency in AI
-
-Published:
-2026-07-27 14:44 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ck4RQvjpGSvGkZupe3GhVIvt5MrsX1rZg9-3ocs1B14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjAzMTgxNDM4LmpwZw==.webp" /></div></figure>Open-source and open-weight AI models are essential cybersecurity tools, two groups of major AI and security firms said.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-open-source-weights-tech-industry-promote/826240/
 
 ------------------------------------------------------------
 
@@ -659,32 +641,17 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-Rethinking security for the age of AI
+​​Better security starts with better questions
 
 Published:
-2026-07-27 16:40 UTC
+2026-07-29 16:00 UTC
 
 Summary:
-The physics of cybersecurity are changing. Introducing security's new cyber stack: Project Perception.
-The post <a href="https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/">Rethinking security for the age of AI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/">​​Better security starts with better questions</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/
-
-------------------------------------------------------------
-
-Title:
-Enhancing AI security through global AI red teaming
-
-Published:
-2026-07-27 16:25 UTC
-
-Summary:
-Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilience of frontier AI systems.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/">Enhancing AI security through global AI red teaming</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/
+https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/
 
 ------------------------------------------------------------
 
