@@ -1,92 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-30 04:28 UTC_
+_Last run: 2026-07-31 04:23 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
+DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware
 
 Published:
-2026-07-29 18:10 UTC
+2026-07-30 18:18 UTC
 
 Summary:
-Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.
+Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign.
 
-Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,
+The defining aspect of the attack is that bogus macOS software update screen stealthily
 
 URL:
-https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html
+https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html
 
 ------------------------------------------------------------
 
 Title:
-Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory
+ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories
 
 Published:
-2026-07-29 15:39 UTC
+2026-07-30 15:25 UTC
 
 Summary:
-Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.
+A lot of security still comes down to trusting the wrong screen.
 
-The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's
+This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder.
+
+Some defenses improved. The loose parts still got found first. Anyway,
 
 URL:
-https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html
+https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html
 
 ------------------------------------------------------------
 
 Title:
-Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape
+Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database
 
 Published:
-2026-07-29 15:31 UTC
+2026-07-30 13:34 UTC
 
 Summary:
-Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.
+A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.
 
-The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter.
-
-"A malicious actor with network access to vCenter
+Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a
 
 URL:
-https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html
+https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html
 
 ------------------------------------------------------------
 
 Title:
-Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline
+Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents
 
 Published:
-2026-07-29 13:48 UTC
+2026-07-30 11:54 UTC
 
 Summary:
-A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.
+Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft.
 
-Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.
+In his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session.
 
-Braham's water plant went offline, and the city asked residents to minimize
+Måløy's
 
 URL:
-https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html
+https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html
 
 ------------------------------------------------------------
 
 Title:
-Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments
+The Network Has Become the Control Plane for AI Security
 
 Published:
-2026-07-29 13:42 UTC
+2026-07-30 11:32 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.
-
-According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies
+Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls
 
 URL:
-https://thehackernews.com/2026/07/nine-year-fraud-campaign.html
+https://thehackernews.com/2026/07/the-network-has-become-control-plane.html
 
 ------------------------------------------------------------
 
@@ -95,78 +93,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Russian hackers exploit Exchange OWA zero-day for long-term mailbox access
+Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests
 
 Published:
-2026-07-29 23:44 UTC
+2026-07-31 00:57 UTC
 
 Summary:
-The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]
+One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/
+https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/
 
 ------------------------------------------------------------
 
 Title:
-Anthropic confirms Claude is down worldwide
+South Korea fines telco giant KT $39 million for customer data breach
 
 Published:
-2026-07-29 21:39 UTC
+2026-07-30 22:28 UTC
 
 Summary:
-Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a "529 Overloaded" message, including in Claude and tools that rely on its API. [...]
+South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/
+https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/
 
 ------------------------------------------------------------
 
 Title:
-Cisco warns of FMC static credential flaw exploited in zero-day attacks
+JetBrains warns of critical TeamCity remote code execution flaw
 
 Published:
-2026-07-29 21:35 UTC
+2026-07-30 22:01 UTC
 
 Summary:
-Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]
+JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/
+https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/
 
 ------------------------------------------------------------
 
 Title:
-Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare
+Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers
 
 Published:
-2026-07-29 17:54 UTC
+2026-07-30 18:13 UTC
 
 Summary:
-Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]
+Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/
+https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI agent used exposed credentials at 4 services in Hugging Face breach
+VMware fixes three critical flaws allowing auth bypass, VM escapes
 
 Published:
-2026-07-29 16:04 UTC
+2026-07-30 18:00 UTC
 
 Summary:
-In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]
+Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/
+https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Hackers abuse Microsoft Teams in ransomware campaign through fake IT support
+
+Published:
+2026-07-30 14:52 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/l0_6iR6xLuWVBUPxZYjHJmqwMnvYTB3SKYv8Gp3RLjA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyc29mdC1ibGRnLmpwZw==.webp" /></div></figure>Researchers said dozens of US and Canadian firms have been targeted, however, the motivation appears to be financial rather than espionage.
+
+URL:
+https://www.cybersecuritydive.com/news/hackers-microsoft-teams-ransomware-it-support/826591/
+
+------------------------------------------------------------
+
+Title:
+Shadow AI, leadership resistance make AI governance tough for worried CISOs
+
+Published:
+2026-07-30 14:38 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/DufHhWiyh926JrZVAlWZmWSE74dpOcrcJou0UFa8zQs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0MDgxOTk4X1hKeDlGWlQuanBn.webp" /></div></figure>Fewer than half of CISOs think their bosses see AI security as a business enabler, according to an Okta survey.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-governance-shadow-cisos-okta/826587/
+
+------------------------------------------------------------
 
 Title:
 As data breaches grow costlier, ungoverned AI creates new risks
@@ -179,48 +205,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/data-breach-costs-ai-governance-ibm/826463/
-
-------------------------------------------------------------
-
-Title:
-Authorities investigating a coordinated cyberattack against Minnesota water systems
-
-Published:
-2026-07-28 21:20 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/edg5S-WYicOKe-zq4UrV552d74kOEI4zkjOgLyGv4Kg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjIxNTMyOTY3XzEuanBn.webp" /></div></figure>The two-day attack comes days after federal officials warned of state-linked threat groups targeting a wider set of industrial devices.
-
-URL:
-https://www.cybersecuritydive.com/news/authorities-investigating-a-coordinated-cyberattack-against-minnesota-water/826427/
-
-------------------------------------------------------------
-
-Title:
-Microsoft launches agentic security platform designed to combat AI-based attacks
-
-Published:
-2026-07-28 15:12 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>The rollout comes amid growing concerns about the ability of hackers to launch campaigns using autonomous methods. 
-
-URL:
-https://www.cybersecuritydive.com/news/microsoft-agentic-security-platform-ai-attacks/826365/
-
-------------------------------------------------------------
-
-Title:
-Companies fear AI risks more than common cybersecurity threats
-
-Published:
-2026-07-28 14:27 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/uUgyhFbWMkfmwVUYCYUghryNWcLsa95yQjgiEnDPEeI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTU5NDY0NjIuanBn.webp" /></div></figure>That misprioritization could blind companies to the threats they should be focusing on, Arctic Wolf said in a new report.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-cybersecurity-threats-business-fears/826352/
 
 ------------------------------------------------------------
 
@@ -240,50 +224,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Russian Global Webmail Espionage
+Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks
 
 Published:
-2026-07-23 14:10 UTC
+2026-07-30 10:00 UTC
 
 Summary:
-Unit 42 details a Russian cyberespionage campaign targeting  Zimbra webmail servers using JavaScript injection to steal credentials.
-The post <a href="https://unit42.paloaltonetworks.com/russian-webmail-espionage/">Russian Global Webmail Espionage</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 details a Chinese speaking threat actor combining autonomous AI scanning across seven vulnerabilities with manual exploitation. Read more.
+The post <a href="https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/">Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/russian-webmail-espionage/
-
-------------------------------------------------------------
-
-Title:
-Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy
-
-Published:
-2026-07-17 10:00 UTC
-
-Summary:
-A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access.
-The post <a href="https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/">Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/
-
-------------------------------------------------------------
-
-Title:
-AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report
-
-Published:
-2026-07-16 23:00 UTC
-
-Summary:
-Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.
-The post <a href="https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/
+https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
 
 ------------------------------------------------------------
 
@@ -292,16 +244,30 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains
+You were onto something with “It’s the Climb,” Miley
 
 Published:
-2026-07-28 10:00 UTC
+2026-07-30 18:00 UTC
 
 Summary:
-Talos IR's Q2 report highlights a significant surge in phishing-based initial access and the weaponization of legitimate remote management tools. Learn how to sharpen your defenses.
+Amy hikes Virginia’s most difficult trail and muses on the persistent challenges of cybersecurity. The two aren't dissimilar.
 
 URL:
-https://blog.talosintelligence.com/ir-trends-q2-2026/
+https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/
+
+------------------------------------------------------------
+
+Title:
+Black Hat special: Rewind and revisit
+
+Published:
+2026-07-30 10:00 UTC
+
+Summary:
+Amy looks back at the incredible journeys that brought past guests to the world of threat intelligence.
+
+URL:
+https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/
 
 ------------------------------------------------------------
 
@@ -639,6 +605,21 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 ============================================================
 SOURCE : Microsoft Security Blog
 ============================================================
+
+Title:
+​​​​What’s new in Microsoft Security: July 2026
+
+Published:
+2026-07-30 16:00 UTC
+
+Summary:
+This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/">​​​​What’s new in Microsoft Security: July 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/
+
+------------------------------------------------------------
 
 Title:
 ​​Better security starts with better questions
