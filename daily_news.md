@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-07-31 04:53 UTC_
+_Last run: 2026-08-01 04:46 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware
+Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk
 
 Published:
-2026-07-30 18:18 UTC
+2026-07-31 18:52 UTC
 
 Summary:
-Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign.
+A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025.
 
-The defining aspect of the attack is that bogus macOS software update screen stealthily
+These targeted organizations operate across several sectors, such as healthcare, research, government offices,
 
 URL:
-https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html
+https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories
+HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm
 
 Published:
-2026-07-30 15:25 UTC
+2026-07-31 16:39 UTC
 
 Summary:
-A lot of security still comes down to trusting the wrong screen.
+Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.
 
-This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder.
-
-Some defenses improved. The loose parts still got found first. Anyway,
+According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that
 
 URL:
-https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html
+https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html
 
 ------------------------------------------------------------
 
 Title:
-Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database
+Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies
 
 Published:
-2026-07-30 13:34 UTC
+2026-07-31 14:45 UTC
 
 Summary:
-A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.
+Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.
 
-Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a
+Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019.
+
+The same apps have a second job. When a box
 
 URL:
-https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html
+https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html
 
 ------------------------------------------------------------
 
 Title:
-Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents
+Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined
 
 Published:
-2026-07-30 11:54 UTC
+2026-07-31 12:51 UTC
 
 Summary:
-Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft.
+Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.
 
-In his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session.
-
-Måløy's
+Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant resolved 370 flaws, out of which 349 were reported by Google itself. Seven of the
 
 URL:
-https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html
+https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html
 
 ------------------------------------------------------------
 
 Title:
-The Network Has Become the Control Plane for AI Security
+Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw
 
 Published:
-2026-07-30 11:32 UTC
+2026-07-31 11:55 UTC
 
 Summary:
-Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls
+An academic study has disclosed a "widespread class" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session.
+
+The findings have been released by a group of researchers from Singapore's Nanyang Technological University
 
 URL:
-https://thehackernews.com/2026/07/the-network-has-become-control-plane.html
+https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html
 
 ------------------------------------------------------------
 
@@ -93,78 +93,92 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests
+Amgen says cloud data breach exposed patient health, proprietary info
 
 Published:
-2026-07-31 00:57 UTC
+2026-07-31 22:16 UTC
 
 Summary:
-One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]
+Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/
+https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/
 
 ------------------------------------------------------------
 
 Title:
-South Korea fines telco giant KT $39 million for customer data breach
+Arch Linux disables AUR package adoption to stop malware flood
 
 Published:
-2026-07-30 22:28 UTC
+2026-07-31 21:38 UTC
 
 Summary:
-South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]
+The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/
+https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/
 
 ------------------------------------------------------------
 
 Title:
-JetBrains warns of critical TeamCity remote code execution flaw
+Online ad firm Adform’s script compromised to steal cryptocurrency
 
 Published:
-2026-07-30 22:01 UTC
+2026-07-31 21:09 UTC
 
 Summary:
-JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]
+Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/
+https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/
 
 ------------------------------------------------------------
 
 Title:
-Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers
+OpenAI says its new GPT 5.6 models are becoming more cost-efficient
 
 Published:
-2026-07-30 18:13 UTC
+2026-07-31 18:52 UTC
 
 Summary:
-Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]
+OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/
 
 ------------------------------------------------------------
 
 Title:
-VMware fixes three critical flaws allowing auth bypass, VM escapes
+Hacker uses DeepSeek AI to autonomously attack vulnerable servers
 
 Published:
-2026-07-30 18:00 UTC
+2026-07-31 17:35 UTC
 
 Summary:
-Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]
+A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/
+https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Anthropic says human error let Claude AI models escape test environment and hack third parties
+
+Published:
+2026-07-31 15:29 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/b56r_eBroAFODQosqPrSA5K22cdIRQrX3dPvdM5d0qc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczODg4XzIycGV4V0IuanBn.webp" /></div></figure>The company said its discovery, which followed OpenAI&rsquo;s similar admission, proved the need for better testing guardrails.
+
+URL:
+https://www.cybersecuritydive.com/news/anthropic-claude-ai-hacking-test/826708/
+
+------------------------------------------------------------
 
 Title:
 Hackers abuse Microsoft Teams in ransomware campaign through fake IT support
@@ -194,20 +208,6 @@ https://www.cybersecuritydive.com/news/ai-governance-shadow-cisos-okta/826587/
 
 ------------------------------------------------------------
 
-Title:
-As data breaches grow costlier, ungoverned AI creates new risks
-
-Published:
-2026-07-29 14:18 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/mGLMd9ZXyPlefun5bLb6wm2QkQKUuXUBCDY1E-9Gvm4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9icmVhY2hfLmpwZw==.webp" /></div></figure>Meanwhile, many companies still aren&rsquo;t doing the basics to protect on-premises data, IBM found.
-
-URL:
-https://www.cybersecuritydive.com/news/data-breach-costs-ai-governance-ibm/826463/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -223,6 +223,21 @@ SOURCE : CISA
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+Title:
+The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version
+
+Published:
+2026-07-31 10:00 UTC
+
+Summary:
+Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 used advanced pattern matching and AI to decode its logic.
+The post <a href="https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/">The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/
+
+------------------------------------------------------------
 
 Title:
 Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks
@@ -607,6 +622,21 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
+CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft
+
+Published:
+2026-07-31 21:01 UTC
+
+Summary:
+Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/">CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/
+
+------------------------------------------------------------
+
+Title:
 ​​​​What’s new in Microsoft Security: July 2026
 
 Published:
@@ -618,21 +648,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/30/whats
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/
-
-------------------------------------------------------------
-
-Title:
-​​Better security starts with better questions
-
-Published:
-2026-07-29 16:00 UTC
-
-Summary:
-Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/">​​Better security starts with better questions</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/
 
 ------------------------------------------------------------
 
