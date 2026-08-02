@@ -1,10 +1,78 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-01 04:46 UTC_
+_Last run: 2026-08-02 04:48 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
+
+Title:
+Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes
+
+Published:
+2026-08-01 17:17 UTC
+
+Summary:
+An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite.
+
+A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG
+
+URL:
+https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html
+
+------------------------------------------------------------
+
+Title:
+Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites
+
+Published:
+2026-08-01 09:03 UTC
+
+Summary:
+Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.
+
+Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities.
+
+Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,
+
+URL:
+https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html
+
+------------------------------------------------------------
+
+Title:
+Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction
+
+Published:
+2026-08-01 07:12 UTC
+
+Summary:
+Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.
+
+The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system.
+
+It has been described as a case of incorrect authorization that could result in
+
+URL:
+https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html
+
+------------------------------------------------------------
+
+Title:
+Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware
+
+Published:
+2026-08-01 06:29 UTC
+
+Summary:
+A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report.
+
+Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as
+
+URL:
+https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html
+
+------------------------------------------------------------
 
 Title:
 Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk
@@ -22,75 +90,23 @@ https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html
 
 ------------------------------------------------------------
 
-Title:
-HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm
-
-Published:
-2026-07-31 16:39 UTC
-
-Summary:
-Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.
-
-According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that
-
-URL:
-https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html
-
-------------------------------------------------------------
-
-Title:
-Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies
-
-Published:
-2026-07-31 14:45 UTC
-
-Summary:
-Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.
-
-Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019.
-
-The same apps have a second job. When a box
-
-URL:
-https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html
-
-------------------------------------------------------------
-
-Title:
-Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined
-
-Published:
-2026-07-31 12:51 UTC
-
-Summary:
-Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.
-
-Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant resolved 370 flaws, out of which 349 were reported by Google itself. Seven of the
-
-URL:
-https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html
-
-------------------------------------------------------------
-
-Title:
-Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw
-
-Published:
-2026-07-31 11:55 UTC
-
-Summary:
-An academic study has disclosed a "widespread class" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session.
-
-The findings have been released by a group of researchers from Singapore's Nanyang Technological University
-
-URL:
-https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Rails patches critical Active Storage flaw with RCE potential
+
+Published:
+2026-08-01 14:20 UTC
+
+Summary:
+A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/
+
+------------------------------------------------------------
 
 Title:
 Amgen says cloud data breach exposed patient health, proprietary info
@@ -148,20 +164,6 @@ https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-ne
 
 ------------------------------------------------------------
 
-Title:
-Hacker uses DeepSeek AI to autonomously attack vulnerable servers
-
-Published:
-2026-07-31 17:35 UTC
-
-Summary:
-A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
@@ -177,34 +179,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/anthropic-claude-ai-hacking-test/826708/
-
-------------------------------------------------------------
-
-Title:
-Hackers abuse Microsoft Teams in ransomware campaign through fake IT support
-
-Published:
-2026-07-30 14:52 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/l0_6iR6xLuWVBUPxZYjHJmqwMnvYTB3SKYv8Gp3RLjA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyc29mdC1ibGRnLmpwZw==.webp" /></div></figure>Researchers said dozens of US and Canadian firms have been targeted, however, the motivation appears to be financial rather than espionage.
-
-URL:
-https://www.cybersecuritydive.com/news/hackers-microsoft-teams-ransomware-it-support/826591/
-
-------------------------------------------------------------
-
-Title:
-Shadow AI, leadership resistance make AI governance tough for worried CISOs
-
-Published:
-2026-07-30 14:38 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/DufHhWiyh926JrZVAlWZmWSE74dpOcrcJou0UFa8zQs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0MDgxOTk4X1hKeDlGWlQuanBn.webp" /></div></figure>Fewer than half of CISOs think their bosses see AI security as a business enabler, according to an Okta survey.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-governance-shadow-cisos-okta/826587/
 
 ------------------------------------------------------------
 
@@ -239,24 +213,11 @@ https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/
 
 ------------------------------------------------------------
 
-Title:
-Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks
-
-Published:
-2026-07-30 10:00 UTC
-
-Summary:
-Unit 42 details a Chinese speaking threat actor combining autonomous AI scanning across seven vulnerabilities with manual exploitation. Read more.
-The post <a href="https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/">Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 You were onto something with “It’s the Climb,” Miley
@@ -283,6 +244,20 @@ Amy looks back at the incredible journeys that brought past guests to the world 
 
 URL:
 https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/
+
+------------------------------------------------------------
+
+Title:
+IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains
+
+Published:
+2026-07-28 10:00 UTC
+
+Summary:
+Talos IR's Q2 report highlights a significant surge in phishing-based initial access and the weaponization of legitimate remote management tools. Learn how to sharpen your defenses.
+
+URL:
+https://blog.talosintelligence.com/ir-trends-q2-2026/
 
 ------------------------------------------------------------
 
@@ -633,21 +608,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/31/capti
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/
-
-------------------------------------------------------------
-
-Title:
-​​​​What’s new in Microsoft Security: July 2026
-
-Published:
-2026-07-30 16:00 UTC
-
-Summary:
-This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/">​​​​What’s new in Microsoft Security: July 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/
 
 ------------------------------------------------------------
 
