@@ -1,6 +1,6 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-02 04:48 UTC_
+_Last run: 2026-08-03 04:58 UTC_
 
 ============================================================
 SOURCE : The Hacker News
@@ -74,25 +74,51 @@ https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html
 
 ------------------------------------------------------------
 
-Title:
-Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk
-
-Published:
-2026-07-31 18:52 UTC
-
-Summary:
-A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025.
-
-These targeted organizations operate across several sectors, such as healthcare, research, government offices,
-
-URL:
-https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems
+
+Published:
+2026-08-02 22:31 UTC
+
+Summary:
+OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/
+
+------------------------------------------------------------
+
+Title:
+COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft
+
+Published:
+2026-08-02 21:14 UTC
+
+Summary:
+A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/
+
+------------------------------------------------------------
+
+Title:
+Google Chrome may soon block New Tab hijacker extensions by default
+
+Published:
+2026-08-02 14:17 UTC
+
+Summary:
+Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/
+
+------------------------------------------------------------
 
 Title:
 Rails patches critical Active Storage flaw with RCE potential
@@ -108,65 +134,11 @@ https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-sto
 
 ------------------------------------------------------------
 
-Title:
-Amgen says cloud data breach exposed patient health, proprietary info
-
-Published:
-2026-07-31 22:16 UTC
-
-Summary:
-Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/
-
-------------------------------------------------------------
-
-Title:
-Arch Linux disables AUR package adoption to stop malware flood
-
-Published:
-2026-07-31 21:38 UTC
-
-Summary:
-The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/
-
-------------------------------------------------------------
-
-Title:
-Online ad firm Adform’s script compromised to steal cryptocurrency
-
-Published:
-2026-07-31 21:09 UTC
-
-Summary:
-Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/
-
-------------------------------------------------------------
-
-Title:
-OpenAI says its new GPT 5.6 models are becoming more cost-efficient
-
-Published:
-2026-07-31 18:52 UTC
-
-Summary:
-OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Anthropic says human error let Claude AI models escape test environment and hack third parties
@@ -179,6 +151,34 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/anthropic-claude-ai-hacking-test/826708/
+
+------------------------------------------------------------
+
+Title:
+Hackers abuse Microsoft Teams in ransomware campaign through fake IT support
+
+Published:
+2026-07-30 14:52 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/l0_6iR6xLuWVBUPxZYjHJmqwMnvYTB3SKYv8Gp3RLjA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyc29mdC1ibGRnLmpwZw==.webp" /></div></figure>Researchers said dozens of US and Canadian firms have been targeted, however, the motivation appears to be financial rather than espionage.
+
+URL:
+https://www.cybersecuritydive.com/news/hackers-microsoft-teams-ransomware-it-support/826591/
+
+------------------------------------------------------------
+
+Title:
+Shadow AI, leadership resistance make AI governance tough for worried CISOs
+
+Published:
+2026-07-30 14:38 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/DufHhWiyh926JrZVAlWZmWSE74dpOcrcJou0UFa8zQs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0MDgxOTk4X1hKeDlGWlQuanBn.webp" /></div></figure>Fewer than half of CISOs think their bosses see AI security as a business enabler, according to an Okta survey.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-governance-shadow-cisos-okta/826587/
 
 ------------------------------------------------------------
 
@@ -198,6 +198,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version
 
@@ -210,6 +212,36 @@ The post <a href="https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysi
 
 URL:
 https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/
+
+------------------------------------------------------------
+
+Title:
+Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks
+
+Published:
+2026-07-30 10:00 UTC
+
+Summary:
+Unit 42 details a Chinese speaking threat actor combining autonomous AI scanning across seven vulnerabilities with manual exploitation. Read more.
+The post <a href="https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/">Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
+
+------------------------------------------------------------
+
+Title:
+Russian Global Webmail Espionage
+
+Published:
+2026-07-23 14:10 UTC
+
+Summary:
+Unit 42 details a Russian cyberespionage campaign targeting  Zimbra webmail servers using JavaScript injection to steal credentials.
+The post <a href="https://unit42.paloaltonetworks.com/russian-webmail-espionage/">Russian Global Webmail Espionage</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/russian-webmail-espionage/
 
 ------------------------------------------------------------
 
@@ -596,6 +628,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft
 
@@ -608,6 +642,36 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/31/capti
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/
+
+------------------------------------------------------------
+
+Title:
+​​​​What’s new in Microsoft Security: July 2026
+
+Published:
+2026-07-30 16:00 UTC
+
+Summary:
+This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/">​​​​What’s new in Microsoft Security: July 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/
+
+------------------------------------------------------------
+
+Title:
+​​Better security starts with better questions
+
+Published:
+2026-07-29 16:00 UTC
+
+Summary:
+Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/">​​Better security starts with better questions</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/
 
 ------------------------------------------------------------
 
