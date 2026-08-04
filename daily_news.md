@@ -1,76 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-03 04:58 UTC_
+_Last run: 2026-08-04 04:19 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes
+18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users
 
 Published:
-2026-08-01 17:17 UTC
+2026-08-03 18:43 UTC
 
 Summary:
-An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite.
+Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments.
 
-A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG
+One of the packages in question is "lib-mtop," an unscoped package with the same name as a private Alibaba package
 
 URL:
-https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html
+https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html
 
 ------------------------------------------------------------
 
 Title:
-Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites
+Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
 
 Published:
-2026-08-01 09:03 UTC
+2026-08-03 16:24 UTC
 
 Summary:
-Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.
+Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.
 
-Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities.
-
-Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,
+Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key
 
 URL:
-https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html
+https://thehackernews.com/2026/08/google-password-manager-attacks-could.html
 
 ------------------------------------------------------------
 
 Title:
-Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction
+INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws
 
 Published:
-2026-08-01 07:12 UTC
+2026-08-03 16:15 UTC
 
 Summary:
-Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.
+The INC Ransomware operation has emerged as the "dominant threat actor" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.
 
-The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system.
-
-It has been described as a case of incorrect authorization that could result in
+In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per
 
 URL:
-https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html
+https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html
 
 ------------------------------------------------------------
 
 Title:
-Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware
+⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks
 
 Published:
-2026-08-01 06:29 UTC
+2026-08-03 14:03 UTC
 
 Summary:
-A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report.
+This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.
 
-Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as
+Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from
 
 URL:
-https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html
+https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html
+
+------------------------------------------------------------
+
+Title:
+FOMO in the SOC: Where AI Platforms like Claude Actually Fit
+
+Published:
+2026-08-03 11:30 UTC
+
+Summary:
+AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.
+
+AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value.
+
+With so many new AI
+
+URL:
+https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html
 
 ------------------------------------------------------------
 
@@ -79,58 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems
+Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts
 
 Published:
-2026-08-02 22:31 UTC
+2026-08-04 00:17 UTC
 
 Summary:
-OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]
+Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/
+https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/
 
 ------------------------------------------------------------
 
 Title:
-COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft
+New Pass-ta-key attacks let malware hijack Google-synced passkeys
 
 Published:
-2026-08-02 21:14 UTC
+2026-08-03 23:58 UTC
 
 Summary:
-A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]
+Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/
+https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/
 
 ------------------------------------------------------------
 
 Title:
-Google Chrome may soon block New Tab hijacker extensions by default
+New DOUBLECUP ClickFix service hides malware in browser cache images
 
 Published:
-2026-08-02 14:17 UTC
+2026-08-03 20:01 UTC
 
 Summary:
-Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]
+A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/
+https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/
 
 ------------------------------------------------------------
 
 Title:
-Rails patches critical Active Storage flaw with RCE potential
+Fake Roblox Xeno script launcher pushes infostealer, RAT malware
 
 Published:
-2026-08-01 14:20 UTC
+2026-08-03 19:25 UTC
 
 Summary:
-A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]
+Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/
+https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/
+
+------------------------------------------------------------
+
+Title:
+N-able warns of N-central auth bypass flaw exploited in attacks
+
+Published:
+2026-08-03 17:00 UTC
+
+Summary:
+N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/
 
 ------------------------------------------------------------
 
@@ -138,47 +166,45 @@ https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-sto
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Anthropic says human error let Claude AI models escape test environment and hack third parties
+OT security coalition urges Congress, CISA to enact reforms amid water sector hacks
 
 Published:
-2026-07-31 15:29 UTC
+2026-08-03 15:32 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/b56r_eBroAFODQosqPrSA5K22cdIRQrX3dPvdM5d0qc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczODg4XzIycGV4V0IuanBn.webp" /></div></figure>The company said its discovery, which followed OpenAI&rsquo;s similar admission, proved the need for better testing guardrails.
+<figure><div><img src="https://imgproxy.divecdn.com/gDu2KNrJi-KeXcwvyYb7loivSvffSovyW-3Iqc0rW5g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwODU4MDU2LmpwZw==.webp" /></div></figure>Iran-nexus hackers are suspected in a broad campaign targeting drinking and wastewater sites in at least seven U.S. states.
 
 URL:
-https://www.cybersecuritydive.com/news/anthropic-claude-ai-hacking-test/826708/
+https://www.cybersecuritydive.com/news/ot-security-coalition-congress-cisa-reforms-water/826791/
 
 ------------------------------------------------------------
 
 Title:
-Hackers abuse Microsoft Teams in ransomware campaign through fake IT support
+China-based hacker employs DeepSeek in autonomous threat campaign
 
 Published:
-2026-07-30 14:52 UTC
+2026-08-03 15:24 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/l0_6iR6xLuWVBUPxZYjHJmqwMnvYTB3SKYv8Gp3RLjA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyc29mdC1ibGRnLmpwZw==.webp" /></div></figure>Researchers said dozens of US and Canadian firms have been targeted, however, the motivation appears to be financial rather than espionage.
+<figure><div><img src="https://imgproxy.divecdn.com/88pXye_BonuI47zwYTyHKjgCMOWHWUSGp6wV3s7CPdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwLmpwZw==.webp" /></div></figure>Researchers said the hacker also attempted to test Western AI tools, but ultimately was forced to revert to manual operations to succeed. 
 
 URL:
-https://www.cybersecuritydive.com/news/hackers-microsoft-teams-ransomware-it-support/826591/
+https://www.cybersecuritydive.com/news/china-based-hacker-deepseek-autonomous/826784/
 
 ------------------------------------------------------------
 
 Title:
-Shadow AI, leadership resistance make AI governance tough for worried CISOs
+How volunteer cyber experts are helping protect rural water systems
 
 Published:
-2026-07-30 14:38 UTC
+2026-08-03 14:03 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/DufHhWiyh926JrZVAlWZmWSE74dpOcrcJou0UFa8zQs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0MDgxOTk4X1hKeDlGWlQuanBn.webp" /></div></figure>Fewer than half of CISOs think their bosses see AI security as a business enabler, according to an Okta survey.
+<figure><div><img src="https://imgproxy.divecdn.com/JADFScCEOwTdI-a0EMwmkuRmDDRlKdMpV7ch4HNw7cY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTMxMjc2LmpwZw==.webp" /></div></figure>A first-in-the-nation program is seeing promising results as it charts a path for supporting the U.S.&rsquo;s most vulnerable infrastructure.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-governance-shadow-cisos-okta/826587/
+https://www.cybersecuritydive.com/news/water-cybersecurity-def-con-franklin-outcomes/826517/
 
 ------------------------------------------------------------
 
@@ -198,50 +224,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version
+Pass the Passkey: A Novel Attack Surface in Passwordless Authentication
 
 Published:
-2026-07-31 10:00 UTC
+2026-08-03 10:00 UTC
 
 Summary:
-Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 used advanced pattern matching and AI to decode its logic.
-The post <a href="https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/">The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor.
+The post <a href="https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/">Pass the Passkey: A Novel Attack Surface in Passwordless Authentication</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/
-
-------------------------------------------------------------
-
-Title:
-Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks
-
-Published:
-2026-07-30 10:00 UTC
-
-Summary:
-Unit 42 details a Chinese speaking threat actor combining autonomous AI scanning across seven vulnerabilities with manual exploitation. Read more.
-The post <a href="https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/">Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
-
-------------------------------------------------------------
-
-Title:
-Russian Global Webmail Espionage
-
-Published:
-2026-07-23 14:10 UTC
-
-Summary:
-Unit 42 details a Russian cyberespionage campaign targeting  Zimbra webmail servers using JavaScript injection to steal credentials.
-The post <a href="https://unit42.paloaltonetworks.com/russian-webmail-espionage/">Russian Global Webmail Espionage</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/russian-webmail-espionage/
+https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
 
 ------------------------------------------------------------
 
@@ -297,7 +291,7 @@ https://blog.talosintelligence.com/ir-trends-q2-2026/
 SOURCE : Microsoft Security Response Center
 ============================================================
 
-[Feed error, no entries returned: <unknown>:127:158: not well-formed (invalid token)]
+[Feed error, no entries returned: <unknown>:125:158: not well-formed (invalid token)]
 
 ============================================================
 SOURCE : Google Security Blog
@@ -681,5 +675,5 @@ FEED ERRORS THIS RUN
 
 - Trend Micro: text/html; charset=iso-8859-1 is not an XML media type
 - CISA: <unknown>:10:2: mismatched tag
-- Microsoft Security Response Center: <unknown>:127:158: not well-formed (invalid token)
+- Microsoft Security Response Center: <unknown>:125:158: not well-formed (invalid token)
 
