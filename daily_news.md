@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-04 04:38 UTC_
+_Last run: 2026-08-05 04:38 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users
+Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens
 
 Published:
-2026-08-03 18:43 UTC
+2026-08-04 17:27 UTC
 
 Summary:
-Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments.
+The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts.
 
-One of the packages in question is "lib-mtop," an unscoped package with the same name as a private Alibaba package
+"Greatness supports AiTM [adversary-in-the-middle] credential and
 
 URL:
-https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html
+https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html
 
 ------------------------------------------------------------
 
 Title:
-Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
+Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks
 
 Published:
-2026-08-03 16:24 UTC
+2026-08-04 13:30 UTC
 
 Summary:
-Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.
+A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.
 
-Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key
+SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages
 
 URL:
-https://thehackernews.com/2026/08/google-password-manager-attacks-could.html
+https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html
 
 ------------------------------------------------------------
 
 Title:
-INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws
+Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access
 
 Published:
-2026-08-03 16:15 UTC
+2026-08-04 13:11 UTC
 
 Summary:
-The INC Ransomware operation has emerged as the "dominant threat actor" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.
+Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect.
 
-In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per
+The campaign has been codenamed SMOKE#SCREEN by Securonix Threat
 
 URL:
-https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html
+https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html
 
 ------------------------------------------------------------
 
 Title:
-⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks
+When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted
 
 Published:
-2026-08-03 14:03 UTC
+2026-08-04 11:30 UTC
 
 Summary:
-This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.
+The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.
 
-Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from
+That assumption is starting to break.
+
+Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced attackers, dismissed as "script kiddies," sat at the other end, running public
 
 URL:
-https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html
+https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html
 
 ------------------------------------------------------------
 
 Title:
-FOMO in the SOC: Where AI Platforms like Claude Actually Fit
+Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent
 
 Published:
-2026-08-03 11:30 UTC
+2026-08-04 11:16 UTC
 
 Summary:
-AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.
+Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent.
 
-AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value.
-
-With so many new AI
+The researchers said the public agent could be prompt-injected into posting /adk-issue-fix as adk-bot. They identified the bot as a collaborator, so that comment satisfied
 
 URL:
-https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html
+https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html
 
 ------------------------------------------------------------
 
@@ -93,78 +93,120 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts
+OpenAI, Anthropic AI agents targeted real people and systems in cyber tests
 
 Published:
-2026-08-04 00:17 UTC
+2026-08-04 23:39 UTC
 
 Summary:
-Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]
+OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/
+https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/
 
 ------------------------------------------------------------
 
 Title:
-New Pass-ta-key attacks let malware hijack Google-synced passkeys
+TP-Link patches Omada ZTP flaws allowing hackers to breach networks
 
 Published:
-2026-08-03 23:58 UTC
+2026-08-04 22:18 UTC
 
 Summary:
-Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]
+TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/
+https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/
 
 ------------------------------------------------------------
 
 Title:
-New DOUBLECUP ClickFix service hides malware in browser cache images
+Phishing service spoofs RingCentral to steal Microsoft 365 accounts
 
 Published:
-2026-08-03 20:01 UTC
+2026-08-04 21:45 UTC
 
 Summary:
-A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]
+The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/
+https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/
 
 ------------------------------------------------------------
 
 Title:
-Fake Roblox Xeno script launcher pushes infostealer, RAT malware
+New XCSSET variant targets macOS devs via compromised Xcode projects
 
 Published:
-2026-08-03 19:25 UTC
+2026-08-04 19:03 UTC
 
 Summary:
-Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]
+A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/
+https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/
 
 ------------------------------------------------------------
 
 Title:
-N-able warns of N-central auth bypass flaw exploited in attacks
+77 Open VSX extensions found harvesting developer info
 
 Published:
-2026-08-03 17:00 UTC
+2026-08-04 18:50 UTC
 
 Summary:
-N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]
+77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/
+https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Tech industry alliance proposes AI agent safety reporting program
+
+Published:
+2026-08-04 14:40 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/E149bJ76Vn-TVq35w9sufzhbXXaea8djrEX1OHSa6D0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp" /></div></figure>The information-sharing exchange is designed to widely share lessons learned from agentic AI security incidents.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-agent-security-exchange-linux-foundation/826940/
+
+------------------------------------------------------------
+
+Title:
+AI widely used to exploit critical flaws, disrupt supply chains
+
+Published:
+2026-08-04 12:41 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/ibeE2-hblJ9tlc8lDLa-u9wEZEGVfPLc9fVUCezp1eI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3ODc3NDU1LmpwZw==.webp" /></div></figure>A report confirms the growing use of AI across a broad spectrum of threat groups.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-exploit-critical-flaws-disrupt-supply-chains/826915/
+
+------------------------------------------------------------
+
+Title:
+AI makes costly spearphishing attacks easier, cyber insurer says
+
+Published:
+2026-08-04 12:00 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/Qz9vXqiswcTCIsszdi8ElkqmCrEe7zYttcgwaC6G95M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI3NDE1MTMzLmpwZw==.webp" /></div></figure>Impersonation campaigns led to more than 85% of the losses that Resilience dealt with in the first half of the year, a dramatic increase from two years ago.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-spearphishing-cyber-insurance-claims/826732/
+
+------------------------------------------------------------
 
 Title:
 OT security coalition urges Congress, CISA to enact reforms amid water sector hacks
@@ -194,20 +236,6 @@ https://www.cybersecuritydive.com/news/china-based-hacker-deepseek-autonomous/82
 
 ------------------------------------------------------------
 
-Title:
-How volunteer cyber experts are helping protect rural water systems
-
-Published:
-2026-08-03 14:03 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/JADFScCEOwTdI-a0EMwmkuRmDDRlKdMpV7ch4HNw7cY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTMxMjc2LmpwZw==.webp" /></div></figure>A first-in-the-nation program is seeing promising results as it charts a path for supporting the U.S.&rsquo;s most vulnerable infrastructure.
-
-URL:
-https://www.cybersecuritydive.com/news/water-cybersecurity-def-con-franklin-outcomes/826517/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -223,6 +251,36 @@ SOURCE : CISA
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+Title:
+The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software
+
+Published:
+2026-08-04 13:00 UTC
+
+Summary:
+Frontier AI is reshaping vulnerability discovery. Learn how our NOVA system found 14,000+ unknown vulnerabilities across the open-source software supply chain.
+The post <a href="https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/">The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/
+
+------------------------------------------------------------
+
+Title:
+Almost Half of Malware Samples Communicate Direct to IP
+
+Published:
+2026-08-04 12:50 UTC
+
+Summary:
+Nearly half of C2 malware bypasses DNS by connecting directly to IP addresses. Zero trust IP enforcement secures networks against these threats.
+The post <a href="https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/">Almost Half of Malware Samples Communicate Direct to IP</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/
+
+------------------------------------------------------------
 
 Title:
 Pass the Passkey: A Novel Attack Surface in Passwordless Authentication
@@ -243,47 +301,17 @@ https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-You were onto something with “It’s the Climb,” Miley
+“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI
 
 Published:
-2026-07-30 18:00 UTC
+2026-08-04 10:00 UTC
 
 Summary:
-Amy hikes Virginia’s most difficult trail and muses on the persistent challenges of cybersecurity. The two aren't dissimilar.
+Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based AI.
 
 URL:
-https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/
-
-------------------------------------------------------------
-
-Title:
-Black Hat special: Rewind and revisit
-
-Published:
-2026-07-30 10:00 UTC
-
-Summary:
-Amy looks back at the incredible journeys that brought past guests to the world of threat intelligence.
-
-URL:
-https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/
-
-------------------------------------------------------------
-
-Title:
-IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains
-
-Published:
-2026-07-28 10:00 UTC
-
-Summary:
-Talos IR's Q2 report highlights a significant surge in phishing-based initial access and the weaponization of legitimate remote management tools. Learn how to sharpen your defenses.
-
-URL:
-https://blog.talosintelligence.com/ir-trends-q2-2026/
+https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/
 
 ------------------------------------------------------------
 
@@ -622,50 +650,48 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft
+ChainDrop supply chain compromise: Anatomy of a self-propagating worm
 
 Published:
-2026-07-31 21:01 UTC
+2026-08-04 23:46 UTC
 
 Summary:
-Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/">CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/">ChainDrop supply chain compromise: Anatomy of a self-propagating worm</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/
+https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/
 
 ------------------------------------------------------------
 
 Title:
-​​​​What’s new in Microsoft Security: July 2026
+Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps
 
 Published:
-2026-07-30 16:00 UTC
+2026-08-04 18:30 UTC
 
 Summary:
-This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/">​​​​What’s new in Microsoft Security: July 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/">Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/
+https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/
 
 ------------------------------------------------------------
 
 Title:
-​​Better security starts with better questions
+128 Seconds to disruption: Microsoft Defender stops ransomware at QNET
 
 Published:
-2026-07-29 16:00 UTC
+2026-08-04 17:54 UTC
 
 Summary:
-Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/">​​Better security starts with better questions</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/">128 Seconds to disruption: Microsoft Defender stops ransomware at QNET </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/
+https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/
 
 ------------------------------------------------------------
 
