@@ -1,90 +1,94 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-05 04:38 UTC_
+_Last run: 2026-08-06 04:38 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens
+Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures
 
 Published:
-2026-08-04 17:27 UTC
+2026-08-05 18:44 UTC
 
 Summary:
-The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts.
+A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.
 
-"Greatness supports AiTM [adversary-in-the-middle] credential and
+The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft
 
 URL:
-https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html
+https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html
 
 ------------------------------------------------------------
 
 Title:
-Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks
+OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes
 
 Published:
-2026-08-04 13:30 UTC
+2026-08-05 18:33 UTC
 
 Summary:
-A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.
+OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.
 
-SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages
+To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive
 
 URL:
-https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html
+https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html
 
 ------------------------------------------------------------
 
 Title:
-Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access
+Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt
 
 Published:
-2026-08-04 13:11 UTC
+2026-08-05 15:36 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect.
+Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.
 
-The campaign has been codenamed SMOKE#SCREEN by Securonix Threat
+One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6.
+
+"Advertisements for Poison Claude
 
 URL:
-https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html
+https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html
 
 ------------------------------------------------------------
 
 Title:
-When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted
+Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports
 
 Published:
-2026-08-04 11:30 UTC
+2026-08-05 15:14 UTC
 
 Summary:
-The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.
+Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it.
 
-That assumption is starting to break.
-
-Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced attackers, dismissed as "script kiddies," sat at the other end, running public
+A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes
 
 URL:
-https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html
+https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html
 
 ------------------------------------------------------------
 
 Title:
-Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent
+Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug
 
 Published:
-2026-08-04 11:16 UTC
+2026-08-05 14:27 UTC
 
 Summary:
-Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent.
+HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.
 
-The researchers said the public agent could be prompt-injected into posting /adk-issue-fix as adk-bot. They identified the bot as a collaborator, so that comment satisfied
+The three most serious:
+
+
+  An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5
+  A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'
 
 URL:
-https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html
+https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html
 
 ------------------------------------------------------------
 
@@ -93,78 +97,134 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-OpenAI, Anthropic AI agents targeted real people and systems in cyber tests
+Ransom Cartel ransomware creator sentenced to 16 years in prison
 
 Published:
-2026-08-04 23:39 UTC
+2026-08-05 23:00 UTC
 
 Summary:
-OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]
+Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/
+https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/
 
 ------------------------------------------------------------
 
 Title:
-TP-Link patches Omada ZTP flaws allowing hackers to breach networks
+Canadian pleads guilty to Snowflake cloud data-theft attacks
 
 Published:
-2026-08-04 22:18 UTC
+2026-08-05 21:53 UTC
 
 Summary:
-TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]
+A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/
+https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Phishing service spoofs RingCentral to steal Microsoft 365 accounts
+Hackers run khunt post-exploitation toolkit from Oracle database
 
 Published:
-2026-08-04 21:45 UTC
+2026-08-05 19:55 UTC
 
 Summary:
-The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]
+Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/
+https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/
 
 ------------------------------------------------------------
 
 Title:
-New XCSSET variant targets macOS devs via compromised Xcode projects
+COLDCARD security audit phishing attack installs remote access tool
 
 Published:
-2026-08-04 19:03 UTC
+2026-08-05 17:49 UTC
 
 Summary:
-A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]
+A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/
+https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/
 
 ------------------------------------------------------------
 
 Title:
-77 Open VSX extensions found harvesting developer info
+CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws
 
 Published:
-2026-08-04 18:50 UTC
+2026-08-05 15:51 UTC
 
 Summary:
-77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]
+The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+OpenAI warns autonomous hacks are ‘watershed moment for computer security’
+
+Published:
+2026-08-05 19:26 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/knCCzJQisc1IG8_F7mrDfJP91kSIWf-rKf1UCDItDhA/g:nowe:71:409/c:3129:1767/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDVfMjAyNzEzODEwLmpwZw==.webp" /></div></figure>Company employees said their industry should rethink how it balances capabilities and safeguards.
+
+URL:
+https://www.cybersecuritydive.com/news/openai-hugging-face-hack-ai-models-black-hat/827167/
+
+------------------------------------------------------------
+
+Title:
+Western government leaders call for a focus on infrastructure resilience, not AI hype
+
+Published:
+2026-08-05 16:44 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/q0GcJs1NoWhrfU7I9r4PwT5EbIqMZwpxopDFWvm8lZ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDVfMTc1ODIwNDQ0LmpwZw==.webp" /></div></figure>U.S. and allied officials said companies should start preparing now for a cyberattack that changes how they provide essential services.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-cybersecurity-resilience-black-hat-government-panel/827137/
+
+------------------------------------------------------------
+
+Title:
+CISA is prioritizing work with critical infrastructure as it begins to recover from cuts
+
+Published:
+2026-08-05 16:05 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/nBod3Sp4YFFJrdyIGD8u1juzMz5vxUn7Li2z1s0PjSo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xXzFfM1JGb2gyUS5qcGVn.webp" /></div></figure>The agency has been focused on helping secure systems at drinking and wastewater utilities in recent weeks.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-critical-infrastructure-job-cuts/827094/
+
+------------------------------------------------------------
+
+Title:
+White House walks tightrope on securing AI without stifling tech innovation
+
+Published:
+2026-08-05 15:33 UTC
+
+Summary:
+National Cyber Director Sean Cairncross said the administration wants to work collaboratively with the private sector.
+
+URL:
+https://www.cybersecuritydive.com/news/administration-securing-ai-stifling-tech-innovation/827088/
+
+------------------------------------------------------------
 
 Title:
 Tech industry alliance proposes AI agent safety reporting program
@@ -177,62 +237,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/ai-agent-security-exchange-linux-foundation/826940/
-
-------------------------------------------------------------
-
-Title:
-AI widely used to exploit critical flaws, disrupt supply chains
-
-Published:
-2026-08-04 12:41 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ibeE2-hblJ9tlc8lDLa-u9wEZEGVfPLc9fVUCezp1eI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3ODc3NDU1LmpwZw==.webp" /></div></figure>A report confirms the growing use of AI across a broad spectrum of threat groups.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-exploit-critical-flaws-disrupt-supply-chains/826915/
-
-------------------------------------------------------------
-
-Title:
-AI makes costly spearphishing attacks easier, cyber insurer says
-
-Published:
-2026-08-04 12:00 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Qz9vXqiswcTCIsszdi8ElkqmCrEe7zYttcgwaC6G95M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI3NDE1MTMzLmpwZw==.webp" /></div></figure>Impersonation campaigns led to more than 85% of the losses that Resilience dealt with in the first half of the year, a dramatic increase from two years ago.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-spearphishing-cyber-insurance-claims/826732/
-
-------------------------------------------------------------
-
-Title:
-OT security coalition urges Congress, CISA to enact reforms amid water sector hacks
-
-Published:
-2026-08-03 15:32 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/gDu2KNrJi-KeXcwvyYb7loivSvffSovyW-3Iqc0rW5g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwODU4MDU2LmpwZw==.webp" /></div></figure>Iran-nexus hackers are suspected in a broad campaign targeting drinking and wastewater sites in at least seven U.S. states.
-
-URL:
-https://www.cybersecuritydive.com/news/ot-security-coalition-congress-cisa-reforms-water/826791/
-
-------------------------------------------------------------
-
-Title:
-China-based hacker employs DeepSeek in autonomous threat campaign
-
-Published:
-2026-08-03 15:24 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/88pXye_BonuI47zwYTyHKjgCMOWHWUSGp6wV3s7CPdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwLmpwZw==.webp" /></div></figure>Researchers said the hacker also attempted to test Western AI tools, but ultimately was forced to revert to manual operations to succeed. 
-
-URL:
-https://www.cybersecuritydive.com/news/china-based-hacker-deepseek-autonomous/826784/
 
 ------------------------------------------------------------
 
@@ -279,21 +283,6 @@ The post <a href="https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-
 
 URL:
 https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/
-
-------------------------------------------------------------
-
-Title:
-Pass the Passkey: A Novel Attack Surface in Passwordless Authentication
-
-Published:
-2026-08-03 10:00 UTC
-
-Summary:
-Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor.
-The post <a href="https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/">Pass the Passkey: A Novel Attack Surface in Passwordless Authentication</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
 
 ------------------------------------------------------------
 
@@ -649,6 +638,36 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 ============================================================
 SOURCE : Microsoft Security Blog
 ============================================================
+
+Title:
+​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)
+
+Published:
+2026-08-05 16:30 UTC
+
+Summary:
+Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/
+
+------------------------------------------------------------
+
+Title:
+From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide
+
+Published:
+2026-08-05 15:48 UTC
+
+Summary:
+A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/">From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/
+
+------------------------------------------------------------
 
 Title:
 ChainDrop supply chain compromise: Anatomy of a self-propagating worm
