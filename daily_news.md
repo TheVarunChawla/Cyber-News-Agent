@@ -1,94 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-06 04:38 UTC_
+_Last run: 2026-08-07 03:50 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures
+New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts
 
 Published:
-2026-08-05 18:44 UTC
+2026-08-06 17:58 UTC
 
 Summary:
-A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.
+Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests.
 
-The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft
+The flaw is tracked as CVE-2026-64561 and affects KVM/x86's shadow memory management unit (MMU), which manages shadow page
 
 URL:
-https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html
+https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html
 
 ------------------------------------------------------------
 
 Title:
-OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes
+Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs
 
 Published:
-2026-08-05 18:33 UTC
+2026-08-06 17:13 UTC
 
 Summary:
-OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.
+Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.
 
-To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive
+The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode.
+
+"These vulnerabilities were found
 
 URL:
-https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html
+https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html
 
 ------------------------------------------------------------
 
 Title:
-Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt
+New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs
 
 Published:
-2026-08-05 15:36 UTC
+2026-08-06 16:17 UTC
 
 Summary:
-Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.
+An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.
 
-One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6.
-
-"Advertisements for Poison Claude
+MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on,
 
 URL:
-https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html
+https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html
 
 ------------------------------------------------------------
 
 Title:
-Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports
+ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories
 
 Published:
-2026-08-05 15:14 UTC
+2026-08-06 15:24 UTC
 
 Summary:
-Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it.
+Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.
 
-A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes
+This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and trusted defaults doing attackers a favor.
+
+Nothing here is especially mystical.
 
 URL:
-https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html
+https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html
 
 ------------------------------------------------------------
 
 Title:
-Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug
+Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities
 
 Published:
-2026-08-05 14:27 UTC
+2026-08-06 12:16 UTC
 
 Summary:
-HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.
+Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.
 
-The three most serious:
-
-
-  An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5
-  A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'
+Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but Forescout could not confirm any were compromised. That figure counts exposed
 
 URL:
-https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html
+https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html
 
 ------------------------------------------------------------
 
@@ -97,78 +95,92 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Ransom Cartel ransomware creator sentenced to 16 years in prison
+OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it
 
 Published:
-2026-08-05 23:00 UTC
+2026-08-06 22:48 UTC
 
 Summary:
-Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]
+OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/
 
 ------------------------------------------------------------
 
 Title:
-Canadian pleads guilty to Snowflake cloud data-theft attacks
+ClickFix attack pushes macOS infostealer for crypto theft attacks
 
 Published:
-2026-08-05 21:53 UTC
+2026-08-06 22:37 UTC
 
 Summary:
-A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]
+A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/
+https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Hackers run khunt post-exploitation toolkit from Oracle database
+Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group
 
 Published:
-2026-08-05 19:55 UTC
+2026-08-06 20:07 UTC
 
 Summary:
-Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]
+A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/
+https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/
 
 ------------------------------------------------------------
 
 Title:
-COLDCARD security audit phishing attack installs remote access tool
+Swiss government SharePoint breach compromised 200 accounts
 
 Published:
-2026-08-05 17:49 UTC
+2026-08-06 18:14 UTC
 
 Summary:
-A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]
+Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/
+https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/
 
 ------------------------------------------------------------
 
 Title:
-CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws
+New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes
 
 Published:
-2026-08-05 15:51 UTC
+2026-08-06 18:03 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]
+Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/
+https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Hackers grow more willing to destroy, not just disrupt OT systems
+
+Published:
+2026-08-06 17:17 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/p38r2Vt8mA54LnHN2ZrmfHAPF5SnD-wigrrxgEppBVE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDZfMTczNzE0MTQzLk1QLmpwZw==.webp" /></div></figure>Experts said the alarming trend has further stressed infrastructure providers that are already struggling with strong passwords, comprehensive logging and other basics.
+
+URL:
+https://www.cybersecuritydive.com/news/critical-infrastructure-destructive-cyberattacks-black-hat/827260/
+
+------------------------------------------------------------
 
 Title:
 OpenAI warns autonomous hacks are ‘watershed moment for computer security’
@@ -226,20 +238,6 @@ https://www.cybersecuritydive.com/news/administration-securing-ai-stifling-tech-
 
 ------------------------------------------------------------
 
-Title:
-Tech industry alliance proposes AI agent safety reporting program
-
-Published:
-2026-08-04 14:40 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/E149bJ76Vn-TVq35w9sufzhbXXaea8djrEX1OHSa6D0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp" /></div></figure>The information-sharing exchange is designed to widely share lessons learned from agentic AI security incidents.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-agent-security-exchange-linux-foundation/826940/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -257,32 +255,32 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
-The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software
+ChainDrop: Inside a Self-Propagating npm Worm
 
 Published:
-2026-08-04 13:00 UTC
+2026-08-06 22:26 UTC
 
 Summary:
-Frontier AI is reshaping vulnerability discovery. Learn how our NOVA system found 14,000+ unknown vulnerabilities across the open-source software supply chain.
-The post <a href="https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/">The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing.
+The post <a href="https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/">ChainDrop: Inside a Self-Propagating npm Worm</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/
+https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/
 
 ------------------------------------------------------------
 
 Title:
-Almost Half of Malware Samples Communicate Direct to IP
+Token Jacking: Cybercriminals Could Be Stealing Your AI Resources
 
 Published:
-2026-08-04 12:50 UTC
+2026-08-06 10:00 UTC
 
 Summary:
-Nearly half of C2 malware bypasses DNS by connecting directly to IP addresses. Zero trust IP enforcement secures networks against these threats.
-The post <a href="https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/">Almost Half of Malware Samples Communicate Direct to IP</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Discover how attackers hijack AI tokens to fuel gray market transfer stations by stealing developer API keys.
+The post <a href="https://unit42.paloaltonetworks.com/ai-token-jacking/">Token Jacking: Cybercriminals Could Be Stealing Your AI Resources</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/
+https://unit42.paloaltonetworks.com/ai-token-jacking/
 
 ------------------------------------------------------------
 
@@ -291,16 +289,16 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI
+Why metaphor may dictate your security strategy
 
 Published:
-2026-08-04 10:00 UTC
+2026-08-06 18:00 UTC
 
 Summary:
-Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based AI.
+In this week's newsletter, Martin looks at how the metaphors we use to describe AI "escaping" its sandbox can completely change how we react to the threat.
 
 URL:
-https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/
+https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/
 
 ------------------------------------------------------------
 
@@ -666,51 +664,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/05/macos
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/
-
-------------------------------------------------------------
-
-Title:
-ChainDrop supply chain compromise: Anatomy of a self-propagating worm
-
-Published:
-2026-08-04 23:46 UTC
-
-Summary:
-A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/">ChainDrop supply chain compromise: Anatomy of a self-propagating worm</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/
-
-------------------------------------------------------------
-
-Title:
-Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps
-
-Published:
-2026-08-04 18:30 UTC
-
-Summary:
-Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/">Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/
-
-------------------------------------------------------------
-
-Title:
-128 Seconds to disruption: Microsoft Defender stops ransomware at QNET
-
-Published:
-2026-08-04 17:54 UTC
-
-Summary:
-Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/">128 Seconds to disruption: Microsoft Defender stops ransomware at QNET </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/
 
 ------------------------------------------------------------
 
