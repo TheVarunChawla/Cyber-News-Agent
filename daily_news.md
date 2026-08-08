@@ -1,92 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-07 04:07 UTC_
+_Last run: 2026-08-08 03:05 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts
+Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer
 
 Published:
-2026-08-06 17:58 UTC
+2026-08-07 18:48 UTC
 
 Summary:
-Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests.
+A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.
 
-The flaw is tracked as CVE-2026-64561 and affects KVM/x86's shadow memory management unit (MMU), which manages shadow page
+"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload," OpenSourceMalware researcher Paul
 
 URL:
-https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html
+https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html
 
 ------------------------------------------------------------
 
 Title:
-Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs
+ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets
 
 Published:
-2026-08-06 17:13 UTC
+2026-08-07 18:29 UTC
 
 Summary:
-Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.
+ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.
 
-The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode.
+The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture.
 
-"These vulnerabilities were found
+"
 
 URL:
-https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html
+https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html
 
 ------------------------------------------------------------
 
 Title:
-New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs
+UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data
 
 Published:
-2026-08-06 16:17 UTC
+2026-08-07 18:16 UTC
 
 Summary:
-An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.
+A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671.
 
-MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on,
+"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their
 
 URL:
-https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html
+https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories
+New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP
 
 Published:
-2026-08-06 15:24 UTC
+2026-08-07 12:56 UTC
 
 Summary:
-Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.
+WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page.
 
-This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and trusted defaults doing attackers a favor.
-
-Nothing here is especially mystical.
+Tracked as CVE-2026-64638 (CVSS score: 8.9), the
 
 URL:
-https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html
+https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html
 
 ------------------------------------------------------------
 
 Title:
-Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities
+Growing Up The Hard Way
 
 Published:
-2026-08-06 12:16 UTC
+2026-08-07 11:55 UTC
 
 Summary:
-Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.
+Open Source had a great childhood.
 
-Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but Forescout could not confirm any were compromised. That figure counts exposed
+For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral.
+
+Then,
 
 URL:
-https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html
+https://thehackernews.com/2026/08/growing-up-hard-way.html
 
 ------------------------------------------------------------
 
@@ -95,72 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it
+Metabase SQLi zero-day exploited in customer data-theft attacks
 
 Published:
-2026-08-06 22:48 UTC
+2026-08-07 20:14 UTC
 
 Summary:
-OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]
+A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/
+https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/
 
 ------------------------------------------------------------
 
 Title:
-ClickFix attack pushes macOS infostealer for crypto theft attacks
+Unlimited Technology Systems breach impacts 3.8 million people
 
 Published:
-2026-08-06 22:37 UTC
+2026-08-07 19:30 UTC
 
 Summary:
-A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]
+Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/
+https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/
 
 ------------------------------------------------------------
 
 Title:
-Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group
+Levi Strauss & Co. says hackers stole corporate data in cyberattack
 
 Published:
-2026-08-06 20:07 UTC
+2026-08-07 15:48 UTC
 
 Summary:
-A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]
+Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/
+https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/
 
 ------------------------------------------------------------
 
 Title:
-Swiss government SharePoint breach compromised 200 accounts
+Real emails, hijacked payments: Two H1 2026 attack chains
 
 Published:
-2026-08-06 18:14 UTC
+2026-08-07 14:00 UTC
 
 Summary:
-Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]
+Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/
+https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/
 
 ------------------------------------------------------------
 
 Title:
-New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes
+North Carolina Ports confirms cyberattack disrupting operations
 
 Published:
-2026-08-06 18:03 UTC
+2026-08-07 13:34 UTC
 
 Summary:
-Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]
+The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/
+https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/
 
 ------------------------------------------------------------
 
@@ -169,7 +169,49 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Hackers grow more willing to destroy, not just disrupt OT systems
+Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’
+
+Published:
+2026-08-07 17:29 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/GLeJSO3LJrrtnxJLuTIJSLdt9Fh6O0yLZkM2GqaZXH0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDdfMTYxNTQ4NzA2Lk1QLmpwZw==.webp" /></div></figure>Regulatory failures, funding constraints and industry consolidation have created serious hacking risks.
+
+URL:
+https://www.cybersecuritydive.com/news/healthcare-cybersecurity-crisis-def-con/827378/
+
+------------------------------------------------------------
+
+Title:
+Critical flaws allow hackers to exploit zero-touch provisioning process in TP-Link Omada
+
+Published:
+2026-08-07 10:17 UTC
+
+Summary:
+Attacks can cause widespread damage to trusted devices and data. 
+
+URL:
+https://www.cybersecuritydive.com/news/critical-flaws-allow-hackers-to-exploit-zero-touch-provisioning-process-in/827306/
+
+------------------------------------------------------------
+
+Title:
+AI firms know policymakers won’t ‘let you make a Terminator factory,’ DHS official says
+
+Published:
+2026-08-07 10:00 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/CT4YjTgG1tPk2-QiYGWNFfC_vwG0dVgMPtJef7E1enE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDZfMTk0NTAxODQ1LmpwZw==.webp" /></div></figure>The Trump administration believes leading AI companies have learned important lessons from recent incidents and regulation isn&rsquo;t necessary to preserve those lessons.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-security-regulation-innovation-us-government-black-hat/827296/
+
+------------------------------------------------------------
+
+Title:
+Hackers grow more willing to destroy, not just disrupt, OT systems
 
 Published:
 2026-08-06 17:17 UTC
@@ -179,62 +221,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/critical-infrastructure-destructive-cyberattacks-black-hat/827260/
-
-------------------------------------------------------------
-
-Title:
-OpenAI warns autonomous hacks are ‘watershed moment for computer security’
-
-Published:
-2026-08-05 19:26 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/knCCzJQisc1IG8_F7mrDfJP91kSIWf-rKf1UCDItDhA/g:nowe:71:409/c:3129:1767/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDVfMjAyNzEzODEwLmpwZw==.webp" /></div></figure>Company employees said their industry should rethink how it balances capabilities and safeguards.
-
-URL:
-https://www.cybersecuritydive.com/news/openai-hugging-face-hack-ai-models-black-hat/827167/
-
-------------------------------------------------------------
-
-Title:
-Western government leaders call for a focus on infrastructure resilience, not AI hype
-
-Published:
-2026-08-05 16:44 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/q0GcJs1NoWhrfU7I9r4PwT5EbIqMZwpxopDFWvm8lZ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDVfMTc1ODIwNDQ0LmpwZw==.webp" /></div></figure>U.S. and allied officials said companies should start preparing now for a cyberattack that changes how they provide essential services.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-cybersecurity-resilience-black-hat-government-panel/827137/
-
-------------------------------------------------------------
-
-Title:
-CISA is prioritizing work with critical infrastructure as it begins to recover from cuts
-
-Published:
-2026-08-05 16:05 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/nBod3Sp4YFFJrdyIGD8u1juzMz5vxUn7Li2z1s0PjSo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xXzFfM1JGb2gyUS5qcGVn.webp" /></div></figure>The agency has been focused on helping secure systems at drinking and wastewater utilities in recent weeks.
-
-URL:
-https://www.cybersecuritydive.com/news/cisa-critical-infrastructure-job-cuts/827094/
-
-------------------------------------------------------------
-
-Title:
-White House walks tightrope on securing AI without stifling tech innovation
-
-Published:
-2026-08-05 15:33 UTC
-
-Summary:
-National Cyber Director Sean Cairncross said the administration wants to work collaboratively with the private sector.
-
-URL:
-https://www.cybersecuritydive.com/news/administration-securing-ai-stifling-tech-innovation/827088/
 
 ------------------------------------------------------------
 
@@ -253,6 +239,21 @@ SOURCE : CISA
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+Title:
+Inside the Modern SOC: The Identity Front Door
+
+Published:
+2026-08-07 23:00 UTC
+
+Summary:
+Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond.
+The post <a href="https://unit42.paloaltonetworks.com/soc-identity-front-door/">Inside the Modern SOC: The Identity Front Door</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/soc-identity-front-door/
+
+------------------------------------------------------------
 
 Title:
 ChainDrop: Inside a Self-Propagating npm Worm
@@ -637,6 +638,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)
 
@@ -664,6 +667,21 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/05/macos
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/
+
+------------------------------------------------------------
+
+Title:
+ChainDrop supply chain compromise: Anatomy of a self-propagating worm
+
+Published:
+2026-08-04 23:46 UTC
+
+Summary:
+A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/">ChainDrop supply chain compromise: Anatomy of a self-propagating worm</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/
 
 ------------------------------------------------------------
 
