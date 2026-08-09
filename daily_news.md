@@ -1,98 +1,112 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-08 03:05 UTC_
+_Last run: 2026-08-09 03:12 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer
+Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers
 
 Published:
-2026-08-07 18:48 UTC
+2026-08-08 08:54 UTC
 
 Summary:
-A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.
+Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed.
 
-"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload," OpenSourceMalware researcher Paul
+PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was
 
 URL:
-https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html
+https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html
 
 ------------------------------------------------------------
 
 Title:
-ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets
+New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens
 
 Published:
-2026-08-07 18:29 UTC
+2026-08-08 08:03 UTC
 
 Summary:
-ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.
+New research shows content inside an email can escape its message boundary and interfere with the webmail interface.
 
-The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture.
+Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email.
 
-"
+PortSwigger researcher Gareth
 
 URL:
-https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html
+https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html
 
 ------------------------------------------------------------
 
 Title:
-UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data
+Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication
 
 Published:
-2026-08-07 18:16 UTC
+2026-08-08 06:58 UTC
 
 Summary:
-A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671.
+Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.
 
-"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their
+The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain
 
 URL:
-https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html
+https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html
 
 ------------------------------------------------------------
 
 Title:
-New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP
+N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist
 
 Published:
-2026-08-07 12:56 UTC
+2026-08-08 06:57 UTC
 
 Summary:
-WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page.
+N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.
 
-Tracked as CVE-2026-64638 (CVSS score: 8.9), the
+"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques," the company said.
+
+"This is not a duplicate of our
 
 URL:
-https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html
+https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html
 
 ------------------------------------------------------------
 
 Title:
-Growing Up The Hard Way
+Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts
 
 Published:
-2026-08-07 11:55 UTC
+2026-08-08 06:52 UTC
 
 Summary:
-Open Source had a great childhood.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
 
-For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral.
-
-Then,
+The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary
 
 URL:
-https://thehackernews.com/2026/08/growing-up-hard-way.html
+https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Hackers breach TrueConf to trojanize client installers with backdoors
+
+Published:
+2026-08-08 14:16 UTC
+
+Summary:
+The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/
+
+------------------------------------------------------------
 
 Title:
 Metabase SQLi zero-day exploited in customer data-theft attacks
@@ -150,20 +164,6 @@ https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two
 
 ------------------------------------------------------------
 
-Title:
-North Carolina Ports confirms cyberattack disrupting operations
-
-Published:
-2026-08-07 13:34 UTC
-
-Summary:
-The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
@@ -210,20 +210,6 @@ https://www.cybersecuritydive.com/news/ai-security-regulation-innovation-us-gove
 
 ------------------------------------------------------------
 
-Title:
-Hackers grow more willing to destroy, not just disrupt, OT systems
-
-Published:
-2026-08-06 17:17 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/p38r2Vt8mA54LnHN2ZrmfHAPF5SnD-wigrrxgEppBVE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDZfMTczNzE0MTQzLk1QLmpwZw==.webp" /></div></figure>Experts said the alarming trend has further stressed infrastructure providers that are already struggling with strong passwords, comprehensive logging and other basics.
-
-URL:
-https://www.cybersecuritydive.com/news/critical-infrastructure-destructive-cyberattacks-black-hat/827260/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -255,39 +241,11 @@ https://unit42.paloaltonetworks.com/soc-identity-front-door/
 
 ------------------------------------------------------------
 
-Title:
-ChainDrop: Inside a Self-Propagating npm Worm
-
-Published:
-2026-08-06 22:26 UTC
-
-Summary:
-Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing.
-The post <a href="https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/">ChainDrop: Inside a Self-Propagating npm Worm</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/
-
-------------------------------------------------------------
-
-Title:
-Token Jacking: Cybercriminals Could Be Stealing Your AI Resources
-
-Published:
-2026-08-06 10:00 UTC
-
-Summary:
-Discover how attackers hijack AI tokens to fuel gray market transfer stations by stealing developer API keys.
-The post <a href="https://unit42.paloaltonetworks.com/ai-token-jacking/">Token Jacking: Cybercriminals Could Be Stealing Your AI Resources</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-token-jacking/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Why metaphor may dictate your security strategy
@@ -300,6 +258,34 @@ In this week's newsletter, Martin looks at how the metaphors we use to describe 
 
 URL:
 https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/
+
+------------------------------------------------------------
+
+Title:
+“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI
+
+Published:
+2026-08-04 10:00 UTC
+
+Summary:
+Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based AI.
+
+URL:
+https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/
+
+------------------------------------------------------------
+
+Title:
+You were onto something with “It’s the Climb,” Miley
+
+Published:
+2026-07-30 18:00 UTC
+
+Summary:
+Amy hikes Virginia’s most difficult trail and muses on the persistent challenges of cybersecurity. The two aren't dissimilar.
+
+URL:
+https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/
 
 ------------------------------------------------------------
 
