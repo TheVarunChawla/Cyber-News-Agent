@@ -1,6 +1,6 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-09 03:12 UTC_
+_Last run: 2026-08-10 03:23 UTC_
 
 ============================================================
 SOURCE : The Hacker News
@@ -108,65 +108,11 @@ https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojan
 
 ------------------------------------------------------------
 
-Title:
-Metabase SQLi zero-day exploited in customer data-theft attacks
-
-Published:
-2026-08-07 20:14 UTC
-
-Summary:
-A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/
-
-------------------------------------------------------------
-
-Title:
-Unlimited Technology Systems breach impacts 3.8 million people
-
-Published:
-2026-08-07 19:30 UTC
-
-Summary:
-Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/
-
-------------------------------------------------------------
-
-Title:
-Levi Strauss & Co. says hackers stole corporate data in cyberattack
-
-Published:
-2026-08-07 15:48 UTC
-
-Summary:
-Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/
-
-------------------------------------------------------------
-
-Title:
-Real emails, hijacked payments: Two H1 2026 attack chains
-
-Published:
-2026-08-07 14:00 UTC
-
-Summary:
-Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’
@@ -226,6 +172,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Inside the Modern SOC: The Identity Front Door
 
@@ -238,6 +186,36 @@ The post <a href="https://unit42.paloaltonetworks.com/soc-identity-front-door/">
 
 URL:
 https://unit42.paloaltonetworks.com/soc-identity-front-door/
+
+------------------------------------------------------------
+
+Title:
+ChainDrop: Inside a Self-Propagating npm Worm
+
+Published:
+2026-08-06 22:26 UTC
+
+Summary:
+Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing.
+The post <a href="https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/">ChainDrop: Inside a Self-Propagating npm Worm</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/
+
+------------------------------------------------------------
+
+Title:
+Token Jacking: Cybercriminals Could Be Stealing Your AI Resources
+
+Published:
+2026-08-06 10:00 UTC
+
+Summary:
+Discover how attackers hijack AI tokens to fuel gray market transfer stations by stealing developer API keys.
+The post <a href="https://unit42.paloaltonetworks.com/ai-token-jacking/">Token Jacking: Cybercriminals Could Be Stealing Your AI Resources</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/ai-token-jacking/
 
 ------------------------------------------------------------
 
