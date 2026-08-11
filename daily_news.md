@@ -1,92 +1,94 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-10 03:23 UTC_
+_Last run: 2026-08-11 03:15 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers
+China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw
 
 Published:
-2026-08-08 08:54 UTC
+2026-08-10 16:38 UTC
 
 Summary:
-Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed.
+Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.
 
-PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was
+The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said.
+
+"StormEncryptor is written in C++ and appends the file name extension .encrypted
 
 URL:
-https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html
+https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html
 
 ------------------------------------------------------------
 
 Title:
-New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens
+⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors
 
 Published:
-2026-08-08 08:03 UTC
+2026-08-10 15:00 UTC
 
 Summary:
-New research shows content inside an email can escape its message boundary and interfere with the webmail interface.
+A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.
 
-Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email.
+That pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit paths are so short you wonder what was supposed to stop them in the first place.
 
-PortSwigger researcher Gareth
+That’s only part of it. Here’s
 
 URL:
-https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html
+https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html
 
 ------------------------------------------------------------
 
 Title:
-Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication
+Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development
 
 Published:
-2026-08-08 06:58 UTC
+2026-08-10 13:19 UTC
 
 Summary:
-Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.
+North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware.
 
-The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain
+South Korean security firm Genians says it uncovered the
 
 URL:
-https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html
+https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html
 
 ------------------------------------------------------------
 
 Title:
-N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist
+New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA
 
 Published:
-2026-08-08 06:57 UTC
+2026-08-10 12:25 UTC
 
 Summary:
-N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.
+Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.
 
-"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques," the company said.
-
-"This is not a duplicate of our
+Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a 
 
 URL:
-https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html
+https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html
 
 ------------------------------------------------------------
 
 Title:
-Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts
+TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore
 
 Published:
-2026-08-08 06:52 UTC
+2026-08-10 11:33 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
+The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors.
 
-The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary
+Russian cybersecurity vendor Kaspersky said it detected the attacks in July 2026.
+
+The activity involves exploiting a vulnerability chain
 
 URL:
-https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html
+https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html
 
 ------------------------------------------------------------
 
@@ -95,16 +97,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers breach TrueConf to trojanize client installers with backdoors
+Hackers breached a small Polish energy plant via private APN last year
 
 Published:
-2026-08-08 14:16 UTC
+2026-08-10 23:07 UTC
 
 Summary:
-The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]
+Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/
+https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/
+
+------------------------------------------------------------
+
+Title:
+BdThemes plugins supply-chain hack creates rogue WordPress admins
+
+Published:
+2026-08-10 21:12 UTC
+
+Summary:
+A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/
+
+------------------------------------------------------------
+
+Title:
+OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users
+
+Published:
+2026-08-10 19:24 UTC
+
+Summary:
+OpenAI has developed a new model called "GPT 5.6 Cyber," designed for vulnerability research, penetration testing, incident response, and remediation. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/
+
+------------------------------------------------------------
+
+Title:
+New StormEncryptor ransomware used by former Medusa affiliate
+
+Published:
+2026-08-10 17:42 UTC
+
+Summary:
+A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/
+
+------------------------------------------------------------
+
+Title:
+CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs
+
+Published:
+2026-08-10 14:34 UTC
+
+Summary:
+CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/
 
 ------------------------------------------------------------
 
@@ -112,47 +170,17 @@ https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojan
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’
+Civil-society initiative will pay cybersecurity vendors to protect rural water systems
 
 Published:
-2026-08-07 17:29 UTC
+2026-08-10 14:58 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/GLeJSO3LJrrtnxJLuTIJSLdt9Fh6O0yLZkM2GqaZXH0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDdfMTYxNTQ4NzA2Lk1QLmpwZw==.webp" /></div></figure>Regulatory failures, funding constraints and industry consolidation have created serious hacking risks.
+<figure><div><img src="https://imgproxy.divecdn.com/xuMw_pnwGfNNzvL6WN53aVNXScz73K8FLrmmabeGEb0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" /></div></figure>The group is seeking philanthropic grants, but its founder said the federal government ultimately needs to step in.
 
 URL:
-https://www.cybersecuritydive.com/news/healthcare-cybersecurity-crisis-def-con/827378/
-
-------------------------------------------------------------
-
-Title:
-Critical flaws allow hackers to exploit zero-touch provisioning process in TP-Link Omada
-
-Published:
-2026-08-07 10:17 UTC
-
-Summary:
-Attacks can cause widespread damage to trusted devices and data. 
-
-URL:
-https://www.cybersecuritydive.com/news/critical-flaws-allow-hackers-to-exploit-zero-touch-provisioning-process-in/827306/
-
-------------------------------------------------------------
-
-Title:
-AI firms know policymakers won’t ‘let you make a Terminator factory,’ DHS official says
-
-Published:
-2026-08-07 10:00 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/CT4YjTgG1tPk2-QiYGWNFfC_vwG0dVgMPtJef7E1enE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDZfMTk0NTAxODQ1LmpwZw==.webp" /></div></figure>The Trump administration believes leading AI companies have learned important lessons from recent incidents and regulation isn&rsquo;t necessary to preserve those lessons.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-security-regulation-innovation-us-government-black-hat/827296/
+https://www.cybersecuritydive.com/news/water-cybersecurity-mdr-services-def-con-franklin/827449/
 
 ------------------------------------------------------------
 
@@ -172,50 +200,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Inside the Modern SOC: The Identity Front Door
+The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications
 
 Published:
-2026-08-07 23:00 UTC
+2026-08-10 22:00 UTC
 
 Summary:
-Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond.
-The post <a href="https://unit42.paloaltonetworks.com/soc-identity-front-door/">Inside the Modern SOC: The Identity Front Door</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution.
+The post <a href="https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/">The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/soc-identity-front-door/
-
-------------------------------------------------------------
-
-Title:
-ChainDrop: Inside a Self-Propagating npm Worm
-
-Published:
-2026-08-06 22:26 UTC
-
-Summary:
-Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing.
-The post <a href="https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/">ChainDrop: Inside a Self-Propagating npm Worm</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/
-
-------------------------------------------------------------
-
-Title:
-Token Jacking: Cybercriminals Could Be Stealing Your AI Resources
-
-Published:
-2026-08-06 10:00 UTC
-
-Summary:
-Discover how attackers hijack AI tokens to fuel gray market transfer stations by stealing developer API keys.
-The post <a href="https://unit42.paloaltonetworks.com/ai-token-jacking/">Token Jacking: Cybercriminals Could Be Stealing Your AI Resources</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-token-jacking/
+https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/
 
 ------------------------------------------------------------
 
@@ -602,50 +598,33 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)
+Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise
 
 Published:
-2026-08-05 16:30 UTC
+2026-08-10 16:00 UTC
 
 Summary:
-Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/">Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/
+https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/
 
 ------------------------------------------------------------
 
 Title:
-From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide
+DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure
 
 Published:
-2026-08-05 15:48 UTC
+2026-08-10 15:00 UTC
 
 Summary:
-A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/">From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/">DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/
-
-------------------------------------------------------------
-
-Title:
-ChainDrop supply chain compromise: Anatomy of a self-propagating worm
-
-Published:
-2026-08-04 23:46 UTC
-
-Summary:
-A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/">ChainDrop supply chain compromise: Anatomy of a self-propagating worm</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/
+https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/
 
 ------------------------------------------------------------
 
