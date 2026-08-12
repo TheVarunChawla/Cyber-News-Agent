@@ -1,94 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-11 03:15 UTC_
+_Last run: 2026-08-12 03:34 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw
+Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack
 
 Published:
-2026-08-10 16:38 UTC
+2026-08-11 20:10 UTC
 
 Summary:
-Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.
+Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.
 
-The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said.
+The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first.
 
-"StormEncryptor is written in C++ and appends the file name extension .encrypted
+The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only
 
 URL:
-https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html
+https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html
 
 ------------------------------------------------------------
 
 Title:
-⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors
+Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing
 
 Published:
-2026-08-10 15:00 UTC
+2026-08-11 19:36 UTC
 
 Summary:
-A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.
+Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks.
 
-That pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit paths are so short you wonder what was supposed to stop them in the first place.
+The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026.
 
-That’s only part of it. Here’s
+"Kimwolf v7 adds an HTTP/2-based
 
 URL:
-https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html
+https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html
 
 ------------------------------------------------------------
 
 Title:
-Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development
+Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client
 
 Published:
-2026-08-10 13:19 UTC
+2026-08-11 19:08 UTC
 
 Summary:
-North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware.
+Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.
 
-South Korean security firm Genians says it uncovered the
+The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it
 
 URL:
-https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html
+https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html
 
 ------------------------------------------------------------
 
 Title:
-New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA
+Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands
 
 Published:
-2026-08-10 12:25 UTC
+2026-08-11 18:36 UTC
 
 Summary:
-Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.
+The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware.
 
-Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a 
+CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,
 
 URL:
-https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html
+https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html
 
 ------------------------------------------------------------
 
 Title:
-TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore
+Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE
 
 Published:
-2026-08-10 11:33 UTC
+2026-08-11 16:47 UTC
 
 Summary:
-The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors.
+Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent.
 
-Russian cybersecurity vendor Kaspersky said it detected the attacks in July 2026.
-
-The activity involves exploiting a vulnerability chain
+The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Server Subscription Edition, SharePoint Server 2019, and SharePoint Server 2016. Microsoft's
 
 URL:
-https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html
+https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html
 
 ------------------------------------------------------------
 
@@ -97,72 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers breached a small Polish energy plant via private APN last year
+Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse
 
 Published:
-2026-08-10 23:07 UTC
+2026-08-12 01:15 UTC
 
 Summary:
-Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]
+Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/
+https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/
 
 ------------------------------------------------------------
 
 Title:
-BdThemes plugins supply-chain hack creates rogue WordPress admins
+DeadLock ransomware uses blockchain to resist infrastructure takedown
 
 Published:
-2026-08-10 21:12 UTC
+2026-08-11 22:15 UTC
 
 Summary:
-A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]
+The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/
+https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users
+Sandworm hackers target IT pros with trojanized WireGuard VPN client
 
 Published:
-2026-08-10 19:24 UTC
+2026-08-11 21:07 UTC
 
 Summary:
-OpenAI has developed a new model called "GPT 5.6 Cyber," designed for vulnerability research, penetration testing, incident response, and remediation. [...]
+Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/
+https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/
 
 ------------------------------------------------------------
 
 Title:
-New StormEncryptor ransomware used by former Medusa affiliate
+Cisco warns of ASA and FTD VPN flaw exploited to crash devices
 
 Published:
-2026-08-10 17:42 UTC
+2026-08-11 19:45 UTC
 
 Summary:
-A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]
+Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/
+https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/
 
 ------------------------------------------------------------
 
 Title:
-CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs
+Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees
 
 Published:
-2026-08-10 14:34 UTC
+2026-08-11 18:34 UTC
 
 Summary:
-CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]
+Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/
+https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/
 
 ------------------------------------------------------------
 
@@ -171,16 +169,58 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
+Former BlackFile affiliates linked to extortion campaign targeting private equity
+
+Published:
+2026-08-11 15:11 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/v0D5Ajbuzjf7G4SQRuR5yVFGXoGWXxkevKZwUQRcJjs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU2MTc2MTM5LmpwZw==.webp" /></div></figure>Researchers warned that hackers are using voice-phishing attacks to pressure company employees under the guise of providing IT help desk services.
+
+URL:
+https://www.cybersecuritydive.com/news/former-blackfile-extortion-campaign-private-equity/827574/
+
+------------------------------------------------------------
+
+Title:
+CVE Program eyes automation and globalization to weather AI ‘vulnpocalypse’
+
+Published:
+2026-08-11 12:00 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/bTWuw6Fxs9v60UKLOCOigqcLOyxmXfHH6-ZvAfRAny4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzExOTk0Nzc2LmpwZw==.webp" /></div></figure>The vulnerability coordination project has had a rocky few years, but a key leader says it will &ldquo;flourish and improve.&rdquo;
+
+URL:
+https://www.cybersecuritydive.com/news/cve-program-ai-black-hat-def-con/827477/
+
+------------------------------------------------------------
+
+Title:
 Civil-society initiative will pay cybersecurity vendors to protect rural water systems
 
 Published:
 2026-08-10 14:58 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/xuMw_pnwGfNNzvL6WN53aVNXScz73K8FLrmmabeGEb0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" /></div></figure>The group is seeking philanthropic grants, but its founder said the federal government ultimately needs to step in.
+<figure><div><img src="https://imgproxy.divecdn.com/xuMw_pnwGfNNzvL6WN53aVNXScz73K8FLrmmabeGEb0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" /></div></figure>DEF CON Franklin is seeking philanthropic grants, but its founder said the federal government ultimately needs to step in.
 
 URL:
 https://www.cybersecuritydive.com/news/water-cybersecurity-mdr-services-def-con-franklin/827449/
+
+------------------------------------------------------------
+
+Title:
+Secure development can help turn the tables as AI alters cyber landscape
+
+Published:
+2026-08-10 14:36 UTC
+
+Summary:
+A top Microsoft executive says a shift toward memory safety and other preventative measures can limit the ability to exploit flawed software.
+
+URL:
+https://www.cybersecuritydive.com/news/secure-development-ai-cyber-vulnerabilities-Black-Hat/827435/
 
 ------------------------------------------------------------
 
@@ -201,6 +241,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
+Kimwolf v7: An Evolution of the Kimwolf Botnet
+
+Published:
+2026-08-11 10:00 UTC
+
+Summary:
+Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing.
+The post <a href="https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/">Kimwolf v7: An Evolution of the Kimwolf Botnet</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/
+
+------------------------------------------------------------
+
+Title:
 The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications
 
 Published:
@@ -219,47 +274,17 @@ https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Why metaphor may dictate your security strategy
+Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities
 
 Published:
-2026-08-06 18:00 UTC
+2026-08-11 22:21 UTC
 
 Summary:
-In this week's newsletter, Martin looks at how the metaphors we use to describe AI "escaping" its sandbox can completely change how we react to the threat.
+Microsoft has released its monthly security update for August 2026, which includes 421 vulnerabilities affecting a range of products, including 62 that Microsoft marked as "critical."
 
 URL:
-https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/
-
-------------------------------------------------------------
-
-Title:
-“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI
-
-Published:
-2026-08-04 10:00 UTC
-
-Summary:
-Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based AI.
-
-URL:
-https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/
-
-------------------------------------------------------------
-
-Title:
-You were onto something with “It’s the Climb,” Miley
-
-Published:
-2026-07-30 18:00 UTC
-
-Summary:
-Amy hikes Virginia’s most difficult trail and muses on the persistent challenges of cybersecurity. The two aren't dissimilar.
-
-URL:
-https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/
+https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/
 
 ------------------------------------------------------------
 
