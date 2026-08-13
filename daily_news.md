@@ -1,92 +1,91 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-12 03:34 UTC_
+_Last run: 2026-08-13 03:36 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack
+Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
 
 Published:
-2026-08-11 20:10 UTC
+2026-08-12 17:39 UTC
 
 Summary:
-Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.
+The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.
 
-The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first.
-
-The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only
+The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and
 
 URL:
-https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html
+https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html
 
 ------------------------------------------------------------
 
 Title:
-Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing
+737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
 
 Published:
-2026-08-11 19:36 UTC
+2026-08-12 14:09 UTC
 
 Summary:
-Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks.
+A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.
 
-The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026.
-
-"Kimwolf v7 adds an HTTP/2-based
+The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66
 
 URL:
-https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html
+https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html
 
 ------------------------------------------------------------
 
 Title:
-Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client
+OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning
 
 Published:
-2026-08-11 19:08 UTC
+2026-08-12 11:47 UTC
 
 Summary:
-Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.
+A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.
 
-The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it
+The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,
 
 URL:
-https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html
+https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html
 
 ------------------------------------------------------------
 
 Title:
-Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands
+Enterprise Defenses Recovered at the Edge and Collapsed Inside
 
 Published:
-2026-08-11 18:36 UTC
+2026-08-12 11:41 UTC
 
 Summary:
-The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware.
+Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.
 
-CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,
+According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness
 
 URL:
-https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html
+https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html
 
 ------------------------------------------------------------
 
 Title:
-Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE
+Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws
 
 Published:
-2026-08-11 16:47 UTC
+2026-08-12 11:13 UTC
 
 Summary:
-Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent.
+Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.
 
-The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Server Subscription Edition, SharePoint Server 2019, and SharePoint Server 2016. Microsoft's
+The most severe of the flaws are listed below -
+
+
+  CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could
 
 URL:
-https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html
+https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html
 
 ------------------------------------------------------------
 
@@ -95,78 +94,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse
+"City-Forum" data-theft attacks target Salesforce, ServiceNow portals
 
 Published:
-2026-08-12 01:15 UTC
+2026-08-12 23:07 UTC
 
 Summary:
-Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]
+An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/
+https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/
 
 ------------------------------------------------------------
 
 Title:
-DeadLock ransomware uses blockchain to resist infrastructure takedown
+Android malware combo takes out loans and relays victims' credit cards
 
 Published:
-2026-08-11 22:15 UTC
+2026-08-12 22:22 UTC
 
 Summary:
-The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]
+A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/
+https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/
 
 ------------------------------------------------------------
 
 Title:
-Sandworm hackers target IT pros with trojanized WireGuard VPN client
+Hackers exploit critical Adobe Commerce flaw to hijack customer accounts
 
 Published:
-2026-08-11 21:07 UTC
+2026-08-12 20:54 UTC
 
 Summary:
-Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]
+Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/
 
 ------------------------------------------------------------
 
 Title:
-Cisco warns of ASA and FTD VPN flaw exploited to crash devices
+Hundreds of fake Chrome VPN extensions route traffic through a proxy
 
 Published:
-2026-08-11 19:45 UTC
+2026-08-12 18:54 UTC
 
 Summary:
-Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]
+More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/
+https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/
 
 ------------------------------------------------------------
 
 Title:
-Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees
+Plug and Pwn attack uses fake USB devices for Windows SYSTEM access
 
 Published:
-2026-08-11 18:34 UTC
+2026-08-12 16:05 UTC
 
 Summary:
-Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]
+Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/
+https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Hackers abuse AI models to find new entry paths
+
+Published:
+2026-08-12 15:01 UTC
+
+Summary:
+Network defenders are racing to secure their IT systems before criminal and state-actors circumvent existing guardrails.
+
+URL:
+https://www.cybersecuritydive.com/news/google-cloudaccenture/827689/
+
+------------------------------------------------------------
+
+Title:
+Cisco says software vulnerability could let hackers crash firewalls
+
+Published:
+2026-08-12 14:50 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/fzVj4kdp52IOKIDpsqAEeCIdDfmPVnQSSAjo4aa07a8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ2NzE0Nzg4LmpwZw==.webp" /></div></figure>Threat actors have already begun exploiting the flaw, according to the U.S. government.
+
+URL:
+https://www.cybersecuritydive.com/news/cisco-firewall-vulnerabilities-vpn-crash/827688/
+
+------------------------------------------------------------
 
 Title:
 Former BlackFile affiliates linked to extortion campaign targeting private equity
@@ -193,34 +220,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/cve-program-ai-black-hat-def-con/827477/
-
-------------------------------------------------------------
-
-Title:
-Civil-society initiative will pay cybersecurity vendors to protect rural water systems
-
-Published:
-2026-08-10 14:58 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/xuMw_pnwGfNNzvL6WN53aVNXScz73K8FLrmmabeGEb0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" /></div></figure>DEF CON Franklin is seeking philanthropic grants, but its founder said the federal government ultimately needs to step in.
-
-URL:
-https://www.cybersecuritydive.com/news/water-cybersecurity-mdr-services-def-con-franklin/827449/
-
-------------------------------------------------------------
-
-Title:
-Secure development can help turn the tables as AI alters cyber landscape
-
-Published:
-2026-08-10 14:36 UTC
-
-Summary:
-A top Microsoft executive says a shift toward memory safety and other preventative measures can limit the ability to exploit flawed software.
-
-URL:
-https://www.cybersecuritydive.com/news/secure-development-ai-cyber-vulnerabilities-Black-Hat/827435/
 
 ------------------------------------------------------------
 
@@ -255,21 +254,6 @@ https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/
 
 ------------------------------------------------------------
 
-Title:
-The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications
-
-Published:
-2026-08-10 22:00 UTC
-
-Summary:
-Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution.
-The post <a href="https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/">The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
@@ -292,7 +276,7 @@ https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/
 SOURCE : Microsoft Security Response Center
 ============================================================
 
-[Feed error, no entries returned: <unknown>:125:158: not well-formed (invalid token)]
+[Feed error, no entries returned: <unknown>:171:31: not well-formed (invalid token)]
 
 ============================================================
 SOURCE : Google Security Blog
@@ -623,6 +607,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise
 
@@ -653,11 +639,26 @@ https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-bre
 
 ------------------------------------------------------------
 
+Title:
+​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)
+
+Published:
+2026-08-05 16:30 UTC
+
+Summary:
+Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/
+
+------------------------------------------------------------
+
 ============================================================
 FEED ERRORS THIS RUN
 ============================================================
 
 - Trend Micro: text/html; charset=iso-8859-1 is not an XML media type
 - CISA: <unknown>:10:2: mismatched tag
-- Microsoft Security Response Center: <unknown>:125:158: not well-formed (invalid token)
+- Microsoft Security Response Center: <unknown>:171:31: not well-formed (invalid token)
 
