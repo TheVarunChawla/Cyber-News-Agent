@@ -1,10 +1,28 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-13 03:36 UTC_
+_Last run: 2026-08-14 03:34 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
+
+Title:
+Attackers Exploit SharePoint Authentication Bypass After Public PoC Release
+
+Published:
+2026-08-13 06:09 UTC
+
+Summary:
+Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.
+
+The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates.
+
+"The authentication
+
+URL:
+https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html
+
+------------------------------------------------------------
 
 Title:
 Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
@@ -70,102 +88,111 @@ https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html
 
 ------------------------------------------------------------
 
-Title:
-Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws
-
-Published:
-2026-08-12 11:13 UTC
-
-Summary:
-Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.
-
-The most severe of the flaws are listed below -
-
-
-  CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could
-
-URL:
-https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-"City-Forum" data-theft attacks target Salesforce, ServiceNow portals
+Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks
 
 Published:
-2026-08-12 23:07 UTC
+2026-08-14 01:19 UTC
 
 Summary:
-An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]
+You're not alone if you just received an "Apple Threat Notification" saying it detected a "mercenary spyware attack targeted at your iPhone." [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/
+https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Android malware combo takes out loans and relays victims' credit cards
+Ukraine shuts down 94 fraudulent call centers, seize millions in cash
 
 Published:
-2026-08-12 22:22 UTC
+2026-08-13 21:12 UTC
 
 Summary:
-A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]
+Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/
+https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/
 
 ------------------------------------------------------------
 
 Title:
-Hackers exploit critical Adobe Commerce flaw to hijack customer accounts
+Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt
 
 Published:
-2026-08-12 20:54 UTC
+2026-08-13 20:47 UTC
 
 Summary:
-Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]
+An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/
+https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/
 
 ------------------------------------------------------------
 
 Title:
-Hundreds of fake Chrome VPN extensions route traffic through a proxy
+Hackers breach govt webmail while running parallel crypto fraud
 
 Published:
-2026-08-12 18:54 UTC
+2026-08-13 18:15 UTC
 
 Summary:
-More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]
+The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/
+https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/
 
 ------------------------------------------------------------
 
 Title:
-Plug and Pwn attack uses fake USB devices for Windows SYSTEM access
+Microsoft patches LegacyHive Windows zero-day vulnerability
 
 Published:
-2026-08-12 16:05 UTC
+2026-08-13 17:46 UTC
 
 Summary:
-Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]
+Microsoft has released security patches to address a Windows zero-day vulnerability known as "LegacyHive," disclosed after the July 2026 Patch Tuesday. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Researchers find AI-powered hacking tools for sale in underground forums
+
+Published:
+2026-08-13 15:20 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/txInfq9KXNifCy13kep4mK3iXupwc8aCxueVaeSb9fo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2NDQ0MjA0LmpwZw==.webp" /></div></figure>A report shows how criminal actors are lowering the barriers to entry with sophisticated services, without ethical constraints.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-hacking-tools-sale-underground-forums/827807/
+
+------------------------------------------------------------
+
+Title:
+US government will let private companies hack criminal gangs
+
+Published:
+2026-08-13 15:05 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/L6jBsGZ5bPAM8zFGgSu6EnxkLL1E8x00mqBihCO8C9M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3ODE4MjM2LmpwZw==.webp" /></div></figure>The new program, meant to aggressively disrupt costly cybercrime schemes, carries numerous legal and security risks.
+
+URL:
+https://www.cybersecuritydive.com/news/us-private-companies-gangs-cyberattacks-offensive-operations/827805/
+
+------------------------------------------------------------
 
 Title:
 Hackers abuse AI models to find new entry paths
@@ -195,34 +222,6 @@ https://www.cybersecuritydive.com/news/cisco-firewall-vulnerabilities-vpn-crash/
 
 ------------------------------------------------------------
 
-Title:
-Former BlackFile affiliates linked to extortion campaign targeting private equity
-
-Published:
-2026-08-11 15:11 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/v0D5Ajbuzjf7G4SQRuR5yVFGXoGWXxkevKZwUQRcJjs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU2MTc2MTM5LmpwZw==.webp" /></div></figure>Researchers warned that hackers are using voice-phishing attacks to pressure company employees under the guise of providing IT help desk services.
-
-URL:
-https://www.cybersecuritydive.com/news/former-blackfile-extortion-campaign-private-equity/827574/
-
-------------------------------------------------------------
-
-Title:
-CVE Program eyes automation and globalization to weather AI ‘vulnpocalypse’
-
-Published:
-2026-08-11 12:00 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/bTWuw6Fxs9v60UKLOCOigqcLOyxmXfHH6-ZvAfRAny4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzExOTk0Nzc2LmpwZw==.webp" /></div></figure>The vulnerability coordination project has had a rocky few years, but a key leader says it will &ldquo;flourish and improve.&rdquo;
-
-URL:
-https://www.cybersecuritydive.com/news/cve-program-ai-black-hat-def-con/827477/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -239,6 +238,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Kimwolf v7: An Evolution of the Kimwolf Botnet
 
@@ -254,21 +255,65 @@ https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/
 
 ------------------------------------------------------------
 
+Title:
+The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications
+
+Published:
+2026-08-10 22:00 UTC
+
+Summary:
+Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution.
+The post <a href="https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/">The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/
+
+------------------------------------------------------------
+
+Title:
+Inside the Modern SOC: The Identity Front Door
+
+Published:
+2026-08-07 23:00 UTC
+
+Summary:
+Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond.
+The post <a href="https://unit42.paloaltonetworks.com/soc-identity-front-door/">Inside the Modern SOC: The Identity Front Door</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/soc-identity-front-door/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
 
 Title:
-Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities
+Curiouser and Curiouser
 
 Published:
-2026-08-11 22:21 UTC
+2026-08-13 18:00 UTC
 
 Summary:
-Microsoft has released its monthly security update for August 2026, which includes 421 vulnerabilities affecting a range of products, including 62 that Microsoft marked as "critical."
+In this edition of the Threat Source newsletter, William reflects on the “Make Hazel a Hacker” segment in Beers with Talos, and how cybersecurity is a field where questions can lead to multiple correct answers.
 
 URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/
+https://blog.talosintelligence.com/curiouser-and-curiouser/
+
+------------------------------------------------------------
+
+Title:
+Dissecting the JWR phishing framework
+
+Published:
+2026-08-13 10:00 UTC
+
+Summary:
+Cisco Talos recently identified an undocumented phishing framework, internally branded "JWR" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.
+
+URL:
+https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/
 
 ------------------------------------------------------------
 
@@ -276,7 +321,7 @@ https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/
 SOURCE : Microsoft Security Response Center
 ============================================================
 
-[Feed error, no entries returned: <unknown>:171:31: not well-formed (invalid token)]
+[Feed error, no entries returned: <unknown>:125:158: not well-formed (invalid token)]
 
 ============================================================
 SOURCE : Google Security Blog
@@ -660,5 +705,5 @@ FEED ERRORS THIS RUN
 
 - Trend Micro: text/html; charset=iso-8859-1 is not an XML media type
 - CISA: <unknown>:10:2: mismatched tag
-- Microsoft Security Response Center: <unknown>:171:31: not well-formed (invalid token)
+- Microsoft Security Response Center: <unknown>:125:158: not well-formed (invalid token)
 
