@@ -1,6 +1,6 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-14 03:34 UTC_
+_Last run: 2026-08-15 02:29 UTC_
 
 ============================================================
 SOURCE : The Hacker News
@@ -24,147 +24,97 @@ https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html
 
 ------------------------------------------------------------
 
-Title:
-Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
-
-Published:
-2026-08-12 17:39 UTC
-
-Summary:
-The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.
-
-The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and
-
-URL:
-https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html
-
-------------------------------------------------------------
-
-Title:
-737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
-
-Published:
-2026-08-12 14:09 UTC
-
-Summary:
-A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.
-
-The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66
-
-URL:
-https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html
-
-------------------------------------------------------------
-
-Title:
-OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning
-
-Published:
-2026-08-12 11:47 UTC
-
-Summary:
-A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.
-
-The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,
-
-URL:
-https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html
-
-------------------------------------------------------------
-
-Title:
-Enterprise Defenses Recovered at the Edge and Collapsed Inside
-
-Published:
-2026-08-12 11:41 UTC
-
-Summary:
-Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.
-
-According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness
-
-URL:
-https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks
+How Anthropic plans to watermark Claude's AI-generated text
 
 Published:
-2026-08-14 01:19 UTC
+2026-08-14 23:24 UTC
 
 Summary:
-You're not alone if you just received an "Apple Threat Notification" saying it detected a "mercenary spyware attack targeted at your iPhone." [...]
+It could soon become easier to identify AI-generated content, even if it's not the usual "It's Not X, it's Y" type of post you'd come across on LinkedIn and other socials. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/
+https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/
 
 ------------------------------------------------------------
 
 Title:
-Ukraine shuts down 94 fraudulent call centers, seize millions in cash
+Hackers arrested over €30M bank fraud exploiting service provider flaw
 
 Published:
-2026-08-13 21:12 UTC
+2026-08-14 18:04 UTC
 
 Summary:
-Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]
+Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/
+https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/
 
 ------------------------------------------------------------
 
 Title:
-Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt
+Hackers exploit macOS Screen Sharing flaw to deploy Monero miner
 
 Published:
-2026-08-13 20:47 UTC
+2026-08-14 14:59 UTC
 
 Summary:
-An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]
+The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/
 
 ------------------------------------------------------------
 
 Title:
-Hackers breach govt webmail while running parallel crypto fraud
+The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI
 
 Published:
-2026-08-13 18:15 UTC
+2026-08-14 14:00 UTC
 
 Summary:
-The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]
+Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/
+https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft patches LegacyHive Windows zero-day vulnerability
+Max severity SAP Commerce Cloud flaw now targeted in attacks
 
 Published:
-2026-08-13 17:46 UTC
+2026-08-14 13:45 UTC
 
 Summary:
-Microsoft has released security patches to address a Windows zero-day vulnerability known as "LegacyHive," disclosed after the July 2026 Patch Tuesday. [...]
+A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/
+https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+Researchers confirm breach claims by data-extortion group
+
+Published:
+2026-08-14 15:32 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp" /></div></figure>The exfiltrated data may be related to misconfiguration of Microsoft Power Page portals, according to a new report.
+
+URL:
+https://www.cybersecuritydive.com/news/researchers-confirm-breach-claims-data-extortion/827926/
+
+------------------------------------------------------------
 
 Title:
 Researchers find AI-powered hacking tools for sale in underground forums
@@ -195,30 +145,16 @@ https://www.cybersecuritydive.com/news/us-private-companies-gangs-cyberattacks-o
 ------------------------------------------------------------
 
 Title:
-Hackers abuse AI models to find new entry paths
+Cisco security revenue jumps 14% as agentic AI sharpens cyberattacks
 
 Published:
-2026-08-12 15:01 UTC
+2026-08-13 14:42 UTC
 
 Summary:
-Network defenders are racing to secure their IT systems before criminal and state-actors circumvent existing guardrails.
+<figure><div><img src="https://imgproxy.divecdn.com/-fpOlxvgYUoe5Kdmlt20ipTwTCetiG3wveKLd9ZqUKo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01OTE1OTAwODYuanBn.webp" /></div></figure>AI agents are driving demand for cybersecurity tools as companies confront increasingly sophisticated threats, CEO Chuck Robbins said.
 
 URL:
-https://www.cybersecuritydive.com/news/google-cloudaccenture/827689/
-
-------------------------------------------------------------
-
-Title:
-Cisco says software vulnerability could let hackers crash firewalls
-
-Published:
-2026-08-12 14:50 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/fzVj4kdp52IOKIDpsqAEeCIdDfmPVnQSSAjo4aa07a8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ2NzE0Nzg4LmpwZw==.webp" /></div></figure>Threat actors have already begun exploiting the flaw, according to the U.S. government.
-
-URL:
-https://www.cybersecuritydive.com/news/cisco-firewall-vulnerabilities-vpn-crash/827688/
+https://www.cybersecuritydive.com/news/cisco-security-revenue-surges-agentic-ai-sharpens-cyberattacks/827896/
 
 ------------------------------------------------------------
 
