@@ -1,10 +1,12 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-15 02:29 UTC_
+_Last run: 2026-08-16 02:38 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Attackers Exploit SharePoint Authentication Bypass After Public PoC Release
@@ -24,9 +26,55 @@ https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html
 
 ------------------------------------------------------------
 
+Title:
+Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
+
+Published:
+2026-08-12 17:39 UTC
+
+Summary:
+The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.
+
+The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and
+
+URL:
+https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html
+
+------------------------------------------------------------
+
+Title:
+737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
+
+Published:
+2026-08-12 14:09 UTC
+
+Summary:
+A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.
+
+The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66
+
+URL:
+https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+New Evooo1Bot Linux botnet turns routers into traffic relay nodes
+
+Published:
+2026-08-15 14:14 UTC
+
+Summary:
+A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/
+
+------------------------------------------------------------
 
 Title:
 How Anthropic plans to watermark Claude's AI-generated text
@@ -84,20 +132,6 @@ https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinkin
 
 ------------------------------------------------------------
 
-Title:
-Max severity SAP Commerce Cloud flaw now targeted in attacks
-
-Published:
-2026-08-14 13:45 UTC
-
-Summary:
-A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
@@ -113,48 +147,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/researchers-confirm-breach-claims-data-extortion/827926/
-
-------------------------------------------------------------
-
-Title:
-Researchers find AI-powered hacking tools for sale in underground forums
-
-Published:
-2026-08-13 15:20 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/txInfq9KXNifCy13kep4mK3iXupwc8aCxueVaeSb9fo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2NDQ0MjA0LmpwZw==.webp" /></div></figure>A report shows how criminal actors are lowering the barriers to entry with sophisticated services, without ethical constraints.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-hacking-tools-sale-underground-forums/827807/
-
-------------------------------------------------------------
-
-Title:
-US government will let private companies hack criminal gangs
-
-Published:
-2026-08-13 15:05 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/L6jBsGZ5bPAM8zFGgSu6EnxkLL1E8x00mqBihCO8C9M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3ODE4MjM2LmpwZw==.webp" /></div></figure>The new program, meant to aggressively disrupt costly cybercrime schemes, carries numerous legal and security risks.
-
-URL:
-https://www.cybersecuritydive.com/news/us-private-companies-gangs-cyberattacks-offensive-operations/827805/
-
-------------------------------------------------------------
-
-Title:
-Cisco security revenue jumps 14% as agentic AI sharpens cyberattacks
-
-Published:
-2026-08-13 14:42 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-fpOlxvgYUoe5Kdmlt20ipTwTCetiG3wveKLd9ZqUKo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01OTE1OTAwODYuanBn.webp" /></div></figure>AI agents are driving demand for cybersecurity tools as companies confront increasingly sophisticated threats, CEO Chuck Robbins said.
-
-URL:
-https://www.cybersecuritydive.com/news/cisco-security-revenue-surges-agentic-ai-sharpens-cyberattacks/827896/
 
 ------------------------------------------------------------
 
@@ -225,6 +217,8 @@ https://unit42.paloaltonetworks.com/soc-identity-front-door/
 SOURCE : Cisco Talos
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Curiouser and Curiouser
 
@@ -250,6 +244,20 @@ Cisco Talos recently identified an undocumented phishing framework, internally b
 
 URL:
 https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/
+
+------------------------------------------------------------
+
+Title:
+Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities
+
+Published:
+2026-08-11 22:21 UTC
+
+Summary:
+Microsoft has released its monthly security update for August 2026, which includes 421 vulnerabilities affecting a range of products, including 62 that Microsoft marked as "critical."
+
+URL:
+https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/
 
 ------------------------------------------------------------
 
