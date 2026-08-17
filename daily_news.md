@@ -1,6 +1,6 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-16 02:38 UTC_
+_Last run: 2026-08-17 02:37 UTC_
 
 ============================================================
 SOURCE : The Hacker News
@@ -63,6 +63,62 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
+SafePal data breach impacts 39,798 customers, stolen info for sale
+
+Published:
+2026-08-16 23:47 UTC
+
+Summary:
+Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/
+
+------------------------------------------------------------
+
+Title:
+Anthropic confirms Claude is down in major outage affecting multiple services
+
+Published:
+2026-08-16 22:28 UTC
+
+Summary:
+Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/
+
+------------------------------------------------------------
+
+Title:
+Large-scale DDoS attacks disrupted Threema secure messaging service
+
+Published:
+2026-08-16 17:29 UTC
+
+Summary:
+Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/
+
+------------------------------------------------------------
+
+Title:
+New AmnesiaStealer macOS malware hijacks browser sessions via remote control
+
+Published:
+2026-08-16 15:07 UTC
+
+Summary:
+A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/
+
+------------------------------------------------------------
+
+Title:
 New Evooo1Bot Linux botnet turns routers into traffic relay nodes
 
 Published:
@@ -76,65 +132,11 @@ https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-
 
 ------------------------------------------------------------
 
-Title:
-How Anthropic plans to watermark Claude's AI-generated text
-
-Published:
-2026-08-14 23:24 UTC
-
-Summary:
-It could soon become easier to identify AI-generated content, even if it's not the usual "It's Not X, it's Y" type of post you'd come across on LinkedIn and other socials. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/
-
-------------------------------------------------------------
-
-Title:
-Hackers arrested over €30M bank fraud exploiting service provider flaw
-
-Published:
-2026-08-14 18:04 UTC
-
-Summary:
-Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/
-
-------------------------------------------------------------
-
-Title:
-Hackers exploit macOS Screen Sharing flaw to deploy Monero miner
-
-Published:
-2026-08-14 14:59 UTC
-
-Summary:
-The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/
-
-------------------------------------------------------------
-
-Title:
-The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI
-
-Published:
-2026-08-14 14:00 UTC
-
-Summary:
-Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Researchers confirm breach claims by data-extortion group
@@ -147,6 +149,34 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/researchers-confirm-breach-claims-data-extortion/827926/
+
+------------------------------------------------------------
+
+Title:
+Researchers find AI-powered hacking tools for sale in underground forums
+
+Published:
+2026-08-13 15:20 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/txInfq9KXNifCy13kep4mK3iXupwc8aCxueVaeSb9fo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2NDQ0MjA0LmpwZw==.webp" /></div></figure>A report shows how criminal actors are lowering the barriers to entry with sophisticated services, without ethical constraints.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-hacking-tools-sale-underground-forums/827807/
+
+------------------------------------------------------------
+
+Title:
+US government will let private companies hack criminal gangs
+
+Published:
+2026-08-13 15:05 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/L6jBsGZ5bPAM8zFGgSu6EnxkLL1E8x00mqBihCO8C9M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3ODE4MjM2LmpwZw==.webp" /></div></figure>The new program, meant to aggressively disrupt costly cybercrime schemes, carries numerous legal and security risks.
+
+URL:
+https://www.cybersecuritydive.com/news/us-private-companies-gangs-cyberattacks-offensive-operations/827805/
 
 ------------------------------------------------------------
 
