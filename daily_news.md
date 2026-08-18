@@ -1,60 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-17 02:37 UTC_
+_Last run: 2026-08-18 02:32 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Attackers Exploit SharePoint Authentication Bypass After Public PoC Release
+Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects
 
 Published:
-2026-08-13 06:09 UTC
+2026-08-17 21:03 UTC
 
 Summary:
-Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.
+GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.
 
-The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates.
+The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4.
 
-"The authentication
+Released on
 
 URL:
-https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html
+https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html
 
 ------------------------------------------------------------
 
 Title:
-Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
+Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection
 
 Published:
-2026-08-12 17:39 UTC
+2026-08-17 18:44 UTC
 
 Summary:
-The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.
+Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.
 
-The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and
+The issue was present in .github/workflows/jira_issue.yml, which ran when a
 
 URL:
-https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html
+https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html
 
 ------------------------------------------------------------
 
 Title:
-737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
+Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads
 
 Published:
-2026-08-12 14:09 UTC
+2026-08-17 18:22 UTC
 
 Summary:
-A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.
+A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.
 
-The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66
+The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was discovered and reported by a security researcher who goes by the online alias "
 
 URL:
-https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html
+https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html
+
+------------------------------------------------------------
+
+Title:
+Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic
+
+Published:
+2026-08-17 17:41 UTC
+
+Summary:
+Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.
+
+Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the
+
+URL:
+https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html
+
+------------------------------------------------------------
+
+Title:
+⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More
+
+Published:
+2026-08-17 13:23 UTC
+
+Summary:
+The expensive attacks are not always the clever ones.
+
+This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely.
+
+So, nothing magical. Just a
+
+URL:
+https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html
 
 ------------------------------------------------------------
 
@@ -63,72 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-SafePal data breach impacts 39,798 customers, stolen info for sale
+Hacker claims 3.6 million Azure account records stolen from major companies
 
 Published:
-2026-08-16 23:47 UTC
+2026-08-17 19:35 UTC
 
 Summary:
-Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]
+A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/
+https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/
 
 ------------------------------------------------------------
 
 Title:
-Anthropic confirms Claude is down in major outage affecting multiple services
+Pokémon Center data breach exposes customer info, cancels some orders
 
 Published:
-2026-08-16 22:28 UTC
+2026-08-17 19:12 UTC
 
 Summary:
-Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]
+Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/
+https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/
 
 ------------------------------------------------------------
 
 Title:
-Large-scale DDoS attacks disrupted Threema secure messaging service
+Microsoft confirms GitHub is down worldwide
 
 Published:
-2026-08-16 17:29 UTC
+2026-08-17 14:47 UTC
 
 Summary:
-Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]
+GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/
 
 ------------------------------------------------------------
 
 Title:
-New AmnesiaStealer macOS malware hijacks browser sessions via remote control
+Certighost and the Privilege Hiding in Your Certificate Authority
 
 Published:
-2026-08-16 15:07 UTC
+2026-08-17 14:00 UTC
 
 Summary:
-A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]
+CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/
+https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/
 
 ------------------------------------------------------------
 
 Title:
-New Evooo1Bot Linux botnet turns routers into traffic relay nodes
+Windows Server 2022 reaches end of mainstream support in 60 days
 
 Published:
-2026-08-15 14:14 UTC
+2026-08-17 12:33 UTC
 
 Summary:
-A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]
+Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/
+https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/
 
 ------------------------------------------------------------
 
@@ -136,47 +168,45 @@ https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Researchers confirm breach claims by data-extortion group
+Critical flaw in SAP Commerce Cloud faces initial exploitation attempts
 
 Published:
-2026-08-14 15:32 UTC
+2026-08-17 15:26 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp" /></div></figure>The exfiltrated data may be related to misconfiguration of Microsoft Power Page portals, according to a new report.
+<figure><div><img src="https://imgproxy.divecdn.com/pq6u43gClZ2Fwiip_mhbs6yxJlG2k27A4V1lGHsfpHM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgwNzk1NzE1X1pOZ0YzVzIuanBn.webp" /></div></figure>The vulnerability has a maximum severity score of 10, indicating serious potential impact and relative ease to exploit by an attacker.
 
 URL:
-https://www.cybersecuritydive.com/news/researchers-confirm-breach-claims-data-extortion/827926/
+https://www.cybersecuritydive.com/news/critical-flaw-sap-commerce-cloud-initial-exploitation/828023/
 
 ------------------------------------------------------------
 
 Title:
-Researchers find AI-powered hacking tools for sale in underground forums
+Major genetic-testing firm says hack compromised sensitive patient data
 
 Published:
-2026-08-13 15:20 UTC
+2026-08-17 14:56 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/txInfq9KXNifCy13kep4mK3iXupwc8aCxueVaeSb9fo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2NDQ0MjA0LmpwZw==.webp" /></div></figure>A report shows how criminal actors are lowering the barriers to entry with sophisticated services, without ethical constraints.
+<figure><div><img src="https://imgproxy.divecdn.com/SberBz6eizNSL-8IzeFv1DmRgUd1TOKfezbv7ONMHL0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3MDczNjI5LmpwZw==.webp" /></div></figure>The June breach, which also exposed employees&rsquo; information, underscored the supply-chain risks facing the healthcare sector.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-hacking-tools-sale-underground-forums/827807/
+https://www.cybersecuritydive.com/news/baylor-genetics-cyberattack-compromise-patient-data-genetic-testing/828019/
 
 ------------------------------------------------------------
 
 Title:
-US government will let private companies hack criminal gangs
+Why more security data has blurred companies’ view of risk
 
 Published:
-2026-08-13 15:05 UTC
+2026-08-17 09:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/L6jBsGZ5bPAM8zFGgSu6EnxkLL1E8x00mqBihCO8C9M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3ODE4MjM2LmpwZw==.webp" /></div></figure>The new program, meant to aggressively disrupt costly cybercrime schemes, carries numerous legal and security risks.
+More security data can create blind spots. Here&rsquo;s how to regain visibility.
 
 URL:
-https://www.cybersecuritydive.com/news/us-private-companies-gangs-cyberattacks-offensive-operations/827805/
+https://www.cybersecuritydive.com/spons/why-more-security-data-has-blurred-companies-view-of-risk/827640/
 
 ------------------------------------------------------------
 
