@@ -1,92 +1,97 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-18 02:32 UTC_
+_Last run: 2026-08-18 17:49 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects
+AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files
 
 Published:
-2026-08-17 21:03 UTC
+2026-08-18 12:38 UTC
 
 Summary:
-GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.
+Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions.
 
-The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4.
-
-Released on
+The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding
 
 URL:
-https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html
+https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html
 
 ------------------------------------------------------------
 
 Title:
-Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection
+TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks
 
 Published:
-2026-08-17 18:44 UTC
+2026-08-18 12:38 UTC
 
 Summary:
-Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.
+Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.
 
-The issue was present in .github/workflows/jira_issue.yml, which ran when a
+"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services," Ontinue said in a technical report shared with The Hacker News. "Tasking flows through SharePoint Online file
 
 URL:
-https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html
+https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html
 
 ------------------------------------------------------------
 
 Title:
-Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads
+One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025
 
 Published:
-2026-08-17 18:22 UTC
+2026-08-18 11:30 UTC
 
 Summary:
-A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.
+A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco.
 
-The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was discovered and reported by a security researcher who goes by the online alias "
+The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a
 
 URL:
-https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html
+https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html
 
 ------------------------------------------------------------
 
 Title:
-Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic
+16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets
 
 Published:
-2026-08-17 17:41 UTC
+2026-08-18 11:20 UTC
 
 Summary:
-Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.
+Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.
 
-Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the
+OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below -
+
+
+  ubnuler
+  ubnlder
+  ri18nr
+  reaker
+  rakier
+  orakw
+  joxn
 
 URL:
-https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html
+https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html
 
 ------------------------------------------------------------
 
 Title:
-⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More
+SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers
 
 Published:
-2026-08-17 13:23 UTC
+2026-08-18 09:10 UTC
 
 Summary:
-The expensive attacks are not always the clever ones.
+SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers.
 
-This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely.
-
-So, nothing magical. Just a
+The hardware wallet maker said all affected customers were notified individually by email on August 16 from security@safepal.com, with the subject line "[Important] Your SafePal Order
 
 URL:
-https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html
+https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html
 
 ------------------------------------------------------------
 
@@ -95,78 +100,106 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hacker claims 3.6 million Azure account records stolen from major companies
+Clop created custom web shell for Windchill data theft attacks
 
 Published:
-2026-08-17 19:35 UTC
+2026-08-18 17:29 UTC
 
 Summary:
-A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]
+A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/
+https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Pokémon Center data breach exposes customer info, cancels some orders
+Your Controls Block Known Attacks. What About the Behavior?
 
 Published:
-2026-08-17 19:12 UTC
+2026-08-18 14:01 UTC
 
 Summary:
-Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]
+Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/
+https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft confirms GitHub is down worldwide
+Microsoft tests faster Windows File Explorer, new context menu
 
 Published:
-2026-08-17 14:47 UTC
+2026-08-18 11:14 UTC
 
 Summary:
-GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]
+Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/
 
 ------------------------------------------------------------
 
 Title:
-Certighost and the Privilege Hiding in Your Certificate Authority
+CISA: Windows Task Host flaw now exploited by ransomware gangs
 
 Published:
-2026-08-17 14:00 UTC
+2026-08-18 10:32 UTC
 
 Summary:
-CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/
+https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/
 
 ------------------------------------------------------------
 
 Title:
-Windows Server 2022 reaches end of mainstream support in 60 days
+Microsoft confirms outage affecting search in Microsoft 365 apps
 
 Published:
-2026-08-17 12:33 UTC
+2026-08-18 09:24 UTC
 
 Summary:
-Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]
+Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+GitLab issues emergency patch for critical code-injection flaw
+
+Published:
+2026-08-18 14:52 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/l_5HyPFfHePPaXlsLBbSZ8Bs_QueJuy4Gb1ph3n0xJU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQzODkwNjUzX0tFbnN0WGMuanBn.webp" /></div></figure>Researchers warn that unauthenticated attackers would be able to delete or modify publicly accessible projects.
+
+URL:
+https://www.cybersecuritydive.com/news/gitlab-emergency-patch-critical-code-injection/828151/
+
+------------------------------------------------------------
+
+Title:
+AI-powered vulnerability clearinghouse faces deep skepticism, major challenges
+
+Published:
+2026-08-18 12:00 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/Wnhhm1Zk8pi1yQozgrpM6_H6Z0RXw5O7xY4qvTq6Kf8/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI2NzA5NzMwXzBvTmUyQjYuanBn.webp" /></div></figure>The U.S. government&rsquo;s promises about the &ldquo;Gold Eagle&rdquo; coordination program are overblown, experts said, but the initiative could help organizations prioritize patching and mitigation.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-vulnerability-clearinghouse-us-government-challenges/827710/
+
+------------------------------------------------------------
 
 Title:
 Critical flaw in SAP Commerce Cloud faces initial exploitation attempts
