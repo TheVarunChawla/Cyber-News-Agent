@@ -1,10 +1,58 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-18 17:49 UTC_
+_Last run: 2026-08-19 02:34 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
+
+Title:
+Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps
+
+Published:
+2026-08-18 17:47 UTC
+
+Summary:
+Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session.
+
+The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced
+
+URL:
+https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html
+
+------------------------------------------------------------
+
+Title:
+Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets
+
+Published:
+2026-08-18 17:44 UTC
+
+Summary:
+Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts.
+
+According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -
+
+URL:
+https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html
+
+------------------------------------------------------------
+
+Title:
+Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000
+
+Published:
+2026-08-18 16:58 UTC
+
+Summary:
+A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.
+
+"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous," GuidePoint Research
+
+URL:
+https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html
+
+------------------------------------------------------------
 
 Title:
 AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files
@@ -38,66 +86,23 @@ https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html
 
 ------------------------------------------------------------
 
-Title:
-One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025
-
-Published:
-2026-08-18 11:30 UTC
-
-Summary:
-A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco.
-
-The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a
-
-URL:
-https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html
-
-------------------------------------------------------------
-
-Title:
-16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets
-
-Published:
-2026-08-18 11:20 UTC
-
-Summary:
-Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.
-
-OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below -
-
-
-  ubnuler
-  ubnlder
-  ri18nr
-  reaker
-  rakier
-  orakw
-  joxn
-
-URL:
-https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html
-
-------------------------------------------------------------
-
-Title:
-SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers
-
-Published:
-2026-08-18 09:10 UTC
-
-Summary:
-SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers.
-
-The hardware wallet maker said all affected customers were notified individually by email on August 16 from security@safepal.com, with the subject line "[Important] Your SafePal Order
-
-URL:
-https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : BleepingComputer
 ============================================================
+
+Title:
+Comcast turns your Xfinity WiFi into a home motion detector
+
+Published:
+2026-08-18 20:14 UTC
+
+Summary:
+Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/
+
+------------------------------------------------------------
 
 Title:
 Clop created custom web shell for Windchill data theft attacks
@@ -155,23 +160,23 @@ https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-e
 
 ------------------------------------------------------------
 
-Title:
-Microsoft confirms outage affecting search in Microsoft 365 apps
-
-Published:
-2026-08-18 09:24 UTC
-
-Summary:
-Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+Title:
+DOJ charges 17 people in Iran-backed hacking campaign against US
+
+Published:
+2026-08-18 21:09 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/h5uJalb_uweTP14BDkaVmMuGxE1sk88SOhsAKxbTh9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ET0pfMy5qcGc=.webp" /></div></figure>Officials allege an IRGC-linked organization was behind a coordinated effort to steal research from American universities, companies and government agencies.
+
+URL:
+https://www.cybersecuritydive.com/news/doj-charges-17-iran-hacking-campaign-us-university/828212/
+
+------------------------------------------------------------
 
 Title:
 GitLab issues emergency patch for critical code-injection flaw
@@ -194,7 +199,7 @@ Published:
 2026-08-18 12:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Wnhhm1Zk8pi1yQozgrpM6_H6Z0RXw5O7xY4qvTq6Kf8/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI2NzA5NzMwXzBvTmUyQjYuanBn.webp" /></div></figure>The U.S. government&rsquo;s promises about the &ldquo;Gold Eagle&rdquo; coordination program are overblown, experts said, but the initiative could help organizations prioritize patching and mitigation.
+<figure><div><img src="https://imgproxy.divecdn.com/Wnhhm1Zk8pi1yQozgrpM6_H6Z0RXw5O7xY4qvTq6Kf8/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI2NzA5NzMwXzBvTmUyQjYuanBn.webp" /></div></figure>The U.S. government&rsquo;s promises about the Gold Eagle coordination program are overblown, experts said, but the initiative could help organizations prioritize patching and mitigation.
 
 URL:
 https://www.cybersecuritydive.com/news/ai-vulnerability-clearinghouse-us-government-challenges/827710/
@@ -229,20 +234,6 @@ https://www.cybersecuritydive.com/news/baylor-genetics-cyberattack-compromise-pa
 
 ------------------------------------------------------------
 
-Title:
-Why more security data has blurred companies’ view of risk
-
-Published:
-2026-08-17 09:00 UTC
-
-Summary:
-More security data can create blind spots. Here&rsquo;s how to regain visibility.
-
-URL:
-https://www.cybersecuritydive.com/spons/why-more-security-data-has-blurred-companies-view-of-risk/827640/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -259,50 +250,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Kimwolf v7: An Evolution of the Kimwolf Botnet
+Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)
 
 Published:
-2026-08-11 10:00 UTC
+2026-08-18 19:05 UTC
 
 Summary:
-Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing.
-The post <a href="https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/">Kimwolf v7: An Evolution of the Kimwolf Botnet</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. 
+The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-attacks/">Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/
-
-------------------------------------------------------------
-
-Title:
-The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications
-
-Published:
-2026-08-10 22:00 UTC
-
-Summary:
-Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution.
-The post <a href="https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/">The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/
-
-------------------------------------------------------------
-
-Title:
-Inside the Modern SOC: The Identity Front Door
-
-Published:
-2026-08-07 23:00 UTC
-
-Summary:
-Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond.
-The post <a href="https://unit42.paloaltonetworks.com/soc-identity-front-door/">Inside the Modern SOC: The Identity Front Door</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/soc-identity-front-door/
+https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
 
 ------------------------------------------------------------
 
@@ -689,50 +648,18 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise
+Hunting MacSync Stealer infrastructure through behavioral pivots
 
 Published:
-2026-08-10 16:00 UTC
+2026-08-18 17:08 UTC
 
 Summary:
-Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/">Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/">Hunting MacSync Stealer infrastructure through behavioral pivots</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/
-
-------------------------------------------------------------
-
-Title:
-DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure
-
-Published:
-2026-08-10 15:00 UTC
-
-Summary:
-Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/">DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/
-
-------------------------------------------------------------
-
-Title:
-​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)
-
-Published:
-2026-08-05 16:30 UTC
-
-Summary:
-Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/
+https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/
 
 ------------------------------------------------------------
 
