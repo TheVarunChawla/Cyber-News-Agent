@@ -1,88 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-19 02:34 UTC_
+_Last run: 2026-08-21 02:40 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps
+Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads
 
 Published:
-2026-08-18 17:47 UTC
+2026-08-20 20:22 UTC
 
 Summary:
-Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session.
+The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation.
 
-The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced
+The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner
 
 URL:
-https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html
+https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html
 
 ------------------------------------------------------------
 
 Title:
-Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets
+Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts
 
 Published:
-2026-08-18 17:44 UTC
+2026-08-20 19:59 UTC
 
 Summary:
-Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts.
+Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S.
 
-According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -
+These clusters include UNC6293, UNC7005, and UNC5976.
+
+"These clusters engage in persistent, adaptive
 
 URL:
-https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html
+https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html
 
 ------------------------------------------------------------
 
 Title:
-Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000
+ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More
 
 Published:
-2026-08-18 16:58 UTC
+2026-08-20 17:23 UTC
 
 Summary:
-A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.
+A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.
 
-"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous," GuidePoint Research
+Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage.
+
+Nothing here needs
 
 URL:
-https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html
+https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html
 
 ------------------------------------------------------------
 
 Title:
-AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files
+AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure
 
 Published:
-2026-08-18 12:38 UTC
+2026-08-20 16:59 UTC
 
 Summary:
-Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions.
+The U.S. government on Wednesday warned of an "active threat" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.
 
-The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding
+The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That
 
 URL:
-https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html
+https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html
 
 ------------------------------------------------------------
 
 Title:
-TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks
+New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data
 
 Published:
-2026-08-18 12:38 UTC
+2026-08-20 14:36 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.
+Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page.
 
-"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services," Ontinue said in a technical report shared with The Hacker News. "Tasking flows through SharePoint Online file
+The AI security company, which has codenamed the technique "Cryptographic Context Injection," said the
 
 URL:
-https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html
+https://thehackernews.com/2026/08/new-cryptographic-context-injection.html
 
 ------------------------------------------------------------
 
@@ -91,72 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Comcast turns your Xfinity WiFi into a home motion detector
+Hackers poison arrayref Rust crate to push infostealer malware
 
 Published:
-2026-08-18 20:14 UTC
+2026-08-20 17:53 UTC
 
 Summary:
-Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]
+Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/
+https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/
 
 ------------------------------------------------------------
 
 Title:
-Clop created custom web shell for Windchill data theft attacks
+Critical Elementor Pro bug exposes WordPress sites to RCE attacks
 
 Published:
-2026-08-18 17:29 UTC
+2026-08-20 14:39 UTC
 
 Summary:
-A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]
+A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/
+https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Your Controls Block Known Attacks. What About the Behavior?
+How MSPs can catch phishing attacks email filters miss
 
 Published:
-2026-08-18 14:01 UTC
+2026-08-20 14:01 UTC
 
 Summary:
-Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]
+AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/
+https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft tests faster Windows File Explorer, new context menu
+Citrix urges admins to patch new NetScaler flaws as soon as possible
 
 Published:
-2026-08-18 11:14 UTC
+2026-08-20 12:14 UTC
 
 Summary:
-Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]
+Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/
+https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/
 
 ------------------------------------------------------------
 
 Title:
-CISA: Windows Task Host flaw now exploited by ransomware gangs
+CISA warns of hackers exploiting critical MLflow vulnerability
 
 Published:
-2026-08-18 10:32 UTC
+2026-08-20 11:06 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]
+The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/
 
 ------------------------------------------------------------
 
@@ -165,72 +169,58 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-DOJ charges 17 people in Iran-backed hacking campaign against US
+Fitch explains how water, healthcare organizations can keep strong credit ratings despite cyberattacks
 
 Published:
-2026-08-18 21:09 UTC
+2026-08-20 14:45 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/h5uJalb_uweTP14BDkaVmMuGxE1sk88SOhsAKxbTh9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ET0pfMy5qcGc=.webp" /></div></figure>Officials allege an IRGC-linked organization was behind a coordinated effort to steal research from American universities, companies and government agencies.
+<figure><div><img src="https://imgproxy.divecdn.com/rnZNGbn13XtWEI9eiootqrhWQ3lRXXxAaSzsQPrb_1s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYyODk1NjEyLmpwZw==.webp" /></div></figure>Resilience, not prevention, is key, analysts at the credit-rating agency said in a pair of new reports.
 
 URL:
-https://www.cybersecuritydive.com/news/doj-charges-17-iran-hacking-campaign-us-university/828212/
+https://www.cybersecuritydive.com/news/water-healthcare-cyberattacks-credit-ratings-fitch/828384/
 
 ------------------------------------------------------------
 
 Title:
-GitLab issues emergency patch for critical code-injection flaw
+What we know so far about the hacking campaign against US water systems
 
 Published:
-2026-08-18 14:52 UTC
+2026-08-20 14:07 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/l_5HyPFfHePPaXlsLBbSZ8Bs_QueJuy4Gb1ph3n0xJU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQzODkwNjUzX0tFbnN0WGMuanBn.webp" /></div></figure>Researchers warn that unauthenticated attackers would be able to delete or modify publicly accessible projects.
+<figure><div><img src="https://imgproxy.divecdn.com/ah5tb7z6WD3MuLRII8WfD_LBaseyXb9wRfNYqn8tIek/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDUxNzY4MjguanBn.webp" /></div></figure>Support is growing for stricter oversight and increased financial resources for utilities in the wake of a cyberattack spree, suspected to be the work of Iran-linked threat groups.
 
 URL:
-https://www.cybersecuritydive.com/news/gitlab-emergency-patch-critical-code-injection/828151/
+https://www.cybersecuritydive.com/news/what-we-know-so-far-about-the-hacking-campaign-against-us-water-systems/828374/
 
 ------------------------------------------------------------
 
 Title:
-AI-powered vulnerability clearinghouse faces deep skepticism, major challenges
+AI-backed campaign targeting vulnerable Siemens S7 devices, CISA and FBI warn
 
 Published:
-2026-08-18 12:00 UTC
+2026-08-19 19:37 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Wnhhm1Zk8pi1yQozgrpM6_H6Z0RXw5O7xY4qvTq6Kf8/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI2NzA5NzMwXzBvTmUyQjYuanBn.webp" /></div></figure>The U.S. government&rsquo;s promises about the Gold Eagle coordination program are overblown, experts said, but the initiative could help organizations prioritize patching and mitigation.
+<figure><div><img src="https://imgproxy.divecdn.com/Nfegfw6TfExQXvRSjDX3UBl6csGE_FxPOxqRT4QHhd4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkxNzU3MzI3LmpwZw==.webp" /></div></figure>Hackers are developing scripts disguised as legitimate software in attacks aimed at multiple industries, including energy and water.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-vulnerability-clearinghouse-us-government-challenges/827710/
+https://www.cybersecuritydive.com/news/ai-hackers-siemens-s7-devices-cisa-fbi/828321/
 
 ------------------------------------------------------------
 
 Title:
-Critical flaw in SAP Commerce Cloud faces initial exploitation attempts
+Ransomware disproportionately targets medium-sized firms, straining customer relationships
 
 Published:
-2026-08-17 15:26 UTC
+2026-08-19 14:44 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/pq6u43gClZ2Fwiip_mhbs6yxJlG2k27A4V1lGHsfpHM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgwNzk1NzE1X1pOZ0YzVzIuanBn.webp" /></div></figure>The vulnerability has a maximum severity score of 10, indicating serious potential impact and relative ease to exploit by an attacker.
+<figure><div><img src="https://imgproxy.divecdn.com/wFm7b9X0FxGvMlmIIclg_9zojIZ7S5kkaN922Lmo4BM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTYxNjM5OTUwLmpwZw==.webp" /></div></figure>These companies often have the hardest time balancing their roles as suppliers and customers, according to the risk management firm Black Kite.
 
 URL:
-https://www.cybersecuritydive.com/news/critical-flaw-sap-commerce-cloud-initial-exploitation/828023/
-
-------------------------------------------------------------
-
-Title:
-Major genetic-testing firm says hack compromised sensitive patient data
-
-Published:
-2026-08-17 14:56 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/SberBz6eizNSL-8IzeFv1DmRgUd1TOKfezbv7ONMHL0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3MDczNjI5LmpwZw==.webp" /></div></figure>The June breach, which also exposed employees&rsquo; information, underscored the supply-chain risks facing the healthcare sector.
-
-URL:
-https://www.cybersecuritydive.com/news/baylor-genetics-cyberattack-compromise-patient-data-genetic-testing/828019/
+https://www.cybersecuritydive.com/news/ransomware-mid-market-firms-black-kite/828257/
 
 ------------------------------------------------------------
 
@@ -251,17 +241,17 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
-Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)
+Identity Abuse Through Trusted Communication Channels
 
 Published:
-2026-08-18 19:05 UTC
+2026-08-20 10:00 UTC
 
 Summary:
-In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. 
-The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-attacks/">Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 details how attackers exploit enterprise collaboration tools for identity phishing and credential theft. Discover key defense strategies.
+The post <a href="https://unit42.paloaltonetworks.com/communication-channel-identity-risks/">Identity Abuse Through Trusted Communication Channels</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
+https://unit42.paloaltonetworks.com/communication-channel-identity-risks/
 
 ------------------------------------------------------------
 
@@ -269,47 +259,59 @@ https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Curiouser and Curiouser
+Is Cyber missing the Marque?
 
 Published:
-2026-08-13 18:00 UTC
+2026-08-20 18:00 UTC
 
 Summary:
-In this edition of the Threat Source newsletter, William reflects on the “Make Hazel a Hacker” segment in Beers with Talos, and how cybersecurity is a field where questions can lead to multiple correct answers.
+In this week's newsletter, new author Mick Baccio introduces himself and explores the operational and security implications of the new White House memorandum regarding private sector participation in government-authorized offensive cyber operations.
 
 URL:
-https://blog.talosintelligence.com/curiouser-and-curiouser/
+https://blog.talosintelligence.com/is-cyber-missing-the-marque/
 
 ------------------------------------------------------------
 
 Title:
-Dissecting the JWR phishing framework
+UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities
 
 Published:
-2026-08-13 10:00 UTC
+2026-08-20 10:00 UTC
 
 Summary:
-Cisco Talos recently identified an undocumented phishing framework, internally branded "JWR" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.
+The newly identified SPECTRE implant represents an evolution in commodity intrusion tooling, integrating cross-platform C2 operations, process injection, credential theft, anti-analysis protections, and kernel-level endpoint detection and response (EDR) bypass functionality.
 
 URL:
-https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/
+https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities
+UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations
 
 Published:
-2026-08-11 22:21 UTC
+2026-08-20 10:00 UTC
 
 Summary:
-Microsoft has released its monthly security update for August 2026, which includes 421 vulnerabilities affecting a range of products, including 62 that Microsoft marked as "critical."
+Cisco Talos discovered a Chinese-speaking cybercrime group, tracked as UAT-10147, that targets a wide range of vulnerable web servers. This is an overview of the campaign, examining the countries affected, potential impact of BadIIS infections, the attack chain, and post-compromise tactics.
 
 URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/
+https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/
+
+------------------------------------------------------------
+
+Title:
+Describing attacks with crime script analysis
+
+Published:
+2026-08-19 10:00 UTC
+
+Summary:
+Martin explores how using crime script analysis to describe an attack with everyday language makes the situation accessible to non-technical audiences and identify points where the crime can be disrupted.
+
+URL:
+https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/
 
 ------------------------------------------------------------
 
@@ -649,17 +651,17 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-Hunting MacSync Stealer infrastructure through behavioral pivots
+Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026
 
 Published:
-2026-08-18 17:08 UTC
+2026-08-19 17:30 UTC
 
 Summary:
-MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/">Hunting MacSync Stealer infrastructure through behavioral pivots</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/">Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/
+https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/
 
 ------------------------------------------------------------
 
