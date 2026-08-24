@@ -1,92 +1,24 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-21 02:40 UTC_
+_Last run: 2026-08-24 02:41 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads
+TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit
 
 Published:
-2026-08-20 20:22 UTC
+2026-08-22 14:32 UTC
 
 Summary:
-The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation.
+The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.
 
-The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner
-
-URL:
-https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html
-
-------------------------------------------------------------
-
-Title:
-Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts
-
-Published:
-2026-08-20 19:59 UTC
-
-Summary:
-Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S.
-
-These clusters include UNC6293, UNC7005, and UNC5976.
-
-"These clusters engage in persistent, adaptive
+As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million "upon entry of an order vacating a prior consent decree entered against
 
 URL:
-https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html
-
-------------------------------------------------------------
-
-Title:
-ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More
-
-Published:
-2026-08-20 17:23 UTC
-
-Summary:
-A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.
-
-Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage.
-
-Nothing here needs
-
-URL:
-https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html
-
-------------------------------------------------------------
-
-Title:
-AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure
-
-Published:
-2026-08-20 16:59 UTC
-
-Summary:
-The U.S. government on Wednesday warned of an "active threat" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.
-
-The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That
-
-URL:
-https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html
-
-------------------------------------------------------------
-
-Title:
-New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data
-
-Published:
-2026-08-20 14:36 UTC
-
-Summary:
-Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page.
-
-The AI security company, which has codenamed the technique "Cryptographic Context Injection," said the
-
-URL:
-https://thehackernews.com/2026/08/new-cryptographic-context-injection.html
+https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html
 
 ------------------------------------------------------------
 
@@ -95,78 +27,80 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers poison arrayref Rust crate to push infostealer malware
+ToxicPanda Android malware uses VPN permissions to block Google Play
 
 Published:
-2026-08-20 17:53 UTC
+2026-08-23 14:23 UTC
 
 Summary:
-Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]
+The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/
+https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/
 
 ------------------------------------------------------------
 
 Title:
-Critical Elementor Pro bug exposes WordPress sites to RCE attacks
+Hackers infect Android car head units with proxy botnet malware
 
 Published:
-2026-08-20 14:39 UTC
+2026-08-22 14:14 UTC
 
 Summary:
-A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]
+A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/
+https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/
 
 ------------------------------------------------------------
 
 Title:
-How MSPs can catch phishing attacks email filters miss
+Named Pipes Under Attack: Securing Windows Interprocess Communication
 
 Published:
-2026-08-20 14:01 UTC
+2026-08-22 13:00 UTC
 
 Summary:
-AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]
+Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/
-
-------------------------------------------------------------
-
-Title:
-Citrix urges admins to patch new NetScaler flaws as soon as possible
-
-Published:
-2026-08-20 12:14 UTC
-
-Summary:
-Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/
-
-------------------------------------------------------------
-
-Title:
-CISA warns of hackers exploiting critical MLflow vulnerability
-
-Published:
-2026-08-20 11:06 UTC
-
-Summary:
-The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/
+https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+Microsoft confirms maximum severity flaw in Entra ID targeted for exploitation
+
+Published:
+2026-08-21 14:54 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>The company said the remote-code execution vulnerability has been fully mitigated and no further action is necessary.
+
+URL:
+https://www.cybersecuritydive.com/news/microsoft-maximum-severity-flaw-entra-id-exploitation/828501/
+
+------------------------------------------------------------
+
+Title:
+Defense contractors’ CMMC confidence lags, even as self-assessments improve
+
+Published:
+2026-08-21 14:24 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/UokaDcwGkpTv26_GNHDJOsMuryKZJgUsPTGjrRVT7z8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1NjEwNjUwX3R3Z0Y2OGQuanBn.webp" /></div></figure>A &ldquo;confidence disconnect&rdquo; is plaguing the industry, a consulting firm said.
+
+URL:
+https://www.cybersecuritydive.com/news/defense-contractors-cmmc-cybersecurity-confidence-gap/828494/
+
+------------------------------------------------------------
 
 Title:
 Fitch explains how water, healthcare organizations can keep strong credit ratings despite cyberattacks
@@ -179,48 +113,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/water-healthcare-cyberattacks-credit-ratings-fitch/828384/
-
-------------------------------------------------------------
-
-Title:
-What we know so far about the hacking campaign against US water systems
-
-Published:
-2026-08-20 14:07 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ah5tb7z6WD3MuLRII8WfD_LBaseyXb9wRfNYqn8tIek/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDUxNzY4MjguanBn.webp" /></div></figure>Support is growing for stricter oversight and increased financial resources for utilities in the wake of a cyberattack spree, suspected to be the work of Iran-linked threat groups.
-
-URL:
-https://www.cybersecuritydive.com/news/what-we-know-so-far-about-the-hacking-campaign-against-us-water-systems/828374/
-
-------------------------------------------------------------
-
-Title:
-AI-backed campaign targeting vulnerable Siemens S7 devices, CISA and FBI warn
-
-Published:
-2026-08-19 19:37 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Nfegfw6TfExQXvRSjDX3UBl6csGE_FxPOxqRT4QHhd4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkxNzU3MzI3LmpwZw==.webp" /></div></figure>Hackers are developing scripts disguised as legitimate software in attacks aimed at multiple industries, including energy and water.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-hackers-siemens-s7-devices-cisa-fbi/828321/
-
-------------------------------------------------------------
-
-Title:
-Ransomware disproportionately targets medium-sized firms, straining customer relationships
-
-Published:
-2026-08-19 14:44 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/wFm7b9X0FxGvMlmIIclg_9zojIZ7S5kkaN922Lmo4BM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTYxNjM5OTUwLmpwZw==.webp" /></div></figure>These companies often have the hardest time balancing their roles as suppliers and customers, according to the risk management firm Black Kite.
-
-URL:
-https://www.cybersecuritydive.com/news/ransomware-mid-market-firms-black-kite/828257/
 
 ------------------------------------------------------------
 
@@ -240,6 +132,23 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
+Title:
+Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain
+
+Published:
+2026-08-21 23:00 UTC
+
+Summary:
+Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controls
+The post <a href="https://unit42.paloaltonetworks.com/sdlc-supply-chain/">Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/sdlc-supply-chain/
+
+------------------------------------------------------------
+
 Title:
 Identity Abuse Through Trusted Communication Channels
 
@@ -255,9 +164,26 @@ https://unit42.paloaltonetworks.com/communication-channel-identity-risks/
 
 ------------------------------------------------------------
 
+Title:
+Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)
+
+Published:
+2026-08-18 19:05 UTC
+
+Summary:
+In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. 
+The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-attacks/">Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Is Cyber missing the Marque?
@@ -298,20 +224,6 @@ Cisco Talos discovered a Chinese-speaking cybercrime group, tracked as UAT-10147
 
 URL:
 https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/
-
-------------------------------------------------------------
-
-Title:
-Describing attacks with crime script analysis
-
-Published:
-2026-08-19 10:00 UTC
-
-Summary:
-Martin explores how using crime script analysis to describe an attack with everyday language makes the situation accessible to non-technical audiences and identify points where the crime can be disrupted.
-
-URL:
-https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/
 
 ------------------------------------------------------------
 
@@ -650,6 +562,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026
 
@@ -662,6 +576,36 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/19/micro
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/
+
+------------------------------------------------------------
+
+Title:
+Hunting MacSync Stealer infrastructure through behavioral pivots
+
+Published:
+2026-08-18 17:08 UTC
+
+Summary:
+MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/">Hunting MacSync Stealer infrastructure through behavioral pivots</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/
+
+------------------------------------------------------------
+
+Title:
+Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise
+
+Published:
+2026-08-10 16:00 UTC
+
+Summary:
+Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/">Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/
 
 ------------------------------------------------------------
 
