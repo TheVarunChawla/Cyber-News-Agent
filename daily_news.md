@@ -1,24 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-24 02:41 UTC_
+_Last run: 2026-08-26 02:42 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit
+U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches
 
 Published:
-2026-08-22 14:32 UTC
+2026-08-25 18:17 UTC
 
 Summary:
-The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.
+The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an "unprecedented, whole-of-government, economic campaign" against the nation and its enablers.
 
-As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million "upon entry of an order vacating a prior consent decree entered against
+"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime
 
 URL:
-https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html
+https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html
+
+------------------------------------------------------------
+
+Title:
+A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw
+
+Published:
+2026-08-25 14:07 UTC
+
+Summary:
+Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself.
+
+The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident
+
+URL:
+https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html
+
+------------------------------------------------------------
+
+Title:
+WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android
+
+Published:
+2026-08-25 13:19 UTC
+
+Summary:
+Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method.
+
+The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,
+
+URL:
+https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html
+
+------------------------------------------------------------
+
+Title:
+Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode
+
+Published:
+2026-08-25 12:43 UTC
+
+Summary:
+Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record.
+
+The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode.
+
+The vulnerability, tracked
+
+URL:
+https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html
+
+------------------------------------------------------------
+
+Title:
+Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows
+
+Published:
+2026-08-25 11:56 UTC
+
+Summary:
+Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.
+
+According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based.
+
+Mirage2FA Campaign
+
+URL:
+https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html
 
 ------------------------------------------------------------
 
@@ -27,44 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-ToxicPanda Android malware uses VPN permissions to block Google Play
+LACMA data breach last year exposed social security and medical data
 
 Published:
-2026-08-23 14:23 UTC
+2026-08-25 21:58 UTC
 
 Summary:
-The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]
+The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/
+https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/
 
 ------------------------------------------------------------
 
 Title:
-Hackers infect Android car head units with proxy botnet malware
+Hackers abuse npm mirrors to host phishing redirect pages
 
 Published:
-2026-08-22 14:14 UTC
+2026-08-25 21:39 UTC
 
 Summary:
-A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]
+Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/
+https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/
 
 ------------------------------------------------------------
 
 Title:
-Named Pipes Under Attack: Securing Windows Interprocess Communication
+AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes
 
 Published:
-2026-08-22 13:00 UTC
+2026-08-25 20:25 UTC
 
 Summary:
-Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]
+A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/
+https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/
+
+------------------------------------------------------------
+
+Title:
+Massive DDoS attack disrupts Norway’s government digital services
+
+Published:
+2026-08-25 15:52 UTC
+
+Summary:
+A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/
+
+------------------------------------------------------------
+
+Title:
+Hospital operator Nutex Health says data stolen in cyberattack
+
+Published:
+2026-08-25 14:44 UTC
+
+Summary:
+Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/
 
 ------------------------------------------------------------
 
@@ -72,47 +168,73 @@ https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Microsoft confirms maximum severity flaw in Entra ID targeted for exploitation
+Researchers warn about chained SharePoint sequence
 
 Published:
-2026-08-21 14:54 UTC
+2026-08-25 15:33 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>The company said the remote-code execution vulnerability has been fully mitigated and no further action is necessary.
+<figure><div><img src="https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp" /></div></figure>An authentication bypass flaw is already under exploitation, the latest in a series of recent SharePoint attacks. 
 
 URL:
-https://www.cybersecuritydive.com/news/microsoft-maximum-severity-flaw-entra-id-exploitation/828501/
+https://www.cybersecuritydive.com/news/researchers-warn-about-chained-sharepoint-sequence/828726/
 
 ------------------------------------------------------------
 
 Title:
-Defense contractors’ CMMC confidence lags, even as self-assessments improve
+CISA orders agencies to fix exploited Zimbra vulnerability
 
 Published:
-2026-08-21 14:24 UTC
+2026-08-25 15:10 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/UokaDcwGkpTv26_GNHDJOsMuryKZJgUsPTGjrRVT7z8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1NjEwNjUwX3R3Z0Y2OGQuanBn.webp" /></div></figure>A &ldquo;confidence disconnect&rdquo; is plaguing the industry, a consulting firm said.
+<figure><div><img src="https://imgproxy.divecdn.com/G6cjGPfTL-9L3AlM0TMnDtq76QUOu5qj5EeCH0W3iUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY5MjA0NzU2LmpwZw==.webp" /></div></figure>The collaboration software&rsquo;s developer took almost a full month to patch the flaw after disclosing it.
 
 URL:
-https://www.cybersecuritydive.com/news/defense-contractors-cmmc-cybersecurity-confidence-gap/828494/
+https://www.cybersecuritydive.com/news/cisa-zimbra-flaw-patch-mandate-kev/828718/
 
 ------------------------------------------------------------
 
 Title:
-Fitch explains how water, healthcare organizations can keep strong credit ratings despite cyberattacks
+UK power facility disabled for days after suspected state-linked cyberattack
 
 Published:
-2026-08-20 14:45 UTC
+2026-08-24 15:08 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/rnZNGbn13XtWEI9eiootqrhWQ3lRXXxAaSzsQPrb_1s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYyODk1NjEyLmpwZw==.webp" /></div></figure>Resilience, not prevention, is key, analysts at the credit-rating agency said in a pair of new reports.
+<figure><div><img src="https://imgproxy.divecdn.com/3tytE4F2Hg2jaguKL8Tm123QQLI2Ge8VON9kfxpfMic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BQkdfSlNfYWRqdXN0ZWRfLV8xLmpwZWc=.webp" /></div></figure>The disruption took place amid a wave of attacks targeting vulnerable industrial devices in the water and energy sectors.
 
 URL:
-https://www.cybersecuritydive.com/news/water-healthcare-cyberattacks-credit-ratings-fitch/828384/
+https://www.cybersecuritydive.com/news/uk-power-facility-disabled-Iran-cyberattack/828599/
+
+------------------------------------------------------------
+
+Title:
+House Democrats ask GAO to study CISA workforce cuts
+
+Published:
+2026-08-24 14:43 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>Five lawmakers serving on the Homeland Security Committee said Congress didn&rsquo;t know enough about the Trump administration&rsquo;s changes to the cybersecurity agency.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-workforce-cuts-congress-letter-gao-study/828596/
+
+------------------------------------------------------------
+
+Title:
+Salesforce gave every org the same free scanner. Attackers already know what it misses.
+
+Published:
+2026-08-24 09:00 UTC
+
+Summary:
+A defense every attacker can rehearse against isn't a defense. It's a false sense of security.
+
+URL:
+https://www.cybersecuritydive.com/spons/salesforce-gave-every-org-the-same-free-scanner-attackers-already-know-wha/828063/
 
 ------------------------------------------------------------
 
@@ -132,50 +254,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain
+The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution
 
 Published:
-2026-08-21 23:00 UTC
+2026-08-25 10:00 UTC
 
 Summary:
-Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controls
-The post <a href="https://unit42.paloaltonetworks.com/sdlc-supply-chain/">Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution.
+The post <a href="https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/">The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/sdlc-supply-chain/
-
-------------------------------------------------------------
-
-Title:
-Identity Abuse Through Trusted Communication Channels
-
-Published:
-2026-08-20 10:00 UTC
-
-Summary:
-Unit 42 details how attackers exploit enterprise collaboration tools for identity phishing and credential theft. Discover key defense strategies.
-The post <a href="https://unit42.paloaltonetworks.com/communication-channel-identity-risks/">Identity Abuse Through Trusted Communication Channels</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/communication-channel-identity-risks/
-
-------------------------------------------------------------
-
-Title:
-Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)
-
-Published:
-2026-08-18 19:05 UTC
-
-Summary:
-In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. 
-The post <a href="https://unit42.paloaltonetworks.com/large-scale-credential-attacks/">Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
+https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/
 
 ------------------------------------------------------------
 
@@ -183,47 +273,17 @@ https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Is Cyber missing the Marque?
+The safety penalty: Reclaiming operational sovereignty in the age of AI
 
 Published:
-2026-08-20 18:00 UTC
+2026-08-25 10:00 UTC
 
 Summary:
-In this week's newsletter, new author Mick Baccio introduces himself and explores the operational and security implications of the new White House memorandum regarding private sector participation in government-authorized offensive cyber operations.
+As frontier AI models become increasingly restrictive, security teams are facing a "safety penalty" that hampers real-time incident response. Discover how organizations can move toward operational sovereignty to ensure their defensive AI keeps pace with unconstrained adversaries.
 
 URL:
-https://blog.talosintelligence.com/is-cyber-missing-the-marque/
-
-------------------------------------------------------------
-
-Title:
-UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities
-
-Published:
-2026-08-20 10:00 UTC
-
-Summary:
-The newly identified SPECTRE implant represents an evolution in commodity intrusion tooling, integrating cross-platform C2 operations, process injection, credential theft, anti-analysis protections, and kernel-level endpoint detection and response (EDR) bypass functionality.
-
-URL:
-https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/
-
-------------------------------------------------------------
-
-Title:
-UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations
-
-Published:
-2026-08-20 10:00 UTC
-
-Summary:
-Cisco Talos discovered a Chinese-speaking cybercrime group, tracked as UAT-10147, that targets a wide range of vulnerable web servers. This is an overview of the campaign, examining the countries affected, potential impact of BadIIS infections, the attack chain, and post-compromise tactics.
-
-URL:
-https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/
+https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/
 
 ------------------------------------------------------------
 
@@ -562,50 +622,18 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026
+The patch window is collapsing: Why security needs a new control plane
 
 Published:
-2026-08-19 17:30 UTC
+2026-08-25 16:00 UTC
 
 Summary:
-Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/">Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Organizations need protection that operates in the gap between discovery and remediation.
+The post <a href="https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/
-
-------------------------------------------------------------
-
-Title:
-Hunting MacSync Stealer infrastructure through behavioral pivots
-
-Published:
-2026-08-18 17:08 UTC
-
-Summary:
-MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/">Hunting MacSync Stealer infrastructure through behavioral pivots</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/
-
-------------------------------------------------------------
-
-Title:
-Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise
-
-Published:
-2026-08-10 16:00 UTC
-
-Summary:
-Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/">Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/
+https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/
 
 ------------------------------------------------------------
 
