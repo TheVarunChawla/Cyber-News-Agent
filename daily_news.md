@@ -1,92 +1,88 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-26 02:42 UTC_
+_Last run: 2026-08-28 13:02 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches
+Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth
 
 Published:
-2026-08-25 18:17 UTC
+2026-08-28 12:07 UTC
 
 Summary:
-The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an "unprecedented, whole-of-government, economic campaign" against the nation and its enablers.
+Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC.
 
-"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime
+The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the
 
 URL:
-https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html
+https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html
 
 ------------------------------------------------------------
 
 Title:
-A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw
+Key Reasons Why Identity Fabric Matters in 2026
 
 Published:
-2026-08-25 14:07 UTC
+2026-08-28 11:30 UTC
 
 Summary:
-Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself.
-
-The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident
+An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility. This article covers the architecture, the risks of unmanaged identities, and
 
 URL:
-https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html
+https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html
 
 ------------------------------------------------------------
 
 Title:
-WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android
+Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL
 
 Published:
-2026-08-25 13:19 UTC
+2026-08-28 11:20 UTC
 
 Summary:
-Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method.
+ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.
 
-The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,
+The company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their
 
 URL:
-https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html
+https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html
 
 ------------------------------------------------------------
 
 Title:
-Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode
+China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access
 
 Published:
-2026-08-25 12:43 UTC
+2026-08-28 10:58 UTC
 
 Summary:
-Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record.
+VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices.
 
-The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode.
-
-The vulnerability, tracked
+The implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.
 
 URL:
-https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html
+https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html
 
 ------------------------------------------------------------
 
 Title:
-Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows
+Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server
 
 Published:
-2026-08-25 11:56 UTC
+2026-08-28 09:45 UTC
 
 Summary:
-Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.
+cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user.
 
-According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based.
+The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel &amp; WHM.
 
-Mirage2FA Campaign
+cPanel described the issue as a critical security vulnerability and said that an
 
 URL:
-https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html
+https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html
 
 ------------------------------------------------------------
 
@@ -95,72 +91,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-LACMA data breach last year exposed social security and medical data
+Over 8,300 Gitea servers vulnerable to code execution attacks
 
 Published:
-2026-08-25 21:58 UTC
+2026-08-28 12:58 UTC
 
 Summary:
-The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]
+Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/
+https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Hackers abuse npm mirrors to host phishing redirect pages
+Toy-making giant Hasbro disclose data breach affecting employees
 
 Published:
-2026-08-25 21:39 UTC
+2026-08-28 11:46 UTC
 
 Summary:
-Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]
+Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/
+https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/
 
 ------------------------------------------------------------
 
 Title:
-AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes
+ServiceNow warns of three max severity security vulnerabilities
 
 Published:
-2026-08-25 20:25 UTC
+2026-08-28 10:29 UTC
 
 Summary:
-A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]
+ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/
+https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/
 
 ------------------------------------------------------------
 
 Title:
-Massive DDoS attack disrupts Norway’s government digital services
+Windows 11 KB5120998 update released with 35 changes and fixes
 
 Published:
-2026-08-25 15:52 UTC
+2026-08-28 09:10 UTC
 
 Summary:
-A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]
+Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/
+https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/
 
 ------------------------------------------------------------
 
 Title:
-Hospital operator Nutex Health says data stolen in cyberattack
+Nearly 700 rogue AI agents coordinated in the Hugging Face attack
 
 Published:
-2026-08-25 14:44 UTC
+2026-08-27 21:38 UTC
 
 Summary:
-Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]
+New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/
+https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/
 
 ------------------------------------------------------------
 
@@ -169,72 +165,58 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Researchers warn about chained SharePoint sequence
+CISA identifies security hurdles that led to very different results in two red-team engagements
 
 Published:
-2026-08-25 15:33 UTC
+2026-08-28 12:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp" /></div></figure>An authentication bypass flaw is already under exploitation, the latest in a series of recent SharePoint attacks. 
+<figure><div><img src="https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp" /></div></figure>The agency said its recent simulated cyberattacks offered several key lessons for many organizations.
 
 URL:
-https://www.cybersecuritydive.com/news/researchers-warn-about-chained-sharepoint-sequence/828726/
+https://www.cybersecuritydive.com/news/cisa-red-team-exercises-lessons-cloud-soc/828733/
 
 ------------------------------------------------------------
 
 Title:
-CISA orders agencies to fix exploited Zimbra vulnerability
+Hundreds of agents went rogue in lead up to Hugging Face breach
 
 Published:
-2026-08-25 15:10 UTC
+2026-08-27 15:37 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/G6cjGPfTL-9L3AlM0TMnDtq76QUOu5qj5EeCH0W3iUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY5MjA0NzU2LmpwZw==.webp" /></div></figure>The collaboration software&rsquo;s developer took almost a full month to patch the flaw after disclosing it.
+<figure><div><img src="https://imgproxy.divecdn.com/knCCzJQisc1IG8_F7mrDfJP91kSIWf-rKf1UCDItDhA/g:nowe:71:409/c:3129:1767/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDVfMjAyNzEzODEwLmpwZw==.webp" /></div></figure>OpenAI released a technical breakdown of the historic incident and plans changes to prevent such an occurrence from happening again. 
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-zimbra-flaw-patch-mandate-kev/828718/
+https://www.cybersecuritydive.com/news/hundreds-agents-rogue-lead-up-hugging-face-breach/828963/
 
 ------------------------------------------------------------
 
 Title:
-UK power facility disabled for days after suspected state-linked cyberattack
+Federal authorities disrupt China-backed hacking operation targeting US critical infrastructure
 
 Published:
-2026-08-24 15:08 UTC
+2026-08-27 12:33 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/3tytE4F2Hg2jaguKL8Tm123QQLI2Ge8VON9kfxpfMic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BQkdfSlNfYWRqdXN0ZWRfLV8xLmpwZWc=.webp" /></div></figure>The disruption took place amid a wave of attacks targeting vulnerable industrial devices in the water and energy sectors.
+<figure><div><img src="https://imgproxy.divecdn.com/cHzi9njVRIRmL9XVlLqv9gwE_Jder0BHYundO00wb8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfWVk0RHIwRS5qcGc=.webp" /></div></figure>Compromised IoT devices were used in a yearslong campaign against key sectors and federal agencies.
 
 URL:
-https://www.cybersecuritydive.com/news/uk-power-facility-disabled-Iran-cyberattack/828599/
+https://www.cybersecuritydive.com/news/federal-authorities-disrupt-china-hacking-US-critical-infrastructure/828913/
 
 ------------------------------------------------------------
 
 Title:
-House Democrats ask GAO to study CISA workforce cuts
+Boston Scientific says cyberattack disrupted order processing, shipping
 
 Published:
-2026-08-24 14:43 UTC
+2026-08-26 13:34 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>Five lawmakers serving on the Homeland Security Committee said Congress didn&rsquo;t know enough about the Trump administration&rsquo;s changes to the cybersecurity agency.
+<figure><div><img src="https://imgproxy.divecdn.com/Lyg-8rmCTujgRCMvDWgxiJgD88R_1aVXbpWNzXOngKE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Cb3N0b25fU2NpZW50aWZpY19tYW51Zl9wYWxudC5qcGVn.webp" /></div></figure>The medical device-maker says it cannot yet determine any financial impact from the attack it suffered this week.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-workforce-cuts-congress-letter-gao-study/828596/
-
-------------------------------------------------------------
-
-Title:
-Salesforce gave every org the same free scanner. Attackers already know what it misses.
-
-Published:
-2026-08-24 09:00 UTC
-
-Summary:
-A defense every attacker can rehearse against isn't a defense. It's a false sense of security.
-
-URL:
-https://www.cybersecuritydive.com/spons/salesforce-gave-every-org-the-same-free-scanner-attackers-already-know-wha/828063/
+https://www.cybersecuritydive.com/news/boston-scientific-cyberattack-disrupted-order-processing-shipping/828816/
 
 ------------------------------------------------------------
 
@@ -254,6 +236,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution
 
@@ -269,21 +253,65 @@ https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/
 
 ------------------------------------------------------------
 
+Title:
+Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain
+
+Published:
+2026-08-21 23:00 UTC
+
+Summary:
+Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controls
+The post <a href="https://unit42.paloaltonetworks.com/sdlc-supply-chain/">Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/sdlc-supply-chain/
+
+------------------------------------------------------------
+
+Title:
+Identity Abuse Through Trusted Communication Channels
+
+Published:
+2026-08-20 10:00 UTC
+
+Summary:
+Unit 42 details how attackers exploit enterprise collaboration tools for identity phishing and credential theft. Discover key defense strategies.
+The post <a href="https://unit42.paloaltonetworks.com/communication-channel-identity-risks/">Identity Abuse Through Trusted Communication Channels</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/communication-channel-identity-risks/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
 
 Title:
-The safety penalty: Reclaiming operational sovereignty in the age of AI
+“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend
 
 Published:
-2026-08-25 10:00 UTC
+2026-08-27 18:00 UTC
 
 Summary:
-As frontier AI models become increasingly restrictive, security teams are facing a "safety penalty" that hampers real-time incident response. Discover how organizations can move toward operational sovereignty to ensure their defensive AI keeps pace with unconstrained adversaries.
+In his first Threat Source newsletter, David Bianco explores the critical need for operational sovereignty in customizing AI guardrails to maintain the defender’s advantage.
 
 URL:
-https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/
+https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/
+
+------------------------------------------------------------
+
+Title:
+JavaScript obfuscation: From party trick to phishing kit
+
+Published:
+2026-08-27 10:00 UTC
+
+Summary:
+Learn the basics of what obfuscation is, why a researcher would try to reverse it, and several ways to approach the problem.
+
+URL:
+https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/
 
 ------------------------------------------------------------
 
@@ -623,17 +651,32 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-The patch window is collapsing: Why security needs a new control plane
+​​​​​​What’s new in Microsoft Security: August 2026
 
 Published:
-2026-08-25 16:00 UTC
+2026-08-27 16:00 UTC
 
 Summary:
-Organizations need protection that operates in the gap between discovery and remediation.
-The post <a href="https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/">​​​​​​What’s new in Microsoft Security: August 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/
+https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/
+
+------------------------------------------------------------
+
+Title:
+When AI infrastructure becomes the target: Securing gateways and control points
+
+Published:
+2026-08-26 16:43 UTC
+
+Summary:
+Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/">When AI infrastructure becomes the target: Securing gateways and control points</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/
 
 ------------------------------------------------------------
 

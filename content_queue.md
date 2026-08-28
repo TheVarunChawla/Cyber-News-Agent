@@ -1,42 +1,41 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-08-26 02:42 UTC_
+_Generated: 2026-08-28 13:02 UTC_
 
 ## This post's topic
 
-**Ransomware Usually Starts Before Encryption**
+**Antivirus vs EDR: Why Both Terms Exist**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: Five-stage attack path: initial access, privilege escalation, lateral movement, data theft, encryption.
+- **Fastest:** a single image using this visual brief: A laptop with two layers: antivirus blocks a known malicious file; EDR traces suspicious behaviour and gives the analyst response options.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Ransomware: the full story
-2. Initial access
-3. Moving through the network
-4. Data theft
-5. Encryption and how to break the chain
-- **Most eye-catching:** a 5–8 second looping GIF: A five-step attacker path appears; blue-team controls block the path at each stage.
+1. Antivirus vs EDR
+2. What antivirus does
+3. What EDR adds
+4. A simple investigation example
+5. Questions to ask your security team
+- **Most eye-catching:** a 5–8 second looping GIF: A malicious process appears; the EDR timeline lights up and the endpoint is isolated.
 
 ## Ready-to-personalize LinkedIn caption
 
-The ransomware note is often the last visible step—not the beginning of the attack.
+Antivirus looks for known bad things. EDR helps security teams investigate suspicious behaviour.
 
-Many ransomware incidents begin with stolen credentials, phishing, exposed remote access, or an unpatched system. Attackers then move through the environment before deploying encryption.
+Endpoint Detection and Response tools provide visibility into devices and enable detection, investigation, and response. They add context beyond traditional file-based antivirus protection.
 
-What to remember: Focus on preventing the first foothold: secure identities, patch exposed systems, and monitor suspicious movement.
+What to remember: A security tool is only useful when alerts are reviewed and response actions are tested.
 
 Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #Ransomware #IncidentResponse
+#Cybersecurity #EDR #EndpointSecurity
 
 ## Optional current-event context
 
-- U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches
-- LACMA data breach last year exposed social security and medical data
+- The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution
 
 ## Before publishing
 
