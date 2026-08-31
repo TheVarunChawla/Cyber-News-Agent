@@ -1,41 +1,39 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-08-28 13:02 UTC_
+_Generated: 2026-08-31 07:10 UTC_
 
 ## This post's topic
 
-**Antivirus vs EDR: Why Both Terms Exist**
+**Why Security Patching Cannot Wait Forever**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A laptop with two layers: antivirus blocks a known malicious file; EDR traces suspicious behaviour and gives the analyst response options.
+- **Fastest:** a single image using this visual brief: A simple timeline: vulnerability found, patch released, attackers begin scanning, organization patches.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Antivirus vs EDR
-2. What antivirus does
-3. What EDR adds
-4. A simple investigation example
-5. Questions to ask your security team
-- **Most eye-catching:** a 5–8 second looping GIF: A malicious process appears; the EDR timeline lights up and the endpoint is isolated.
+1. Why patches matter
+2. What is a vulnerability?
+3. What changes after public disclosure
+4. A practical patching workflow
+5. Start with critical systems
+- **Most eye-catching:** a 5–8 second looping GIF: A software door labelled 'known flaw' closes as a patch is applied, while a scanning attacker is blocked.
 
 ## Ready-to-personalize LinkedIn caption
 
-Antivirus looks for known bad things. EDR helps security teams investigate suspicious behaviour.
+A vulnerability is an unlocked door in software. A patch is the fix before someone uses it.
 
-Endpoint Detection and Response tools provide visibility into devices and enable detection, investigation, and response. They add context beyond traditional file-based antivirus protection.
+Vendors release patches when they fix known weaknesses. Attackers often scan for systems that have not applied publicly available fixes, so patching reduces an already-known risk.
 
-What to remember: A security tool is only useful when alerts are reviewed and response actions are tested.
-
-Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
+What to remember: Know your critical assets, test important patches quickly, and have a clear emergency-patching process.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #EDR #EndpointSecurity
+#Cybersecurity #VulnerabilityManagement #PatchManagement
 
 ## Optional current-event context
 
-- The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution
+- No matching story needed; this is an evergreen learning post.
 
 ## Before publishing
 

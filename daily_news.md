@@ -1,88 +1,43 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-28 13:02 UTC_
+_Last run: 2026-08-31 07:09 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth
+TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor
 
 Published:
-2026-08-28 12:07 UTC
+2026-08-30 07:36 UTC
 
 Summary:
-Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC.
+Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.
 
-The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the
+"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex
 
 URL:
-https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html
+https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html
 
 ------------------------------------------------------------
 
 Title:
-Key Reasons Why Identity Fabric Matters in 2026
+Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
 
 Published:
-2026-08-28 11:30 UTC
+2026-08-29 16:25 UTC
 
 Summary:
-An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility. This article covers the architecture, the risks of unmanaged identities, and
+Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.
+
+The vulnerabilities, according to Wordfence and Patchstack, are listed below -
+
+
+  CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in
 
 URL:
-https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html
-
-------------------------------------------------------------
-
-Title:
-Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL
-
-Published:
-2026-08-28 11:20 UTC
-
-Summary:
-ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.
-
-The company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their
-
-URL:
-https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html
-
-------------------------------------------------------------
-
-Title:
-China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access
-
-Published:
-2026-08-28 10:58 UTC
-
-Summary:
-VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices.
-
-The implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.
-
-URL:
-https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html
-
-------------------------------------------------------------
-
-Title:
-Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server
-
-Published:
-2026-08-28 09:45 UTC
-
-Summary:
-cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user.
-
-The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel &amp; WHM.
-
-cPanel described the issue as a critical security vulnerability and said that an
-
-URL:
-https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html
+https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html
 
 ------------------------------------------------------------
 
@@ -91,78 +46,94 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Over 8,300 Gitea servers vulnerable to code execution attacks
+FulcrumSec claims Manchester Airports hack, theft of 86 GB of data
 
 Published:
-2026-08-28 12:58 UTC
+2026-08-30 15:00 UTC
 
 Summary:
-Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]
+FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initially disclosed. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/
+https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/
 
 ------------------------------------------------------------
 
 Title:
-Toy-making giant Hasbro disclose data breach affecting employees
+Anthropic warns infostealer malware is hijacking Claude sessions to drain usage
 
 Published:
-2026-08-28 11:46 UTC
+2026-08-30 14:30 UTC
 
 Summary:
-Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]
+Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/
 
 ------------------------------------------------------------
 
 Title:
-ServiceNow warns of three max severity security vulnerabilities
+Chrome Web Store extensions caught stealing crypto, browser data
 
 Published:
-2026-08-28 10:29 UTC
+2026-08-30 14:17 UTC
 
 Summary:
-ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]
+Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/
+https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/
 
 ------------------------------------------------------------
 
 Title:
-Windows 11 KB5120998 update released with 35 changes and fixes
+Anthropic is cutting Claude Code's current weekly limits by 17%
 
 Published:
-2026-08-28 09:10 UTC
+2026-08-29 23:11 UTC
 
 Summary:
-Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]
+Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/
 
 ------------------------------------------------------------
 
 Title:
-Nearly 700 rogue AI agents coordinated in the Hugging Face attack
+Brave browser adds email aliases to help users evade tracking
 
 Published:
-2026-08-27 21:38 UTC
+2026-08-29 14:19 UTC
 
 Summary:
-New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]
+The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/
+https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+Frontier AI tipping the scales toward cyber adversaries
+
+Published:
+2026-08-28 15:01 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/oMiO7cn-S7dKO_1oOhCqov0YSQtLd6TD9e5Z4ggXOvw/g:nowe:8:185/c:4023:2273/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjIxOS5KUEc=.webp" /></div></figure>Researchers at Palo Alto Networks&rsquo; Unit 42 warn that threat actors are already using AI to accelerate cyberattacks beyond the abilities of modern defenses.
+
+URL:
+https://www.cybersecuritydive.com/news/frontier-ai-tipping-scales-cyber-adversaries/829088/
+
+------------------------------------------------------------
 
 Title:
 CISA identifies security hurdles that led to very different results in two red-team engagements
@@ -192,34 +163,6 @@ https://www.cybersecuritydive.com/news/hundreds-agents-rogue-lead-up-hugging-fac
 
 ------------------------------------------------------------
 
-Title:
-Federal authorities disrupt China-backed hacking operation targeting US critical infrastructure
-
-Published:
-2026-08-27 12:33 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/cHzi9njVRIRmL9XVlLqv9gwE_Jder0BHYundO00wb8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfWVk0RHIwRS5qcGc=.webp" /></div></figure>Compromised IoT devices were used in a yearslong campaign against key sectors and federal agencies.
-
-URL:
-https://www.cybersecuritydive.com/news/federal-authorities-disrupt-china-hacking-US-critical-infrastructure/828913/
-
-------------------------------------------------------------
-
-Title:
-Boston Scientific says cyberattack disrupted order processing, shipping
-
-Published:
-2026-08-26 13:34 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Lyg-8rmCTujgRCMvDWgxiJgD88R_1aVXbpWNzXOngKE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Cb3N0b25fU2NpZW50aWZpY19tYW51Zl9wYWxudC5qcGVn.webp" /></div></figure>The medical device-maker says it cannot yet determine any financial impact from the attack it suffered this week.
-
-URL:
-https://www.cybersecuritydive.com/news/boston-scientific-cyberattack-disrupted-order-processing-shipping/828816/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Trend Micro
 ============================================================
@@ -237,6 +180,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 [No articles in the last 48h - showing latest available]
+
+Title:
+Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety
+
+Published:
+2026-08-28 22:00 UTC
+
+Summary:
+New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security.
+The post <a href="https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/">Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/
+
+------------------------------------------------------------
 
 Title:
 The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution
@@ -268,24 +226,11 @@ https://unit42.paloaltonetworks.com/sdlc-supply-chain/
 
 ------------------------------------------------------------
 
-Title:
-Identity Abuse Through Trusted Communication Channels
-
-Published:
-2026-08-20 10:00 UTC
-
-Summary:
-Unit 42 details how attackers exploit enterprise collaboration tools for identity phishing and credential theft. Discover key defense strategies.
-The post <a href="https://unit42.paloaltonetworks.com/communication-channel-identity-risks/">Identity Abuse Through Trusted Communication Channels</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/communication-channel-identity-risks/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 “Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend
@@ -312,6 +257,20 @@ Learn the basics of what obfuscation is, why a researcher would try to reverse i
 
 URL:
 https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/
+
+------------------------------------------------------------
+
+Title:
+Choose your fighter: Balancing competing requirements to select models for your AI SOC
+
+Published:
+2026-08-26 10:00 UTC
+
+Summary:
+Selecting a model for your security operations center (SOC) and digital forensics and incident response (DFIR) tasks is important, but selecting the best one is more involved than you might think. Here's how to choose.
+
+URL:
+https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/
 
 ------------------------------------------------------------
 
@@ -649,6 +608,23 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 ============================================================
 SOURCE : Microsoft Security Blog
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+TerminalFix campaign deploys a reverse tunnel through multistage intrusion
+
+Published:
+2026-08-29 03:43 UTC
+
+Summary:
+Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/">TerminalFix campaign deploys a reverse tunnel through multistage intrusion</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/
+
+------------------------------------------------------------
 
 Title:
 ​​​​​​What’s new in Microsoft Security: August 2026
