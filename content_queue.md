@@ -1,39 +1,42 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-08-31 07:10 UTC_
+_Generated: 2026-09-02 06:01 UTC_
 
 ## This post's topic
 
-**Why Security Patching Cannot Wait Forever**
+**Phishing vs Spam: The Difference That Matters**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A simple timeline: vulnerability found, patch released, attackers begin scanning, organization patches.
+- **Fastest:** a single image using this visual brief: A split-screen graphic: harmless spam on the left, a fake Microsoft 365 sign-in email on the right. Add three red flags with arrows.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Why patches matter
-2. What is a vulnerability?
-3. What changes after public disclosure
-4. A practical patching workflow
-5. Start with critical systems
-- **Most eye-catching:** a 5–8 second looping GIF: A software door labelled 'known flaw' closes as a patch is applied, while a scanning attacker is blocked.
+1. Phishing vs Spam
+2. What spam usually wants
+3. What phishing wants
+4. Three phishing red flags
+5. What to do when unsure
+- **Most eye-catching:** a 5–8 second looping GIF: An inbox message morphs into a fake login page, then a red stop sign appears before the click.
 
 ## Ready-to-personalize LinkedIn caption
 
-A vulnerability is an unlocked door in software. A patch is the fix before someone uses it.
+Not every unwanted email is phishing. But every phishing email wants something from you.
 
-Vendors release patches when they fix known weaknesses. Attackers often scan for systems that have not applied publicly available fixes, so patching reduces an already-known risk.
+Spam is unwanted bulk email. Phishing is a targeted attempt to trick someone into revealing credentials, approving a payment, opening a malicious file, or giving an attacker access.
 
-What to remember: Know your critical assets, test important patches quickly, and have a clear emergency-patching process.
+What to remember: Before you click, pause and check the sender, the request, and the destination link.
+
+Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #VulnerabilityManagement #PatchManagement
+#Cybersecurity #PhishingAwareness #SecurityAwareness
 
 ## Optional current-event context
 
-- No matching story needed; this is an evergreen learning post.
+- Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams
+- JavaScript obfuscation: From party trick to phishing kit
 
 ## Before publishing
 

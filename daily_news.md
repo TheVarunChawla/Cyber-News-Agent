@@ -1,43 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-08-31 07:09 UTC_
+_Last run: 2026-09-02 06:01 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor
+Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure
 
 Published:
-2026-08-30 07:36 UTC
+2026-09-01 17:53 UTC
 
 Summary:
-Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.
+Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.
 
-"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex
+The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory.
+
+"JFrog Artifactory contains an authentication weakness that, under default
 
 URL:
-https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html
+https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html
 
 ------------------------------------------------------------
 
 Title:
-Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
+Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems
 
 Published:
-2026-08-29 16:25 UTC
+2026-09-01 17:19 UTC
 
 Summary:
-Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.
+Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.
 
-The vulnerabilities, according to Wordfence and Patchstack, are listed below -
-
-
-  CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in
+Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as "specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers." The adversary
 
 URL:
-https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html
+https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html
+
+------------------------------------------------------------
+
+Title:
+13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
+
+Published:
+2026-09-01 14:07 UTC
+
+Summary:
+Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices.
+
+"The injected code runs two operations against a site's visitors: a mobile ad-fraud and gambling-redirect
+
+URL:
+https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html
+
+------------------------------------------------------------
+
+Title:
+Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests
+
+Published:
+2026-09-01 13:08 UTC
+
+Summary:
+The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript.
+
+Russian cybersecurity company Kaspersky is tracking the
+
+URL:
+https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html
+
+------------------------------------------------------------
+
+Title:
+Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones
+
+Published:
+2026-09-01 11:30 UTC
+
+Summary:
+The most common way into a company last year was to ask.
+
+A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most common initial access method Microsoft’s team observed last year, accounting
+
+URL:
+https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html
 
 ------------------------------------------------------------
 
@@ -46,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-FulcrumSec claims Manchester Airports hack, theft of 86 GB of data
+Hackers abuse Faronics Deploy admin tool to install ScreenConnect
 
 Published:
-2026-08-30 15:00 UTC
+2026-09-01 20:53 UTC
 
 Summary:
-FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initially disclosed. [...]
+Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/
+https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/
 
 ------------------------------------------------------------
 
 Title:
-Anthropic warns infostealer malware is hijacking Claude sessions to drain usage
+Aesto Health says data breach affects over 9.5 million patients
 
 Published:
-2026-08-30 14:30 UTC
+2026-09-01 19:28 UTC
 
 Summary:
-Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]
+Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/
+https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/
 
 ------------------------------------------------------------
 
 Title:
-Chrome Web Store extensions caught stealing crypto, browser data
+Critical Langflow flaw exploited to steal OpenAI and AWS keys
 
 Published:
-2026-08-30 14:17 UTC
+2026-09-01 17:54 UTC
 
 Summary:
-Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]
+Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/
+https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/
 
 ------------------------------------------------------------
 
 Title:
-Anthropic is cutting Claude Code's current weekly limits by 17%
+Hackers push malicious Virtualizor update in BGP hijacking attack
 
 Published:
-2026-08-29 23:11 UTC
+2026-09-01 14:45 UTC
 
 Summary:
-Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]
+Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/
+https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/
 
 ------------------------------------------------------------
 
 Title:
-Brave browser adds email aliases to help users evade tracking
+Novocure data breach affects more than 1,400 cancer patients
 
 Published:
-2026-08-29 14:19 UTC
+2026-09-01 14:28 UTC
 
 Summary:
-The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]
+Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/
+https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/
 
 ------------------------------------------------------------
 
@@ -119,47 +166,59 @@ https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Frontier AI tipping the scales toward cyber adversaries
+Security policies fail to keep up with a hybrid cloud world
 
 Published:
-2026-08-28 15:01 UTC
+2026-09-01 16:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/oMiO7cn-S7dKO_1oOhCqov0YSQtLd6TD9e5Z4ggXOvw/g:nowe:8:185/c:4023:2273/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjIxOS5KUEc=.webp" /></div></figure>Researchers at Palo Alto Networks&rsquo; Unit 42 warn that threat actors are already using AI to accelerate cyberattacks beyond the abilities of modern defenses.
+<figure><div><img src="https://imgproxy.divecdn.com/q1EqHf99Vg3vlm2Yg3Jxti_p8B2SXqx3cSjrsipyQmw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExODkzOTYyLmpwZw==.webp" /></div></figure>Roughly two-thirds of companies have suffered a business-critical app outage due to misconfigured security policies, a Cloud Security Alliance report found.
 
 URL:
-https://www.cybersecuritydive.com/news/frontier-ai-tipping-scales-cyber-adversaries/829088/
+https://www.cybersecuritydive.com/news/security-policies-fail-keep-up-hybrid-cloud/829256/
 
 ------------------------------------------------------------
 
 Title:
-CISA identifies security hurdles that led to very different results in two red-team engagements
+Frontier AI helps exploit flaws in tests using key industrial devices
 
 Published:
-2026-08-28 12:00 UTC
+2026-09-01 15:16 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp" /></div></figure>The agency said its recent simulated cyberattacks offered several key lessons for many organizations.
+<figure><div><img src="https://imgproxy.divecdn.com/ztDkV4PrMV67v48mWTQ6ag77YKQyTBVys8oM9e9Djd4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaG90b19BdWdfMzFfMjAyNl8xMl8wN18wOV9QTS5qcGc=.webp" /></div></figure>A report showed that Claude could help hackers develop attack strategies targeting PLCs used by water utilities and other industries.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-red-team-exercises-lessons-cloud-soc/828733/
+https://www.cybersecuritydive.com/news/frontier-ai-exploit-flaws-water-PLCs-industrial-devices/829307/
 
 ------------------------------------------------------------
 
 Title:
-Hundreds of agents went rogue in lead up to Hugging Face breach
+PaperCut issues emergency patches as threat actors target chained vulnerabilities
 
 Published:
-2026-08-27 15:37 UTC
+2026-08-31 15:25 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/knCCzJQisc1IG8_F7mrDfJP91kSIWf-rKf1UCDItDhA/g:nowe:71:409/c:3129:1767/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDVfMjAyNzEzODEwLmpwZw==.webp" /></div></figure>OpenAI released a technical breakdown of the historic incident and plans changes to prevent such an occurrence from happening again. 
+<figure><div><img src="https://imgproxy.divecdn.com/F1vpCRMeNAW92tHMHwTD0hRSgGsQbfgCxzvCLcppY_0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDU4MjgwMzgyLmpwZw==.webp" /></div></figure>The print management software maker faced a wave of attacks in 2023 aimed at higher education customers.
 
 URL:
-https://www.cybersecuritydive.com/news/hundreds-agents-rogue-lead-up-hugging-face-breach/828963/
+https://www.cybersecuritydive.com/news/papercut-emergency-patches-threat-actors-chained-vulnerabilities/829184/
+
+------------------------------------------------------------
+
+Title:
+State-linked actor targets Cisco routers for espionage
+
+Published:
+2026-08-31 14:57 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/fzVj4kdp52IOKIDpsqAEeCIdDfmPVnQSSAjo4aa07a8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ2NzE0Nzg4LmpwZw==.webp" /></div></figure>An actor known as Fire Ant has expanded its reach into trusted environments, with unique tooling and stealth.
+
+URL:
+https://www.cybersecuritydive.com/news/state-actor-cisco-routers-China-espionage/829181/
 
 ------------------------------------------------------------
 
@@ -179,50 +238,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety
+Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams
 
 Published:
-2026-08-28 22:00 UTC
+2026-08-31 10:00 UTC
 
 Summary:
-New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security.
-The post <a href="https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/">Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Learn how the Spring Ring campaign abuses Microsoft Teams and voice phishing to deploy malware and target enterprise domain controllers.
+The post <a href="https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/">Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/
-
-------------------------------------------------------------
-
-Title:
-The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution
-
-Published:
-2026-08-25 10:00 UTC
-
-Summary:
-Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution.
-The post <a href="https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/">The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/
-
-------------------------------------------------------------
-
-Title:
-Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain
-
-Published:
-2026-08-21 23:00 UTC
-
-Summary:
-Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controls
-The post <a href="https://unit42.paloaltonetworks.com/sdlc-supply-chain/">Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/sdlc-supply-chain/
+https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/
 
 ------------------------------------------------------------
 
@@ -609,50 +636,33 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-TerminalFix campaign deploys a reverse tunnel through multistage intrusion
+Counterfeit installers to system compromise: Tracking a deceptive software download campaign
 
 Published:
-2026-08-29 03:43 UTC
+2026-09-01 22:48 UTC
 
 Summary:
-Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/">TerminalFix campaign deploys a reverse tunnel through multistage intrusion</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help organizations identify, block, and respond to this threat.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/">Counterfeit installers to system compromise: Tracking a deceptive software download campaign</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/
+https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/
 
 ------------------------------------------------------------
 
 Title:
-​​​​​​What’s new in Microsoft Security: August 2026
+Cybersecurity IR Workshop: The workshop you shouldn’t miss
 
 Published:
-2026-08-27 16:00 UTC
+2026-09-01 18:55 UTC
 
 Summary:
-This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/">​​​​​​What’s new in Microsoft Security: August 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/">Cybersecurity IR Workshop: The workshop you shouldn’t miss</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/
-
-------------------------------------------------------------
-
-Title:
-When AI infrastructure becomes the target: Securing gateways and control points
-
-Published:
-2026-08-26 16:43 UTC
-
-Summary:
-Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/">When AI infrastructure becomes the target: Securing gateways and control points</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/
+https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/
 
 ------------------------------------------------------------
 
