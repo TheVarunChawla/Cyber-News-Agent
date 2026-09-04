@@ -1,6 +1,6 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-09-02 06:01 UTC_
+_Generated: 2026-09-04 06:07 UTC_
 
 ## This post's topic
 
@@ -35,8 +35,8 @@ What part of this topic would you like me to explain next?
 
 ## Optional current-event context
 
-- Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams
-- JavaScript obfuscation: From party trick to phishing kit
+- ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories
+- US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries
 
 ## Before publishing
 
