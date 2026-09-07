@@ -1,90 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-04 06:07 UTC_
+_Last run: 2026-09-07 06:16 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories
+Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
 
 Published:
-2026-09-03 18:02 UTC
+2026-09-06 09:32 UTC
 
 Summary:
-The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door?
+Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5.
 
-That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides that point to unsafe downloads. One wrong letter in a web address can be enough.
-
-There is also
+Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or
 
 URL:
-https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html
+https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html
 
 ------------------------------------------------------------
 
 Title:
-Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root
+Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner
 
 Published:
-2026-09-03 15:52 UTC
+2026-09-06 08:34 UTC
 
 Summary:
-Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version.
+Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.
 
-The Nexus vulnerability, tracked as CVE-2026-20212 (CVSS score: 9.8), is
+One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner.
+
+The company named the four programs ProManager, WinUpdate, SoftManager, and
 
 URL:
-https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html
+https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html
 
 ------------------------------------------------------------
 
 Title:
-BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory
+Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores
 
 Published:
-2026-09-03 15:26 UTC
+2026-09-05 20:14 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts.
+Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5.
 
-"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access Brokers (IABs) by turning compromised systems into highly valuable commercial
+Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. "Sansec is
 
 URL:
-https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html
+https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html
 
 ------------------------------------------------------------
 
 Title:
-Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data
+Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials
 
 Published:
-2026-09-03 14:39 UTC
+2026-09-05 16:52 UTC
 
 Summary:
-Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada.
+JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.
 
-West Publishing said it discovered the activity on June 30, 2026. A subset of court records could contain individuals' names
+"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions," JetBrains said.
 
 URL:
-https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html
+https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html
 
 ------------------------------------------------------------
 
 Title:
-US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries
+Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code
 
 Published:
-2026-09-03 11:58 UTC
+2026-09-05 16:05 UTC
 
 Summary:
-An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.
+Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.
 
-Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses
+The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code.
+
+"A
 
 URL:
-https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html
+https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html
 
 ------------------------------------------------------------
 
@@ -93,78 +95,80 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-French hospital fined €500,000 after breach exposes data of 727,000
+ChatGPT Astra is now rolling out to $20 Plus subscription
 
 Published:
-2026-09-03 22:01 UTC
+2026-09-07 01:15 UTC
 
 Summary:
-France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]
+OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/
+https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/
 
 ------------------------------------------------------------
 
 Title:
-Coder's registry infrastructure compromised to push malicious modules
+Attackers conceal phishing lures using invisible Unicode characters
 
 Published:
-2026-09-03 20:04 UTC
+2026-09-06 14:23 UTC
 
 Summary:
-Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]
+Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/
+https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/
 
 ------------------------------------------------------------
 
 Title:
-HPE patches critical ArubaOS-CX remote code execution flaw
+Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain
 
 Published:
-2026-09-03 18:28 UTC
+2026-09-05 14:29 UTC
 
 Summary:
-Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]
+A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/
+https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft: KB5120998 mouse reset bug affects only non-English PCs
+OpenAI admits it didn't disclose rogue AI wiki hijacking incident
 
 Published:
-2026-09-03 15:22 UTC
+2026-09-05 11:11 UTC
 
 Summary:
-Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]
+OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model "misalignment" rather than a security breach. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/
-
-------------------------------------------------------------
-
-Title:
-OpenAI confirms ChatGPT is down ahead of 'Astra' model launch
-
-Published:
-2026-09-03 15:13 UTC
-
-Summary:
-ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/
+https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+Nvidia’s $12.9B Hugging Face deal could benefit enterprises
+
+Published:
+2026-09-04 15:44 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/E4lajvoXEyqeCcx3_VoXN8XpcWo4GNG-AzB9aVtDnOk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1NzYxODg2LmpwZw==.webp" /></div></figure>The chipmaker&rsquo;s acquisition could eventually bring additional security resources and model evaluation tools to the platform, according to experts.
+
+URL:
+https://www.cybersecuritydive.com/news/Nvidia-acquires-hugging-face-enterprises/829697/
+
+------------------------------------------------------------
 
 Title:
 SonicWall urges immediate patching of chained vulnerabilities
@@ -187,7 +191,7 @@ Published:
 2026-09-03 11:55 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/lNv3p-pMGqaWoC1AvOV_lYIYwj7UrGoVC42WprfczIw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEzMTc2NjI0LmpwZw==.webp" /></div></figure>A nonprofit group is now working to contact the botnet&rsquo;s victims.
+<figure><div><img src="https://imgproxy.divecdn.com/lNv3p-pMGqaWoC1AvOV_lYIYwj7UrGoVC42WprfczIw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEzMTc2NjI0LmpwZw==.webp" /></div></figure>A nonprofit group is now working to contact victims.
 
 URL:
 https://www.cybersecuritydive.com/news/doj-crowdstrike-botnet-sality-takedown/829512/
@@ -209,6 +213,8 @@ SOURCE : CISA
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America
@@ -240,9 +246,26 @@ https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-in
 
 ------------------------------------------------------------
 
+Title:
+Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams
+
+Published:
+2026-08-31 10:00 UTC
+
+Summary:
+Learn how the Spring Ring campaign abuses Microsoft Teams and voice phishing to deploy malware and target enterprise domain controllers.
+The post <a href="https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/">Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 The story behind the intelligence
@@ -255,6 +278,34 @@ From engaging with cybercriminals to surviving a live Flamin’ Hot Cheetos tast
 
 URL:
 https://blog.talosintelligence.com/the-story-behind-the-intelligence/
+
+------------------------------------------------------------
+
+Title:
+“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend
+
+Published:
+2026-08-27 18:00 UTC
+
+Summary:
+In his first Threat Source newsletter, David Bianco explores the critical need for operational sovereignty in customizing AI guardrails to maintain the defender’s advantage.
+
+URL:
+https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/
+
+------------------------------------------------------------
+
+Title:
+JavaScript obfuscation: From party trick to phishing kit
+
+Published:
+2026-08-27 10:00 UTC
+
+Summary:
+Learn the basics of what obfuscation is, why a researcher would try to reverse it, and several ways to approach the problem.
+
+URL:
+https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/
 
 ------------------------------------------------------------
 
@@ -592,6 +643,23 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 ============================================================
 SOURCE : Microsoft Security Blog
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+How to secure edge AI in customer-owned environments
+
+Published:
+2026-09-04 19:10 UTC
+
+Summary:
+As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/">How to secure edge AI in customer-owned environments</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/
+
+------------------------------------------------------------
 
 Title:
 ASCII smuggling crosses over from AI prompt injection to phishing evasion
