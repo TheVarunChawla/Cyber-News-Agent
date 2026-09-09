@@ -1,92 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-07 06:16 UTC_
+_Last run: 2026-09-09 06:10 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
+N-able N-central Pre-Auth RCE Flaw Exploited in the Wild
 
 Published:
-2026-09-06 09:32 UTC
+2026-09-09 04:27 UTC
 
 Summary:
-Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.
 
-Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or
+The vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a
 
 URL:
-https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html
+https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html
 
 ------------------------------------------------------------
 
 Title:
-Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner
+Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution
 
 Published:
-2026-09-06 08:34 UTC
+2026-09-08 16:20 UTC
 
 Summary:
-Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.
+A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.
 
-One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner.
+Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider.
 
-The company named the four programs ProManager, WinUpdate, SoftManager, and
+"The adversary demonstrates deep operational knowledge of Brazilian financial infrastructure, including the instant payment
 
 URL:
-https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html
+https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html
 
 ------------------------------------------------------------
 
 Title:
-Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores
+Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC
 
 Published:
-2026-09-05 20:14 UTC
+2026-09-08 14:54 UTC
 
 Summary:
-Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5.
+Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.
 
-Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. "Sansec is
+Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is still paused, so holders cannot turn that token back into bitcoin.
+
+The 3,400 bitcoin was sent to a&
 
 URL:
-https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html
+https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html
 
 ------------------------------------------------------------
 
 Title:
-Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials
+ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account
 
 Published:
-2026-09-05 16:52 UTC
+2026-09-08 14:19 UTC
 
 Summary:
-JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.
+Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.
 
-"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions," JetBrains said.
+In the company's proof of concept, that hidden work read data from the user's connected Gmail account and passed it to a second ChatGPT account through a hidden channel
 
 URL:
-https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html
+https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html
 
 ------------------------------------------------------------
 
 Title:
-Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code
+Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours
 
 Published:
-2026-09-05 16:05 UTC
+2026-09-08 13:48 UTC
 
 Summary:
-Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.
+Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours.
 
-The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code.
-
-"A
+Google Threat Intelligence Group (GTIG) said it has observed attackers with diverse motivations targeting proprietary AI
 
 URL:
-https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html
+https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html
 
 ------------------------------------------------------------
 
@@ -95,58 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-ChatGPT Astra is now rolling out to $20 Plus subscription
+Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults
 
 Published:
-2026-09-07 01:15 UTC
+2026-09-09 01:16 UTC
 
 Summary:
-OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]
+Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/
 
 ------------------------------------------------------------
 
 Title:
-Attackers conceal phishing lures using invisible Unicode characters
+DoppelCart fraud network uses 119,000 fake shops to steal credit cards
 
 Published:
-2026-09-06 14:23 UTC
+2026-09-08 20:35 UTC
 
 Summary:
-Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]
+A massive operation dubbed "DoppelCart" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/
+https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/
 
 ------------------------------------------------------------
 
 Title:
-Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain
+The EU CRA's Real Question: What Shipped, and When Did You Know?
 
 Published:
-2026-09-05 14:29 UTC
+2026-09-08 20:24 UTC
 
 Summary:
-A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]
+The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/
+https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI admits it didn't disclose rogue AI wiki hijacking incident
+Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit
 
 Published:
-2026-09-05 11:11 UTC
+2026-09-08 20:08 UTC
 
 Summary:
-OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model "misalignment" rather than a security breach. [...]
+A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/
+https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/
+
+------------------------------------------------------------
+
+Title:
+Microsoft releases Windows 10 KB5122878 extended security update
+
+Published:
+2026-09-08 18:49 UTC
+
+Summary:
+Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/
 
 ------------------------------------------------------------
 
@@ -154,47 +168,45 @@ https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-r
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Nvidia’s $12.9B Hugging Face deal could benefit enterprises
+N-able issues patch for zero-day flaw
 
 Published:
-2026-09-04 15:44 UTC
+2026-09-08 15:44 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/E4lajvoXEyqeCcx3_VoXN8XpcWo4GNG-AzB9aVtDnOk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1NzYxODg2LmpwZw==.webp" /></div></figure>The chipmaker&rsquo;s acquisition could eventually bring additional security resources and model evaluation tools to the platform, according to experts.
+<figure><div><img src="https://imgproxy.divecdn.com/t5tW6nUHaTi5xmB_fwJwafJSzokVe39pHuImVm2Q6x0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS96ZXJvZGF5R2V0dHlJbWFnZXMtMjE3OTk5MjE5NC5qcGc=.webp" /></div></figure>Security researchers warned the company of unusual threat activity in a recently patched N-able environment.
 
 URL:
-https://www.cybersecuritydive.com/news/Nvidia-acquires-hugging-face-enterprises/829697/
+https://www.cybersecuritydive.com/news/n-able-issues-patch-zero-day-flaw/829808/
 
 ------------------------------------------------------------
 
 Title:
-SonicWall urges immediate patching of chained vulnerabilities
+Don’t let AI distract from cybersecurity basics, officials and executives warn
 
 Published:
-2026-09-03 15:03 UTC
+2026-09-08 14:05 UTC
 
 Summary:
-Just weeks after a wave of ransomware attacks, new flaws in SMA1000 series appliances are being exploited.
+<figure><div><img src="https://imgproxy.divecdn.com/BQoUsLckycCzuERpd02dY_nZSFK0ZKiGwutLNL8NvLY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MDhfMTM0ODQ1NDE2LmpwZw==.webp" /></div></figure>Simple attacks remain far more consequential than anything AI is doing, government and industry leaders said.
 
 URL:
-https://www.cybersecuritydive.com/news/sonicwall-immediate-patching-chained-vulnerabilities/829567/
+https://www.cybersecuritydive.com/news/ai-cybersecurity-basics-billington/829777/
 
 ------------------------------------------------------------
 
 Title:
-Government, industry partner to shut down long-running Sality botnet
+Essential AI agent security questions
 
 Published:
-2026-09-03 11:55 UTC
+2026-09-08 09:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/lNv3p-pMGqaWoC1AvOV_lYIYwj7UrGoVC42WprfczIw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEzMTc2NjI0LmpwZw==.webp" /></div></figure>A nonprofit group is now working to contact victims.
+<figure><div><img src="https://imgproxy.divecdn.com/WErtvx8dgO_LgbdUXiPc2WwSgeLGgC24FYPw9vKOcyQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yU2NyZWVuc2hvdF8yMDI2LTA4LTI3X2F0XzkuMTEuMDNQTS5wbmc=.webp" /></div></figure>AI agents are outpacing legacy IAM. Discover the 3 questions every CISO must ask to secure them.
 
 URL:
-https://www.cybersecuritydive.com/news/doj-crowdstrike-botnet-sality-takedown/829512/
+https://www.cybersecuritydive.com/spons/essential-ai-agent-security-questions/829508/
 
 ------------------------------------------------------------
 
@@ -265,47 +277,45 @@ https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-The story behind the intelligence
+Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities
 
 Published:
-2026-09-03 18:00 UTC
+2026-09-08 22:16 UTC
 
 Summary:
-From engaging with cybercriminals to surviving a live Flamin’ Hot Cheetos taste test, Hazel reflects on the latest Beers with Talos with Azim, where they cover the full spectrum of what it takes to gather threat intel.
+Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as "critical."
 
 URL:
-https://blog.talosintelligence.com/the-story-behind-the-intelligence/
+https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/
 
 ------------------------------------------------------------
 
 Title:
-“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend
+ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager
 
 Published:
-2026-08-27 18:00 UTC
+2026-09-08 10:01 UTC
 
 Summary:
-In his first Threat Source newsletter, David Bianco explores the critical need for operational sovereignty in customizing AI guardrails to maintain the defender’s advantage.
+We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.
 
 URL:
-https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/
+https://blog.talosintelligence.com/clearfake-webdav-infection-chain/
 
 ------------------------------------------------------------
 
 Title:
-JavaScript obfuscation: From party trick to phishing kit
+ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2
 
 Published:
-2026-08-27 10:00 UTC
+2026-09-08 10:00 UTC
 
 Summary:
-Learn the basics of what obfuscation is, why a researcher would try to reverse it, and several ways to approach the problem.
+Cisco Talos is tracking a cryptocurrency-stealing campaign that abuses the Google Visualization API for command and control (C2), retrieving obfuscated JavaScript from a publicly published Google Sheets document and injecting it into the victim's browser session.
 
 URL:
-https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/
+https://blog.talosintelligence.com/clickfix-moves-into-the-browser/
 
 ------------------------------------------------------------
 
