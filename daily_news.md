@@ -1,92 +1,88 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-09 06:10 UTC_
+_Last run: 2026-09-11 06:13 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-N-able N-central Pre-Auth RCE Flaw Exploited in the Wild
+ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories
 
 Published:
-2026-09-09 04:27 UTC
+2026-09-10 17:47 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.
+A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”
 
-The vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a
+An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already
 
 URL:
-https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html
+https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html
 
 ------------------------------------------------------------
 
 Title:
-Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution
+Google Play Early Access Abused to Push Thousands of Deceptive Android Apps
 
 Published:
-2026-09-08 16:20 UTC
+2026-09-10 14:36 UTC
 
 Summary:
-A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.
+Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.
 
-Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider.
-
-"The adversary demonstrates deep operational knowledge of Brazilian financial infrastructure, including the instant payment
+Early Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the program is for developers to solicit user feedback for new applications or features they may be working on before their
 
 URL:
-https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html
+https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html
 
 ------------------------------------------------------------
 
 Title:
-Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC
+Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE
 
 Published:
-2026-09-08 14:54 UTC
+2026-09-10 11:45 UTC
 
 Summary:
-Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.
+Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only "under specific conditions" that it has not described.
 
-Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is still paused, so holders cannot turn that token back into bitcoin.
-
-The 3,400 bitcoin was sent to a&
+One flaw affects Check Point's Security Gateways, its firewall appliances. The other affects those gateways and the Security
 
 URL:
-https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html
+https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html
 
 ------------------------------------------------------------
 
 Title:
-ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account
+PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances
 
 Published:
-2026-09-08 14:19 UTC
+2026-09-10 11:41 UTC
 
 Summary:
-Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.
+A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances.
 
-In the company's proof of concept, that hidden work read data from the user's connected Gmail account and passed it to a second ChatGPT account through a hidden channel
+According to independent reports from Blackpoint Cyber and GreyNoise, the activity originates from "45.142.193[.]132," an IP address that has been linked to
 
 URL:
-https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html
+https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html
 
 ------------------------------------------------------------
 
 Title:
-Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours
+Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks
 
 Published:
-2026-09-08 13:48 UTC
+2026-09-10 11:33 UTC
 
 Summary:
-Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours.
+The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9.
 
-Google Threat Intelligence Group (GTIG) said it has observed attackers with diverse motivations targeting proprietary AI
+A work profile is a separate space that Android typically reserves for employer apps, and what's inside it is kept separate from everything in the personal space. That
 
 URL:
-https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html
+https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html
 
 ------------------------------------------------------------
 
@@ -95,72 +91,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults
+New Android malware encrypts files, steals data, and harasses victims
 
 Published:
-2026-09-09 01:16 UTC
+2026-09-10 21:40 UTC
 
 Summary:
-Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]
+A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/
+https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/
 
 ------------------------------------------------------------
 
 Title:
-DoppelCart fraud network uses 119,000 fake shops to steal credit cards
+September Windows Server updates break Remote Desktop Services
 
 Published:
-2026-09-08 20:35 UTC
+2026-09-10 20:34 UTC
 
 Summary:
-A massive operation dubbed "DoppelCart" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]
+Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore functionality. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/
+https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/
 
 ------------------------------------------------------------
 
 Title:
-The EU CRA's Real Question: What Shipped, and When Did You Know?
+Surfshark VPN says hackers breached internal testing, proxy servers
 
 Published:
-2026-09-08 20:24 UTC
+2026-09-10 19:15 UTC
 
 Summary:
-The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]
+Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/
+https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/
 
 ------------------------------------------------------------
 
 Title:
-Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit
+Microsoft Excel KB5002914 update breaks copy and paste for some users
 
 Published:
-2026-09-08 20:08 UTC
+2026-09-10 19:07 UTC
 
 Summary:
-A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]
+Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft releases Windows 10 KB5122878 extended security update
+AI-powered attack exploited PaperCut flaws to hack 395 organizations
 
 Published:
-2026-09-08 18:49 UTC
+2026-09-10 15:55 UTC
 
 Summary:
-Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]
+A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/
+https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/
 
 ------------------------------------------------------------
 
@@ -169,44 +165,72 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-N-able issues patch for zero-day flaw
+Threat groups enhance cyberattack capabilities with AI
 
 Published:
-2026-09-08 15:44 UTC
+2026-09-10 16:08 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/t5tW6nUHaTi5xmB_fwJwafJSzokVe39pHuImVm2Q6x0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS96ZXJvZGF5R2V0dHlJbWFnZXMtMjE3OTk5MjE5NC5qcGc=.webp" /></div></figure>Security researchers warned the company of unusual threat activity in a recently patched N-able environment.
+A report shows state-linked and criminal hackers are incorporating automation and agentic technology to find new victims and bypass traditional defenses.
 
 URL:
-https://www.cybersecuritydive.com/news/n-able-issues-patch-zero-day-flaw/829808/
+https://www.cybersecuritydive.com/news/threat-groups-enhance-cyberattack-capabilities-ai/830055/
 
 ------------------------------------------------------------
 
 Title:
-Don’t let AI distract from cybersecurity basics, officials and executives warn
+White House sees water cybersecurity partnership in Texas as national blueprint
 
 Published:
-2026-09-08 14:05 UTC
+2026-09-10 14:27 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/BQoUsLckycCzuERpd02dY_nZSFK0ZKiGwutLNL8NvLY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MDhfMTM0ODQ1NDE2LmpwZw==.webp" /></div></figure>Simple attacks remain far more consequential than anything AI is doing, government and industry leaders said.
+<figure><div><img src="https://imgproxy.divecdn.com/PI0C9X-5YLPf33QDepaydX-F1XP1-NpMIfO3NtruHNA/g:nowe:0:396/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTBfMTIyNjI4MzM2LmpwZw==.webp" /></div></figure>A top cybersecurity official said the government was taking a new approach to protecting critical infrastructure.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-cybersecurity-basics-billington/829777/
+https://www.cybersecuritydive.com/news/water-cybersecurity-white-house-oncd-texas-partnership-cairncross/830029/
 
 ------------------------------------------------------------
 
 Title:
-Essential AI agent security questions
+CISA is on the verge of filling hundreds of critical vacancies
 
 Published:
-2026-09-08 09:00 UTC
+2026-09-10 14:27 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/WErtvx8dgO_LgbdUXiPc2WwSgeLGgC24FYPw9vKOcyQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yU2NyZWVuc2hvdF8yMDI2LTA4LTI3X2F0XzkuMTEuMDNQTS5wbmc=.webp" /></div></figure>AI agents are outpacing legacy IAM. Discover the 3 questions every CISO must ask to secure them.
+<figure><div><img src="https://imgproxy.divecdn.com/M4NWKOlWdwaUSK8auyjnvPrgDjv6n0xNS0WjHoKzcFk/g:nowe:0:508/c:3196:1806/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MDlfMTg0MTU3NDA5LmpwZw==.webp" /></div></figure>Meanwhile, the agency is finalizing an incident-reporting regulation and setting up a new industry coordination structure.
 
 URL:
-https://www.cybersecuritydive.com/spons/essential-ai-agent-security-questions/829508/
+https://www.cybersecuritydive.com/news/cisa-hiring-circia-anchor-nick-andersen/829980/
+
+------------------------------------------------------------
+
+Title:
+How AI anxieties dominated the summer’s big cybersecurity conference
+
+Published:
+2026-09-09 20:10 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/jnX57_B27Ta5oov8gBFg2BfBZitZkFZjk94ZAU0OF5g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDdfMDAyODU0Njc0Lk1QLmpwZw==.webp" /></div></figure>From the CVE Program to autonomous hacks, everyone is worried about the technology&rsquo;s next evolution.
+
+URL:
+https://www.cybersecuritydive.com/news/black-hat-ai-cve-reporters-notebook/829978/
+
+------------------------------------------------------------
+
+Title:
+CISOs are feeling the security burden of accelerated AI use
+
+Published:
+2026-09-09 15:36 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/KX1ga0uIjTKRaIGWHQm7dKCexHSXe2aMXa6uPT_IbRQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMjAxMTEzLmpwZw==.webp" /></div></figure>A report shows CISOs face increased pressures related to cyber resilience and business continuity.
+
+URL:
+https://www.cybersecuritydive.com/news/cisos-feeling-security-burden-accelerated-ai-use/829930/
 
 ------------------------------------------------------------
 
@@ -226,50 +250,33 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America
+The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE
 
 Published:
-2026-09-03 10:00 UTC
+2026-09-10 10:00 UTC
 
 Summary:
-Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations.
-The post <a href="https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/">Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Learn how root access on a compromised K8s node allows attackers to utilize SPIFFE/SPIRE metadata to spoof and harvest co-located workload identities.
+The post <a href="https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/">The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
+https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
 
 ------------------------------------------------------------
 
 Title:
-An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation
+Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure
 
 Published:
-2026-09-02 10:00 UTC
+2026-09-09 10:00 UTC
 
 Summary:
-Using autonomous AI agents, an attacker breached an enterprise network in a matter of hours. Understand how to address and defend against agentic attacks.
-The post <a href="https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/">An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks.
+The post <a href="https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/">Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/
-
-------------------------------------------------------------
-
-Title:
-Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams
-
-Published:
-2026-08-31 10:00 UTC
-
-Summary:
-Learn how the Spring Ring campaign abuses Microsoft Teams and voice phishing to deploy malware and target enterprise domain controllers.
-The post <a href="https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/">Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/
+https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/
 
 ------------------------------------------------------------
 
@@ -278,44 +285,30 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities
+We've got one word for it, and it's usually the wrong one
 
 Published:
-2026-09-08 22:16 UTC
+2026-09-10 18:00 UTC
 
 Summary:
-Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as "critical."
+In this week's Threat Source newsletter, Joe explores why the word "burnout" often fails to capture the true toll of working in the cybersecurity industry and why we need better language to address it.
 
 URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/
+https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/
 
 ------------------------------------------------------------
 
 Title:
-ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager
+Active exploitation of Cisco Secure Firewall Management Center vulnerabilities
 
 Published:
-2026-09-08 10:01 UTC
+2026-09-09 16:08 UTC
 
 Summary:
-We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.
+Cisco Talos is actively tracking the exploitation of two vulnerabilities in Cisco’s Secure Firewall Management Center (FMC) Software.
 
 URL:
-https://blog.talosintelligence.com/clearfake-webdav-infection-chain/
-
-------------------------------------------------------------
-
-Title:
-ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2
-
-Published:
-2026-09-08 10:00 UTC
-
-Summary:
-Cisco Talos is tracking a cryptocurrency-stealing campaign that abuses the Google Visualization API for command and control (C2), retrieving obfuscated JavaScript from a publicly published Google Sheets document and injecting it into the victim's browser session.
-
-URL:
-https://blog.talosintelligence.com/clickfix-moves-into-the-browser/
+https://blog.talosintelligence.com/fmc-ongoing-exploitation/
 
 ------------------------------------------------------------
 
@@ -654,50 +647,63 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-How to secure edge AI in customer-owned environments
+Protecting organizations from AI-assisted executive impersonation and invoice fraud
 
 Published:
-2026-09-04 19:10 UTC
+2026-09-10 17:23 UTC
 
 Summary:
-As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/">How to secure edge AI in customer-owned environments</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/">Protecting organizations from AI-assisted executive impersonation and invoice fraud</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/
+https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/
 
 ------------------------------------------------------------
 
 Title:
-ASCII smuggling crosses over from AI prompt injection to phishing evasion
+Detect and disrupt AI-themed attacks with Microsoft Defender
 
 Published:
-2026-09-03 16:00 UTC
+2026-09-10 16:00 UTC
 
 Summary:
-Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/">ASCII smuggling crosses over from AI prompt injection to phishing evasion</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/">Detect and disrupt AI-themed attacks with Microsoft Defender</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/
+https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/
 
 ------------------------------------------------------------
 
 Title:
-Impersonating IT support: how threat actors turn a remote session into enterprise-wide access
+Threat matrix: Mapping threats across cloud web applications
 
 Published:
-2026-09-02 22:51 UTC
+2026-09-09 21:30 UTC
 
 Summary:
-Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the activity.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/">Impersonating IT support: how threat actors turn a remote session into enterprise-wide access</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&#038;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/">Threat matrix: Mapping threats across cloud web applications</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/
+https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/
+
+------------------------------------------------------------
+
+Title:
+Passkey-themed social engineering leads to identity and cloud compromise
+
+Published:
+2026-09-09 17:41 UTC
+
+Summary:
+Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/">Passkey-themed social engineering leads to identity and cloud compromise</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/
 
 ------------------------------------------------------------
 
