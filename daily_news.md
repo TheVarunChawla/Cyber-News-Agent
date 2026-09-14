@@ -1,88 +1,73 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-11 06:13 UTC_
+_Last run: 2026-09-14 06:34 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories
+Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
 
 Published:
-2026-09-10 17:47 UTC
+2026-09-13 10:11 UTC
 
 Summary:
-A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”
+Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.
 
-An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already
+The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers
 
 URL:
-https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html
+https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html
 
 ------------------------------------------------------------
 
 Title:
-Google Play Early Access Abused to Push Thousands of Deceptive Android Apps
+CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
 
 Published:
-2026-09-10 14:36 UTC
+2026-09-12 15:54 UTC
 
 Summary:
-Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
 
-Early Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the program is for developers to solicit user feedback for new applications or features they may be working on before their
+Details of the vulnerabilities are as follows -
+
+
+  CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization
 
 URL:
-https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html
+https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html
 
 ------------------------------------------------------------
 
 Title:
-Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE
+When the Whole Company Adopts AI: What It Does to Your SOC
 
 Published:
-2026-09-10 11:45 UTC
+2026-09-12 10:24 UTC
 
 Summary:
-Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only "under specific conditions" that it has not described.
-
-One flaw affects Check Point's Security Gateways, its firewall appliances. The other affects those gateways and the Security
+Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate
 
 URL:
-https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html
+https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html
 
 ------------------------------------------------------------
 
 Title:
-PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances
+OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers
 
 Published:
-2026-09-10 11:41 UTC
+2026-09-12 09:07 UTC
 
 Summary:
-A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances.
+The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.
 
-According to independent reports from Blackpoint Cyber and GreyNoise, the activity originates from "45.142.193[.]132," an IP address that has been linked to
-
-URL:
-https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html
-
-------------------------------------------------------------
-
-Title:
-Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks
-
-Published:
-2026-09-10 11:33 UTC
-
-Summary:
-The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9.
-
-A work profile is a separate space that Android typically reserves for employer apps, and what's inside it is kept separate from everything in the personal space. That
+On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the
 
 URL:
-https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html
+https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
 
 ------------------------------------------------------------
 
@@ -91,78 +76,66 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-New Android malware encrypts files, steals data, and harasses victims
+Hackers exploit Tencent app flaw to deploy GrayRabbit malware
 
 Published:
-2026-09-10 21:40 UTC
+2026-09-13 14:26 UTC
 
 Summary:
-A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]
+Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/
 
 ------------------------------------------------------------
 
 Title:
-September Windows Server updates break Remote Desktop Services
+Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent
 
 Published:
-2026-09-10 20:34 UTC
+2026-09-12 14:14 UTC
 
 Summary:
-Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore functionality. [...]
+The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/
-
-------------------------------------------------------------
-
-Title:
-Surfshark VPN says hackers breached internal testing, proxy servers
-
-Published:
-2026-09-10 19:15 UTC
-
-Summary:
-Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/
-
-------------------------------------------------------------
-
-Title:
-Microsoft Excel KB5002914 update breaks copy and paste for some users
-
-Published:
-2026-09-10 19:07 UTC
-
-Summary:
-Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/
-
-------------------------------------------------------------
-
-Title:
-AI-powered attack exploited PaperCut flaws to hack 395 organizations
-
-Published:
-2026-09-10 15:55 UTC
-
-Summary:
-A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/
+https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+State authorities warn they lack resources to address cyber threat to critical sectors
+
+Published:
+2026-09-11 15:23 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/bAEwjUQMghV1n0Gsq6p2tdnoo2j0A2JjxB2mrQNd0kc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDUyMTM4MjQuanBn.webp" /></div></figure>A report shows that state CIOs and CISOs need additional funding, personnel and training to protect water, energy and healthcare.
+
+URL:
+https://www.cybersecuritydive.com/news/state-infrastructure-resources-cyberthreats/830178/
+
+------------------------------------------------------------
+
+Title:
+Accountability, oversight and AI: Inside Microsoft’s security transformation
+
+Published:
+2026-09-11 12:00 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>Stung by years of embarrassing hacks, the tech giant overhauled how it approached cybersecurity. Company leaders now say they&rsquo;re seeing results.
+
+URL:
+https://www.cybersecuritydive.com/news/microsoft-cybersecurity-culture-accountability-software-development/830048/
+
+------------------------------------------------------------
 
 Title:
 Threat groups enhance cyberattack capabilities with AI
@@ -175,62 +148,6 @@ A report shows state-linked and criminal hackers are incorporating automation an
 
 URL:
 https://www.cybersecuritydive.com/news/threat-groups-enhance-cyberattack-capabilities-ai/830055/
-
-------------------------------------------------------------
-
-Title:
-White House sees water cybersecurity partnership in Texas as national blueprint
-
-Published:
-2026-09-10 14:27 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/PI0C9X-5YLPf33QDepaydX-F1XP1-NpMIfO3NtruHNA/g:nowe:0:396/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTBfMTIyNjI4MzM2LmpwZw==.webp" /></div></figure>A top cybersecurity official said the government was taking a new approach to protecting critical infrastructure.
-
-URL:
-https://www.cybersecuritydive.com/news/water-cybersecurity-white-house-oncd-texas-partnership-cairncross/830029/
-
-------------------------------------------------------------
-
-Title:
-CISA is on the verge of filling hundreds of critical vacancies
-
-Published:
-2026-09-10 14:27 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/M4NWKOlWdwaUSK8auyjnvPrgDjv6n0xNS0WjHoKzcFk/g:nowe:0:508/c:3196:1806/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MDlfMTg0MTU3NDA5LmpwZw==.webp" /></div></figure>Meanwhile, the agency is finalizing an incident-reporting regulation and setting up a new industry coordination structure.
-
-URL:
-https://www.cybersecuritydive.com/news/cisa-hiring-circia-anchor-nick-andersen/829980/
-
-------------------------------------------------------------
-
-Title:
-How AI anxieties dominated the summer’s big cybersecurity conference
-
-Published:
-2026-09-09 20:10 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/jnX57_B27Ta5oov8gBFg2BfBZitZkFZjk94ZAU0OF5g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA4MDdfMDAyODU0Njc0Lk1QLmpwZw==.webp" /></div></figure>From the CVE Program to autonomous hacks, everyone is worried about the technology&rsquo;s next evolution.
-
-URL:
-https://www.cybersecuritydive.com/news/black-hat-ai-cve-reporters-notebook/829978/
-
-------------------------------------------------------------
-
-Title:
-CISOs are feeling the security burden of accelerated AI use
-
-Published:
-2026-09-09 15:36 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/KX1ga0uIjTKRaIGWHQm7dKCexHSXe2aMXa6uPT_IbRQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMjAxMTEzLmpwZw==.webp" /></div></figure>A report shows CISOs face increased pressures related to cyber resilience and business continuity.
-
-URL:
-https://www.cybersecuritydive.com/news/cisos-feeling-security-burden-accelerated-ai-use/829930/
 
 ------------------------------------------------------------
 
@@ -249,6 +166,8 @@ SOURCE : CISA
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE
@@ -280,9 +199,26 @@ https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/
 
 ------------------------------------------------------------
 
+Title:
+Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America
+
+Published:
+2026-09-03 10:00 UTC
+
+Summary:
+Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations.
+The post <a href="https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/">Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 We've got one word for it, and it's usually the wrong one
@@ -309,6 +245,20 @@ Cisco Talos is actively tracking the exploitation of two vulnerabilities in Cisc
 
 URL:
 https://blog.talosintelligence.com/fmc-ongoing-exploitation/
+
+------------------------------------------------------------
+
+Title:
+Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities
+
+Published:
+2026-09-08 22:16 UTC
+
+Summary:
+Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as "critical."
+
+URL:
+https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/
 
 ------------------------------------------------------------
 
@@ -647,6 +597,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Protecting organizations from AI-assisted executive impersonation and invoice fraud
 
@@ -689,21 +641,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/09/threa
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/
-
-------------------------------------------------------------
-
-Title:
-Passkey-themed social engineering leads to identity and cloud compromise
-
-Published:
-2026-09-09 17:41 UTC
-
-Summary:
-Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/">Passkey-themed social engineering leads to identity and cloud compromise</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/
 
 ------------------------------------------------------------
 

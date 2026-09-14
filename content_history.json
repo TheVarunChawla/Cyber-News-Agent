@@ -51,6 +51,10 @@
     {
       "date": "2026-09-11",
       "slug": "zero-trust"
+    },
+    {
+      "date": "2026-09-14",
+      "slug": "mfa-is-not-magic"
     }
   ]
 }
