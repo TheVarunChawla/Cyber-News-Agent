@@ -1,73 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-14 06:34 UTC_
+_Last run: 2026-09-16 06:15 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
+KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens
 
 Published:
-2026-09-13 10:11 UTC
+2026-09-15 18:54 UTC
 
 Summary:
-Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.
+Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.
 
-The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers
+Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and
 
 URL:
-https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html
+https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html
 
 ------------------------------------------------------------
 
 Title:
-CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
+Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists
 
 Published:
-2026-09-12 15:54 UTC
+2026-09-15 16:29 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
+Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.
 
-Details of the vulnerabilities are as follows -
-
-
-  CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization
+The malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record
 
 URL:
-https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html
+https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html
 
 ------------------------------------------------------------
 
 Title:
-When the Whole Company Adopts AI: What It Does to Your SOC
+BambooToken Malware Uses MQTT to Control Windows and Linux Systems
 
 Published:
-2026-09-12 10:24 UTC
+2026-09-15 15:23 UTC
 
 Summary:
-Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate
+Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.
+
+The emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America.
 
 URL:
-https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html
+https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html
 
 ------------------------------------------------------------
 
 Title:
-OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers
+Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds
 
 Published:
-2026-09-12 09:07 UTC
+2026-09-15 11:52 UTC
 
 Summary:
-The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.
+With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access.
 
-On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the
+In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH
 
 URL:
-https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
+https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html
+
+------------------------------------------------------------
+
+Title:
+Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point
+
+Published:
+2026-09-15 11:26 UTC
+
+Summary:
+Introduction
+
+Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as a one-off exercise.
+
+But no matter how much you validate against these
+
+URL:
+https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html
 
 ------------------------------------------------------------
 
@@ -76,30 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers exploit Tencent app flaw to deploy GrayRabbit malware
+Acronis warns of actively exploited flaw in its cPanel backup plugin
 
 Published:
-2026-09-13 14:26 UTC
+2026-09-15 21:37 UTC
 
 Summary:
-Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]
+Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/
+https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/
 
 ------------------------------------------------------------
 
 Title:
-Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent
+Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites
 
 Published:
-2026-09-12 14:14 UTC
+2026-09-15 20:34 UTC
 
 Summary:
-The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]
+Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/
+https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/
+
+------------------------------------------------------------
+
+Title:
+CenterPoint Energy confirms customer data stolen in cyberattack
+
+Published:
+2026-09-15 16:40 UTC
+
+Summary:
+CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/
+
+------------------------------------------------------------
+
+Title:
+BambooToken malware controls Windows and Linux systems via MQTT
+
+Published:
+2026-09-15 15:00 UTC
+
+Summary:
+A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/
+
+------------------------------------------------------------
+
+Title:
+Hackers target WordPress sites via third-party WooCommerce plugin
+
+Published:
+2026-09-15 14:45 UTC
+
+Summary:
+Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/
 
 ------------------------------------------------------------
 
@@ -107,47 +166,73 @@ https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-v
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-State authorities warn they lack resources to address cyber threat to critical sectors
+AI is now leading driver of new cybersecurity spending
 
 Published:
-2026-09-11 15:23 UTC
+2026-09-15 15:32 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/bAEwjUQMghV1n0Gsq6p2tdnoo2j0A2JjxB2mrQNd0kc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDUyMTM4MjQuanBn.webp" /></div></figure>A report shows that state CIOs and CISOs need additional funding, personnel and training to protect water, energy and healthcare.
+<figure><div><img src="https://imgproxy.divecdn.com/emu7S10r9OLKvYj09hXykx5vc2GcF3q07Kbel0MWhK4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODIwNTgwODQuanBn.webp" /></div></figure>AI investments are expected to help automate security operations and enhance identity and access management.
 
 URL:
-https://www.cybersecuritydive.com/news/state-infrastructure-resources-cyberthreats/830178/
+https://www.cybersecuritydive.com/news/ai-leading-driver-cybersecurity-spending/830418/
 
 ------------------------------------------------------------
 
 Title:
-Accountability, oversight and AI: Inside Microsoft’s security transformation
+Companies’ AI strategies don’t account for their agentic tools
 
 Published:
-2026-09-11 12:00 UTC
+2026-09-15 14:47 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>Stung by years of embarrassing hacks, the tech giant overhauled how it approached cybersecurity. Company leaders now say they&rsquo;re seeing results.
+<figure><div><img src="https://imgproxy.divecdn.com/BhJ9xxfYPOpZKj516aviA-1q9J151LQUCpbEyGdVSaU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp" /></div></figure>Businesses are taking AI governance seriously, but their plans lag behind the technology they&rsquo;re using, according to an EY survey.
 
 URL:
-https://www.cybersecuritydive.com/news/microsoft-cybersecurity-culture-accountability-software-development/830048/
+https://www.cybersecuritydive.com/news/ai-governance-agents-ey/830282/
 
 ------------------------------------------------------------
 
 Title:
-Threat groups enhance cyberattack capabilities with AI
+Security teams increasingly outflanked by AI agents
 
 Published:
-2026-09-10 16:08 UTC
+2026-09-14 15:20 UTC
 
 Summary:
-A report shows state-linked and criminal hackers are incorporating automation and agentic technology to find new victims and bypass traditional defenses.
+<figure><div><img src="https://imgproxy.divecdn.com/xNpCkXtmkF6dtNeay854Igr9BT_Q_9xdKl3UKY2ku6o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk3MDUwODExLmpwZw==.webp" /></div></figure>A report warns that non-human identities are growing beyond the ability of existing systems to track. 
 
 URL:
-https://www.cybersecuritydive.com/news/threat-groups-enhance-cyberattack-capabilities-ai/830055/
+https://www.cybersecuritydive.com/news/security-teams-increasingly-outflanked-by-ai-agents/830290/
+
+------------------------------------------------------------
+
+Title:
+Malicious actors already using critical GitLab flaw, CISA and others warn
+
+Published:
+2026-09-14 14:46 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/G6cjGPfTL-9L3AlM0TMnDtq76QUOu5qj5EeCH0W3iUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY5MjA0NzU2LmpwZw==.webp" /></div></figure>The vulnerability could let unauthenticated users access sensitive files from software-development environments.
+
+URL:
+https://www.cybersecuritydive.com/news/gitlab-vulnerability-exploitation-cisa-kev/830278/
+
+------------------------------------------------------------
+
+Title:
+Zero trust is the future. But enterprises still need their VPNs.
+
+Published:
+2026-09-14 09:00 UTC
+
+Summary:
+Zero trust shouldn&rsquo;t mean sacrificing the stability and flexibility enterprises still depend on.
+
+URL:
+https://www.cybersecuritydive.com/spons/zero-trust-is-the-future-but-enterprises-still-need-their-vpns/829864/
 
 ------------------------------------------------------------
 
@@ -167,50 +252,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE
+Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection
 
 Published:
-2026-09-10 10:00 UTC
+2026-09-14 10:00 UTC
 
 Summary:
-Learn how root access on a compromised K8s node allows attackers to utilize SPIFFE/SPIRE metadata to spoof and harvest co-located workload identities.
-The post <a href="https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/">The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries.
+The post <a href="https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/">Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
-
-------------------------------------------------------------
-
-Title:
-Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure
-
-Published:
-2026-09-09 10:00 UTC
-
-Summary:
-An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks.
-The post <a href="https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/">Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/
-
-------------------------------------------------------------
-
-Title:
-Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America
-
-Published:
-2026-09-03 10:00 UTC
-
-Summary:
-Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations.
-The post <a href="https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/">Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
+https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/
 
 ------------------------------------------------------------
 

@@ -55,6 +55,10 @@
     {
       "date": "2026-09-14",
       "slug": "mfa-is-not-magic"
+    },
+    {
+      "date": "2026-09-16",
+      "slug": "patching-explained"
     }
   ]
 }
