@@ -1,90 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-16 06:15 UTC_
+_Last run: 2026-09-18 06:07 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens
+Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root
 
 Published:
-2026-09-15 18:54 UTC
+2026-09-17 18:08 UTC
 
 Summary:
-Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.
+A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.
 
-Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and
+The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix through its LivePatch update channel and says it has no indication that the flaw
 
 URL:
-https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html
+https://thehackernews.com/2026/09/critical-check-point-management-server.html
 
 ------------------------------------------------------------
 
 Title:
-Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists
+ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories
 
 Published:
-2026-09-15 16:29 UTC
+2026-09-17 17:32 UTC
 
 Summary:
-Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.
+Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.
 
-The malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record
+This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying around. Both work often enough.
+
+So the threat landscape is not getting cleaner. It is just
 
 URL:
-https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html
+https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
 
 ------------------------------------------------------------
 
 Title:
-BambooToken Malware Uses MQTT to Control Windows and Linux Systems
+Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files
 
 Published:
-2026-09-15 15:23 UTC
+2026-09-17 15:37 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.
+Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15.
 
-The emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America.
+The escape runs with the rights of the host account that runs the virtual machine. The flaw, CVE-2026-77179, is rated Critical, affects versions
 
 URL:
-https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html
+https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html
 
 ------------------------------------------------------------
 
 Title:
-Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds
+Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords
 
 Published:
-2026-09-15 11:52 UTC
+2026-09-17 14:03 UTC
 
 Summary:
-With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access.
+The Iran-linked "hacktivist" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.
 
-In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH
+"HEAVYGRAM offers builtin commands supporting remote command execution, system, network and process information discovery, data and Telegram session files exfiltration, screenshot capture, DLL sideloading,
 
 URL:
-https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html
+https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html
 
 ------------------------------------------------------------
 
 Title:
-Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point
+Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone
 
 Published:
-2026-09-15 11:26 UTC
+2026-09-17 12:30 UTC
 
 Summary:
-Introduction
+Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday.
 
-Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as a one-off exercise.
+An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution.
 
-But no matter how much you validate against these
+Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with
 
 URL:
-https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html
+https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html
 
 ------------------------------------------------------------
 
@@ -93,72 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Acronis warns of actively exploited flaw in its cPanel backup plugin
+New RatHat Android malware uses AI to automate device control
 
 Published:
-2026-09-15 21:37 UTC
+2026-09-17 21:50 UTC
 
 Summary:
-Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]
+A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/
+https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/
 
 ------------------------------------------------------------
 
 Title:
-Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites
+OpenAI details more cases of AI agents taking unauthorized actions
 
 Published:
-2026-09-15 20:34 UTC
+2026-09-17 18:55 UTC
 
 Summary:
-Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]
+OpenAI has presented new examples of what they call "AI model misalignment" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/
+https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/
 
 ------------------------------------------------------------
 
 Title:
-CenterPoint Energy confirms customer data stolen in cyberattack
+Brevo supply-chain attack injected ClickFix scripts on customer sites
 
 Published:
-2026-09-15 16:40 UTC
+2026-09-17 17:11 UTC
 
 Summary:
-CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]
+Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/
+https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/
 
 ------------------------------------------------------------
 
 Title:
-BambooToken malware controls Windows and Linux systems via MQTT
+What Recent AI-Powered Attacks Mean for Your Identity Security
 
 Published:
-2026-09-15 15:00 UTC
+2026-09-17 14:01 UTC
 
 Summary:
-A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]
+AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/
+https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/
 
 ------------------------------------------------------------
 
 Title:
-Hackers target WordPress sites via third-party WooCommerce plugin
+Windows 11 24H2 Home and Pro reach end of support in October
 
 Published:
-2026-09-15 14:45 UTC
+2026-09-17 13:09 UTC
 
 Summary:
-Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]
+Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/
+https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/
 
 ------------------------------------------------------------
 
@@ -167,72 +169,58 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-AI is now leading driver of new cybersecurity spending
+FBI, Coast Guard probe suspected cyberattacks on ships entering US waters
 
 Published:
-2026-09-15 15:32 UTC
+2026-09-17 15:16 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/emu7S10r9OLKvYj09hXykx5vc2GcF3q07Kbel0MWhK4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODIwNTgwODQuanBn.webp" /></div></figure>AI investments are expected to help automate security operations and enhance identity and access management.
+<figure><div><img src="https://imgproxy.divecdn.com/Z6CdC_OsXvC99docslnfTCbDlIhgLDkvnG4JQwNgS8w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90ZXJtaW5hbC1kb2Nrd29ya2Vyc183WjRrUUlGLmpwZw==.webp" /></div></figure>The investigation comes at a time of heightened vigilance over U.S. port facilities and maritime security.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-leading-driver-cybersecurity-spending/830418/
+https://www.cybersecuritydive.com/news/fbi-coast-guard-probe-cyberattacks-ships-us-waters/830668/
 
 ------------------------------------------------------------
 
 Title:
-Companies’ AI strategies don’t account for their agentic tools
+Manufacturers make patching progress, but identity management still major weakness
 
 Published:
-2026-09-15 14:47 UTC
+2026-09-17 13:42 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/BhJ9xxfYPOpZKj516aviA-1q9J151LQUCpbEyGdVSaU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp" /></div></figure>Businesses are taking AI governance seriously, but their plans lag behind the technology they&rsquo;re using, according to an EY survey.
+Misconfigurations remain widespread in the manufacturing sector, including internet-accessible remote-access software, a new report found.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-governance-agents-ey/830282/
+https://www.cybersecuritydive.com/news/manufacturing-cybersecurity-weaknesses-ransomware-black-kite/830299/
 
 ------------------------------------------------------------
 
 Title:
-Security teams increasingly outflanked by AI agents
+Hackers exploit zero-day flaw in Cisco email gateway
 
 Published:
-2026-09-14 15:20 UTC
+2026-09-16 15:41 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/xNpCkXtmkF6dtNeay854Igr9BT_Q_9xdKl3UKY2ku6o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk3MDUwODExLmpwZw==.webp" /></div></figure>A report warns that non-human identities are growing beyond the ability of existing systems to track. 
+<figure><div><img src="https://imgproxy.divecdn.com/Jd3D3WGLwKICUZdXzLxnJkqpYS89vngSTr-IwsieBCA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzczMzgzMTg5X1pwRHo1ZDMuanBn.webp" /></div></figure>Researchers warn the vulnerability could be used by state-linked actors for espionage.
 
 URL:
-https://www.cybersecuritydive.com/news/security-teams-increasingly-outflanked-by-ai-agents/830290/
+https://www.cybersecuritydive.com/news/hackers-exploit-zero-day-cisco-email-gateway/830553/
 
 ------------------------------------------------------------
 
 Title:
-Malicious actors already using critical GitLab flaw, CISA and others warn
+CISA looks to recruit general infrastructure security experts rather than sector-focused advisers
 
 Published:
-2026-09-14 14:46 UTC
+2026-09-16 15:36 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/G6cjGPfTL-9L3AlM0TMnDtq76QUOu5qj5EeCH0W3iUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY5MjA0NzU2LmpwZw==.webp" /></div></figure>The vulnerability could let unauthenticated users access sensitive files from software-development environments.
+<figure><div><img src="https://imgproxy.divecdn.com/3y187spmuJsOkqAdyISpYJNxy9_3uR1q0dzDyOKV0lI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTZfMTM1MjM5MTE2LmpwZw==.webp" /></div></figure>&ldquo;I need people that can pivot from day to day,&rdquo; the agency&rsquo;s acting chief told reporters.
 
 URL:
-https://www.cybersecuritydive.com/news/gitlab-vulnerability-exploitation-cisa-kev/830278/
-
-------------------------------------------------------------
-
-Title:
-Zero trust is the future. But enterprises still need their VPNs.
-
-Published:
-2026-09-14 09:00 UTC
-
-Summary:
-Zero trust shouldn&rsquo;t mean sacrificing the stability and flexibility enterprises still depend on.
-
-URL:
-https://www.cybersecuritydive.com/spons/zero-trust-is-the-future-but-enterprises-still-need-their-vpns/829864/
+https://www.cybersecuritydive.com/news/cisa-critical-infrastructure-experts-hiring-ai-election-security/830550/
 
 ------------------------------------------------------------
 
@@ -253,17 +241,32 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
-Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection
+Inside the Modern SOC: Defending the Cross-Environment Pivot
 
 Published:
-2026-09-14 10:00 UTC
+2026-09-17 22:00 UTC
 
 Summary:
-We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries.
-The post <a href="https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/">Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths.
+The post <a href="https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/">Inside the Modern SOC: Defending the Cross-Environment Pivot</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/
+https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/
+
+------------------------------------------------------------
+
+Title:
+Atomic macOS (AMOS) Stealer Activity
+
+Published:
+2026-09-16 10:00 UTC
+
+Summary:
+Modern macOS malware uses deceptive setup guides to steal credentials and sensitive user data. Learn how to identify and block these threats.
+The post <a href="https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/">Atomic macOS (AMOS) Stealer Activity</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/
 
 ------------------------------------------------------------
 
@@ -271,47 +274,45 @@ https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identitie
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-We've got one word for it, and it's usually the wrong one
+Should you care about an “AI slowdown?”
 
 Published:
-2026-09-10 18:00 UTC
+2026-09-17 18:00 UTC
 
 Summary:
-In this week's Threat Source newsletter, Joe explores why the word "burnout" often fails to capture the true toll of working in the cybersecurity industry and why we need better language to address it.
+In this week's Threat Source, David talks about why focusing on your security basics is still your best bet, even in a world with rapid AI advancements.
 
 URL:
-https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/
+https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/
 
 ------------------------------------------------------------
 
 Title:
-Active exploitation of Cisco Secure Firewall Management Center vulnerabilities
+Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use
 
 Published:
-2026-09-09 16:08 UTC
+2026-09-17 10:00 UTC
 
 Summary:
-Cisco Talos is actively tracking the exploitation of two vulnerabilities in Cisco’s Secure Firewall Management Center (FMC) Software.
+Ransomware incidents in Japan rose 4.7% year over year. The Gentlemen was the most active group, with leak-site listings more than doubling from January to July. Qilin ranked second and appeared to use AI, while SMEs with capital under JPY 1 billion represented 80% of victims.
 
 URL:
-https://blog.talosintelligence.com/fmc-ongoing-exploitation/
+https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities
+Securing the unpatchable in an age of AI-driven vulnerabilities
 
 Published:
-2026-09-08 22:16 UTC
+2026-09-16 10:00 UTC
 
 Summary:
-Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as "critical."
+Advances in AI technology will continue to identify vulnerabilities that in some circumstances are difficult, or effectively impossible, to patch. Appropriate network segmentation, rigorous visibility, and the deployment of NGFW/IPS combinations can provide a powerful compensatory layer.
 
 URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/
+https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/
 
 ------------------------------------------------------------
 
@@ -650,50 +651,33 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Protecting organizations from AI-assisted executive impersonation and invoice fraud
+From guidance to action: Security fundamentals that materially reduce risk
 
 Published:
-2026-09-10 17:23 UTC
+2026-09-17 17:00 UTC
 
 Summary:
-Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/">Protecting organizations from AI-assisted executive impersonation and invoice fraud</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of cyberthreats.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/">From guidance to action: Security fundamentals that materially reduce risk </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/
+https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/
 
 ------------------------------------------------------------
 
 Title:
-Detect and disrupt AI-themed attacks with Microsoft Defender
+Improving email security outcomes with real-world Microsoft Defender insights
 
 Published:
-2026-09-10 16:00 UTC
+2026-09-17 16:00 UTC
 
 Summary:
-See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/">Detect and disrupt AI-themed attacks with Microsoft Defender</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+The latest email security benchmarking reports show strong Microsoft Defender performance across pre-delivery and post-delivery scenarios and reveal where threats and defenses continue to evolve.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/">Improving email security outcomes with real-world Microsoft Defender insights</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/
-
-------------------------------------------------------------
-
-Title:
-Threat matrix: Mapping threats across cloud web applications
-
-Published:
-2026-09-09 21:30 UTC
-
-Summary:
-Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&#038;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/">Threat matrix: Mapping threats across cloud web applications</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/
+https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/
 
 ------------------------------------------------------------
 
