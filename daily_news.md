@@ -1,92 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-18 06:07 UTC_
+_Last run: 2026-09-21 06:38 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root
+Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors
 
 Published:
-2026-09-17 18:08 UTC
+2026-09-21 06:06 UTC
 
 Summary:
-A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.
+The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based "much smaller organization" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks.
 
-The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix through its LivePatch update channel and says it has no indication that the flaw
+Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple
 
 URL:
-https://thehackernews.com/2026/09/critical-check-point-management-server.html
+https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories
+Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
 
 Published:
-2026-09-17 17:32 UTC
+2026-09-19 18:36 UTC
 
 Summary:
-Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.
+Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.
 
-This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying around. Both work often enough.
+The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system.
 
-So the threat landscape is not getting cleaner. It is just
+This was security research,
 
 URL:
-https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
+https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
 
 ------------------------------------------------------------
 
 Title:
-Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files
+Identity Visibility in 2026: The Foundation of Identity Security
 
 Published:
-2026-09-17 15:37 UTC
+2026-09-19 13:28 UTC
 
 Summary:
-Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15.
-
-The escape runs with the rights of the host account that runs the virtual machine. The flaw, CVE-2026-77179, is rated Critical, affects versions
+Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in
 
 URL:
-https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html
+https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html
 
 ------------------------------------------------------------
 
 Title:
-Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords
+SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE
 
 Published:
-2026-09-17 14:03 UTC
+2026-09-19 09:31 UTC
 
 Summary:
-The Iran-linked "hacktivist" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.
+SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.
 
-"HEAVYGRAM offers builtin commands supporting remote command execution, system, network and process information discovery, data and Telegram session files exfiltration, screenshot capture, DLL sideloading,
+The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior.
+
+"SolarWinds
 
 URL:
-https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html
+https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html
 
 ------------------------------------------------------------
 
 Title:
-Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone
+Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild
 
 Published:
-2026-09-17 12:30 UTC
+2026-09-19 08:18 UTC
 
 Summary:
-Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday.
+A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.
 
-An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution.
+The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution.
 
-Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with
+"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote
 
 URL:
-https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html
+https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html
 
 ------------------------------------------------------------
 
@@ -95,78 +95,108 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-New RatHat Android malware uses AI to automate device control
+Malicious npm packages evade install-script defenses at runtime
 
 Published:
-2026-09-17 21:50 UTC
+2026-09-20 14:11 UTC
 
 Summary:
-A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]
+An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/
+https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI details more cases of AI agents taking unauthorized actions
+Researchers escape OpenAI Codex sandbox to run commands on host
 
 Published:
-2026-09-17 18:55 UTC
+2026-09-20 12:00 UTC
 
 Summary:
-OpenAI has presented new examples of what they call "AI model misalignment" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]
+Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/
+https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/
 
 ------------------------------------------------------------
 
 Title:
-Brevo supply-chain attack injected ClickFix scripts on customer sites
+BragJack attacks hijack AI browser agents through malicious extensions
 
 Published:
-2026-09-17 17:11 UTC
+2026-09-19 14:56 UTC
 
 Summary:
-Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]
+BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/
+https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/
 
 ------------------------------------------------------------
 
 Title:
-What Recent AI-Powered Attacks Mean for Your Identity Security
+North Korean WaterPlum hackers infected 30,000 devices worldwide
 
 Published:
-2026-09-17 14:01 UTC
+2026-09-19 14:05 UTC
 
 Summary:
-AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]
+A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/
+https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/
 
 ------------------------------------------------------------
 
 Title:
-Windows 11 24H2 Home and Pro reach end of support in October
+ShinyHunters hacks Clop leak site, threatens to extort ransomware gang
 
 Published:
-2026-09-17 13:09 UTC
+2026-09-19 13:48 UTC
 
 Summary:
-Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]
+The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/
+https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+Settra ransomware variant deployed in recent attacks
+
+Published:
+2026-09-18 15:32 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/ASriUTXYU57UTRsGa3uHudK6MLnQNX56KJ_GYOScOw8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYxNzQuanBn.webp" /></div></figure>Security researchers warned that hackers are using VPN credentials for initial access and deploying RMM tools.
+
+URL:
+https://www.cybersecuritydive.com/news/settra-ransomware-variant-recent-attacks/830787/
+
+------------------------------------------------------------
+
+Title:
+CISA ends weekly vulnerability roundups as part of shift to prioritization approach
+
+Published:
+2026-09-18 14:42 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>The agency wants to help companies sort through the AI-fueled avalanche of bug reports.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-vulnerability-bulletins-sunset-prioritization/830779/
+
+------------------------------------------------------------
 
 Title:
 FBI, Coast Guard probe suspected cyberattacks on ships entering US waters
@@ -179,48 +209,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/fbi-coast-guard-probe-cyberattacks-ships-us-waters/830668/
-
-------------------------------------------------------------
-
-Title:
-Manufacturers make patching progress, but identity management still major weakness
-
-Published:
-2026-09-17 13:42 UTC
-
-Summary:
-Misconfigurations remain widespread in the manufacturing sector, including internet-accessible remote-access software, a new report found.
-
-URL:
-https://www.cybersecuritydive.com/news/manufacturing-cybersecurity-weaknesses-ransomware-black-kite/830299/
-
-------------------------------------------------------------
-
-Title:
-Hackers exploit zero-day flaw in Cisco email gateway
-
-Published:
-2026-09-16 15:41 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Jd3D3WGLwKICUZdXzLxnJkqpYS89vngSTr-IwsieBCA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzczMzgzMTg5X1pwRHo1ZDMuanBn.webp" /></div></figure>Researchers warn the vulnerability could be used by state-linked actors for espionage.
-
-URL:
-https://www.cybersecuritydive.com/news/hackers-exploit-zero-day-cisco-email-gateway/830553/
-
-------------------------------------------------------------
-
-Title:
-CISA looks to recruit general infrastructure security experts rather than sector-focused advisers
-
-Published:
-2026-09-16 15:36 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/3y187spmuJsOkqAdyISpYJNxy9_3uR1q0dzDyOKV0lI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTZfMTM1MjM5MTE2LmpwZw==.webp" /></div></figure>&ldquo;I need people that can pivot from day to day,&rdquo; the agency&rsquo;s acting chief told reporters.
-
-URL:
-https://www.cybersecuritydive.com/news/cisa-critical-infrastructure-experts-hiring-ai-election-security/830550/
 
 ------------------------------------------------------------
 
@@ -239,6 +227,23 @@ SOURCE : CISA
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity
+
+Published:
+2026-09-18 10:00 UTC
+
+Summary:
+Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents.
+The post <a href="https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/">A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
+
+------------------------------------------------------------
 
 Title:
 Inside the Modern SOC: Defending the Cross-Environment Pivot
@@ -273,6 +278,8 @@ https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Should you care about an “AI slowdown?”
@@ -651,6 +658,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 From guidance to action: Security fundamentals that materially reduce risk
 
@@ -678,6 +687,21 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/17/impro
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/
+
+------------------------------------------------------------
+
+Title:
+Protecting organizations from AI-assisted executive impersonation and invoice fraud
+
+Published:
+2026-09-10 17:23 UTC
+
+Summary:
+Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/">Protecting organizations from AI-assisted executive impersonation and invoice fraud</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/
 
 ------------------------------------------------------------
 

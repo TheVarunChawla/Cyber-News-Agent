@@ -1,41 +1,41 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-09-18 06:07 UTC_
+_Generated: 2026-09-21 06:38 UTC_
 
 ## This post's topic
 
-**What a SIEM Does for a Security Team**
+**Antivirus vs EDR: Why Both Terms Exist**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: Multiple sources—endpoint, firewall, cloud, identity—flow into a central SOC screen, then into one investigation timeline.
+- **Fastest:** a single image using this visual brief: A laptop with two layers: antivirus blocks a known malicious file; EDR traces suspicious behaviour and gives the analyst response options.
 - **Best for saves:** a 5-slide PDF carousel:
-1. What is a SIEM?
-2. Where logs come from
-3. How correlation helps
-4. What an analyst investigates
-5. SIEM is a process, not a magic box
-- **Most eye-catching:** a 5–8 second looping GIF: Separate log lines flow into one dashboard and join into a highlighted attack timeline.
+1. Antivirus vs EDR
+2. What antivirus does
+3. What EDR adds
+4. A simple investigation example
+5. Questions to ask your security team
+- **Most eye-catching:** a 5–8 second looping GIF: A malicious process appears; the EDR timeline lights up and the endpoint is isolated.
 
 ## Ready-to-personalize LinkedIn caption
 
-A SIEM does not stop every attack. It helps analysts see the story hidden across thousands of events.
+Antivirus looks for known bad things. EDR helps security teams investigate suspicious behaviour.
 
-A Security Information and Event Management platform collects logs from devices, users, cloud services, and applications. It helps a security team search, correlate, alert, and investigate.
+Endpoint Detection and Response tools provide visibility into devices and enable detection, investigation, and response. They add context beyond traditional file-based antivirus protection.
 
-What to remember: Good detection depends on useful data and well-tuned rules—not just buying a SIEM.
+What to remember: A security tool is only useful when alerts are reviewed and response actions are tested.
 
 Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #SIEM #SOC
+#Cybersecurity #EDR #EndpointSecurity
 
 ## Optional current-event context
 
-- Inside the Modern SOC: Defending the Cross-Environment Pivot
+- Improving email security outcomes with real-world Microsoft Defender insights
 
 ## Before publishing
 
