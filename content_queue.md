@@ -1,41 +1,42 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-09-21 06:38 UTC_
+_Generated: 2026-09-23 06:10 UTC_
 
 ## This post's topic
 
-**Antivirus vs EDR: Why Both Terms Exist**
+**MFA Is Important, But It Is Not Magic**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A laptop with two layers: antivirus blocks a known malicious file; EDR traces suspicious behaviour and gives the analyst response options.
+- **Fastest:** a single image using this visual brief: A password gate, an MFA gate, and a separate browser-session path. Show that the third path needs its own protection.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Antivirus vs EDR
-2. What antivirus does
-3. What EDR adds
-4. A simple investigation example
-5. Questions to ask your security team
-- **Most eye-catching:** a 5–8 second looping GIF: A malicious process appears; the EDR timeline lights up and the endpoint is isolated.
+1. MFA is not magic
+2. What MFA stops
+3. How attackers try to bypass it
+4. Safer MFA choices
+5. Your three-point checklist
+- **Most eye-catching:** a 5–8 second looping GIF: A password lock closes, then a notification storm appears; the user rejects it and the attack path fades out.
 
 ## Ready-to-personalize LinkedIn caption
 
-Antivirus looks for known bad things. EDR helps security teams investigate suspicious behaviour.
+MFA protects passwords. It does not automatically protect every session.
 
-Endpoint Detection and Response tools provide visibility into devices and enable detection, investigation, and response. They add context beyond traditional file-based antivirus protection.
+Attackers can use fake sign-in pages, MFA fatigue, or stolen browser sessions to get around weak MFA setups. MFA remains essential, but it works best with phishing-resistant methods and sign-in monitoring.
 
-What to remember: A security tool is only useful when alerts are reviewed and response actions are tested.
+What to remember: Use an authenticator app or security key, never approve an unexpected prompt, and review unfamiliar sign-ins.
 
 Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #EDR #EndpointSecurity
+#Cybersecurity #MFA #IdentitySecurity
 
 ## Optional current-event context
 
-- Improving email security outcomes with real-world Microsoft Defender insights
+- Rogue external MFA providers can steal passwords during logins
+- Protecting Cookies with Device Bound Session Credentials
 
 ## Before publishing
 

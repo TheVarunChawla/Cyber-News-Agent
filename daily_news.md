@@ -1,92 +1,88 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-21 06:38 UTC_
+_Last run: 2026-09-23 06:10 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors
+Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
 
 Published:
-2026-09-21 06:06 UTC
+2026-09-22 18:29 UTC
 
 Summary:
-The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based "much smaller organization" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks.
+Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said.
 
-Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple
+The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point released a fix on September 22 for the server that controls firewall policies for the Check Point
 
 URL:
-https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html
+https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
 
 ------------------------------------------------------------
 
 Title:
-Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
+WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers
 
 Published:
-2026-09-19 18:36 UTC
+2026-09-22 18:03 UTC
 
 Summary:
-Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.
+WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.
 
-The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system.
-
-This was security research,
+On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes for every branch the project still supports, back to 4.7, and WordPress is telling site owners
 
 URL:
-https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
+https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html
 
 ------------------------------------------------------------
 
 Title:
-Identity Visibility in 2026: The Foundation of Identity Security
+Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
 
 Published:
-2026-09-19 13:28 UTC
+2026-09-22 17:58 UTC
 
 Summary:
-Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in
+Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data.
+
+The package, named "tw-pkgprobe-7731," was first uploaded to the npm registry in mid-August 2026 by an npm account named "twdepprobe7731."
 
 URL:
-https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html
+https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html
 
 ------------------------------------------------------------
 
 Title:
-SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE
+Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises
 
 Published:
-2026-09-19 09:31 UTC
+2026-09-22 17:03 UTC
 
 Summary:
-SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.
+Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) "at every step of the attack chain."
 
-The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior.
-
-"SolarWinds
+The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver
 
 URL:
-https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html
+https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html
 
 ------------------------------------------------------------
 
 Title:
-Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild
+Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials
 
 Published:
-2026-09-19 08:18 UTC
+2026-09-22 16:41 UTC
 
 Summary:
-A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.
+A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request.
 
-The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution.
-
-"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote
+The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is
 
 URL:
-https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html
+https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html
 
 ------------------------------------------------------------
 
@@ -95,72 +91,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Malicious npm packages evade install-script defenses at runtime
+Rogue external MFA providers can steal passwords during logins
 
 Published:
-2026-09-20 14:11 UTC
+2026-09-22 21:45 UTC
 
 Summary:
-An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]
+Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/
+https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/
 
 ------------------------------------------------------------
 
 Title:
-Researchers escape OpenAI Codex sandbox to run commands on host
+Sweden fines Miljödata $183,000 over breach affecting 2.2 million
 
 Published:
-2026-09-20 12:00 UTC
+2026-09-22 21:40 UTC
 
 Summary:
-Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]
+Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/
+https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/
 
 ------------------------------------------------------------
 
 Title:
-BragJack attacks hijack AI browser agents through malicious extensions
+Chinese hackers exploit WordPress, Zyxel flaws to steal govt data
 
 Published:
-2026-09-19 14:56 UTC
+2026-09-22 20:35 UTC
 
 Summary:
-BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]
+A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/
+https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/
 
 ------------------------------------------------------------
 
 Title:
-North Korean WaterPlum hackers infected 30,000 devices worldwide
+ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach
 
 Published:
-2026-09-19 14:05 UTC
+2026-09-22 19:13 UTC
 
 Summary:
-A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]
+The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/
+https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/
 
 ------------------------------------------------------------
 
 Title:
-ShinyHunters hacks Clop leak site, threatens to extort ransomware gang
+New ClosedQuorum Windows malware uses AI for attack decisions
 
 Published:
-2026-09-19 13:48 UTC
+2026-09-22 18:04 UTC
 
 Summary:
-The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]
+A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/
+https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/
 
 ------------------------------------------------------------
 
@@ -168,47 +164,73 @@ https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Settra ransomware variant deployed in recent attacks
+Insurance sector begins to offer clarity on AI-related cyber claims
 
 Published:
-2026-09-18 15:32 UTC
+2026-09-22 15:28 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ASriUTXYU57UTRsGa3uHudK6MLnQNX56KJ_GYOScOw8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYxNzQuanBn.webp" /></div></figure>Security researchers warned that hackers are using VPN credentials for initial access and deploying RMM tools.
+<figure><div><img src="https://imgproxy.divecdn.com/SfbpJCznEnLe6RIh75tbADFGssZCM1BHydG8m7APvUs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI1Mzc2MzEyLmpwZw==.webp" /></div></figure>The emergence of agentic AI and frontier models has led to widespread uncertainty for policyholders.
 
 URL:
-https://www.cybersecuritydive.com/news/settra-ransomware-variant-recent-attacks/830787/
+https://www.cybersecuritydive.com/news/insurance-sector-begins-to-offer-clarity-on-ai-related-cyber-claims/831028/
 
 ------------------------------------------------------------
 
 Title:
-CISA ends weekly vulnerability roundups as part of shift to prioritization approach
+Retailers tamp down shadow AI but struggle to oversee agentic sprawl
 
 Published:
-2026-09-18 14:42 UTC
+2026-09-22 14:06 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>The agency wants to help companies sort through the AI-fueled avalanche of bug reports.
+<figure><div><img src="https://imgproxy.divecdn.com/pDLcZeSpxy4c-1wk-HVB8IU_aOf5GDQ22GUPysta08o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxMzI0ODQzLmpwZw==.webp" /></div></figure>The use of AI agents is soaring in the retail sector, but visibility remains a major challenge, with regulated data at risk.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-vulnerability-bulletins-sunset-prioritization/830779/
+https://www.cybersecuritydive.com/news/retail-ai-agents-visibility-data-breaches-netskope/831002/
 
 ------------------------------------------------------------
 
 Title:
-FBI, Coast Guard probe suspected cyberattacks on ships entering US waters
+China-nexus actor steals thousands of documents in monthslong exploitation campaign
 
 Published:
-2026-09-17 15:16 UTC
+2026-09-21 15:19 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Z6CdC_OsXvC99docslnfTCbDlIhgLDkvnG4JQwNgS8w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90ZXJtaW5hbC1kb2Nrd29ya2Vyc183WjRrUUlGLmpwZw==.webp" /></div></figure>The investigation comes at a time of heightened vigilance over U.S. port facilities and maritime security.
+<figure><div><img src="https://imgproxy.divecdn.com/-DVfyuStKAsFsc04TYU_qQHsxJWjTCVDstb2kMk4CQw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzMyMTA0NDI0LmpwZw==.webp" /></div></figure>Researchers suspect the hacker employed LLMs to develop custom tools.
 
 URL:
-https://www.cybersecuritydive.com/news/fbi-coast-guard-probe-cyberattacks-ships-us-waters/830668/
+https://www.cybersecuritydive.com/news/china-nexus-steals-thousands-documents-exploitation/830902/
+
+------------------------------------------------------------
+
+Title:
+Google AI models broke out of sandbox, hacked three companies
+
+Published:
+2026-09-21 14:21 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/hpaV_Sp0UsJCnwOp04g2HtYAh64l2SkVOL8QljiD0Gs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1NTgxNzAxLmpwZw==.webp" /></div></figure>The incidents stemmed from the same testing environment defects that tripped up OpenAI, Anthropic and Meta.
+
+URL:
+https://www.cybersecuritydive.com/news/google-ai-gemini-autonomous-hacks/830884/
+
+------------------------------------------------------------
+
+Title:
+Security’s 30-year habit: layering around the problem
+
+Published:
+2026-09-21 09:00 UTC
+
+Summary:
+The nurse isn't careless. Every safe path is slower than Outlook.
+
+URL:
+https://www.cybersecuritydive.com/spons/securitys-30-year-habit-layering-around-the-problem/830105/
 
 ------------------------------------------------------------
 
@@ -228,50 +250,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity
+From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies
 
 Published:
-2026-09-18 10:00 UTC
+2026-09-21 10:00 UTC
 
 Summary:
-Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents.
-The post <a href="https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/">A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies.
+The post <a href="https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/">From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
-
-------------------------------------------------------------
-
-Title:
-Inside the Modern SOC: Defending the Cross-Environment Pivot
-
-Published:
-2026-09-17 22:00 UTC
-
-Summary:
-Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths.
-The post <a href="https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/">Inside the Modern SOC: Defending the Cross-Environment Pivot</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/
-
-------------------------------------------------------------
-
-Title:
-Atomic macOS (AMOS) Stealer Activity
-
-Published:
-2026-09-16 10:00 UTC
-
-Summary:
-Modern macOS malware uses deceptive setup guides to steal credentials and sensitive user data. Learn how to identify and block these threats.
-The post <a href="https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/">Atomic macOS (AMOS) Stealer Activity</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/
+https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/
 
 ------------------------------------------------------------
 
@@ -279,47 +269,31 @@ https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Should you care about an “AI slowdown?”
+The Closed Quorum: Inside the first reported autonomous AI C2 implant
 
 Published:
-2026-09-17 18:00 UTC
+2026-09-22 10:00 UTC
 
 Summary:
-In this week's Threat Source, David talks about why focusing on your security basics is still your best bet, even in a world with rapid AI advancements.
+CLOSEDQUORUM, a malware binary discovered through Cisco Talos’ CAIRN project, exhibits fully autonomous command and control (C2). It represents a shift in effort displacement for attackers, in which expanding portions of the attack chain can be executed without operator involvement.
 
 URL:
-https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/
+https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/
 
 ------------------------------------------------------------
 
 Title:
-Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use
+Introducing CAIRN: Frontier tracking for AI-integrated malware
 
 Published:
-2026-09-17 10:00 UTC
+2026-09-22 10:00 UTC
 
 Summary:
-Ransomware incidents in Japan rose 4.7% year over year. The Gentlemen was the most active group, with leak-site listings more than doubling from January to July. Qilin ranked second and appeared to use AI, while SMEs with capital under JPY 1 billion represented 80% of victims.
+Talos is releasing CAIRN, a research toolkit for hunting, classifying, and tracking emerging AI-integrated malware.
 
 URL:
-https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/
-
-------------------------------------------------------------
-
-Title:
-Securing the unpatchable in an age of AI-driven vulnerabilities
-
-Published:
-2026-09-16 10:00 UTC
-
-Summary:
-Advances in AI technology will continue to identify vulnerabilities that in some circumstances are difficult, or effectively impossible, to patch. Appropriate network segmentation, rigorous visibility, and the deployment of NGFW/IPS combinations can provide a powerful compensatory layer.
-
-URL:
-https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/
+https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/
 
 ------------------------------------------------------------
 
@@ -658,50 +632,18 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-From guidance to action: Security fundamentals that materially reduce risk
+Unmasking EvilTokens: Getting to the root of device code phishing
 
 Published:
-2026-09-17 17:00 UTC
+2026-09-22 15:00 UTC
 
 Summary:
-AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of cyberthreats.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/">From guidance to action: Security fundamentals that materially reduce risk </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens infrastructure and operations.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/">Unmasking EvilTokens: Getting to the root of device code phishing</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/
-
-------------------------------------------------------------
-
-Title:
-Improving email security outcomes with real-world Microsoft Defender insights
-
-Published:
-2026-09-17 16:00 UTC
-
-Summary:
-The latest email security benchmarking reports show strong Microsoft Defender performance across pre-delivery and post-delivery scenarios and reveal where threats and defenses continue to evolve.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/">Improving email security outcomes with real-world Microsoft Defender insights</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/
-
-------------------------------------------------------------
-
-Title:
-Protecting organizations from AI-assisted executive impersonation and invoice fraud
-
-Published:
-2026-09-10 17:23 UTC
-
-Summary:
-Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/">Protecting organizations from AI-assisted executive impersonation and invoice fraud</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/
+https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/
 
 ------------------------------------------------------------
 
