@@ -1,42 +1,42 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-09-25 06:15 UTC_
+_Generated: 2026-09-28 07:08 UTC_
 
 ## This post's topic
 
-**Why Security Patching Cannot Wait Forever**
+**Ransomware Usually Starts Before Encryption**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A simple timeline: vulnerability found, patch released, attackers begin scanning, organization patches.
+- **Fastest:** a single image using this visual brief: Five-stage attack path: initial access, privilege escalation, lateral movement, data theft, encryption.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Why patches matter
-2. What is a vulnerability?
-3. What changes after public disclosure
-4. A practical patching workflow
-5. Start with critical systems
-- **Most eye-catching:** a 5–8 second looping GIF: A software door labelled 'known flaw' closes as a patch is applied, while a scanning attacker is blocked.
+1. Ransomware: the full story
+2. Initial access
+3. Moving through the network
+4. Data theft
+5. Encryption and how to break the chain
+- **Most eye-catching:** a 5–8 second looping GIF: A five-step attacker path appears; blue-team controls block the path at each stage.
 
 ## Ready-to-personalize LinkedIn caption
 
-A vulnerability is an unlocked door in software. A patch is the fix before someone uses it.
+The ransomware note is often the last visible step—not the beginning of the attack.
 
-Vendors release patches when they fix known weaknesses. Attackers often scan for systems that have not applied publicly available fixes, so patching reduces an already-known risk.
+Many ransomware incidents begin with stolen credentials, phishing, exposed remote access, or an unpatched system. Attackers then move through the environment before deploying encryption.
 
-What to remember: Know your critical assets, test important patches quickly, and have a clear emergency-patching process.
+What to remember: Focus on preventing the first foothold: secure identities, patch exposed systems, and monitor suspicious movement.
 
 Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #VulnerabilityManagement #PatchManagement
+#Cybersecurity #Ransomware #IncidentResponse
 
 ## Optional current-event context
 
-- Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions
-- Hackers now exploit critical Roundcube flaw in code injection attacks
+- Introducing CAIRN: Frontier tracking for AI-integrated malware
+- Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments
 
 ## Before publishing
 

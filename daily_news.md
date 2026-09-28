@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-25 06:15 UTC_
+_Last run: 2026-09-28 07:08 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions
+Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation
 
 Published:
-2026-09-24 18:10 UTC
+2026-09-27 07:47 UTC
 
 Summary:
-A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android phone.
+Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration.
 
-OnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not
+The bulletin came a day after security firm watchTowr
 
 URL:
-https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html
+https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories
+Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
 
 Published:
-2026-09-24 17:52 UTC
+2026-09-26 18:22 UTC
 
 Summary:
-This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.
+The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.
 
-That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just
+The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users.
+
+"The attack chain begins with a fake CAPTCHA page and
 
 URL:
-https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html
+https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
 
 ------------------------------------------------------------
 
 Title:
-Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content
+Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
 
 Published:
-2026-09-24 15:27 UTC
+2026-09-26 11:46 UTC
 
 Summary:
-The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.
+Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.
 
-"third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays," Manifold Security's Head of Research, Ax Sharma, said. "Unlike 'example[.]com,' third-party[.]com
+The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution.
+
+The vulnerability was first exploited as a zero-day
 
 URL:
-https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html
+https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
 
 ------------------------------------------------------------
 
 Title:
-Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer
+Zero Trust for AI Agents Starts With Fixing Zero Visibility
 
 Published:
-2026-09-24 14:29 UTC
+2026-09-26 10:30 UTC
 
 Summary:
-An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.
-
-"When a visitor interacts with the page, the lure copies a Windows Installer command to the clipboard and instructs the visitor to paste it into the
+The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to
 
 URL:
-https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html
+https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html
 
 ------------------------------------------------------------
 
 Title:
-Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls
+Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link
 
 Published:
-2026-09-24 12:05 UTC
+2026-09-26 09:55 UTC
 
 Summary:
-The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.
+Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.
 
-According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dressed up as a system service. The delivered app has the package name "com.corp.mdm"
-
-Corp MDM
+The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions
 
 URL:
-https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html
+https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html
 
 ------------------------------------------------------------
 
@@ -93,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-MacSync malware uses public iCloud calendars to deliver new payloads
+CISA orders feds to patch exploited Citrix flaws by Wednesday
 
 Published:
-2026-09-24 20:53 UTC
+2026-09-28 06:24 UTC
 
 Summary:
-A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/
+https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/
 
 ------------------------------------------------------------
 
 Title:
-New Carbonato malware uses AI agents to hijack exposed Docker hosts
+OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email
 
 Published:
-2026-09-24 20:10 UTC
+2026-09-27 23:40 UTC
 
 Summary:
-A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]
+OpenAI is testing a new always-on assistant called "o", and references to the unannounced feature briefly showed up on the company's website. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/
 
 ------------------------------------------------------------
 
 Title:
-Exposed GitLab project email addresses let attackers push code
+Citrix confirms two NetScaler RCE zero-days exploited in attacks
 
 Published:
-2026-09-24 17:47 UTC
+2026-09-27 16:02 UTC
 
 Summary:
-Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]
+Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/
+https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/
 
 ------------------------------------------------------------
 
 Title:
-FedRAMP VDR & VER: Daily Scans Are Only the Beginning
+Cloudflare fixes Containers cross-tenant flaw exposing customer data
 
 Published:
-2026-09-24 14:02 UTC
+2026-09-27 14:13 UTC
 
 Summary:
-FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]
+Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/
+https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/
 
 ------------------------------------------------------------
 
 Title:
-Hackers now exploit critical Roundcube flaw in code injection attacks
+Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors
 
 Published:
-2026-09-24 13:27 UTC
+2026-09-27 13:38 UTC
 
 Summary:
-A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]
+Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/
 
 ------------------------------------------------------------
 
@@ -166,59 +166,47 @@ https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-activ
 SOURCE : Cybersecurity Dive
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
-Wiz uses AI to find vulnerabilities in railroads, hospitals and other critical infrastructure
+Businesses expand AI’s cybersecurity uses as comfort with technology grows
+
+Published:
+2026-09-25 15:24 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/uUgyhFbWMkfmwVUYCYUghryNWcLsa95yQjgiEnDPEeI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTU5NDY0NjIuanBn.webp" /></div></figure>Companies in the experimentation stage were less likely than established users to deploy advanced AI-powered defenses, a new survey found.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-cybersecurity-maturity-agents-kpmg/831385/
+
+------------------------------------------------------------
+
+Title:
+Threat groups ramp up social-engineering attacks against healthcare sector
+
+Published:
+2026-09-25 15:10 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/I-2o_oHHXWQdTVn0wZFWX0FVNvyzPgbz9dVNEkMPA2Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODYyMzU1NTE4LmpwZw==.webp" /></div></figure>Hackers linked to high-profile cybercrime groups have used voice-phishing tactics to trick workers into giving up credentials in recent attacks.
+
+URL:
+https://www.cybersecuritydive.com/news/threat-groups-social-engineering-attacks-healthcare/831383/
+
+------------------------------------------------------------
+
+Title:
+Wiz uses AI to find vulnerabilities in critical infrastructure
 
 Published:
 2026-09-24 15:11 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ckhUFD2UQ6enCfjOI8GkEvHKv8VP8TbG6aVZ_0nBaBk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMjExNS5qcGc=.webp" /></div></figure>The Google subsidiary invited all infrastructure operators to apply for its free scanning service.
+<figure><div><img src="https://imgproxy.divecdn.com/ckhUFD2UQ6enCfjOI8GkEvHKv8VP8TbG6aVZ_0nBaBk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMjExNS5qcGc=.webp" /></div></figure>The Google subsidiary, which helped a railroad and two hospitals, invited others to apply for its free scanning service.
 
 URL:
 https://www.cybersecuritydive.com/news/wiz-ai-critical-infrastructure-scan-for-good/831255/
-
-------------------------------------------------------------
-
-Title:
-FBI probes cyberattack tied to third-party jobs portal
-
-Published:
-2026-09-23 18:28 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/_USUWNicPKi_bBhjNRnv28O7XbIyqkGpW-pWOofDu7w/g:nowe:0:27/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MzUzNDI5MF9MSWFlYXlOLmpwZw==.webp" /></div></figure>The potentially serious breach highlights the supply chain risks facing even the most sophisticated organizations.
-
-URL:
-https://www.cybersecuritydive.com/news/fbi-hack-shinyhunters-jobs-portal/831175/
-
-------------------------------------------------------------
-
-Title:
-Businesses fear cyberattacks more than anything else, driven by AI and supply chain worries
-
-Published:
-2026-09-23 15:09 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/8tklFPjxvnqNCHUoyrkevX-d5Fht-3KDI5v_hMiF9j8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODc3MDYwMjBfemtDVVZ6by5qcGc=.webp" /></div></figure>Many companies still aren&rsquo;t preparing thoroughly enough to face a hack, the insurance firm Travelers said in a new report.
-
-URL:
-https://www.cybersecuritydive.com/news/cybersecurity-risks-business-worries-travelers-report/831142/
-
-------------------------------------------------------------
-
-Title:
-Industrial leaders face cyber resilience gap as attacks shake confidence
-
-Published:
-2026-09-23 14:05 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/CtVI5nE7_ksFD1S7gE4OZCEsBGRML6bqJEGCB4qOP-Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HbG9iYWxfSGVhZHF1YXJ0ZXJzX01hcmxib3JvdWdoX01hc3MuanBn.webp" /></div></figure>More than one-third of industrial firms consider cyber risk as the top obstacle to growth.
-
-URL:
-https://www.cybersecuritydive.com/news/industrial-cyber-resilience-gap/831131/
 
 ------------------------------------------------------------
 
@@ -239,6 +227,21 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 [No articles in the last 48h - showing latest available]
+
+Title:
+3 Consulting Myths Debunked by Unit 42 Experts
+
+Published:
+2026-09-25 23:00 UTC
+
+Summary:
+Unit 42 security experts address critical cybersecurity misconceptions, offering practical insights to help your organization reinforce its enterprise defenses.
+The post <a href="https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/">3 Consulting Myths Debunked by Unit 42 Experts</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/
+
+------------------------------------------------------------
 
 Title:
 From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies
@@ -270,24 +273,11 @@ https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
 
 ------------------------------------------------------------
 
-Title:
-Inside the Modern SOC: Defending the Cross-Environment Pivot
-
-Published:
-2026-09-17 22:00 UTC
-
-Summary:
-Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths.
-The post <a href="https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/">Inside the Modern SOC: Defending the Cross-Environment Pivot</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Trust and the enticing consultancy offer
@@ -300,6 +290,34 @@ In this week’s newsletter Martin muses over a very suspicious elicitation over
 
 URL:
 https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/
+
+------------------------------------------------------------
+
+Title:
+The Closed Quorum: Inside the first reported autonomous AI C2 implant
+
+Published:
+2026-09-22 10:00 UTC
+
+Summary:
+CLOSEDQUORUM, a malware binary discovered through Cisco Talos’ CAIRN project, exhibits fully autonomous command and control (C2). It represents a shift in effort displacement for attackers, in which expanding portions of the attack chain can be executed without operator involvement.
+
+URL:
+https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/
+
+------------------------------------------------------------
+
+Title:
+Introducing CAIRN: Frontier tracking for AI-integrated malware
+
+Published:
+2026-09-22 10:00 UTC
+
+Summary:
+Talos is releasing CAIRN, a research toolkit for hunting, classifying, and tracking emerging AI-integrated malware.
+
+URL:
+https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/
 
 ------------------------------------------------------------
 
@@ -638,6 +656,23 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
+Title:
+Storm-3168: Agentic-driven cloud attacks using compromised service principals
+
+Published:
+2026-09-25 15:35 UTC
+
+Summary:
+Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/
+
+------------------------------------------------------------
+
 Title:
 Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments
 
@@ -665,21 +700,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/24/whats
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/
-
-------------------------------------------------------------
-
-Title:
-Reimagining the SOC for the agentic era in Microsoft Defender
-
-Published:
-2026-09-23 16:00 UTC
-
-Summary:
-We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/">Reimagining the SOC for the agentic era in Microsoft Defender</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/
 
 ------------------------------------------------------------
 
