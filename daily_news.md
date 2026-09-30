@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-28 07:08 UTC_
+_Last run: 2026-09-30 06:55 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation
+Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution
 
 Published:
-2026-09-27 07:47 UTC
+2026-09-30 05:30 UTC
 
 Summary:
-Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration.
+Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.
 
-The bulletin came a day after security firm watchTowr
+The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler
 
 URL:
-https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
+https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
 
 ------------------------------------------------------------
 
 Title:
-Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
+French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks
 
 Published:
-2026-09-26 18:22 UTC
+2026-09-29 17:47 UTC
 
 Summary:
-The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.
+An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.
 
-The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users.
-
-"The attack chain begins with a fake CAPTCHA page and
+Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a report (in French) published on Tuesday: it worked because of weak
 
 URL:
-https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
+https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html
 
 ------------------------------------------------------------
 
 Title:
-Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
+New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
 
 Published:
-2026-09-26 11:46 UTC
+2026-09-29 17:20 UTC
 
 Summary:
-Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.
+A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.
 
-The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution.
+The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR).
 
-The vulnerability was first exploited as a zero-day
+"The key insight is that, while modern CPUs
 
 URL:
-https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
+https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html
 
 ------------------------------------------------------------
 
 Title:
-Zero Trust for AI Agents Starts With Fixing Zero Visibility
+Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor
 
 Published:
-2026-09-26 10:30 UTC
+2026-09-29 17:20 UTC
 
 Summary:
-The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to
+Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft.
+
+The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached
 
 URL:
-https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html
+https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html
 
 ------------------------------------------------------------
 
 Title:
-Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link
+Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
 
 Published:
-2026-09-26 09:55 UTC
+2026-09-29 14:13 UTC
 
 Summary:
-Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.
+Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.
 
-The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions
+"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base," the company
 
 URL:
-https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html
+https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html
 
 ------------------------------------------------------------
 
@@ -93,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-CISA orders feds to patch exploited Citrix flaws by Wednesday
+Microsoft is rolling out Linux container support to WSL
 
 Published:
-2026-09-28 06:24 UTC
+2026-09-30 00:40 UTC
 
 Summary:
-The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]
+Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email
+Signal adds encypted local backup support to iOS, desktop apps
 
 Published:
-2026-09-27 23:40 UTC
+2026-09-29 21:30 UTC
 
 Summary:
-OpenAI is testing a new always-on assistant called "o", and references to the unannounced feature briefly showed up on the company's website. [...]
+Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/
+https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/
 
 ------------------------------------------------------------
 
 Title:
-Citrix confirms two NetScaler RCE zero-days exploited in attacks
+Custom ChatGPTs push ClickFix attacks to deploy RAT malware
 
 Published:
-2026-09-27 16:02 UTC
+2026-09-29 20:59 UTC
 
 Summary:
-Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]
+Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/
+https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/
 
 ------------------------------------------------------------
 
 Title:
-Cloudflare fixes Containers cross-tenant flaw exposing customer data
+FBI tells ShinyHunters members to turn themselves in after recent arrest
 
 Published:
-2026-09-27 14:13 UTC
+2026-09-29 20:09 UTC
 
 Summary:
-Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]
+The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/
+https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/
 
 ------------------------------------------------------------
 
 Title:
-Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors
+Hackers exploit Citrix NetScaler zero-day to deploy web shells
 
 Published:
-2026-09-27 13:38 UTC
+2026-09-29 18:37 UTC
 
 Summary:
-Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]
+Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/
 
 ------------------------------------------------------------
 
@@ -166,47 +166,73 @@ https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-cl
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Businesses expand AI’s cybersecurity uses as comfort with technology grows
+Citrix NetScaler exploitation began days before public notification
 
 Published:
-2026-09-25 15:24 UTC
+2026-09-29 15:06 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/uUgyhFbWMkfmwVUYCYUghryNWcLsa95yQjgiEnDPEeI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTU5NDY0NjIuanBn.webp" /></div></figure>Companies in the experimentation stage were less likely than established users to deploy advanced AI-powered defenses, a new survey found.
+<figure><div><img src="https://imgproxy.divecdn.com/HFBcZE697hnWVVsiq3ZzHgbWInQBGNsQAa7SGOd_36w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY3OTA1MjE3LmpwZw==.webp" /></div></figure>Customers need to check systems for compromise prior to patching, because the security upgrade may not fully resolve an infected system. 
 
 URL:
-https://www.cybersecuritydive.com/news/ai-cybersecurity-maturity-agents-kpmg/831385/
+https://www.cybersecuritydive.com/news/citrix-netscaler-exploitation-days-before-notification/831634/
 
 ------------------------------------------------------------
 
 Title:
-Threat groups ramp up social-engineering attacks against healthcare sector
+Dotted Line: How construction is dealing with cybersecurity in the age of AI
 
 Published:
-2026-09-25 15:10 UTC
+2026-09-29 15:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/I-2o_oHHXWQdTVn0wZFWX0FVNvyzPgbz9dVNEkMPA2Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODYyMzU1NTE4LmpwZw==.webp" /></div></figure>Hackers linked to high-profile cybercrime groups have used voice-phishing tactics to trick workers into giving up credentials in recent attacks.
+Contractors rank cybersecurity low on their priority lists. But lawyers say being prepared is critical when the inevitable breach occurs.
 
 URL:
-https://www.cybersecuritydive.com/news/threat-groups-social-engineering-attacks-healthcare/831383/
+https://www.cybersecuritydive.com/news/construction-cybersecurity-AI/831637/
 
 ------------------------------------------------------------
 
 Title:
-Wiz uses AI to find vulnerabilities in critical infrastructure
+GAO report spotlights industry’s concerns about overlapping cybersecurity regulations
 
 Published:
-2026-09-24 15:11 UTC
+2026-09-29 14:51 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ckhUFD2UQ6enCfjOI8GkEvHKv8VP8TbG6aVZ_0nBaBk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMjExNS5qcGc=.webp" /></div></figure>The Google subsidiary, which helped a railroad and two hospitals, invited others to apply for its free scanning service.
+<figure><div><img src="https://imgproxy.divecdn.com/aPG-nF8M1rOpE32Ma31mhyJn3yDYI7y7c387xdKAIlg/g:nowe:0:0/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzU0OTA3MjU2LmpwZw==.webp" /></div></figure>Representatives of three critical infrastructure sectors identified the conflicting and redundant rules that they said made their jobs much more difficult.
 
 URL:
-https://www.cybersecuritydive.com/news/wiz-ai-critical-infrastructure-scan-for-good/831255/
+https://www.cybersecuritydive.com/news/cybersecurity-regulation-industry-feedback-harmonization-gao/831619/
+
+------------------------------------------------------------
+
+Title:
+Kiteworks lifts advisory after precautionary warning for customers to shut down systems
+
+Published:
+2026-09-28 15:46 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/UtwPBlQdlJnwD1X5DNQUP3uq676BgSVmQsFYWnsszRs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JVF9zZWN1cml0eS5qcGc=.webp" /></div></figure>The firm had received information from law enforcement of a possible attack.
+
+URL:
+https://www.cybersecuritydive.com/news/kiteworks-lifts-advisory-warning-shut-zero-day/831508/
+
+------------------------------------------------------------
+
+Title:
+Citrix urges immediate upgrades of NetScaler amid widespread exploitation attempts
+
+Published:
+2026-09-28 15:20 UTC
+
+Summary:
+Security teams received urgent calls to disconnect servers before authorities confirmed critical zero-day flaws.
+
+URL:
+https://www.cybersecuritydive.com/news/citrix-upgrades-netscaler-exploitation/831502/
 
 ------------------------------------------------------------
 
@@ -226,50 +252,33 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-3 Consulting Myths Debunked by Unit 42 Experts
+OperTraitors: How Kubernetes Operators Betray Your Security Posture
 
 Published:
-2026-09-25 23:00 UTC
+2026-09-29 10:00 UTC
 
 Summary:
-Unit 42 security experts address critical cybersecurity misconceptions, offering practical insights to help your organization reinforce its enterprise defenses.
-The post <a href="https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/">3 Consulting Myths Debunked by Unit 42 Experts</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities.
+The post <a href="https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/">OperTraitors: How Kubernetes Operators Betray Your Security Posture</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/
+https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/
 
 ------------------------------------------------------------
 
 Title:
-From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies
+Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild
 
 Published:
-2026-09-21 10:00 UTC
+2026-09-28 15:02 UTC
 
 Summary:
-We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies.
-The post <a href="https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/">From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. 
+The post <a href="https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/">Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/
-
-------------------------------------------------------------
-
-Title:
-A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity
-
-Published:
-2026-09-18 10:00 UTC
-
-Summary:
-Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents.
-The post <a href="https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/">A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
+https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
 
 ------------------------------------------------------------
 
@@ -277,47 +286,17 @@ https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Trust and the enticing consultancy offer
+Securing the keys to the kingdom: Announcing Executive Threat Detection
 
 Published:
-2026-09-24 18:00 UTC
+2026-09-29 10:00 UTC
 
 Summary:
-In this week’s newsletter Martin muses over a very suspicious elicitation over social media and the true value of trust within the cyber ecosystem. Hubris might be the real vulnerability that the cyber industry must worry about.
+This new proactive service joins the suite of retainer offerings to provide dedicated, intelligence-led hunting specifically for your organization’s most high-value IT assets.
 
 URL:
-https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/
-
-------------------------------------------------------------
-
-Title:
-The Closed Quorum: Inside the first reported autonomous AI C2 implant
-
-Published:
-2026-09-22 10:00 UTC
-
-Summary:
-CLOSEDQUORUM, a malware binary discovered through Cisco Talos’ CAIRN project, exhibits fully autonomous command and control (C2). It represents a shift in effort displacement for attackers, in which expanding portions of the attack chain can be executed without operator involvement.
-
-URL:
-https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/
-
-------------------------------------------------------------
-
-Title:
-Introducing CAIRN: Frontier tracking for AI-integrated malware
-
-Published:
-2026-09-22 10:00 UTC
-
-Summary:
-Talos is releasing CAIRN, a research toolkit for hunting, classifying, and tracking emerging AI-integrated malware.
-
-URL:
-https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/
+https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/
 
 ------------------------------------------------------------
 
@@ -656,50 +635,63 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Storm-3168: Agentic-driven cloud attacks using compromised service principals
+Phishing Abuses RMM Tools for Persistent Access
 
 Published:
-2026-09-25 15:35 UTC
+2026-09-29 21:39 UTC
 
 Summary:
-Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/">Phishing Abuses RMM Tools for Persistent Access</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/
+https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/
 
 ------------------------------------------------------------
 
 Title:
-Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments
+​​Beyond source code: A path to the keys to the kingdom
 
 Published:
-2026-09-24 16:00 UTC
+2026-09-29 16:00 UTC
 
 Summary:
-Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/">Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/">​​Beyond source code: A path to the keys to the kingdom</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/
+https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/
 
 ------------------------------------------------------------
 
 Title:
-​​​​​​​​What’s new in Microsoft Security: September 2026​​
+Star Blizzard refines phishing and malware delivery with the RedFlick technique
 
 Published:
-2026-09-24 16:00 UTC
+2026-09-29 15:00 UTC
 
 Summary:
-This month's updates help you discover and control local AI agents, extend Zero Trust to agent traffic, and strengthen SOC foundations.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/">​​​​​​​​What’s new in Microsoft Security: September 2026​​</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/
+https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/
+
+------------------------------------------------------------
+
+Title:
+NeedyMantis: Unpacking a post-compromise malware family used in targeted operations
+
+Published:
+2026-09-28 15:00 UTC
+
+Summary:
+Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/">NeedyMantis: Unpacking a post-compromise malware family used in targeted operations</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/
 
 ------------------------------------------------------------
 
