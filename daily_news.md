@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-09-30 06:55 UTC_
+_Last run: 2026-10-02 07:09 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution
+Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes
 
 Published:
-2026-09-30 05:30 UTC
+2026-10-02 05:49 UTC
 
 Summary:
-Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
 
-The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler
+The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system.
+
+"An improper
 
 URL:
-https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
+https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
 
 ------------------------------------------------------------
 
 Title:
-French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks
+Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
 
 Published:
-2026-09-29 17:47 UTC
+2026-10-01 16:55 UTC
 
 Summary:
-An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.
+Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.
 
-Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a report (in French) published on Tuesday: it worked because of weak
+The 16-year-old was one of 3 people arrested on September 30, when police also took control of that site.
+
+Investigators identified him as KillSec's suspected
 
 URL:
-https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html
+https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
 
 ------------------------------------------------------------
 
 Title:
-New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
+ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories
 
 Published:
-2026-09-29 17:20 UTC
+2026-10-01 16:45 UTC
 
 Summary:
-A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.
+This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years.
 
-The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR).
-
-"The key insight is that, while modern CPUs
+That is the lesson running through the list. Attackers do not always need a brilliant new trick. They can
 
 URL:
-https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html
+https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html
 
 ------------------------------------------------------------
 
 Title:
-Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor
+WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory
 
 Published:
-2026-09-29 17:20 UTC
+2026-10-01 14:37 UTC
 
 Summary:
-Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft.
+Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.
 
-The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached
+The backdoor has been codenamed SC after the "SC_" markers present in the injected content. Sucuri has described the malware as a "self-healing mesh" that's
 
 URL:
-https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html
+https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html
 
 ------------------------------------------------------------
 
 Title:
-Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
+How Financial Services Companies Can Modernize Their Software Supply Chain
 
 Published:
-2026-09-29 14:13 UTC
+2026-10-01 11:45 UTC
 
 Summary:
-Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.
-
-"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base," the company
+Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date
 
 URL:
-https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html
+https://thehackernews.com/2026/10/how-financial-services-companies-can.html
 
 ------------------------------------------------------------
 
@@ -93,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Microsoft is rolling out Linux container support to WSL
+Fortinet warns of critical FortiMail flaw exploited in zero-day attacks
 
 Published:
-2026-09-30 00:40 UTC
+2026-10-01 22:42 UTC
 
 Summary:
-Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]
+Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/
+https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Signal adds encypted local backup support to iOS, desktop apps
+Autonomous AI agents tried to hack US, Canadian government websites
 
 Published:
-2026-09-29 21:30 UTC
+2026-10-01 20:52 UTC
 
 Summary:
-Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]
+Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/
+https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/
 
 ------------------------------------------------------------
 
 Title:
-Custom ChatGPTs push ClickFix attacks to deploy RAT malware
+Microsoft says threat actors are ahead in the early AI race
 
 Published:
-2026-09-29 20:59 UTC
+2026-10-01 19:32 UTC
 
 Summary:
-Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]
+Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/
+https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/
 
 ------------------------------------------------------------
 
 Title:
-FBI tells ShinyHunters members to turn themselves in after recent arrest
+Police dismantle KillSec ransomware gang allegedly led by 16-year-old
 
 Published:
-2026-09-29 20:09 UTC
+2026-10-01 14:25 UTC
 
 Summary:
-The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]
+An international law enforcement operation dubbed "Operation KillSwitch" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/
+https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/
 
 ------------------------------------------------------------
 
 Title:
-Hackers exploit Citrix NetScaler zero-day to deploy web shells
+The Day-One Hole in Zero Trust Architecture
 
 Published:
-2026-09-29 18:37 UTC
+2026-10-01 14:01 UTC
 
 Summary:
-Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]
+Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/
+https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/
 
 ------------------------------------------------------------
 
@@ -167,72 +167,44 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Citrix NetScaler exploitation began days before public notification
+SOC staffers generally pleased with AI’s impact, but worries remain
 
 Published:
-2026-09-29 15:06 UTC
+2026-10-01 15:10 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/HFBcZE697hnWVVsiq3ZzHgbWInQBGNsQAa7SGOd_36w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY3OTA1MjE3LmpwZw==.webp" /></div></figure>Customers need to check systems for compromise prior to patching, because the security upgrade may not fully resolve an infected system. 
+<figure><div><img src="https://imgproxy.divecdn.com/RsHQUs7pmc4JEAW2vuM0xZnTYCmScu24uw9GjndIEVI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DU09DLWN5YmVyLXNlY3VyaXR5LW9wZXJhdGlvbnMtY2VudGVyLTFfRU54T0lYQy5qcGc=.webp" /></div></figure>AI is likely to eliminate some entry-level SOC roles, a survey found, but it is also creating opportunities to develop more strategic skills.
 
 URL:
-https://www.cybersecuritydive.com/news/citrix-netscaler-exploitation-days-before-notification/831634/
+https://www.cybersecuritydive.com/news/ai-security-operations-centers-careers-skills-swimlane/831882/
 
 ------------------------------------------------------------
 
 Title:
-Dotted Line: How construction is dealing with cybersecurity in the age of AI
+Mass exploitation of Citrix NetScaler: What we currently know
 
 Published:
-2026-09-29 15:00 UTC
+2026-09-30 15:25 UTC
 
 Summary:
-Contractors rank cybersecurity low on their priority lists. But lawyers say being prepared is critical when the inevitable breach occurs.
+<figure><div><img src="https://imgproxy.divecdn.com/Wu6MllyHCcqpkYpVC06C3r5ARF3yLV5PExdygpct02s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY3OTA1MjI0LmpwZw==.webp" /></div></figure>Suspected state-linked actors targeted critical vulnerabilities in the widely used platform, causing widespread disruption across Europe and North America.
 
 URL:
-https://www.cybersecuritydive.com/news/construction-cybersecurity-AI/831637/
+https://www.cybersecuritydive.com/news/exploitation-citrix-netscaler-what-we-know/831780/
 
 ------------------------------------------------------------
 
 Title:
-GAO report spotlights industry’s concerns about overlapping cybersecurity regulations
+National cyber director defends private-sector hacking program, urges focus on security basics
 
 Published:
-2026-09-29 14:51 UTC
+2026-09-30 15:21 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/aPG-nF8M1rOpE32Ma31mhyJn3yDYI7y7c387xdKAIlg/g:nowe:0:0/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzU0OTA3MjU2LmpwZw==.webp" /></div></figure>Representatives of three critical infrastructure sectors identified the conflicting and redundant rules that they said made their jobs much more difficult.
+<figure><div><img src="https://imgproxy.divecdn.com/PI0C9X-5YLPf33QDepaydX-F1XP1-NpMIfO3NtruHNA/g:nowe:0:396/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTBfMTIyNjI4MzM2LmpwZw==.webp" /></div></figure>Letting businesses help the government deter cybercrime will benefit all Americans, Sean Cairncross said.
 
 URL:
-https://www.cybersecuritydive.com/news/cybersecurity-regulation-industry-feedback-harmonization-gao/831619/
-
-------------------------------------------------------------
-
-Title:
-Kiteworks lifts advisory after precautionary warning for customers to shut down systems
-
-Published:
-2026-09-28 15:46 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/UtwPBlQdlJnwD1X5DNQUP3uq676BgSVmQsFYWnsszRs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JVF9zZWN1cml0eS5qcGc=.webp" /></div></figure>The firm had received information from law enforcement of a possible attack.
-
-URL:
-https://www.cybersecuritydive.com/news/kiteworks-lifts-advisory-warning-shut-zero-day/831508/
-
-------------------------------------------------------------
-
-Title:
-Citrix urges immediate upgrades of NetScaler amid widespread exploitation attempts
-
-Published:
-2026-09-28 15:20 UTC
-
-Summary:
-Security teams received urgent calls to disconnect servers before authorities confirmed critical zero-day flaws.
-
-URL:
-https://www.cybersecuritydive.com/news/citrix-upgrades-netscaler-exploitation/831502/
+https://www.cybersecuritydive.com/news/oncd-white-house-sean-cairncross-regulation-deterrence-ai/831768/
 
 ------------------------------------------------------------
 
@@ -253,29 +225,14 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
-OperTraitors: How Kubernetes Operators Betray Your Security Posture
+Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)
 
 Published:
-2026-09-29 10:00 UTC
-
-Summary:
-We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities.
-The post <a href="https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/">OperTraitors: How Kubernetes Operators Betray Your Security Posture</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/
-
-------------------------------------------------------------
-
-Title:
-Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild
-
-Published:
-2026-09-28 15:02 UTC
+2026-09-30 20:00 UTC
 
 Summary:
 Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. 
-The post <a href="https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/">Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+The post <a href="https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/">Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
 https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
@@ -287,16 +244,44 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-Securing the keys to the kingdom: Announcing Executive Threat Detection
+Give yourself room to be human
 
 Published:
-2026-09-29 10:00 UTC
+2026-10-01 18:00 UTC
 
 Summary:
-This new proactive service joins the suite of retainer offerings to provide dedicated, intelligence-led hunting specifically for your organization’s most high-value IT assets.
+In this week’s edition, Amy reflects on the importance of prioritizing family and personal well-being over the pressure to remain constantly productive.
 
 URL:
-https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/
+https://blog.talosintelligence.com/give-yourself-room-to-be-human/
+
+------------------------------------------------------------
+
+Title:
+The Fine Art of Frustrating the Adversary
+
+Published:
+2026-10-01 10:00 UTC
+
+Summary:
+What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier. From deception and behavioral detection to breaking attack dependencies and resisting manufactured urgency.
+
+URL:
+https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/
+
+------------------------------------------------------------
+
+Title:
+China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor
+
+Published:
+2026-09-30 10:00 UTC
+
+Summary:
+Cisco Talos uncovered a cluster of activity we track as UAT-11587 targeting government and policy organizations across Asia, including in Taiwan, India, the Philippines, and Cambodia, to deliver a previously undocumented backdoor referred to as “Antino” in developer artifacts.
+
+URL:
+https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/
 
 ------------------------------------------------------------
 
@@ -636,62 +621,62 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-Phishing Abuses RMM Tools for Persistent Access
+Preparing governments for an era of interconnected cyber risk
 
 Published:
-2026-09-29 21:39 UTC
+2026-10-01 14:00 UTC
 
 Summary:
-Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/">Phishing Abuses RMM Tools for Persistent Access</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025.
+The post <a href="https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/">Preparing governments for an era of interconnected cyber risk</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/
+https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/
 
 ------------------------------------------------------------
 
 Title:
-​​Beyond source code: A path to the keys to the kingdom
+Insights from the 2026 Microsoft Digital Defense Report
 
 Published:
-2026-09-29 16:00 UTC
+2026-10-01 14:00 UTC
 
 Summary:
-Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/">​​Beyond source code: A path to the keys to the kingdom</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/">Insights from the 2026 Microsoft Digital Defense Report </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/
+https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/
 
 ------------------------------------------------------------
 
 Title:
-Star Blizzard refines phishing and malware delivery with the RedFlick technique
+​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026
 
 Published:
-2026-09-29 15:00 UTC
+2026-09-30 19:31 UTC
 
 Summary:
-Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/">​​Secure what&#8217;s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/
+https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/
 
 ------------------------------------------------------------
 
 Title:
-NeedyMantis: Unpacking a post-compromise malware family used in targeted operations
+Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570
 
 Published:
-2026-09-28 15:00 UTC
+2026-09-30 14:00 UTC
 
 Summary:
-Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/">NeedyMantis: Unpacking a post-compromise malware family used in targeted operations</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/">Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/
+https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/
 
 ------------------------------------------------------------
 
