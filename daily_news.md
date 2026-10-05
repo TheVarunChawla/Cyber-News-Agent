@@ -1,90 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-02 07:09 UTC_
+_Last run: 2026-10-05 07:16 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes
+ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
 
 Published:
-2026-10-02 05:49 UTC
+2026-10-04 07:22 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.
 
-The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system.
-
-"An improper
+Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into custody on September 29, 2026, cooperating with the U.S. Federal Bureau of Investigation (FBI) and
 
 URL:
-https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
+https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
 
 ------------------------------------------------------------
 
 Title:
-Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
+China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing
 
 Published:
-2026-10-01 16:55 UTC
+2026-10-04 07:20 UTC
 
 Summary:
-Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.
+A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations.
 
-The 16-year-old was one of 3 people arrested on September 30, when police also took control of that site.
-
-Investigators identified him as KillSec's suspected
+The campaigns have impersonated prominent economists and AI policymakers, as well as a prominent Anthropic employee, to single out an AI policy expert at a
 
 URL:
-https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
+https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories
+MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics
 
 Published:
-2026-10-01 16:45 UTC
+2026-10-03 14:38 UTC
 
 Summary:
-This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years.
+The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.
 
-That is the lesson running through the list. Attackers do not always need a brilliant new trick. They can
+In a "Security Service Espionage Alert" issued on September 30, 2026, MI5 said the "primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that
 
 URL:
-https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html
+https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html
 
 ------------------------------------------------------------
 
 Title:
-WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory
+Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
 
 Published:
-2026-10-01 14:37 UTC
+2026-10-03 14:36 UTC
 
 Summary:
-Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.
+The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.
 
-The backdoor has been codenamed SC after the "SC_" markers present in the injected content. Sucuri has described the malware as a "self-healing mesh" that's
+The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations.
+
+"In the
 
 URL:
-https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html
+https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
 
 ------------------------------------------------------------
 
 Title:
-How Financial Services Companies Can Modernize Their Software Supply Chain
+The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
 
 Published:
-2026-10-01 11:45 UTC
+2026-10-03 11:00 UTC
 
 Summary:
-Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date
+Featuring:
+
+Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the ability to respond to risk at scale.
+
+This report examines how core areas of
 
 URL:
-https://thehackernews.com/2026/10/how-financial-services-companies-can.html
+https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html
 
 ------------------------------------------------------------
 
@@ -93,78 +95,112 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Fortinet warns of critical FortiMail flaw exploited in zero-day attacks
+Citrix patches NetScaler SAML zero-day exploited in attacks
 
 Published:
-2026-10-01 22:42 UTC
+2026-10-04 21:58 UTC
 
 Summary:
-Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]
+Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/
+https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Autonomous AI agents tried to hack US, Canadian government websites
+Anthropic asks Claude users to share voice data for AI model training
 
 Published:
-2026-10-01 20:52 UTC
+2026-10-04 10:53 UTC
 
 Summary:
-Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]
+Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft says threat actors are ahead in the early AI race
+Google Gemini could soon get full access to your Mac’s files, apps and the web
 
 Published:
-2026-10-01 19:32 UTC
+2026-10-03 23:12 UTC
 
 Summary:
-Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]
+Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/
+https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/
 
 ------------------------------------------------------------
 
 Title:
-Police dismantle KillSec ransomware gang allegedly led by 16-year-old
+ShinyHunters hacker reportedly detained in Jordan, aiding FBI
 
 Published:
-2026-10-01 14:25 UTC
+2026-10-03 19:09 UTC
 
 Summary:
-An international law enforcement operation dubbed "Operation KillSwitch" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]
+A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/
+https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/
 
 ------------------------------------------------------------
 
 Title:
-The Day-One Hole in Zero Trust Architecture
+Danish university DTU breach exposes data of up to 200,000 people
 
 Published:
-2026-10-01 14:01 UTC
+2026-10-03 14:35 UTC
 
 Summary:
-Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]
+The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/
+https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+Defending against AI-fueled cyberattacks requires focus on identity, data governance, Microsoft says
+
+Published:
+2026-10-02 16:15 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>Dive Brief:
+
+
+	Businesses need to prepare for the ways in which AI is changing the cyberattack landscape, Microsoft warned on Thursday.
+	AI is speeding up attacks, making advanced techniques easier and putting stress on systems that organizations have long overlooked, the company said in its ...
+
+URL:
+https://www.cybersecuritydive.com/news/ai-cyberattacks-automation-identity-data-microsoft-report/832020/
+
+------------------------------------------------------------
+
+Title:
+Fortinet warns that critical flaw in FortiMail is facing exploitation
+
+Published:
+2026-10-02 14:56 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/VKp2nzAST2pRAPqxS5ipeTmzsLB2Xp7D6Zvsx3kVcZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVE5ULTkwOS1raWZlci0wNS5qcGc=.webp" /></div></figure>Security researchers warn that attackers can gain access to credentials, stored mail and other connected systems.
+
+URL:
+https://www.cybersecuritydive.com/news/fortinet-critical-flaw-fortimail-exploitation/832017/
+
+------------------------------------------------------------
 
 Title:
 SOC staffers generally pleased with AI’s impact, but worries remain
@@ -173,38 +209,10 @@ Published:
 2026-10-01 15:10 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/RsHQUs7pmc4JEAW2vuM0xZnTYCmScu24uw9GjndIEVI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DU09DLWN5YmVyLXNlY3VyaXR5LW9wZXJhdGlvbnMtY2VudGVyLTFfRU54T0lYQy5qcGc=.webp" /></div></figure>AI is likely to eliminate some entry-level SOC roles, a survey found, but it is also creating opportunities to develop more strategic skills.
+<figure><div><img src="https://imgproxy.divecdn.com/RsHQUs7pmc4JEAW2vuM0xZnTYCmScu24uw9GjndIEVI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DU09DLWN5YmVyLXNlY3VyaXR5LW9wZXJhdGlvbnMtY2VudGVyLTFfRU54T0lYQy5qcGc=.webp" /></div></figure>AI is likely to eliminate some entry-level SOC roles, a survey found, It is also creating opportunities to develop more strategic skills.
 
 URL:
 https://www.cybersecuritydive.com/news/ai-security-operations-centers-careers-skills-swimlane/831882/
-
-------------------------------------------------------------
-
-Title:
-Mass exploitation of Citrix NetScaler: What we currently know
-
-Published:
-2026-09-30 15:25 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Wu6MllyHCcqpkYpVC06C3r5ARF3yLV5PExdygpct02s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY3OTA1MjI0LmpwZw==.webp" /></div></figure>Suspected state-linked actors targeted critical vulnerabilities in the widely used platform, causing widespread disruption across Europe and North America.
-
-URL:
-https://www.cybersecuritydive.com/news/exploitation-citrix-netscaler-what-we-know/831780/
-
-------------------------------------------------------------
-
-Title:
-National cyber director defends private-sector hacking program, urges focus on security basics
-
-Published:
-2026-09-30 15:21 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/PI0C9X-5YLPf33QDepaydX-F1XP1-NpMIfO3NtruHNA/g:nowe:0:396/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTBfMTIyNjI4MzM2LmpwZw==.webp" /></div></figure>Letting businesses help the government deter cybercrime will benefit all Americans, Sean Cairncross said.
-
-URL:
-https://www.cybersecuritydive.com/news/oncd-white-house-sean-cairncross-regulation-deterrence-ai/831768/
 
 ------------------------------------------------------------
 
@@ -224,6 +232,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)
 
@@ -239,9 +249,41 @@ https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
 
 ------------------------------------------------------------
 
+Title:
+OperTraitors: How Kubernetes Operators Betray Your Security Posture
+
+Published:
+2026-09-29 10:00 UTC
+
+Summary:
+We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities.
+The post <a href="https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/">OperTraitors: How Kubernetes Operators Betray Your Security Posture</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/
+
+------------------------------------------------------------
+
+Title:
+3 Consulting Myths Debunked by Unit 42 Experts
+
+Published:
+2026-09-25 23:00 UTC
+
+Summary:
+Unit 42 security experts address critical cybersecurity misconceptions, offering practical insights to help your organization reinforce its enterprise defenses.
+The post <a href="https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/">3 Consulting Myths Debunked by Unit 42 Experts</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Give yourself room to be human
@@ -620,6 +662,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Preparing governments for an era of interconnected cyber risk
 
@@ -662,21 +706,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/secur
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/
-
-------------------------------------------------------------
-
-Title:
-Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570
-
-Published:
-2026-09-30 14:00 UTC
-
-Summary:
-Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/">Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/
 
 ------------------------------------------------------------
 
