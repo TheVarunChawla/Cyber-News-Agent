@@ -1,92 +1,88 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-05 07:16 UTC_
+_Last run: 2026-10-07 07:23 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
+Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
 
 Published:
-2026-10-04 07:22 UTC
+2026-10-06 18:38 UTC
 
 Summary:
-A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.
+Cybersecurity researchers have disclosed details of a "human-operated phishing platform" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.
 
-Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into custody on September 29, 2026, cooperating with the U.S. Federal Bureau of Investigation (FBI) and
+The products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in
 
 URL:
-https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
+https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
 
 ------------------------------------------------------------
 
 Title:
-China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing
+Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan
 
 Published:
-2026-10-04 07:20 UTC
+2026-10-06 18:24 UTC
 
 Summary:
-A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations.
+Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.
 
-The campaigns have impersonated prominent economists and AI policymakers, as well as a prominent Anthropic employee, to single out an AI policy expert at a
+Threat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrowing the name of a real binary, it may
 
 URL:
-https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
+https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html
 
 ------------------------------------------------------------
 
 Title:
-MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics
+LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings
 
 Published:
-2026-10-03 14:38 UTC
+2026-10-06 11:57 UTC
 
 Summary:
-The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.
+A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.
 
-In a "Security Service Espionage Alert" issued on September 30, 2026, MI5 said the "primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that
+The attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in
 
 URL:
-https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html
+https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html
 
 ------------------------------------------------------------
 
 Title:
-Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
+Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies
 
 Published:
-2026-10-03 14:36 UTC
+2026-10-06 11:26 UTC
 
 Summary:
-The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.
+The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages.
 
-The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations.
-
-"In the
+"The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic,
 
 URL:
-https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
+https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html
 
 ------------------------------------------------------------
 
 Title:
-The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
+Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers
 
 Published:
-2026-10-03 11:00 UTC
+2026-10-06 11:02 UTC
 
 Summary:
-Featuring:
+In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows.
 
-Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the ability to respond to risk at scale.
-
-This report examines how core areas of
+The ecosystem around it fell short. Earlier this year, our team at OX Security,  traced critical vulnerabilities in Anthropic's MCP
 
 URL:
-https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html
+https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html
 
 ------------------------------------------------------------
 
@@ -95,72 +91,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Citrix patches NetScaler SAML zero-day exploited in attacks
+Ninja Forms plugin flaw exploited to hack WordPress sites
 
 Published:
-2026-10-04 21:58 UTC
+2026-10-06 21:00 UTC
 
 Summary:
-Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]
+Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/
+https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/
 
 ------------------------------------------------------------
 
 Title:
-Anthropic asks Claude users to share voice data for AI model training
+Hackers exploit 32 zero-days on first day of Pwn2Own Ireland
 
 Published:
-2026-10-04 10:53 UTC
+2026-10-06 19:21 UTC
 
 Summary:
-Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]
+On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/
 
 ------------------------------------------------------------
 
 Title:
-Google Gemini could soon get full access to your Mac’s files, apps and the web
+Atlassian warns of critical file-access flaw in Jira, Confluence
 
 Published:
-2026-10-03 23:12 UTC
+2026-10-06 17:34 UTC
 
 Summary:
-Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]
+Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/
+https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/
 
 ------------------------------------------------------------
 
 Title:
-ShinyHunters hacker reportedly detained in Jordan, aiding FBI
+ASOS confirms data breach after “HACKED” in-app notifications
 
 Published:
-2026-10-03 19:09 UTC
+2026-10-06 16:33 UTC
 
 Summary:
-A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]
+UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/
+https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/
 
 ------------------------------------------------------------
 
 Title:
-Danish university DTU breach exposes data of up to 200,000 people
+Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes
 
 Published:
-2026-10-03 14:35 UTC
+2026-10-06 15:16 UTC
 
 Summary:
-The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]
+A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/
+https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/
 
 ------------------------------------------------------------
 
@@ -168,51 +164,73 @@ https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-expo
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Defending against AI-fueled cyberattacks requires focus on identity, data governance, Microsoft says
+IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws
 
 Published:
-2026-10-02 16:15 UTC
+2026-10-06 15:01 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp" /></div></figure>Dive Brief:
-
-
-	Businesses need to prepare for the ways in which AI is changing the cyberattack landscape, Microsoft warned on Thursday.
-	AI is speeding up attacks, making advanced techniques easier and putting stress on systems that organizations have long overlooked, the company said in its ...
+<figure><div><img src="https://imgproxy.divecdn.com/u7pKWJE1NFeSK5l1xUQlxagU5vz8T5wd9L-FmzOL4zU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMTg1NzQ2LmpwZw==.webp" /></div></figure>The tech giant&rsquo;s announcement underscores the insufficiency of companies&rsquo; existing software supply-chain security practices.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-cyberattacks-automation-identity-data-microsoft-report/832020/
+https://www.cybersecuritydive.com/news/ibm-ai-vulnerability-java-lightwell/832249/
 
 ------------------------------------------------------------
 
 Title:
-Fortinet warns that critical flaw in FortiMail is facing exploitation
+US cyber resilience, oversight tested in series of attacks
 
 Published:
-2026-10-02 14:56 UTC
+2026-10-06 14:03 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/VKp2nzAST2pRAPqxS5ipeTmzsLB2Xp7D6Zvsx3kVcZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVE5ULTkwOS1raWZlci0wNS5qcGc=.webp" /></div></figure>Security researchers warn that attackers can gain access to credentials, stored mail and other connected systems.
+<figure><div><img src="https://imgproxy.divecdn.com/OOyh_9BN2cEGoO6oTxJxKxvx-a_qxjRHx5h1zdAz9SQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MzY2OTA4LmpwZw==.webp" /></div></figure>Attacks targeting key industrial sites and unforced errors among leading AI companies are raising alarm bells.
 
 URL:
-https://www.cybersecuritydive.com/news/fortinet-critical-flaw-fortimail-exploitation/832017/
+https://www.cybersecuritydive.com/news/us-cyber-resilience-oversight-attacks/832235/
 
 ------------------------------------------------------------
 
 Title:
-SOC staffers generally pleased with AI’s impact, but worries remain
+Citrix issues patch for third exploited flaw in NetScaler
 
 Published:
-2026-10-01 15:10 UTC
+2026-10-05 14:42 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/RsHQUs7pmc4JEAW2vuM0xZnTYCmScu24uw9GjndIEVI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DU09DLWN5YmVyLXNlY3VyaXR5LW9wZXJhdGlvbnMtY2VudGVyLTFfRU54T0lYQy5qcGc=.webp" /></div></figure>AI is likely to eliminate some entry-level SOC roles, a survey found, It is also creating opportunities to develop more strategic skills.
+The memory overflow vulnerability could lead to a denial-of-service condition under certain circumstances.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-security-operations-centers-careers-skills-swimlane/831882/
+https://www.cybersecuritydive.com/news/citrix-patch-third-exploited-flaw-netscaler/832128/
+
+------------------------------------------------------------
+
+Title:
+White House AI task force faces expertise, partnership challenges
+
+Published:
+2026-10-05 14:41 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/Wnhhm1Zk8pi1yQozgrpM6_H6Z0RXw5O7xY4qvTq6Kf8/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI2NzA5NzMwXzBvTmUyQjYuanBn.webp" /></div></figure>The Cybersecurity and Infrastructure Security Agency is nowhere to be seen in the government&rsquo;s latest AI security project.
+
+URL:
+https://www.cybersecuritydive.com/news/white-house-ai-task-force-cybersecurity-partnerships-cisa/832129/
+
+------------------------------------------------------------
+
+Title:
+Why permissions must be the foundation for next-gen identity security
+
+Published:
+2026-10-05 09:00 UTC
+
+Summary:
+Authentication isn't enough. Monitor access across humans, machines and AI agents.
+
+URL:
+https://www.cybersecuritydive.com/spons/why-permissions-must-be-the-foundation-for-next-gen-identity-security/831732/
 
 ------------------------------------------------------------
 
@@ -232,50 +250,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)
+Blinder Tunnel Campaign Targets Iraqi Infrastructure
 
 Published:
-2026-09-30 20:00 UTC
+2026-10-06 10:00 UTC
 
 Summary:
-Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. 
-The post <a href="https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/">Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure.
+The post <a href="https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/">Blinder Tunnel Campaign Targets Iraqi Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
-
-------------------------------------------------------------
-
-Title:
-OperTraitors: How Kubernetes Operators Betray Your Security Posture
-
-Published:
-2026-09-29 10:00 UTC
-
-Summary:
-We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities.
-The post <a href="https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/">OperTraitors: How Kubernetes Operators Betray Your Security Posture</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/
-
-------------------------------------------------------------
-
-Title:
-3 Consulting Myths Debunked by Unit 42 Experts
-
-Published:
-2026-09-25 23:00 UTC
-
-Summary:
-Unit 42 security experts address critical cybersecurity misconceptions, offering practical insights to help your organization reinforce its enterprise defenses.
-The post <a href="https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/">3 Consulting Myths Debunked by Unit 42 Experts</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/
+https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/
 
 ------------------------------------------------------------
 
@@ -662,50 +648,18 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Preparing governments for an era of interconnected cyber risk
+CISO perspectives on managing vulnerability risks in the age of AI
 
 Published:
-2026-10-01 14:00 UTC
+2026-10-06 16:00 UTC
 
 Summary:
-According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025.
-The post <a href="https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/">Preparing governments for an era of interconnected cyber risk</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/">CISO perspectives on managing vulnerability risks in the age of AI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/
-
-------------------------------------------------------------
-
-Title:
-Insights from the 2026 Microsoft Digital Defense Report
-
-Published:
-2026-10-01 14:00 UTC
-
-Summary:
-Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/">Insights from the 2026 Microsoft Digital Defense Report </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/
-
-------------------------------------------------------------
-
-Title:
-​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026
-
-Published:
-2026-09-30 19:31 UTC
-
-Summary:
-This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/">​​Secure what&#8217;s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/
+https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/
 
 ------------------------------------------------------------
 

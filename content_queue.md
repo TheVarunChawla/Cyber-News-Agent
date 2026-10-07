@@ -1,42 +1,41 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-10-05 07:16 UTC_
+_Generated: 2026-10-07 07:23 UTC_
 
 ## This post's topic
 
-**Encryption in Plain English**
+**Ransomware Usually Starts Before Encryption**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A message becomes a locked box, crosses the internet, and is opened with the right key at the destination.
+- **Fastest:** a single image using this visual brief: Five-stage attack path: initial access, privilege escalation, lateral movement, data theft, encryption.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Encryption, simply explained
-2. Plaintext
-3. Ciphertext
-4. The role of a key
-5. Where you use encryption every day
-- **Most eye-catching:** a 5–8 second looping GIF: A readable message scrambles into unreadable characters and unlocks only with a matching key.
+1. Ransomware: the full story
+2. Initial access
+3. Moving through the network
+4. Data theft
+5. Encryption and how to break the chain
+- **Most eye-catching:** a 5–8 second looping GIF: A five-step attacker path appears; blue-team controls block the path at each stage.
 
 ## Ready-to-personalize LinkedIn caption
 
-Encryption changes readable information into a form that only the right key can unlock.
+The ransomware note is often the last visible step—not the beginning of the attack.
 
-It protects data when it is being sent and when it is stored. The key is the secret that lets an authorized person turn ciphertext back into readable information.
+Many ransomware incidents begin with stolen credentials, phishing, exposed remote access, or an unpatched system. Attackers then move through the environment before deploying encryption.
 
-What to remember: Encryption protects data, but poor key management can still expose it.
+What to remember: Focus on preventing the first foothold: secure identities, patch exposed systems, and monitor suspicious movement.
 
 Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #Encryption #DataSecurity
+#Cybersecurity #Ransomware #IncidentResponse
 
 ## Optional current-event context
 
-- The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
-- The Fine Art of Frustrating the Adversary
+- ASOS confirms data breach after “HACKED” in-app notifications
 
 ## Before publishing
 
