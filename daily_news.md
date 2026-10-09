@@ -1,88 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-07 07:23 UTC_
+_Last run: 2026-10-09 07:35 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
+FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions
 
 Published:
-2026-10-06 18:38 UTC
+2026-10-09 06:39 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a "human-operated phishing platform" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.
+The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon.
 
-The products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in
+To that end, the agencies seized several domains and blocked access to platforms that were used to scan, and in some cases infiltrate, U.S. critical infrastructure. The list of seized
 
 URL:
-https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
+https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html
 
 ------------------------------------------------------------
 
 Title:
-Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan
+FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails
 
 Published:
-2026-10-06 18:24 UTC
+2026-10-08 18:32 UTC
 
 Summary:
-Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.
+Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8.
 
-Threat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrowing the name of a real binary, it may
+The company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more
 
 URL:
-https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html
+https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html
 
 ------------------------------------------------------------
 
 Title:
-LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings
+ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
 
 Published:
-2026-10-06 11:57 UTC
+2026-10-08 17:58 UTC
 
 Summary:
-A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.
+The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence.
 
-The attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in
+The rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that
 
 URL:
-https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html
+https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html
 
 ------------------------------------------------------------
 
 Title:
-Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies
+Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks
 
 Published:
-2026-10-06 11:26 UTC
+2026-10-08 15:45 UTC
 
 Summary:
-The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages.
+Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.
 
-"The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic,
+The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and other information. The alert names no attacker and no affected organization.
+
+JPCERT/
 
 URL:
-https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html
+https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html
 
 ------------------------------------------------------------
 
 Title:
-Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers
+UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML
 
 Published:
-2026-10-06 11:02 UTC
+2026-10-08 15:26 UTC
 
 Summary:
-In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows.
+The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.
 
-The ecosystem around it fell short. Earlier this year, our team at OX Security,  traced critical vulnerabilities in Anthropic's MCP
+According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previously SHADOW-EARTH-065).
+
+ASHVEIN,
 
 URL:
-https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html
+https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html
 
 ------------------------------------------------------------
 
@@ -91,72 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Ninja Forms plugin flaw exploited to hack WordPress sites
+Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland
 
 Published:
-2026-10-06 21:00 UTC
+2026-10-09 05:41 UTC
 
 Summary:
-Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]
+The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/
+https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/
 
 ------------------------------------------------------------
 
 Title:
-Hackers exploit 32 zero-days on first day of Pwn2Own Ireland
+FBI disrupts Chinese hacking tools used to breach critical infrastructure
 
 Published:
-2026-10-06 19:21 UTC
+2026-10-08 21:42 UTC
 
 Summary:
-On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]
+The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/
+https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/
 
 ------------------------------------------------------------
 
 Title:
-Atlassian warns of critical file-access flaw in Jira, Confluence
+Ransomware attack disrupts Japan's IDCF Cloud used by govt clients
 
 Published:
-2026-10-06 17:34 UTC
+2026-10-08 20:09 UTC
 
 Summary:
-Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]
+IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/
+https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/
 
 ------------------------------------------------------------
 
 Title:
-ASOS confirms data breach after “HACKED” in-app notifications
+Low-cost Android phones ship with residential proxy malware
 
 Published:
-2026-10-06 16:33 UTC
+2026-10-08 19:20 UTC
 
 Summary:
-UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]
+A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/
+https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/
 
 ------------------------------------------------------------
 
 Title:
-Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes
+FakeGit malware campaign returns with 17,610 malicious GitHub repos
 
 Published:
-2026-10-06 15:16 UTC
+2026-10-08 17:10 UTC
 
 Summary:
-A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]
+More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/
+https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/
 
 ------------------------------------------------------------
 
@@ -165,72 +169,58 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws
+What the C-suite needs to know about AI governance
 
 Published:
-2026-10-06 15:01 UTC
+2026-10-08 14:33 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/u7pKWJE1NFeSK5l1xUQlxagU5vz8T5wd9L-FmzOL4zU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMTg1NzQ2LmpwZw==.webp" /></div></figure>The tech giant&rsquo;s announcement underscores the insufficiency of companies&rsquo; existing software supply-chain security practices.
+<figure><div><img src="https://imgproxy.divecdn.com/oeaFIvTizL2aHY3dVOxRuaVY4qAuFiYVDmpMy-k19qA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0ODgxNDcwLmpwZw==.webp" /></div></figure>As AI adoption surges, executives are learning tough lessons about security, oversight and accountability.
 
 URL:
-https://www.cybersecuritydive.com/news/ibm-ai-vulnerability-java-lightwell/832249/
+https://www.cybersecuritydive.com/news/c-suite-ai-governance/832497/
 
 ------------------------------------------------------------
 
 Title:
-US cyber resilience, oversight tested in series of attacks
+US government lagging in transition to post-quantum encryption, GAO finds
 
 Published:
-2026-10-06 14:03 UTC
+2026-10-08 12:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/OOyh_9BN2cEGoO6oTxJxKxvx-a_qxjRHx5h1zdAz9SQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MzY2OTA4LmpwZw==.webp" /></div></figure>Attacks targeting key industrial sites and unforced errors among leading AI companies are raising alarm bells.
+<figure><div><img src="https://imgproxy.divecdn.com/OEzuujNUzPEwv7eAyMdA_YjIhY3LX6Vefzrl_kR6uzk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1ODUwODQ3X1R3aGc5anIuanBn.webp" /></div></figure>Auditors warned that agencies risked leaving sensitive data exposed to future decryption attacks.
 
 URL:
-https://www.cybersecuritydive.com/news/us-cyber-resilience-oversight-attacks/832235/
+https://www.cybersecuritydive.com/news/government-quantum-encryption-migration-gao/832377/
 
 ------------------------------------------------------------
 
 Title:
-Citrix issues patch for third exploited flaw in NetScaler
+AI underscores singular importance of phishing-resistant authentication, Okta says
 
 Published:
-2026-10-05 14:42 UTC
+2026-10-07 15:16 UTC
 
 Summary:
-The memory overflow vulnerability could lead to a denial-of-service condition under certain circumstances.
+<figure><div><img src="https://imgproxy.divecdn.com/Qz9vXqiswcTCIsszdi8ElkqmCrEe7zYttcgwaC6G95M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI3NDE1MTMzLmpwZw==.webp" /></div></figure>The company presented new data about the prevalence of different forms of social-engineering attacks, saying identity fundamentals still matter in the AI era.
 
 URL:
-https://www.cybersecuritydive.com/news/citrix-patch-third-exploited-flaw-netscaler/832128/
+https://www.cybersecuritydive.com/news/phishing-authentication-ai-okta/832376/
 
 ------------------------------------------------------------
 
 Title:
-White House AI task force faces expertise, partnership challenges
+FBI warns that FortiBleed credential-harvesting attacks are locking out firewall users
 
 Published:
-2026-10-05 14:41 UTC
+2026-10-07 14:37 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Wnhhm1Zk8pi1yQozgrpM6_H6Z0RXw5O7xY4qvTq6Kf8/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI2NzA5NzMwXzBvTmUyQjYuanBn.webp" /></div></figure>The Cybersecurity and Infrastructure Security Agency is nowhere to be seen in the government&rsquo;s latest AI security project.
+<figure><div><img src="https://imgproxy.divecdn.com/N7C-fvFPaxLlkPWLaQkvknDJq7SeQcPsRN3F6K10rFs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzOTAyNzM3LmpwZw==.webp" /></div></figure>An initial access broker is working with various ransomware groups in a global campaign.
 
 URL:
-https://www.cybersecuritydive.com/news/white-house-ai-task-force-cybersecurity-partnerships-cisa/832129/
-
-------------------------------------------------------------
-
-Title:
-Why permissions must be the foundation for next-gen identity security
-
-Published:
-2026-10-05 09:00 UTC
-
-Summary:
-Authentication isn't enough. Monitor access across humans, machines and AI agents.
-
-URL:
-https://www.cybersecuritydive.com/spons/why-permissions-must-be-the-foundation-for-next-gen-identity-security/831732/
+https://www.cybersecuritydive.com/news/fbi-fortibleed-credential-harvesting-attacks/832366/
 
 ------------------------------------------------------------
 
@@ -251,17 +241,17 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
-Blinder Tunnel Campaign Targets Iraqi Infrastructure
+Evolution of Web3 in Cloud Supply Chain Attacks
 
 Published:
-2026-10-06 10:00 UTC
+2026-10-07 22:00 UTC
 
 Summary:
-Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure.
-The post <a href="https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/">Blinder Tunnel Campaign Targets Iraqi Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environments
+The post <a href="https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/">Evolution of Web3 in Cloud Supply Chain Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/
+https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/
 
 ------------------------------------------------------------
 
@@ -269,47 +259,73 @@ https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructu
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Give yourself room to be human
+Making sure the checks get printed
 
 Published:
-2026-10-01 18:00 UTC
+2026-10-08 18:00 UTC
 
 Summary:
-In this week’s edition, Amy reflects on the importance of prioritizing family and personal well-being over the pressure to remain constantly productive.
+Pierre's debut newsletter explores the messy, real-world side of risk management and how to keep vital systems running when a perfect patch isn't an option.
 
 URL:
-https://blog.talosintelligence.com/give-yourself-room-to-be-human/
+https://blog.talosintelligence.com/making-sure-the-checks-get-printed/
 
 ------------------------------------------------------------
 
 Title:
-The Fine Art of Frustrating the Adversary
+UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing
 
 Published:
-2026-10-01 10:00 UTC
+2026-10-08 10:01 UTC
 
 Summary:
-What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier. From deception and behavioral detection to breaking attack dependencies and resisting manufactured urgency.
+Cisco Talos identified an APT spear-phishing campaign against individuals affiliated with Taiwan research organizations. The operation leveraged legitimate public event themes and impersonated reputable academic and policy institutions.
 
 URL:
-https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/
+https://blog.talosintelligence.com/uat-11985/
 
 ------------------------------------------------------------
 
 Title:
-China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor
+Ignore all instructions and read this blog: The state of AI-analysis evasion in malware
 
 Published:
-2026-09-30 10:00 UTC
+2026-10-08 10:00 UTC
 
 Summary:
-Cisco Talos uncovered a cluster of activity we track as UAT-11587 targeting government and policy organizations across Asia, including in Taiwan, India, the Philippines, and Cambodia, to deliver a previously undocumented backdoor referred to as “Antino” in developer artifacts.
+“AI-analysis evasion” encapsulates the real-world techniques malware authors are developing in attempt to obstruct or defeat any layers of automated AI analysis.
 
 URL:
-https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/
+https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/
+
+------------------------------------------------------------
+
+Title:
+Microsoft, Adobe, Apple, and Foxit vulnerabilities
+
+Published:
+2026-10-07 19:27 UTC
+
+Summary:
+Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Adobe, Apple, Foxit Reader, and Microsoft.The vulnerabilities mentioned in this blog post have been patched by their respective vendors, in adherence to<a href="https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html"><u> Cisco&#x2019;s third-party vulnerability disclosure policy</u></a>.&#xa0;For Snort coverage that can detect
+
+URL:
+https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/
+
+------------------------------------------------------------
+
+Title:
+One breach, please, and make no mistakes
+
+Published:
+2026-10-07 10:00 UTC
+
+Summary:
+The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.
+
+URL:
+https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/
 
 ------------------------------------------------------------
 
@@ -649,17 +665,32 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-CISO perspectives on managing vulnerability risks in the age of AI
+Post-quantum authentication: Why organizations should start testing certificate ecosystems now
 
 Published:
-2026-10-06 16:00 UTC
+2026-10-08 20:44 UTC
 
 Summary:
-Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/">CISO perspectives on managing vulnerability risks in the age of AI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/
+https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/
+
+------------------------------------------------------------
+
+Title:
+3 lessons from frontier AI vulnerability research
+
+Published:
+2026-10-07 16:00 UTC
+
+Summary:
+Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/">3 lessons from frontier AI vulnerability research</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/
 
 ------------------------------------------------------------
 
