@@ -1,92 +1,61 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-09 07:35 UTC_
+_Last run: 2026-10-12 07:34 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions
+P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
 
 Published:
-2026-10-09 06:39 UTC
+2026-10-11 04:24 UTC
 
 Summary:
-The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon.
+Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.
 
-To that end, the agencies seized several domains and blocked access to platforms that were used to scan, and in some cases infiltrate, U.S. critical infrastructure. The list of seized
+"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure," iVerify said in a new report published Thursday.
+
+The name
 
 URL:
-https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html
+https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
 
 ------------------------------------------------------------
 
 Title:
-FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails
+The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't
 
 Published:
-2026-10-08 18:32 UTC
+2026-10-10 11:00 UTC
 
 Summary:
-Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8.
+In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do.
 
-The company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more
+That gap is the clearest
 
 URL:
-https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html
+https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
+Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
 
 Published:
-2026-10-08 17:58 UTC
+2026-10-10 09:18 UTC
 
 Summary:
-The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence.
+Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.
 
-The rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that
+The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude -
 
-URL:
-https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html
 
-------------------------------------------------------------
-
-Title:
-Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks
-
-Published:
-2026-10-08 15:45 UTC
-
-Summary:
-Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.
-
-The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and other information. The alert names no attacker and no affected organization.
-
-JPCERT/
+  Claude Mythos
 
 URL:
-https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html
-
-------------------------------------------------------------
-
-Title:
-UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML
-
-Published:
-2026-10-08 15:26 UTC
-
-Summary:
-The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.
-
-According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previously SHADOW-EARTH-065).
-
-ASHVEIN,
-
-URL:
-https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html
+https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html
 
 ------------------------------------------------------------
 
@@ -95,78 +64,94 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland
+Nippon Columbia malware incident exposes 8.6 million karaoke fan records
 
 Published:
-2026-10-09 05:41 UTC
+2026-10-11 14:23 UTC
 
 Summary:
-The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]
+Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/
+https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/
 
 ------------------------------------------------------------
 
 Title:
-FBI disrupts Chinese hacking tools used to breach critical infrastructure
+Cyber exec arrested in case allegedly tied to ShinyHunters hackers
 
 Published:
-2026-10-08 21:42 UTC
+2026-10-10 15:07 UTC
 
 Summary:
-The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]
+Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/
+https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/
 
 ------------------------------------------------------------
 
 Title:
-Ransomware attack disrupts Japan's IDCF Cloud used by govt clients
+ARTEX AI, Claude agents used in cyberattacks on South Korean banks
 
 Published:
-2026-10-08 20:09 UTC
+2026-10-10 14:16 UTC
 
 Summary:
-IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]
+The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/
+https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/
 
 ------------------------------------------------------------
 
 Title:
-Low-cost Android phones ship with residential proxy malware
+Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management
 
 Published:
-2026-10-08 19:20 UTC
+2026-10-10 12:30 UTC
 
 Summary:
-A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]
+Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/
-
-------------------------------------------------------------
-
-Title:
-FakeGit malware campaign returns with 17,610 malicious GitHub repos
-
-Published:
-2026-10-08 17:10 UTC
-
-Summary:
-More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/
+https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+FBI seizes domains linked to China-nexus botnet
+
+Published:
+2026-10-09 14:16 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/PMCYMyYD9pmYzFwbmaM9R8yxhklX0hh-p6S_lz3q-FA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfcUlTbTVkZi5qcGc=.webp" /></div></figure>The infrastructure supported an international hacking campaign that targeted critical infrastructure, including a South Carolina-based power company.
+
+URL:
+https://www.cybersecuritydive.com/news/fbi-seizes-domains-china-botnet-flax-typhoon/832611/
+
+------------------------------------------------------------
+
+Title:
+As frontier models go rogue, colleges beef up AI cybersecurity education
+
+Published:
+2026-10-09 12:00 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/CZZCOM9zpm4SuL8FVB6FsybkOxGR-mJoMv5PM0xc90U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkzNTIzMzEyX0p6Q0tZRVYuanBn.webp" /></div></figure>Student interest in AI safety is surging, and schools are rushing to prepare for new career paths.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-cybersecurity-education-university/832132/
+
+------------------------------------------------------------
 
 Title:
 What the C-suite needs to know about AI governance
@@ -179,48 +164,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/c-suite-ai-governance/832497/
-
-------------------------------------------------------------
-
-Title:
-US government lagging in transition to post-quantum encryption, GAO finds
-
-Published:
-2026-10-08 12:00 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/OEzuujNUzPEwv7eAyMdA_YjIhY3LX6Vefzrl_kR6uzk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1ODUwODQ3X1R3aGc5anIuanBn.webp" /></div></figure>Auditors warned that agencies risked leaving sensitive data exposed to future decryption attacks.
-
-URL:
-https://www.cybersecuritydive.com/news/government-quantum-encryption-migration-gao/832377/
-
-------------------------------------------------------------
-
-Title:
-AI underscores singular importance of phishing-resistant authentication, Okta says
-
-Published:
-2026-10-07 15:16 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Qz9vXqiswcTCIsszdi8ElkqmCrEe7zYttcgwaC6G95M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI3NDE1MTMzLmpwZw==.webp" /></div></figure>The company presented new data about the prevalence of different forms of social-engineering attacks, saying identity fundamentals still matter in the AI era.
-
-URL:
-https://www.cybersecuritydive.com/news/phishing-authentication-ai-okta/832376/
-
-------------------------------------------------------------
-
-Title:
-FBI warns that FortiBleed credential-harvesting attacks are locking out firewall users
-
-Published:
-2026-10-07 14:37 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/N7C-fvFPaxLlkPWLaQkvknDJq7SeQcPsRN3F6K10rFs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzOTAyNzM3LmpwZw==.webp" /></div></figure>An initial access broker is working with various ransomware groups in a global campaign.
-
-URL:
-https://www.cybersecuritydive.com/news/fbi-fortibleed-credential-harvesting-attacks/832366/
 
 ------------------------------------------------------------
 
@@ -240,6 +183,8 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Evolution of Web3 in Cloud Supply Chain Attacks
 
@@ -255,9 +200,41 @@ https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/
 
 ------------------------------------------------------------
 
+Title:
+Blinder Tunnel Campaign Targets Iraqi Infrastructure
+
+Published:
+2026-10-06 10:00 UTC
+
+Summary:
+Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure.
+The post <a href="https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/">Blinder Tunnel Campaign Targets Iraqi Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/
+
+------------------------------------------------------------
+
+Title:
+Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)
+
+Published:
+2026-09-30 20:00 UTC
+
+Summary:
+Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. 
+The post <a href="https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/">Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Making sure the checks get printed
@@ -298,34 +275,6 @@ Summary:
 
 URL:
 https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/
-
-------------------------------------------------------------
-
-Title:
-Microsoft, Adobe, Apple, and Foxit vulnerabilities
-
-Published:
-2026-10-07 19:27 UTC
-
-Summary:
-Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Adobe, Apple, Foxit Reader, and Microsoft.The vulnerabilities mentioned in this blog post have been patched by their respective vendors, in adherence to<a href="https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html"><u> Cisco&#x2019;s third-party vulnerability disclosure policy</u></a>.&#xa0;For Snort coverage that can detect
-
-URL:
-https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/
-
-------------------------------------------------------------
-
-Title:
-One breach, please, and make no mistakes
-
-Published:
-2026-10-07 10:00 UTC
-
-Summary:
-The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.
-
-URL:
-https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/
 
 ------------------------------------------------------------
 
@@ -664,6 +613,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Post-quantum authentication: Why organizations should start testing certificate ecosystems now
 
@@ -691,6 +642,21 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/07/3-les
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/
+
+------------------------------------------------------------
+
+Title:
+CISO perspectives on managing vulnerability risks in the age of AI
+
+Published:
+2026-10-06 16:00 UTC
+
+Summary:
+Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/">CISO perspectives on managing vulnerability risks in the age of AI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/
 
 ------------------------------------------------------------
 
