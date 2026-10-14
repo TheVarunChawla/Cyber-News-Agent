@@ -1,61 +1,88 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-12 07:34 UTC_
+_Last run: 2026-10-14 06:20 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
+Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug
 
 Published:
-2026-10-11 04:24 UTC
+2026-10-14 04:34 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.
+Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.
 
-"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure," iVerify said in a new report published Thursday.
-
-The name
+These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code
 
 URL:
-https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
+https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html
 
 ------------------------------------------------------------
 
 Title:
-The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't
+OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room
 
 Published:
-2026-10-10 11:00 UTC
+2026-10-14 01:59 UTC
 
 Summary:
-In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do.
+A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.
 
-That gap is the clearest
+Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by
 
 URL:
-https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html
+https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html
 
 ------------------------------------------------------------
 
 Title:
-Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
+Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
 
 Published:
-2026-10-10 09:18 UTC
+2026-10-13 18:20 UTC
 
 Summary:
-Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.
+Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.
 
-The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude -
-
-
-  Claude Mythos
+The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are "challenging to shut down," since "there's no centralized point to shut off."
 
 URL:
-https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html
+https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html
+
+------------------------------------------------------------
+
+Title:
+Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another
+
+Published:
+2026-10-13 18:03 UTC
+
+Summary:
+A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it.
+
+The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.
+
+URL:
+https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html
+
+------------------------------------------------------------
+
+Title:
+Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far
+
+Published:
+2026-10-13 17:33 UTC
+
+Summary:
+An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to "act immediately." A fix for the third is still pending, according to Volexity.
+
+Volexity, which reported the flaws to Ivanti,
+
+URL:
+https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html
 
 ------------------------------------------------------------
 
@@ -64,58 +91,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Nippon Columbia malware incident exposes 8.6 million karaoke fan records
+OpenAI engineer arrested for allegedly planting spy device in office
 
 Published:
-2026-10-11 14:23 UTC
+2026-10-13 22:33 UTC
 
 Summary:
-Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]
+A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/
 
 ------------------------------------------------------------
 
 Title:
-Cyber exec arrested in case allegedly tied to ShinyHunters hackers
+Ghostscript flaw lets hackers hijack servers via PDF uploads
 
 Published:
-2026-10-10 15:07 UTC
+2026-10-13 21:33 UTC
 
 Summary:
-Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]
+A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/
+https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/
 
 ------------------------------------------------------------
 
 Title:
-ARTEX AI, Claude agents used in cyberattacks on South Korean banks
+Anthropic warns self-replicating AI could spread to your smart devices
 
 Published:
-2026-10-10 14:16 UTC
+2026-10-13 21:16 UTC
 
 Summary:
-The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]
+Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/
+https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/
 
 ------------------------------------------------------------
 
 Title:
-Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management
+Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days
 
 Published:
-2026-10-10 12:30 UTC
+2026-10-13 19:56 UTC
 
 Summary:
-Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]
+Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/
+
+------------------------------------------------------------
+
+Title:
+Microsoft releases Windows 10 KB5126657 extended security update
+
+Published:
+2026-10-13 19:47 UTC
+
+Summary:
+Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/
 
 ------------------------------------------------------------
 
@@ -123,47 +164,73 @@ https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-t
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-FBI seizes domains linked to China-nexus botnet
+Dangerous flaws in refrigeration equipment were disclosed months before retail attacks
 
 Published:
-2026-10-09 14:16 UTC
+2026-10-13 14:59 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/PMCYMyYD9pmYzFwbmaM9R8yxhklX0hh-p6S_lz3q-FA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfcUlTbTVkZi5qcGc=.webp" /></div></figure>The infrastructure supported an international hacking campaign that targeted critical infrastructure, including a South Carolina-based power company.
+<figure><div><img src="https://imgproxy.divecdn.com/Rk_Xgypiql2Xjny0Bp7regFnPdrdYr-mfF4U_Kw8a18/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDE3ODA0MDYyLmpwZw==.webp" /></div></figure> Hundreds of French supermarkets faced a sophisticated hack where industrial controls were manipulated.
 
 URL:
-https://www.cybersecuritydive.com/news/fbi-seizes-domains-china-botnet-flax-typhoon/832611/
+https://www.cybersecuritydive.com/news/refrigeration-france-cyber/832858/
 
 ------------------------------------------------------------
 
 Title:
-As frontier models go rogue, colleges beef up AI cybersecurity education
+Businesses need more integrated risk management to counter cyberattacks, AI-powered fraud
 
 Published:
-2026-10-09 12:00 UTC
+2026-10-13 14:38 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/CZZCOM9zpm4SuL8FVB6FsybkOxGR-mJoMv5PM0xc90U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkzNTIzMzEyX0p6Q0tZRVYuanBn.webp" /></div></figure>Student interest in AI safety is surging, and schools are rushing to prepare for new career paths.
+<figure><div><img src="https://imgproxy.divecdn.com/OeoH-S2dYHv2TVsKdzD36ppqZGY-DZQWt7bCS-OBd1I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTI4NDkwMzA0LmpwZy5qcGVn.webp" /></div></figure>Risks are growing at a time when companies are relying more than ever on vendors for cybersecurity, according to a new report.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-cybersecurity-education-university/832132/
+https://www.cybersecuritydive.com/news/cybersecurity-risk-management-ai-governance-grant-thornton/832850/
 
 ------------------------------------------------------------
 
 Title:
-What the C-suite needs to know about AI governance
+Ahold Delhaize experiencing cybersecurity issue
 
 Published:
-2026-10-08 14:33 UTC
+2026-10-12 20:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/oeaFIvTizL2aHY3dVOxRuaVY4qAuFiYVDmpMy-k19qA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0ODgxNDcwLmpwZw==.webp" /></div></figure>As AI adoption surges, executives are learning tough lessons about security, oversight and accountability.
+<figure><div><img src="https://imgproxy.divecdn.com/cH2dveHum-SWh-dYAZS1_Vy-fY049t9yQaiFkqdnqfk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTAtMTJfMTAzNjU0LnBuZw==.webp" /></div></figure>The company said it took some systems offline as part of &ldquo;precautionary measures.&rdquo; Websites for all five of the grocer&rsquo;s U.S. banners were down Monday morning. 
 
 URL:
-https://www.cybersecuritydive.com/news/c-suite-ai-governance/832497/
+https://www.cybersecuritydive.com/news/ahold-delhaize-adusa-cybersecurity/832750/
+
+------------------------------------------------------------
+
+Title:
+CISA calls on Citrix NetScaler customers to patch as new flaws disclosed
+
+Published:
+2026-10-12 15:27 UTC
+
+Summary:
+A newly discovered critical vulnerability is adding to the workload of customers mitigating other recent flaws.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-citrix-netscaler-customers-patch-new-flaws-disclosed/832741/
+
+------------------------------------------------------------
+
+Title:
+GitLab fixes critical vulnerability that exposed software environments to sabotage
+
+Published:
+2026-10-12 14:55 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/SyMZn5d5iRhOKsV4Y71Vo2Ma1f8ETv7_ozmlyHcp6hE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcyMTIwMzU3LmpwZw==.webp" /></div></figure>The company urged customers to upgrade to the latest versions of its flagship products.
+
+URL:
+https://www.cybersecuritydive.com/news/gitlab-vulnerability-remote-code-execution/832736/
 
 ------------------------------------------------------------
 
@@ -183,50 +250,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Evolution of Web3 in Cloud Supply Chain Attacks
+The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk
 
 Published:
-2026-10-07 22:00 UTC
+2026-10-13 22:00 UTC
 
 Summary:
-Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environments
-The post <a href="https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/">Evolution of Web3 in Cloud Supply Chain Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats.
+The post <a href="https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/">The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/
-
-------------------------------------------------------------
-
-Title:
-Blinder Tunnel Campaign Targets Iraqi Infrastructure
-
-Published:
-2026-10-06 10:00 UTC
-
-Summary:
-Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure.
-The post <a href="https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/">Blinder Tunnel Campaign Targets Iraqi Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/
-
-------------------------------------------------------------
-
-Title:
-Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)
-
-Published:
-2026-09-30 20:00 UTC
-
-Summary:
-Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. 
-The post <a href="https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/">Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
+https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/
 
 ------------------------------------------------------------
 
@@ -234,47 +269,17 @@ https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Making sure the checks get printed
+Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities
 
 Published:
-2026-10-08 18:00 UTC
+2026-10-13 20:37 UTC
 
 Summary:
-Pierre's debut newsletter explores the messy, real-world side of risk management and how to keep vital systems running when a perfect patch isn't an option.
+Blog post covering the vulnerabilities disclosed during Microsoft Patch Tuesday.
 
 URL:
-https://blog.talosintelligence.com/making-sure-the-checks-get-printed/
-
-------------------------------------------------------------
-
-Title:
-UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing
-
-Published:
-2026-10-08 10:01 UTC
-
-Summary:
-Cisco Talos identified an APT spear-phishing campaign against individuals affiliated with Taiwan research organizations. The operation leveraged legitimate public event themes and impersonated reputable academic and policy institutions.
-
-URL:
-https://blog.talosintelligence.com/uat-11985/
-
-------------------------------------------------------------
-
-Title:
-Ignore all instructions and read this blog: The state of AI-analysis evasion in malware
-
-Published:
-2026-10-08 10:00 UTC
-
-Summary:
-“AI-analysis evasion” encapsulates the real-world techniques malware authors are developing in attempt to obstruct or defeat any layers of automated AI analysis.
-
-URL:
-https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/
+https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/
 
 ------------------------------------------------------------
 
