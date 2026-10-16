@@ -1,41 +1,42 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-10-14 06:20 UTC_
+_Generated: 2026-10-16 06:00 UTC_
 
 ## This post's topic
 
-**Encryption in Plain English**
+**Phishing vs Spam: The Difference That Matters**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A message becomes a locked box, crosses the internet, and is opened with the right key at the destination.
+- **Fastest:** a single image using this visual brief: A split-screen graphic: harmless spam on the left, a fake Microsoft 365 sign-in email on the right. Add three red flags with arrows.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Encryption, simply explained
-2. Plaintext
-3. Ciphertext
-4. The role of a key
-5. Where you use encryption every day
-- **Most eye-catching:** a 5–8 second looping GIF: A readable message scrambles into unreadable characters and unlocks only with a matching key.
+1. Phishing vs Spam
+2. What spam usually wants
+3. What phishing wants
+4. Three phishing red flags
+5. What to do when unsure
+- **Most eye-catching:** a 5–8 second looping GIF: An inbox message morphs into a fake login page, then a red stop sign appears before the click.
 
 ## Ready-to-personalize LinkedIn caption
 
-Encryption changes readable information into a form that only the right key can unlock.
+Not every unwanted email is phishing. But every phishing email wants something from you.
 
-It protects data when it is being sent and when it is stored. The key is the secret that lets an authorized person turn ciphertext back into readable information.
+Spam is unwanted bulk email. Phishing is a targeted attempt to trick someone into revealing credentials, approving a payment, opening a malicious file, or giving an attacker access.
 
-What to remember: Encryption protects data, but poor key management can still expose it.
+What to remember: Before you click, pause and check the sender, the request, and the destination link.
 
 Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #Encryption #DataSecurity
+#Cybersecurity #PhishingAwareness #SecurityAwareness
 
 ## Optional current-event context
 
-- Post-quantum authentication: Why organizations should start testing certificate ecosystems now
+- Protecting Cookies with Device Bound Session Credentials
+- The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime
 
 ## Before publishing
 

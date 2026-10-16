@@ -1,88 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-14 06:20 UTC_
+_Last run: 2026-10-16 05:59 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug
+Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
 
 Published:
-2026-10-14 04:34 UTC
+2026-10-15 20:24 UTC
 
 Summary:
-Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.
+A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it.
 
-These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code
+The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared
 
 URL:
-https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html
+https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
 
 ------------------------------------------------------------
 
 Title:
-OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room
+ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More
 
 Published:
-2026-10-14 01:59 UTC
+2026-10-15 18:49 UTC
 
 Summary:
-A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.
+Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories.
 
-Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by
+The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and
 
 URL:
-https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html
+https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html
 
 ------------------------------------------------------------
 
 Title:
-Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
+Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads
 
 Published:
-2026-10-13 18:20 UTC
+2026-10-15 16:01 UTC
 
 Summary:
-Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.
+Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday.
 
-The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are "challenging to shut down," since "there's no centralized point to shut off."
+The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background.
+
+The Citizen
 
 URL:
-https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html
+https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html
 
 ------------------------------------------------------------
 
 Title:
-Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another
+Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks
 
 Published:
-2026-10-13 18:03 UTC
+2026-10-15 16:00 UTC
 
 Summary:
-A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it.
+The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).
 
-The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.
+The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives
 
 URL:
-https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html
+https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html
 
 ------------------------------------------------------------
 
 Title:
-Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far
+Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams
 
 Published:
-2026-10-13 17:33 UTC
+2026-10-15 14:11 UTC
 
 Summary:
-An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to "act immediately." A fix for the third is still pending, according to Volexity.
+A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.
 
-Volexity, which reported the flaws to Ivanti,
+Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting
 
 URL:
-https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html
+https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html
 
 ------------------------------------------------------------
 
@@ -91,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-OpenAI engineer arrested for allegedly planting spy device in office
+Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers
 
 Published:
-2026-10-13 22:33 UTC
+2026-10-15 20:25 UTC
 
 Summary:
-A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]
+Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/
 
 ------------------------------------------------------------
 
 Title:
-Ghostscript flaw lets hackers hijack servers via PDF uploads
+Android gets AI defenses against messaging scams, fake calls
 
 Published:
-2026-10-13 21:33 UTC
+2026-10-15 19:48 UTC
 
 Summary:
-A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]
+Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/
+https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/
 
 ------------------------------------------------------------
 
 Title:
-Anthropic warns self-replicating AI could spread to your smart devices
+Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth
 
 Published:
-2026-10-13 21:16 UTC
+2026-10-15 18:20 UTC
 
 Summary:
-Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]
+A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/
+https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days
+Fake Arch Linux packages push malware with root privileges
 
 Published:
-2026-10-13 19:56 UTC
+2026-10-15 17:12 UTC
 
 Summary:
-Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]
+A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/
+https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft releases Windows 10 KB5126657 extended security update
+Is AI pentesting as good as a human pentester?
 
 Published:
-2026-10-13 19:47 UTC
+2026-10-15 14:01 UTC
 
 Summary:
-Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]
+AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/
+https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/
 
 ------------------------------------------------------------
 
@@ -165,72 +167,72 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Dangerous flaws in refrigeration equipment were disclosed months before retail attacks
+Thousands of refrigerator devices remain exposed following French cyberattack
 
 Published:
-2026-10-13 14:59 UTC
+2026-10-15 15:31 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Rk_Xgypiql2Xjny0Bp7regFnPdrdYr-mfF4U_Kw8a18/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDE3ODA0MDYyLmpwZw==.webp" /></div></figure> Hundreds of French supermarkets faced a sophisticated hack where industrial controls were manipulated.
+<figure><div><img src="https://imgproxy.divecdn.com/Dxp8x9iwh129wuUWHqZGQ2qOjHgb4LaNzYOCxSvuHCg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yS0RHOTFGLmpwZw==.webp" /></div></figure>The investigation points to a much wider risk for industrial systems across the globe.
 
 URL:
-https://www.cybersecuritydive.com/news/refrigeration-france-cyber/832858/
+https://www.cybersecuritydive.com/news/thousands-refrigerator-devices-exposed-french-cyberattack/833117/
 
 ------------------------------------------------------------
 
 Title:
-Businesses need more integrated risk management to counter cyberattacks, AI-powered fraud
+Internet exposure of AI tools, ICS devices continues to grow
 
 Published:
-2026-10-13 14:38 UTC
+2026-10-15 15:11 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/OeoH-S2dYHv2TVsKdzD36ppqZGY-DZQWt7bCS-OBd1I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTI4NDkwMzA0LmpwZy5qcGVn.webp" /></div></figure>Risks are growing at a time when companies are relying more than ever on vendors for cybersecurity, according to a new report.
+<figure><div><img src="https://imgproxy.divecdn.com/3AMHXqqFt_CCtFWVmFuihh3Rr1bYf-lATSwgP4fGYuw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ0NTQ5NTExLmpwZw==.webp" /></div></figure>Vulnerability disclosures and hacking campaigns haven&rsquo;t made much of a dent in the amount of important infrastructure left online, a new report found.
 
 URL:
-https://www.cybersecuritydive.com/news/cybersecurity-risk-management-ai-governance-grant-thornton/832850/
+https://www.cybersecuritydive.com/news/ai-industrial-control-systems-internet-exposed-censys/833112/
 
 ------------------------------------------------------------
 
 Title:
-Ahold Delhaize experiencing cybersecurity issue
+Hacker targets Ivanti Connect Secure in chained exploitation
 
 Published:
-2026-10-12 20:00 UTC
+2026-10-14 15:13 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/cH2dveHum-SWh-dYAZS1_Vy-fY049t9yQaiFkqdnqfk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTAtMTJfMTAzNjU0LnBuZw==.webp" /></div></figure>The company said it took some systems offline as part of &ldquo;precautionary measures.&rdquo; Websites for all five of the grocer&rsquo;s U.S. banners were down Monday morning. 
+Researchers warn the attacker is taking multiple steps to clean up forensic evidence after an attack. 
 
 URL:
-https://www.cybersecuritydive.com/news/ahold-delhaize-adusa-cybersecurity/832750/
+https://www.cybersecuritydive.com/news/hacker-ivanti-connect-secure-chained-exploitation/832983/
 
 ------------------------------------------------------------
 
 Title:
-CISA calls on Citrix NetScaler customers to patch as new flaws disclosed
+Ahold Delhaize USA banners remain offline
 
 Published:
-2026-10-12 15:27 UTC
+2026-10-14 15:00 UTC
 
 Summary:
-A newly discovered critical vulnerability is adding to the workload of customers mitigating other recent flaws.
+The websites and apps for the five chains have been down for several days as the parent company contends with a cybersecurity incident.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-citrix-netscaler-customers-patch-new-flaws-disclosed/832741/
+https://www.cybersecuritydive.com/news/ahold-delhaize-usa-sites-still-down/832972/
 
 ------------------------------------------------------------
 
 Title:
-GitLab fixes critical vulnerability that exposed software environments to sabotage
+Feds crack down on North Korean IT-worker schemes with new raids, charges and arrests
 
 Published:
-2026-10-12 14:55 UTC
+2026-10-14 14:46 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/SyMZn5d5iRhOKsV4Y71Vo2Ma1f8ETv7_ozmlyHcp6hE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcyMTIwMzU3LmpwZw==.webp" /></div></figure>The company urged customers to upgrade to the latest versions of its flagship products.
+<figure><div><img src="https://imgproxy.divecdn.com/Mgh0nEo8_eN3htmKTe5VGD3Hluzww5qagpoj3yWIJXE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTUyNjU5NTIuanBn.webp" /></div></figure>The latest operation targeted &ldquo;laptop farms&rdquo; across Texas that allegedly aided North Korea&rsquo;s moneymaking plots.
 
 URL:
-https://www.cybersecuritydive.com/news/gitlab-vulnerability-remote-code-execution/832736/
+https://www.cybersecuritydive.com/news/north-korea-it-worker-raids-arrests-charges/832968/
 
 ------------------------------------------------------------
 
@@ -251,17 +253,32 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
-The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk
+AI-Powered Espionage Campaign Targets Government Linux Infrastructure
 
 Published:
-2026-10-13 22:00 UTC
+2026-10-15 22:00 UTC
 
 Summary:
-Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats.
-The post <a href="https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/">The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft.
+The post <a href="https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/">AI-Powered Espionage Campaign Targets Government Linux Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/
+https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/
+
+------------------------------------------------------------
+
+Title:
+Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant
+
+Published:
+2026-10-14 22:00 UTC
+
+Summary:
+We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware.
+The post <a href="https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/">Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/
 
 ------------------------------------------------------------
 
@@ -270,16 +287,30 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities
+The Q3 Vulnerability Pulse: Discovery ≠ Exploitation
 
 Published:
-2026-10-13 20:37 UTC
+2026-10-15 18:00 UTC
 
 Summary:
-Blog post covering the vulnerabilities disclosed during Microsoft Patch Tuesday.
+Is the cybersecurity world really facing a "Bugmageddon?" Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.
 
 URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/
+https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/
+
+------------------------------------------------------------
+
+Title:
+Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations
+
+Published:
+2026-10-14 14:00 UTC
+
+Summary:
+Talos and Recorded Future identified UAT-6275 activity targeting government organizations across the Commonwealth of Independent States. Recovered artifacts show additional interest in water resources and energy.
+
+URL:
+https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/
 
 ------------------------------------------------------------
 
@@ -618,50 +649,18 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Post-quantum authentication: Why organizations should start testing certificate ecosystems now
+The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime
 
 Published:
-2026-10-08 20:44 UTC
+2026-10-14 13:00 UTC
 
 Summary:
-Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/
-
-------------------------------------------------------------
-
-Title:
-3 lessons from frontier AI vulnerability research
-
-Published:
-2026-10-07 16:00 UTC
-
-Summary:
-Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/">3 lessons from frontier AI vulnerability research</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/
-
-------------------------------------------------------------
-
-Title:
-CISO perspectives on managing vulnerability risks in the age of AI
-
-Published:
-2026-10-06 16:00 UTC
-
-Summary:
-Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/">CISO perspectives on managing vulnerability risks in the age of AI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/
+https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/
 
 ------------------------------------------------------------
 
