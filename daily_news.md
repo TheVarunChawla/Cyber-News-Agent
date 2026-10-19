@@ -1,90 +1,44 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-16 05:59 UTC_
+_Last run: 2026-10-19 06:23 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
+ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
 
 Published:
-2026-10-15 20:24 UTC
+2026-10-18 08:23 UTC
 
 Summary:
-A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it.
+ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.
 
-The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared
+The disabled identities are listed below -
+
+
+  ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae
+  ConnectWise
 
 URL:
-https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
+https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More
+MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
 
 Published:
-2026-10-15 18:49 UTC
+2026-10-17 11:11 UTC
 
 Summary:
-Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories.
+Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.
 
-The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and
-
-URL:
-https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html
-
-------------------------------------------------------------
-
-Title:
-Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads
-
-Published:
-2026-10-15 16:01 UTC
-
-Summary:
-Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday.
-
-The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background.
-
-The Citizen
+The package, named "imgdecode," was uploaded to the package registry on September 30, 2026, by a user named "malfexteste8." It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of
 
 URL:
-https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html
-
-------------------------------------------------------------
-
-Title:
-Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks
-
-Published:
-2026-10-15 16:00 UTC
-
-Summary:
-The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).
-
-The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives
-
-URL:
-https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html
-
-------------------------------------------------------------
-
-Title:
-Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams
-
-Published:
-2026-10-15 14:11 UTC
-
-Summary:
-A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.
-
-Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting
-
-URL:
-https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html
+https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
 
 ------------------------------------------------------------
 
@@ -93,78 +47,80 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers
+Hackers exploit SiteGuard WAF flaw to run commands as admins
 
 Published:
-2026-10-15 20:25 UTC
+2026-10-18 14:23 UTC
 
 Summary:
-Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]
+Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/
 
 ------------------------------------------------------------
 
 Title:
-Android gets AI defenses against messaging scams, fake calls
+Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack
 
 Published:
-2026-10-15 19:48 UTC
+2026-10-17 15:18 UTC
 
 Summary:
-Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]
+ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/
+https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/
 
 ------------------------------------------------------------
 
 Title:
-Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth
+Drupal patches critical RCE flaws, warns exploits may emerge soon
 
 Published:
-2026-10-15 18:20 UTC
+2026-10-17 14:32 UTC
 
 Summary:
-A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]
+Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/
-
-------------------------------------------------------------
-
-Title:
-Fake Arch Linux packages push malware with root privileges
-
-Published:
-2026-10-15 17:12 UTC
-
-Summary:
-A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/
-
-------------------------------------------------------------
-
-Title:
-Is AI pentesting as good as a human pentester?
-
-Published:
-2026-10-15 14:01 UTC
-
-Summary:
-AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/
+https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+China-nexus espionage actor targets BeyondTrust support tool in zero-day campaign
+
+Published:
+2026-10-16 15:01 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/GqqGmIsEb4IBw8DkkxFRTM0OylIPTmcJBl_foo9cr8w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgwMjkzMDE0LmpwZw==.webp" /></div></figure>Researchers say the hacker is harvesting credentials and stealing sensitive information.
+
+URL:
+https://www.cybersecuritydive.com/news/china-espionage-beyondtrust-zero-day-hacker/833240/
+
+------------------------------------------------------------
+
+Title:
+Open-source security rests on understanding risks, scaling fixes
+
+Published:
+2026-10-16 14:34 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/g6NeJvaCIVGakoybmbC5sI-co1LoND5o9d40mhnuJJc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMDI5MTIuanBn.webp" /></div></figure>Developers should coordinate security work to make the most of their interconnected ecosystem, IBM said in a new report.
+
+URL:
+https://www.cybersecuritydive.com/news/open-source-software-vulnerabilities-analysis-scaling-ibm/833230/
+
+------------------------------------------------------------
 
 Title:
 Thousands of refrigerator devices remain exposed following French cyberattack
@@ -177,62 +133,6 @@ Summary:
 
 URL:
 https://www.cybersecuritydive.com/news/thousands-refrigerator-devices-exposed-french-cyberattack/833117/
-
-------------------------------------------------------------
-
-Title:
-Internet exposure of AI tools, ICS devices continues to grow
-
-Published:
-2026-10-15 15:11 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/3AMHXqqFt_CCtFWVmFuihh3Rr1bYf-lATSwgP4fGYuw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ0NTQ5NTExLmpwZw==.webp" /></div></figure>Vulnerability disclosures and hacking campaigns haven&rsquo;t made much of a dent in the amount of important infrastructure left online, a new report found.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-industrial-control-systems-internet-exposed-censys/833112/
-
-------------------------------------------------------------
-
-Title:
-Hacker targets Ivanti Connect Secure in chained exploitation
-
-Published:
-2026-10-14 15:13 UTC
-
-Summary:
-Researchers warn the attacker is taking multiple steps to clean up forensic evidence after an attack. 
-
-URL:
-https://www.cybersecuritydive.com/news/hacker-ivanti-connect-secure-chained-exploitation/832983/
-
-------------------------------------------------------------
-
-Title:
-Ahold Delhaize USA banners remain offline
-
-Published:
-2026-10-14 15:00 UTC
-
-Summary:
-The websites and apps for the five chains have been down for several days as the parent company contends with a cybersecurity incident.
-
-URL:
-https://www.cybersecuritydive.com/news/ahold-delhaize-usa-sites-still-down/832972/
-
-------------------------------------------------------------
-
-Title:
-Feds crack down on North Korean IT-worker schemes with new raids, charges and arrests
-
-Published:
-2026-10-14 14:46 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Mgh0nEo8_eN3htmKTe5VGD3Hluzww5qagpoj3yWIJXE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTUyNjU5NTIuanBn.webp" /></div></figure>The latest operation targeted &ldquo;laptop farms&rdquo; across Texas that allegedly aided North Korea&rsquo;s moneymaking plots.
-
-URL:
-https://www.cybersecuritydive.com/news/north-korea-it-worker-raids-arrests-charges/832968/
 
 ------------------------------------------------------------
 
@@ -251,6 +151,23 @@ SOURCE : CISA
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026
+
+Published:
+2026-10-16 17:47 UTC
+
+Summary:
+Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing
+The post <a href="https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/">Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/
+
+------------------------------------------------------------
 
 Title:
 AI-Powered Espionage Campaign Targets Government Linux Infrastructure
@@ -286,6 +203,8 @@ https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malwa
 SOURCE : Cisco Talos
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 The Q3 Vulnerability Pulse: Discovery ≠ Exploitation
 
@@ -311,6 +230,20 @@ Talos and Recorded Future identified UAT-6275 activity targeting government orga
 
 URL:
 https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/
+
+------------------------------------------------------------
+
+Title:
+Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities
+
+Published:
+2026-10-13 20:37 UTC
+
+Summary:
+Microsoft has released its monthly security update for October 2026, which includes 1415 vulnerabilities affecting a range of products, including 85 that Microsoft marked as "critical."
+
+URL:
+https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/
 
 ------------------------------------------------------------
 
@@ -649,6 +582,23 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
+Title:
+Managing open-weight model risk in enterprise deployments
+
+Published:
+2026-10-16 16:00 UTC
+
+Summary:
+New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/
+
+------------------------------------------------------------
+
 Title:
 The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime
 
@@ -661,6 +611,21 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/14/the-h
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/
+
+------------------------------------------------------------
+
+Title:
+Post-quantum authentication: Why organizations should start testing certificate ecosystems now
+
+Published:
+2026-10-08 20:44 UTC
+
+Summary:
+Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/
 
 ------------------------------------------------------------
 
