@@ -1,42 +1,42 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-10-19 06:23 UTC_
+_Generated: 2026-10-21 06:10 UTC_
 
 ## This post's topic
 
-**Phishing vs Spam: The Difference That Matters**
+**What a VPN Actually Does**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A split-screen graphic: harmless spam on the left, a fake Microsoft 365 sign-in email on the right. Add three red flags with arrows.
+- **Fastest:** a single image using this visual brief: Laptop to public Wi-Fi to a protected tunnel to VPN server to website; show the exposed and encrypted portions clearly.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Phishing vs Spam
-2. What spam usually wants
-3. What phishing wants
-4. Three phishing red flags
-5. What to do when unsure
-- **Most eye-catching:** a 5–8 second looping GIF: An inbox message morphs into a fake login page, then a red stop sign appears before the click.
+1. What a VPN does
+2. The risky public Wi-Fi path
+3. The encrypted tunnel
+4. What a VPN cannot do
+5. Use it wisely
+- **Most eye-catching:** a 5–8 second looping GIF: Data packets travel openly, enter a coloured tunnel, and emerge safely at the other end.
 
 ## Ready-to-personalize LinkedIn caption
 
-Not every unwanted email is phishing. But every phishing email wants something from you.
+A VPN is not a magic invisibility cloak. It is an encrypted tunnel.
 
-Spam is unwanted bulk email. Phishing is a targeted attempt to trick someone into revealing credentials, approving a payment, opening a malicious file, or giving an attacker access.
+A VPN encrypts traffic between your device and the VPN server, especially useful on untrusted networks. It does not make unsafe downloads safe or stop every website from identifying you.
 
-What to remember: Before you click, pause and check the sender, the request, and the destination link.
+What to remember: Think of a VPN as one security control in a larger toolkit—not a replacement for good browsing habits.
 
 Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #PhishingAwareness #SecurityAwareness
+#Cybersecurity #VPN #NetworkSecurity
 
 ## Optional current-event context
 
-- Protecting Cookies with Device Bound Session Credentials
-- The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime
+- Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA
+- Ransomware groups expand targeting of Palo Alto Networks vulnerability
 
 ## Before publishing
 

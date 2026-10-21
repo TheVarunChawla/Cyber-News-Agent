@@ -1,44 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-19 06:23 UTC_
+_Last run: 2026-10-21 06:10 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
+PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert
 
 Published:
-2026-10-18 08:23 UTC
+2026-10-21 04:57 UTC
 
 Summary:
-ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.
+PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.
 
-The disabled identities are listed below -
-
-
-  ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae
-  ConnectWise
+Security researchers at watchTowr say the two flaws allow remote code execution. Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.
 
 URL:
-https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
+https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html
 
 ------------------------------------------------------------
 
 Title:
-MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
+Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software
 
 Published:
-2026-10-17 11:11 UTC
+2026-10-20 17:09 UTC
 
 Summary:
-Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.
+The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20.
 
-The package, named "imgdecode," was uploaded to the package registry on September 30, 2026, by a user named "malfexteste8." It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of
+An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept.
+
+A researcher reported the
 
 URL:
-https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
+https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
+
+------------------------------------------------------------
+
+Title:
+Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution
+
+Published:
+2026-10-20 15:38 UTC
+
+Summary:
+Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.
+
+The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially
+
+URL:
+https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html
+
+------------------------------------------------------------
+
+Title:
+Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA
+
+Published:
+2026-10-20 15:32 UTC
+
+Summary:
+Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting  PAN-OS and Prisma Access by ransomware actors.
+
+The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was
+
+URL:
+https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html
+
+------------------------------------------------------------
+
+Title:
+Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites
+
+Published:
+2026-10-20 14:07 UTC
+
+Summary:
+A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet.
+
+The agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company
+
+URL:
+https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html
 
 ------------------------------------------------------------
 
@@ -47,44 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers exploit SiteGuard WAF flaw to run commands as admins
+Stolen UpdraftCentral keys used to backdoor WordPress sites
 
 Published:
-2026-10-18 14:23 UTC
+2026-10-21 01:01 UTC
 
 Summary:
-Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]
+A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/
+https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/
 
 ------------------------------------------------------------
 
 Title:
-Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack
+Mozilla, Google, Apple block compromised eMudhra CA certificates
 
 Published:
-2026-10-17 15:18 UTC
+2026-10-21 00:46 UTC
 
 Summary:
-ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]
+Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/
+https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/
 
 ------------------------------------------------------------
 
 Title:
-Drupal patches critical RCE flaws, warns exploits may emerge soon
+PHP warns admins of two critical flaws, emergency patches coming tomorrow
 
 Published:
-2026-10-17 14:32 UTC
+2026-10-20 20:56 UTC
 
 Summary:
-Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]
+The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/
+https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/
+
+------------------------------------------------------------
+
+Title:
+Zeabur shutting down after second security breach in two months
+
+Published:
+2026-10-20 19:33 UTC
+
+Summary:
+Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/
+
+------------------------------------------------------------
+
+Title:
+OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code
+
+Published:
+2026-10-20 18:11 UTC
+
+Summary:
+OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/
 
 ------------------------------------------------------------
 
@@ -92,47 +166,73 @@ https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-China-nexus espionage actor targets BeyondTrust support tool in zero-day campaign
+Ransomware groups expand targeting of Palo Alto Networks vulnerability
 
 Published:
-2026-10-16 15:01 UTC
+2026-10-20 15:04 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/GqqGmIsEb4IBw8DkkxFRTM0OylIPTmcJBl_foo9cr8w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgwMjkzMDE0LmpwZw==.webp" /></div></figure>Researchers say the hacker is harvesting credentials and stealing sensitive information.
+<figure><div><img src="https://imgproxy.divecdn.com/oMiO7cn-S7dKO_1oOhCqov0YSQtLd6TD9e5Z4ggXOvw/g:nowe:8:185/c:4023:2273/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjIxOS5KUEc=.webp" /></div></figure>Multiple threat actors have exploited a high-severity flaw in the company&rsquo;s GlobalProtect portal.
 
 URL:
-https://www.cybersecuritydive.com/news/china-espionage-beyondtrust-zero-day-hacker/833240/
+https://www.cybersecuritydive.com/news/ransomware-targeting-palo-alto-networks-vulnerability/833474/
 
 ------------------------------------------------------------
 
 Title:
-Open-source security rests on understanding risks, scaling fixes
+AI security hiring focuses on red-teaming, SOC orchestration and governance
 
 Published:
-2026-10-16 14:34 UTC
+2026-10-20 14:32 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/g6NeJvaCIVGakoybmbC5sI-co1LoND5o9d40mhnuJJc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMDI5MTIuanBn.webp" /></div></figure>Developers should coordinate security work to make the most of their interconnected ecosystem, IBM said in a new report.
+<figure><div><img src="https://imgproxy.divecdn.com/e_jvejxS3BlFpo0sUvRl-NRfhSYF6Y-II-ICl0xrgII/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg4ODc0MjM4LmpwZw==.webp" /></div></figure>Roles mitigating AI deepfakes and overseeing post-quantum encryption rollouts are on the horizon, according to a new report.
 
 URL:
-https://www.cybersecuritydive.com/news/open-source-software-vulnerabilities-analysis-scaling-ibm/833230/
+https://www.cybersecuritydive.com/news/ai-security-jobs-hiring-sans-tracker/833465/
 
 ------------------------------------------------------------
 
 Title:
-Thousands of refrigerator devices remain exposed following French cyberattack
+Boards confident on cybersecurity, AI oversight, but tech changes outpace readiness
 
 Published:
-2026-10-15 15:31 UTC
+2026-10-19 14:39 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Dxp8x9iwh129wuUWHqZGQ2qOjHgb4LaNzYOCxSvuHCg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yS0RHOTFGLmpwZw==.webp" /></div></figure>The investigation points to a much wider risk for industrial systems across the globe.
+<figure><div><img src="https://imgproxy.divecdn.com/4bE43xSZoaVhRLouPyeEyKfdVe6JHcZb-UrW3llNIZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ib2FyZC5qcGc=.webp" /></div></figure>Nearly half of corporate directors think board members need cybersecurity expertise, a new survey found.
 
 URL:
-https://www.cybersecuritydive.com/news/thousands-refrigerator-devices-exposed-french-cyberattack/833117/
+https://www.cybersecuritydive.com/news/corporate-boards-cybersecurity-ai-oversight-bdo/833350/
+
+------------------------------------------------------------
+
+Title:
+ConnectWise suspends Cloud Backup service as hacker targets Microsoft 365 users
+
+Published:
+2026-10-19 14:33 UTC
+
+Summary:
+Managed service providers said an attacker used compromised credentials to gain access to tenants.
+
+URL:
+https://www.cybersecuritydive.com/news/connecwise-suspends-cloud-backup-hacker-microsoft-365/833345/
+
+------------------------------------------------------------
+
+Title:
+Hybrid mesh firewalls: Distributed security enforcement for a self-driving network
+
+Published:
+2026-10-19 09:00 UTC
+
+Summary:
+Can traditional firewalls keep up with today's distributed enterprise? Discover how hybrid mesh firewalls close security gaps without slowing networks.
+
+URL:
+https://www.cybersecuritydive.com/spons/hybrid-mesh-firewalls-distributed-security-enforcement-for-a-self-driving/832929/
 
 ------------------------------------------------------------
 
@@ -152,50 +252,18 @@ SOURCE : CISA
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026
+Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)
 
 Published:
-2026-10-16 17:47 UTC
+2026-10-20 20:30 UTC
 
 Summary:
-Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing
-The post <a href="https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/">Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257.
+The post <a href="https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/">Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/
-
-------------------------------------------------------------
-
-Title:
-AI-Powered Espionage Campaign Targets Government Linux Infrastructure
-
-Published:
-2026-10-15 22:00 UTC
-
-Summary:
-Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft.
-The post <a href="https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/">AI-Powered Espionage Campaign Targets Government Linux Infrastructure</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/
-
-------------------------------------------------------------
-
-Title:
-Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant
-
-Published:
-2026-10-14 22:00 UTC
-
-Summary:
-We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware.
-The post <a href="https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/">Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/
+https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
 
 ------------------------------------------------------------
 
@@ -203,47 +271,17 @@ https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malwa
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-The Q3 Vulnerability Pulse: Discovery ≠ Exploitation
+There's only so much code: the rise in vulnerability numbers
 
 Published:
-2026-10-15 18:00 UTC
+2026-10-20 15:31 UTC
 
 Summary:
-Is the cybersecurity world really facing a "Bugmageddon?" Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.
+The September Microsoft Patch Tuesday release included 975 vulnerability advisories. This month, 1,415 vulnerabilities were just dropped. Compared to a pre-June average of 100 a month, that increase is staggering. Where did they come from? And what does the future look like?
 
 URL:
-https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/
-
-------------------------------------------------------------
-
-Title:
-Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations
-
-Published:
-2026-10-14 14:00 UTC
-
-Summary:
-Talos and Recorded Future identified UAT-6275 activity targeting government organizations across the Commonwealth of Independent States. Recovered artifacts show additional interest in water resources and energy.
-
-URL:
-https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/
-
-------------------------------------------------------------
-
-Title:
-Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities
-
-Published:
-2026-10-13 20:37 UTC
-
-Summary:
-Microsoft has released its monthly security update for October 2026, which includes 1415 vulnerabilities affecting a range of products, including 85 that Microsoft marked as "critical."
-
-URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/
+https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/
 
 ------------------------------------------------------------
 
@@ -582,50 +620,18 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Managing open-weight model risk in enterprise deployments
+Agents are your newest insiders. Security must move at their speed.
 
 Published:
-2026-10-16 16:00 UTC
+2026-10-19 13:00 UTC
 
 Summary:
-New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/">Agents are your newest insiders. Security must move at their speed. </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/
-
-------------------------------------------------------------
-
-Title:
-The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime
-
-Published:
-2026-10-14 13:00 UTC
-
-Summary:
-Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/
-
-------------------------------------------------------------
-
-Title:
-Post-quantum authentication: Why organizations should start testing certificate ecosystems now
-
-Published:
-2026-10-08 20:44 UTC
-
-Summary:
-Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/
+https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/
 
 ------------------------------------------------------------
 
