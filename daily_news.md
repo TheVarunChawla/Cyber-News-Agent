@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-21 06:10 UTC_
+_Last run: 2026-10-23 06:09 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert
+Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks
 
 Published:
-2026-10-21 04:57 UTC
+2026-10-22 19:05 UTC
 
 Summary:
-PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.
+Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22.
 
-Security researchers at watchTowr say the two flaws allow remote code execution. Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.
+The flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator privileges, the top level of control over it.
+
+For
 
 URL:
-https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html
+https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html
 
 ------------------------------------------------------------
 
 Title:
-Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software
+eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable
 
 Published:
-2026-10-20 17:09 UTC
+2026-10-22 18:12 UTC
 
 Summary:
-The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20.
+eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate CA certificates.
 
-An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept.
-
-A researcher reported the
+eMudhra said it will replace affected customers' certificates with free ones from partners, though its
 
 URL:
-https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
+https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html
 
 ------------------------------------------------------------
 
 Title:
-Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution
+ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More
 
 Published:
-2026-10-20 15:38 UTC
+2026-10-22 17:45 UTC
 
 Summary:
-Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.
+This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet.
 
-The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially
+But those big headlines are only half the story. Stolen passwords, exposed
 
 URL:
-https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html
+https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html
 
 ------------------------------------------------------------
 
 Title:
-Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA
+Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes
 
 Published:
-2026-10-20 15:32 UTC
+2026-10-22 17:01 UTC
 
 Summary:
-Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting  PAN-OS and Prisma Access by ransomware actors.
+Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.
 
-The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was
+One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network
 
 URL:
-https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html
+https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html
 
 ------------------------------------------------------------
 
 Title:
-Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites
+Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations
 
 Published:
-2026-10-20 14:07 UTC
+2026-10-22 16:12 UTC
 
 Summary:
-A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet.
+Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.
 
-The agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company
+According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called
 
 URL:
-https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html
+https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html
 
 ------------------------------------------------------------
 
@@ -93,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Stolen UpdraftCentral keys used to backdoor WordPress sites
+Railway warns devs to rotate secrets after potential breach
 
 Published:
-2026-10-21 01:01 UTC
+2026-10-22 21:25 UTC
 
 Summary:
-A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]
+Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/
+https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/
 
 ------------------------------------------------------------
 
 Title:
-Mozilla, Google, Apple block compromised eMudhra CA certificates
+Capcom confirms data breach affecting 11.7 million accounts
 
 Published:
-2026-10-21 00:46 UTC
+2026-10-22 20:22 UTC
 
 Summary:
-Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]
+Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/
+https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/
 
 ------------------------------------------------------------
 
 Title:
-PHP warns admins of two critical flaws, emergency patches coming tomorrow
+LiteLLM release pipeline hacked to distribute info-stealer malware
 
 Published:
-2026-10-20 20:56 UTC
+2026-10-22 19:12 UTC
 
 Summary:
-The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]
+Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/
+https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/
 
 ------------------------------------------------------------
 
 Title:
-Zeabur shutting down after second security breach in two months
+Arista patches new VeloCloud Orchestrator zero-day exploited in attacks
 
 Published:
-2026-10-20 19:33 UTC
+2026-10-22 17:18 UTC
 
 Summary:
-Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]
+Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/
+https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code
+Microsoft shares how to fix broken Exchange Online EWS apps
 
 Published:
-2026-10-20 18:11 UTC
+2026-10-22 15:49 UTC
 
 Summary:
-OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]
+Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/
 
 ------------------------------------------------------------
 
@@ -167,72 +167,72 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Ransomware groups expand targeting of Palo Alto Networks vulnerability
+China-nexus actor linked to attack on ConnectWise Cloud Backup
 
 Published:
-2026-10-20 15:04 UTC
+2026-10-22 15:11 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/oMiO7cn-S7dKO_1oOhCqov0YSQtLd6TD9e5Z4ggXOvw/g:nowe:8:185/c:4023:2273/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjIxOS5KUEc=.webp" /></div></figure>Multiple threat actors have exploited a high-severity flaw in the company&rsquo;s GlobalProtect portal.
+<figure><div><img src="https://imgproxy.divecdn.com/PkrJytfL2SLlrpP2hN3SE4wEmKqZSvX0Q-tw6XdQ0Eg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzNzc2NzkyLmpwZw==.webp" /></div></figure>Researchers said the hackers employed a powerful AI tool to accelerate and scale the attacks against hundreds of Microsoft 365 users.
 
 URL:
-https://www.cybersecuritydive.com/news/ransomware-targeting-palo-alto-networks-vulnerability/833474/
+https://www.cybersecuritydive.com/news/china-nexus-actor-attack-connectwise-cloud-backup/833727/
 
 ------------------------------------------------------------
 
 Title:
-AI security hiring focuses on red-teaming, SOC orchestration and governance
+Agentic AI helps hackers level up, even without detailed instructions
 
 Published:
-2026-10-20 14:32 UTC
+2026-10-22 14:35 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/e_jvejxS3BlFpo0sUvRl-NRfhSYF6Y-II-ICl0xrgII/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg4ODc0MjM4LmpwZw==.webp" /></div></figure>Roles mitigating AI deepfakes and overseeing post-quantum encryption rollouts are on the horizon, according to a new report.
+<figure><div><img src="https://imgproxy.divecdn.com/O3l_kgFFloXc_KXt7ZbLrsseB_Lqr2BsEBGEMARwk2g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzOTU5MTc3LmpwZw==.webp" /></div></figure>Low-skilled hackers are likely to become a lot more dangerous over the next 12 months, CrowdStrike warned.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-security-jobs-hiring-sans-tracker/833465/
+https://www.cybersecuritydive.com/news/agentic-ai-cyberattacks-harnesses-crowdstrike/833714/
 
 ------------------------------------------------------------
 
 Title:
-Boards confident on cybersecurity, AI oversight, but tech changes outpace readiness
+Weak encryption certificates could have let hackers easily spoof websites
 
 Published:
-2026-10-19 14:39 UTC
+2026-10-21 17:40 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/4bE43xSZoaVhRLouPyeEyKfdVe6JHcZb-UrW3llNIZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ib2FyZC5qcGc=.webp" /></div></figure>Nearly half of corporate directors think board members need cybersecurity expertise, a new survey found.
+<figure><div><img src="https://imgproxy.divecdn.com/EtpiLUdaLumxbuI6TWrFsO9E1R0Yw4-m2dJbW2HiJHg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgyMjI2NDUxLmpwZw==.webp" /></div></figure>Major web browsers blocked the eMudhra TLS certificates to prevent them from being weaponized.
 
 URL:
-https://www.cybersecuritydive.com/news/corporate-boards-cybersecurity-ai-oversight-bdo/833350/
+https://www.cybersecuritydive.com/news/website-encryption-security-certificates-emudhra-incident/833622/
 
 ------------------------------------------------------------
 
 Title:
-ConnectWise suspends Cloud Backup service as hacker targets Microsoft 365 users
+FBI, CISA warn that SafePay ransomware poses threat to critical infrastructure
 
 Published:
-2026-10-19 14:33 UTC
+2026-10-21 14:25 UTC
 
 Summary:
-Managed service providers said an attacker used compromised credentials to gain access to tenants.
+The group has been linked to a 2025 attack targeting technology firm Ingram Micro.
 
 URL:
-https://www.cybersecuritydive.com/news/connecwise-suspends-cloud-backup-hacker-microsoft-365/833345/
+https://www.cybersecuritydive.com/news/fbi-cisa-warn-safepay-ransomware-threat-critical-infrastructure/833589/
 
 ------------------------------------------------------------
 
 Title:
-Hybrid mesh firewalls: Distributed security enforcement for a self-driving network
+Critical PHP vulnerabilities expose most websites to potential compromise
 
 Published:
-2026-10-19 09:00 UTC
+2026-10-21 14:12 UTC
 
 Summary:
-Can traditional firewalls keep up with today's distributed enterprise? Discover how hybrid mesh firewalls close security gaps without slowing networks.
+<figure><div><img src="https://imgproxy.divecdn.com/KmG836Ndaa1QdRXrRxEt4LCLg8Q_ePMIqJNJJEDtmwg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzMDY3Mjk2XzIuanBn.webp" /></div></figure>Government agencies urged organizations to take their sites offline until they could be fixed.
 
 URL:
-https://www.cybersecuritydive.com/spons/hybrid-mesh-firewalls-distributed-security-enforcement-for-a-self-driving/832929/
+https://www.cybersecuritydive.com/news/php-website-vulnerabilities/833580/
 
 ------------------------------------------------------------
 
@@ -253,17 +253,62 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
-Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)
+EMudhra Intermediate CA Certificates Compromised
 
 Published:
-2026-10-20 20:30 UTC
+2026-10-22 17:15 UTC
 
 Summary:
-Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257.
-The post <a href="https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/">Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception. Read our analysis and containment guide.
+The post <a href="https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/">EMudhra Intermediate CA Certificates Compromised</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
+https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/
+
+------------------------------------------------------------
+
+Title:
+The Current Landscape of OAuth Attacks
+
+Published:
+2026-10-22 17:00 UTC
+
+Summary:
+Unit 42 explores modern OAuth threats and actionable steps organizations can take to protect their environments.
+The post <a href="https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/">The Current Landscape of OAuth Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/
+
+------------------------------------------------------------
+
+Title:
+Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619
+
+Published:
+2026-10-21 16:30 UTC
+
+Summary:
+CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.
+The post <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+
+------------------------------------------------------------
+
+Title:
+“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities
+
+Published:
+2026-10-21 14:00 UTC
+
+Summary:
+An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration.
+The post <a href="https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/">“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/
 
 ------------------------------------------------------------
 
@@ -272,16 +317,58 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-There's only so much code: the rise in vulnerability numbers
+I had plans for that second
 
 Published:
-2026-10-20 15:31 UTC
+2026-10-22 18:04 UTC
 
 Summary:
-The September Microsoft Patch Tuesday release included 975 vulnerability advisories. This month, 1,415 vulnerabilities were just dropped. Compared to a pre-June average of 100 a month, that increase is staggering. Where did they come from? And what does the future look like?
+The Earth is speeding up, the leap second is being abolished, oh, and there's critical vulnerabilities in PHP.
 
 URL:
-https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/
+https://blog.talosintelligence.com/i-had-plans-for-that-second/
+
+------------------------------------------------------------
+
+Title:
+Compromised eMudhra intermediate certificates
+
+Published:
+2026-10-21 20:43 UTC
+
+Summary:
+Cisco Talos is aware of eight intermediate certificates belonging to the intermediate certificate authority, eMudhra.
+
+URL:
+https://blog.talosintelligence.com/compromised-intermediate-certificates/
+
+------------------------------------------------------------
+
+Title:
+Two critical RCEs in PHP core
+
+Published:
+2026-10-21 15:10 UTC
+
+Summary:
+Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.
+
+URL:
+https://blog.talosintelligence.com/two-critical-rces-in-php-core/
+
+------------------------------------------------------------
+
+Title:
+Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers
+
+Published:
+2026-10-21 10:00 UTC
+
+Summary:
+Adversaries are turning the tools businesses trust into delivery mechanisms for malicious activity. Cisco Talos observed abuse of more than 25 legitimate platforms over the past year, exploiting the built-in trust of collaboration, file-sharing, payment and other services to reach their targets.
+
+URL:
+https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/
 
 ------------------------------------------------------------
 
@@ -621,17 +708,17 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-Agents are your newest insiders. Security must move at their speed.
+AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise
 
 Published:
-2026-10-19 13:00 UTC
+2026-10-21 18:23 UTC
 
 Summary:
-New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/">Agents are your newest insiders. Security must move at their speed. </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/
+https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/
 
 ------------------------------------------------------------
 
