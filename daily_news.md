@@ -1,90 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-26 06:33 UTC_
+_Last run: 2026-10-28 06:58 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers
+CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets
 
 Published:
-2026-10-25 17:44 UTC
+2026-10-27 18:26 UTC
 
 Summary:
-A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.
+Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.
 
-The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target.
-
-The findings were
+TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published
 
 URL:
-https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
+https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html
 
 ------------------------------------------------------------
 
 Title:
-PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity
+GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
 
 Published:
-2026-10-25 17:19 UTC
+2026-10-27 13:59 UTC
 
 Summary:
-In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.
+The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.
 
-"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application," a spokesperson for the company told The Hacker News via
+The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked
 
 URL:
-https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
+https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html
 
 ------------------------------------------------------------
 
 Title:
-OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication
+Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
 
 Published:
-2026-10-25 06:54 UTC
+2026-10-27 13:59 UTC
 
 Summary:
-OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.
+Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.
 
-"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no
+The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file.
+
+Patches for the flaw were released last month by Apple in
 
 URL:
-https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html
+https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html
 
 ------------------------------------------------------------
 
 Title:
-Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software
+Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens
 
 Published:
-2026-10-24 11:09 UTC
+2026-10-27 12:09 UTC
 
 Summary:
-A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.
+Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.
 
-Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially
+Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246, so anyone using the app should update.
+
+In the researchers' tests,
 
 URL:
-https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
+https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html
 
 ------------------------------------------------------------
 
 Title:
-Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline
+Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key
 
 Published:
-2026-10-24 11:03 UTC
+2026-10-27 11:46 UTC
 
 Summary:
-LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.
+An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26.
 
-"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of
+Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve
 
 URL:
-https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html
+https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html
 
 ------------------------------------------------------------
 
@@ -93,30 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-AI coding agents hijacked using AGENTS.md file in Downloads folder
+Japan's GMO urges customers to shut down PCs amid ransomware threat
 
 Published:
-2026-10-25 15:49 UTC
+2026-10-27 23:35 UTC
 
 Summary:
-Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]
+The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/
+https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/
 
 ------------------------------------------------------------
 
 Title:
-BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot
+OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests
 
 Published:
-2026-10-24 14:17 UTC
+2026-10-27 22:43 UTC
 
 Summary:
-A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]
+OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/
+https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/
+
+------------------------------------------------------------
+
+Title:
+UNM Health ransomware attack disrupts patient care, surgeries
+
+Published:
+2026-10-27 22:07 UTC
+
+Summary:
+The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/
+
+------------------------------------------------------------
+
+Title:
+Hackers hijack Convertr analytics script to steal payment card data
+
+Published:
+2026-10-27 20:57 UTC
+
+Summary:
+A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/
+
+------------------------------------------------------------
+
+Title:
+Microsoft releases Windows OOB updates to distrust eMudhra certificates
+
+Published:
+2026-10-27 18:20 UTC
+
+Summary:
+Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/
 
 ------------------------------------------------------------
 
@@ -124,47 +168,73 @@ https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-bato
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-PHP exploitation moves at slower-than-expected pace, but millions remain at risk
+CISA, security researchers confirm successful exploitation of PHP flaws
 
 Published:
-2026-10-23 16:46 UTC
+2026-10-27 15:27 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/PCW98DqJRuLwlc24ukfUe0F3_yWvuLliL-gofCCfNec/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMjMzMzIwXzlFekpzb1QuanBn.webp" /></div></figure>Security researchers flag botnet activity, but successful compromises have yet to break through.
+<figure><div><img src="https://imgproxy.divecdn.com/ohJtMBfSGKPS9l_wb8SifrZkqFDT-35YyKPswWzuI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MDgxNTc4MzIuanBn.webp" /></div></figure>The security community has come under increased scrutiny as earlier threat warnings were slow to materialize.
 
 URL:
-https://www.cybersecuritydive.com/news/php-exploitation-slower-than-expected/833855/
+https://www.cybersecuritydive.com/news/cisa-security-researchers-exploitation-php-flaws/872886/
 
 ------------------------------------------------------------
 
 Title:
-Large businesses’ cybersecurity insurance claims are now less frequent but more expensive
+US launches program to deliver free cybersecurity help to rural hospitals
 
 Published:
-2026-10-23 14:41 UTC
+2026-10-27 14:34 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/uUgyhFbWMkfmwVUYCYUghryNWcLsa95yQjgiEnDPEeI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTU5NDY0NjIuanBn.webp" /></div></figure>AI-powered attacks and hidden supply-chain weaknesses are making insurers&rsquo; work more difficult, according to a new report.
+<figure><div><img src="https://imgproxy.divecdn.com/wzv_25W5aWKPh2YBcuiauhqMtsoL-3Kb5c0UsEndOYY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA4MTAzMjU3LmpwZw==.webp" /></div></figure>Small and rural healthcare organizations are among the most vulnerable critical infrastructure organizations in the nation.
 
 URL:
-https://www.cybersecuritydive.com/news/cybersecurity-insurance-market-ai-supply-chain/833841/
+https://www.cybersecuritydive.com/news/healthcare-cybersecurity-white-house-pilot-program-launch/872872/
 
 ------------------------------------------------------------
 
 Title:
-China-nexus actor linked to attack on ConnectWise Cloud Backup
+CISA promises proactive defense in new strategic plan
 
 Published:
-2026-10-22 15:11 UTC
+2026-10-26 14:33 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/PkrJytfL2SLlrpP2hN3SE4wEmKqZSvX0Q-tw6XdQ0Eg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzNzc2NzkyLmpwZw==.webp" /></div></figure>Researchers said the hackers employed a powerful AI tool to accelerate and scale the attacks against hundreds of Microsoft 365 users.
+<figure><div><img src="https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp" /></div></figure>The beleaguered agency, still recovering from major workforce cuts, promised to deepen partnerships and stay ahead of evolving threats.
 
 URL:
-https://www.cybersecuritydive.com/news/china-nexus-actor-attack-connectwise-cloud-backup/833727/
+https://www.cybersecuritydive.com/news/cisa-strategic-plan-2030-infrastructure-partnerships/872750/
+
+------------------------------------------------------------
+
+Title:
+PwC confirms learning records breached in attack on vendor site
+
+Published:
+2026-10-26 14:04 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/d6nRDZHZi27Bt8GahSTuHnIsXBthw0KMg5cs8u-hnzA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODIxNTU1NTU3LmpwZw==.webp" /></div></figure>The professional services firm was the subject of a claim by a known ransomware actor.
+
+URL:
+https://www.cybersecuritydive.com/news/pwc-learning-records-breached-attack-vendor/856902/
+
+------------------------------------------------------------
+
+Title:
+Security anchors a modern hybrid sovereign architecture
+
+Published:
+2026-10-26 09:00 UTC
+
+Summary:
+Discover how a hybrid sovereign architecture helps secure AI, protect critical data and meet evolving compliance demands.
+
+URL:
+https://www.cybersecuritydive.com/spons/security-anchors-a-modern-hybrid-sovereign-architecture/833427/
 
 ------------------------------------------------------------
 
@@ -235,47 +305,17 @@ https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-I had plans for that second
+From federal SOCs to Talos: Ryan Fetterman on practical security research
 
 Published:
-2026-10-22 18:04 UTC
+2026-10-27 10:00 UTC
 
 Summary:
-The Earth is speeding up, the leap second is being abolished, oh, and there's critical vulnerabilities in PHP.
+What does it mean to be "blue collar" for the blue team? Ryan Fetterman discusses the realities of detection engineering, and shares his philosophy on building a career in security without burning out.
 
 URL:
-https://blog.talosintelligence.com/i-had-plans-for-that-second/
-
-------------------------------------------------------------
-
-Title:
-Compromised eMudhra intermediate certificates
-
-Published:
-2026-10-21 20:43 UTC
-
-Summary:
-Cisco Talos is aware of eight intermediate certificates belonging to the intermediate certificate authority, eMudhra.
-
-URL:
-https://blog.talosintelligence.com/compromised-intermediate-certificates/
-
-------------------------------------------------------------
-
-Title:
-Two critical RCEs in PHP core
-
-Published:
-2026-10-21 15:10 UTC
-
-Summary:
-Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.
-
-URL:
-https://blog.talosintelligence.com/two-critical-rces-in-php-core/
+https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/
 
 ------------------------------------------------------------
 
@@ -283,7 +323,7 @@ https://blog.talosintelligence.com/two-critical-rces-in-php-core/
 SOURCE : Microsoft Security Response Center
 ============================================================
 
-[Feed error, no entries returned: <unknown>:125:158: not well-formed (invalid token)]
+[Feed error, no entries returned: <unknown>:178:31: not well-formed (invalid token)]
 
 ============================================================
 SOURCE : Google Security Blog
@@ -617,47 +657,47 @@ SOURCE : Microsoft Security Blog
 [No articles in the last 48h - showing latest available]
 
 Title:
-Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks
+Post-quantum authentication: Why organizations should start testing certificate ecosystems now
 
 Published:
-2026-10-23 18:12 UTC
+2026-10-08 20:44 UTC
 
 Summary:
-Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/">Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/
+https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/
 
 ------------------------------------------------------------
 
 Title:
-AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise
+3 lessons from frontier AI vulnerability research
 
 Published:
-2026-10-21 18:23 UTC
+2026-10-07 16:00 UTC
 
 Summary:
-Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/">3 lessons from frontier AI vulnerability research</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/
+https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/
 
 ------------------------------------------------------------
 
 Title:
-Agents are your newest insiders. Security must move at their speed.
+CISO perspectives on managing vulnerability risks in the age of AI
 
 Published:
-2026-10-19 13:00 UTC
+2026-10-06 16:00 UTC
 
 Summary:
-New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/">Agents are your newest insiders. Security must move at their speed. </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/">CISO perspectives on managing vulnerability risks in the age of AI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/
+https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/
 
 ------------------------------------------------------------
 
@@ -667,5 +707,5 @@ FEED ERRORS THIS RUN
 
 - Trend Micro: text/html; charset=iso-8859-1 is not an XML media type
 - CISA: <unknown>:10:2: mismatched tag
-- Microsoft Security Response Center: <unknown>:125:158: not well-formed (invalid token)
+- Microsoft Security Response Center: <unknown>:178:31: not well-formed (invalid token)
 

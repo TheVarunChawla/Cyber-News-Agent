@@ -1,39 +1,41 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-10-26 06:33 UTC_
+_Generated: 2026-10-28 06:58 UTC_
 
 ## This post's topic
 
-**Zero Trust Does Not Mean Trust Nobody**
+**Phishing vs Spam: The Difference That Matters**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A user requests access; identity, device, location, and permission checks appear before a resource opens.
+- **Fastest:** a single image using this visual brief: A split-screen graphic: harmless spam on the left, a fake Microsoft 365 sign-in email on the right. Add three red flags with arrows.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Zero Trust, simply explained
-2. The old perimeter idea
-3. Verify explicitly
-4. Least privilege
-5. One practical place to start
-- **Most eye-catching:** a 5–8 second looping GIF: A user passes through four lightweight verification gates before accessing a file.
+1. Phishing vs Spam
+2. What spam usually wants
+3. What phishing wants
+4. Three phishing red flags
+5. What to do when unsure
+- **Most eye-catching:** a 5–8 second looping GIF: An inbox message morphs into a fake login page, then a red stop sign appears before the click.
 
 ## Ready-to-personalize LinkedIn caption
 
-Zero Trust means: verify every important request, not just the first login.
+Not every unwanted email is phishing. But every phishing email wants something from you.
 
-Instead of assuming someone is safe because they are inside the network, Zero Trust checks identity, device health, context, and access need before granting access.
+Spam is unwanted bulk email. Phishing is a targeted attempt to trick someone into revealing credentials, approving a payment, opening a malicious file, or giving an attacker access.
 
-What to remember: Start small: strong identity controls, least privilege, and device checks are practical Zero Trust steps.
+What to remember: Before you click, pause and check the sender, the request, and the destination link.
+
+Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #ZeroTrust #IdentitySecurity
+#Cybersecurity #PhishingAwareness #SecurityAwareness
 
 ## Optional current-event context
 
-- No matching story needed; this is an evergreen learning post.
+- Protecting Cookies with Device Bound Session Credentials
 
 ## Before publishing
 
