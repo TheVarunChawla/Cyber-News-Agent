@@ -1,92 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-10-28 06:58 UTC_
+_Last run: 2026-10-30 07:22 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets
+Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen
 
 Published:
-2026-10-27 18:26 UTC
+2026-10-30 04:14 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.
+Cryptocurrency giant Binance said on Thursday that a "security incident" on its platform has impacted about $6.3 billion worth of assets.
 
-TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published
+The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. 
+
+Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million related to the incident, respectively. The
 
 URL:
-https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html
+https://thehackernews.com/2026/10/binance-suffers-security-breach.html
 
 ------------------------------------------------------------
 
 Title:
-GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
+ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories
 
 Published:
-2026-10-27 13:59 UTC
+2026-10-29 19:11 UTC
 
 Summary:
-The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.
+Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.
 
-The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked
+There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familiar apps, websites, and AI tools. Some are using AI to speed things up. Others are leaving their
 
 URL:
-https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html
+https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html
 
 ------------------------------------------------------------
 
 Title:
-Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
+Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions
 
 Published:
-2026-10-27 13:59 UTC
+2026-10-29 15:57 UTC
 
 Summary:
-Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.
+A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale.
 
-The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file.
-
-Patches for the flaw were released last month by Apple in
+Anthropic said on October 27 that its AI model wrote an exploit that uses the flaw to let a remote attacker with no credentials run commands as root on Linux servers with a
 
 URL:
-https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html
+https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html
 
 ------------------------------------------------------------
 
 Title:
-Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens
+Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners
 
 Published:
-2026-10-27 12:09 UTC
+2026-10-29 15:20 UTC
 
 Summary:
-Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.
+Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.
 
-Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246, so anyone using the app should update.
-
-In the researchers' tests,
+The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called
 
 URL:
-https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html
+https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html
 
 ------------------------------------------------------------
 
 Title:
-Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key
+Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities
 
 Published:
-2026-10-27 11:46 UTC
+2026-10-29 13:42 UTC
 
 Summary:
-An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26.
+Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.
 
-Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve
+"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and
 
 URL:
-https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html
+https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html
 
 ------------------------------------------------------------
 
@@ -95,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Japan's GMO urges customers to shut down PCs amid ransomware threat
+OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut
 
 Published:
-2026-10-27 23:35 UTC
+2026-10-29 23:35 UTC
 
 Summary:
-The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]
+OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests
+Binance probes potential $5.8 billion crypto-theft hack
 
 Published:
-2026-10-27 22:43 UTC
+2026-10-29 22:45 UTC
 
 Summary:
-OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]
+Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/
+https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/
 
 ------------------------------------------------------------
 
 Title:
-UNM Health ransomware attack disrupts patient care, surgeries
+Hugging Face malware campaign returns to hijack GPUs for crypto mining
 
 Published:
-2026-10-27 22:07 UTC
+2026-10-29 22:09 UTC
 
 Summary:
-The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]
+A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/
+https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/
 
 ------------------------------------------------------------
 
 Title:
-Hackers hijack Convertr analytics script to steal payment card data
+Japan Airlines suffers third-party data breach exposing passenger info
 
 Published:
-2026-10-27 20:57 UTC
+2026-10-29 22:08 UTC
 
 Summary:
-A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]
+Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/
+https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft releases Windows OOB updates to distrust eMudhra certificates
+Polymarket halts trading after crypto-draining script breach, $2.5M traced
 
 Published:
-2026-10-27 18:20 UTC
+2026-10-29 21:47 UTC
 
 Summary:
-Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]
+Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/
+https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/
 
 ------------------------------------------------------------
 
@@ -169,72 +167,58 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-CISA, security researchers confirm successful exploitation of PHP flaws
+JPMorgan Chase, Goldman Sachs underscore security in AI plans
 
 Published:
-2026-10-27 15:27 UTC
+2026-10-29 15:10 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/ohJtMBfSGKPS9l_wb8SifrZkqFDT-35YyKPswWzuI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MDgxNTc4MzIuanBn.webp" /></div></figure>The security community has come under increased scrutiny as earlier threat warnings were slow to materialize.
+<figure><div><img src="https://imgproxy.divecdn.com/dqjj4JNPWxPSCkMQ0T68jLzVJIOPrCyjoVKkiVwCQL8/g:nowe:443:372/c:1187:670/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTAtMjJfYXRfMi4zNi4wMlBNLnBuZw==.webp" /></div></figure>&ldquo;This is one of the most important times to make sure you are appropriately balancing risk and innovation,&rdquo; said JPMorgan Chase Global CIO Lori Beer.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-security-researchers-exploitation-php-flaws/872886/
+https://www.cybersecuritydive.com/news/jpmorgan-chase-goldman-sachs-AI-security/873171/
 
 ------------------------------------------------------------
 
 Title:
-US launches program to deliver free cybersecurity help to rural hospitals
+Hackers could poison AI models by tampering with core infrastructure
 
 Published:
-2026-10-27 14:34 UTC
+2026-10-29 14:27 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/wzv_25W5aWKPh2YBcuiauhqMtsoL-3Kb5c0UsEndOYY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA4MTAzMjU3LmpwZw==.webp" /></div></figure>Small and rural healthcare organizations are among the most vulnerable critical infrastructure organizations in the nation.
+<figure><div><img src="https://imgproxy.divecdn.com/DS5XjD2ASGDu1WqrST7l8Vn5_ams_TtWsGhHicfvzzE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4MTY0NDU3XzRuMkJFRG8uanBn.webp" /></div></figure>AI systems rely on a complex web of hardware. Compromising any one component could let adversaries change model weights.
 
 URL:
-https://www.cybersecuritydive.com/news/healthcare-cybersecurity-white-house-pilot-program-launch/872872/
+https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/
 
 ------------------------------------------------------------
 
 Title:
-CISA promises proactive defense in new strategic plan
+Insurance industry fears potential impacts from PHP2Shell
 
 Published:
-2026-10-26 14:33 UTC
+2026-10-28 15:30 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp" /></div></figure>The beleaguered agency, still recovering from major workforce cuts, promised to deepen partnerships and stay ahead of evolving threats.
+<figure><div><img src="https://imgproxy.divecdn.com/6lrynHDyTsl7j-cQ8noVO8JuiyDukXrrVVFCMm_ngQs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzUyNDg3NTIuanBn.webp" /></div></figure>A systemic cyber event could lead to billions of dollars in claims that exceed current risk models.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-strategic-plan-2030-infrastructure-partnerships/872750/
+https://www.cybersecuritydive.com/news/insurance-industry-risk-php2shell/873044/
 
 ------------------------------------------------------------
 
 Title:
-PwC confirms learning records breached in attack on vendor site
+Hackers seize on vulnerable IoT devices to spy, pivot and route traffic
 
 Published:
-2026-10-26 14:04 UTC
+2026-10-28 14:45 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/d6nRDZHZi27Bt8GahSTuHnIsXBthw0KMg5cs8u-hnzA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODIxNTU1NTU3LmpwZw==.webp" /></div></figure>The professional services firm was the subject of a claim by a known ransomware actor.
+<figure><div><img src="https://imgproxy.divecdn.com/7Mtp5mUlLT_mrSY_d0y51vunvG-ehiWWgKnH9Xtc-Kc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY5NDUxMzA1LmpwZw==.webp" /></div></figure>Known vulnerabilities with available patches are by far the biggest risk facing connected devices, a new report found.
 
 URL:
-https://www.cybersecuritydive.com/news/pwc-learning-records-breached-attack-vendor/856902/
-
-------------------------------------------------------------
-
-Title:
-Security anchors a modern hybrid sovereign architecture
-
-Published:
-2026-10-26 09:00 UTC
-
-Summary:
-Discover how a hybrid sovereign architecture helps secure AI, protect critical data and meet evolving compliance demands.
-
-URL:
-https://www.cybersecuritydive.com/spons/security-anchors-a-modern-hybrid-sovereign-architecture/833427/
+https://www.cybersecuritydive.com/news/internet-of-things-vulnerabilities-proxies-netgear-bitdefender/873033/
 
 ------------------------------------------------------------
 
@@ -248,23 +232,63 @@ SOURCE : Trend Micro
 SOURCE : CISA
 ============================================================
 
-[Feed error, no entries returned: <unknown>:10:2: mismatched tag]
+[No articles in the last 48h - showing latest available]
+
+Title:
+CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security
+
+Published:
+2026-10-26 12:00 UTC
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security
+
+------------------------------------------------------------
+
+Title:
+CISA, FBI and Partners Warn Organizations of SafePay Ransomware Actors Targeting Multiple Critical Infrastructure Sectors
+
+Published:
+2026-10-21 12:00 UTC
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-fbi-and-partners-warn-organizations-safepay-ransomware-actors-targeting-multiple-critical
+
+------------------------------------------------------------
+
+Title:
+CISA, FBI, NSA and International Partners Warn of China-based Cybersecurity Company Enabling Threat Actors to Target Multiple Critical Infrastructure Sectors Worldwide
+
+Published:
+2026-10-08 12:00 UTC
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-fbi-nsa-and-international-partners-warn-china-based-cybersecurity-company-enabling-threat
+
+------------------------------------------------------------
 
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)
+Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)
 
 Published:
-2026-10-23 19:00 UTC
+2026-10-29 18:00 UTC
 
 Summary:
 CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.
-The post <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+The post <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
 https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
@@ -272,32 +296,17 @@ https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
 ------------------------------------------------------------
 
 Title:
-EMudhra Intermediate CA Certificates Compromised
+Unwrapping Retail Peak Season Cyber Threats
 
 Published:
-2026-10-22 17:15 UTC
+2026-10-28 18:00 UTC
 
 Summary:
-Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception. Read our analysis and containment guide.
-The post <a href="https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/">EMudhra Intermediate CA Certificates Compromised</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust.
+The post <a href="https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/">Unwrapping Retail Peak Season Cyber Threats</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/
-
-------------------------------------------------------------
-
-Title:
-The Current Landscape of OAuth Attacks
-
-Published:
-2026-10-22 17:00 UTC
-
-Summary:
-Unit 42 explores modern OAuth threats and actionable steps organizations can take to protect their environments.
-The post <a href="https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/">The Current Landscape of OAuth Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/
+https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/
 
 ------------------------------------------------------------
 
@@ -306,16 +315,58 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-From federal SOCs to Talos: Ryan Fetterman on practical security research
+A quiet week in infosec <.<
 
 Published:
-2026-10-27 10:00 UTC
+2026-10-29 18:00 UTC
 
 Summary:
-What does it mean to be "blue collar" for the blue team? Ryan Fetterman discusses the realities of detection engineering, and shares his philosophy on building a career in security without burning out.
+In this edition of the Threat Source newsletter, William explores how PHP has taken over the conversation, Node.js has joined in, but underneath it all, there are still good people doing good work.
 
 URL:
-https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/
+https://blog.talosintelligence.com/a-quiet-week-in-infosec/
+
+------------------------------------------------------------
+
+Title:
+IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases
+
+Published:
+2026-10-29 14:00 UTC
+
+Summary:
+Phishing remained the leading initial access technique, while percentage of ransomware and pre-ransomware cases increased. Finance and public administration tied as the top-targeted industries.
+
+URL:
+https://blog.talosintelligence.com/ir-trends-q3-2026/
+
+------------------------------------------------------------
+
+Title:
+NIK C2: The new AI-enabled command-and-control framework
+
+Published:
+2026-10-29 10:00 UTC
+
+Summary:
+Cisco Talos observed a new AI-integrated command-and-control (C2) framework in the wild called “NIK C2.”
+
+URL:
+https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/
+
+------------------------------------------------------------
+
+Title:
+Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN
+
+Published:
+2026-10-28 21:32 UTC
+
+Summary:
+Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorized access to affected systems to deploy KeyDrift.
+
+URL:
+https://blog.talosintelligence.com/uat-11473-keydrift/
 
 ------------------------------------------------------------
 
@@ -323,7 +374,7 @@ https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-
 SOURCE : Microsoft Security Response Center
 ============================================================
 
-[Feed error, no entries returned: <unknown>:178:31: not well-formed (invalid token)]
+[Feed error, no entries returned: <unknown>:125:158: not well-formed (invalid token)]
 
 ============================================================
 SOURCE : Google Security Blog
@@ -654,50 +705,48 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Post-quantum authentication: Why organizations should start testing certificate ecosystems now
+Tracking AI adoption in North Korean threat actor tradecraft
 
 Published:
-2026-10-08 20:44 UTC
+2026-10-29 16:00 UTC
 
 Summary:
-Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/">Tracking AI adoption in North Korean threat actor tradecraft</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/
+https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/
 
 ------------------------------------------------------------
 
 Title:
-3 lessons from frontier AI vulnerability research
+IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment
 
 Published:
-2026-10-07 16:00 UTC
+2026-10-29 16:00 UTC
 
 Summary:
-Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/">3 lessons from frontier AI vulnerability research</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/">IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/
+https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/
 
 ------------------------------------------------------------
 
 Title:
-CISO perspectives on managing vulnerability risks in the age of AI
+The CISO’s evolving role: Protecting and defending in the agentic era
 
 Published:
-2026-10-06 16:00 UTC
+2026-10-28 16:00 UTC
 
 Summary:
-Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/">CISO perspectives on managing vulnerability risks in the age of AI</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/">The CISO’s evolving role: Protecting and defending in the agentic era</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/
+https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/
 
 ------------------------------------------------------------
 
@@ -706,6 +755,5 @@ FEED ERRORS THIS RUN
 ============================================================
 
 - Trend Micro: text/html; charset=iso-8859-1 is not an XML media type
-- CISA: <unknown>:10:2: mismatched tag
-- Microsoft Security Response Center: <unknown>:178:31: not well-formed (invalid token)
+- Microsoft Security Response Center: <unknown>:125:158: not well-formed (invalid token)
 
