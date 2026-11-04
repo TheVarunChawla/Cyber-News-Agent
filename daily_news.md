@@ -1,88 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-02 07:50 UTC_
+_Last run: 2026-11-04 07:39 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value
+CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades
 
 Published:
-2026-11-02 05:51 UTC
+2026-11-04 05:43 UTC
 
 Summary:
-Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
 
-Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;
+The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code
 
 URL:
-https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html
+https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html
 
 ------------------------------------------------------------
 
 Title:
-CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key
+mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity
 
 Published:
-2026-11-01 08:51 UTC
+2026-11-03 18:46 UTC
 
 Summary:
-A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate.
+Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.
 
-Once in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is
+The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but
 
 URL:
-https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
+https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html
 
 ------------------------------------------------------------
 
 Title:
-Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script
+Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes
 
 Published:
-2026-11-01 07:25 UTC
+2026-11-03 18:16 UTC
 
 Summary:
-Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company.
+Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.
 
-Polymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached
+The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week.
+
+"An external attacker gained unauthorized access to part of
 
 URL:
-https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html
+https://thehackernews.com/2026/11/chainstack-reports-production-systems.html
 
 ------------------------------------------------------------
 
 Title:
-FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist
+Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft
 
 Published:
-2026-11-01 07:03 UTC
+2026-11-03 16:55 UTC
 
 Summary:
-The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.
+Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its engineers.
 
-The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI),
+"It was not a single isolated breach or a simple phishing incident,"
 
 URL:
-https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html
+https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html
 
 ------------------------------------------------------------
 
 Title:
-NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection
+Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access
 
 Published:
-2026-11-01 07:02 UTC
+2026-11-03 15:59 UTC
 
 Summary:
-Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia.
+Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.
 
-The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed
+The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)
 
 URL:
-https://thehackernews.com/2026/11/netamloader-malware-targets-government.html
+https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html
 
 ------------------------------------------------------------
 
@@ -91,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-FBI links $6.3 billion Binance crypto heist to North Korean hackers
+Hackers hijack cPGuard autoupdate to deploy backdoor, steal data
 
 Published:
-2026-11-01 19:57 UTC
+2026-11-03 22:18 UTC
 
 Summary:
-The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]
+Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/
+https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/
 
 ------------------------------------------------------------
 
 Title:
-Alpine Linux rebuilds GitLab after attempted RCE attack
+WorkOS says attacker used ARTEX AI to breach internal sales app
 
 Published:
-2026-11-01 15:11 UTC
+2026-11-03 21:28 UTC
 
 Summary:
-Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]
+Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/
+https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/
 
 ------------------------------------------------------------
 
 Title:
-OpenAI says it's doubling Pro usage limits and bringing Work features to Chat
+Binance says fake job interview led to $6.3 billion crypto heist
 
 Published:
-2026-11-01 13:53 UTC
+2026-11-03 20:05 UTC
 
 Summary:
-OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]
+Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/
+https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/
 
 ------------------------------------------------------------
 
 Title:
-Northflank security breach leads to abuse of customers' AI API keys
+Google: LLMjacking attacks rack up $1 million in cloud AI charges
 
 Published:
-2026-10-31 18:01 UTC
+2026-11-03 18:51 UTC
 
 Summary:
-Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]
+Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/
+https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/
 
 ------------------------------------------------------------
 
 Title:
-New Android SMS of Death exploit can remotely crash unpatched phones
+Barracuda warns of critical flaws allowing root access to devices
 
 Published:
-2026-10-31 15:35 UTC
+2026-11-03 15:06 UTC
 
 Summary:
-A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]
+Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/
+https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/
 
 ------------------------------------------------------------
 
@@ -164,47 +166,73 @@ https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Palo Alto Networks firewalls compromised in chained attacks using PHP2Shell
+European authorities probe ongoing attacks targeting grocery refrigerators
 
 Published:
-2026-10-30 15:17 UTC
+2026-11-03 15:59 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/GIYzwlNjOKTP404DFoLhvl_AAP8vATOhBr409ywwc-4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRUoyRU5ULmpwZw==.webp" /></div></figure>The AI-enabled campaign hit two dozen targets, including sites linked to the U.S. government.
+<figure><div><img src="https://imgproxy.divecdn.com/wA1F5hgfEQM_o7x3H5BO6k3HrIuXBfjU_ef5n7spwvs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgyNTMxNTg3LmpwZw==.webp" /></div></figure>US military investigators have been working with French agencies after hacks hit domestic bases.
 
 URL:
-https://www.cybersecuritydive.com/news/palo-alto-networks-firewalls-compromised-chained-attacks-php2shell/873323/
+https://www.cybersecuritydive.com/news/european-authorities-probe-attacks-grocery-refrigerators/873598/
 
 ------------------------------------------------------------
 
 Title:
-Top cybersecurity conferences to attend in 2027
+AI threats create ‘urgent’ need to renew cybersecurity information-sharing law, businesses tell Congress
 
 Published:
-2026-10-30 14:34 UTC
+2026-11-03 15:24 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/apwALScEIhpKIzh5OhsAcoX3gpPBFvChy96m__twrZE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yc2FjMjAyNmJhbm5lci5qcGc=.webp" /></div></figure>AI, global conflict and supply chain security are likely to be top of mind at many of the year&rsquo;s big events.
+<figure><div><img src="https://imgproxy.divecdn.com/oSKr6Cz3trzD8KoqDcPeflkpKhOgR191I0JeXrgFEyk/g:nowe:0:0/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ5NjI3MjE1LmpwZw==.webp" /></div></figure>Leading infrastructure-operator associations want lawmakers to renew the program for another 10 years.
 
 URL:
-https://www.cybersecuritydive.com/news/top-cybersecurity-conferences-to-attend-in-2027/832981/
+https://www.cybersecuritydive.com/news/cisa-2015-reauthorization-congress-ndaa-letter-businesses/873591/
 
 ------------------------------------------------------------
 
 Title:
-North Korea-linked group steals $6.3B from Binance in largest-ever cryptocurrency hack
+Agentic pen-testing tool employed in multiple espionage campaigns around the globe
 
 Published:
-2026-10-30 14:19 UTC
+2026-11-02 14:13 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/-fuyzj5BiBKJcfCxj42oh8_nuYtgJ8N8sVD46XI768I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyNjU5NDQ0LmpwZw==.webp" /></div></figure>Blockchain analysis firms say they have worked with Binance to freeze roughly half of the stolen money, and the exchange said it would cover all losses.
+<figure><div><img src="https://imgproxy.divecdn.com/Ypk1ggIXP1Gjvq-hrf1Ds_Am1Hyoe5FuVNoOC7HanTg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BZ2VudGljX0FJLmpwZw==.webp" /></div></figure>Researchers have tracked the increased use of Artex and other frameworks in order to automate and speed up attack methods.
 
 URL:
-https://www.cybersecuritydive.com/news/binance-hack-north-korea-cryptocurrency-theft/873304/
+https://www.cybersecuritydive.com/news/agentic-pen-testing-tool-espionage-campaigns/873427/
+
+------------------------------------------------------------
+
+Title:
+As the White House touts its AI task force, CISA is conspicuously missing
+
+Published:
+2026-11-02 13:00 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp" /></div></figure>Without the cybersecurity agency, the new group could stumble as it tries to work with critical infrastructure operators on AI security, experts said.
+
+URL:
+https://www.cybersecuritydive.com/news/cisa-white-house-ai-task-force-missing-trump/873338/
+
+------------------------------------------------------------
+
+Title:
+Protecting OT, IoT and medical devices without disrupting operations
+
+Published:
+2026-11-02 10:00 UTC
+
+Summary:
+A smarter OT security strategy starts with visibility, context and prioritization.
+
+URL:
+https://www.cybersecuritydive.com/spons/protecting-ot-iot-and-medical-devices-without-disrupting-operations/833813/
 
 ------------------------------------------------------------
 
@@ -218,47 +246,17 @@ SOURCE : Trend Micro
 SOURCE : CISA
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security
+CISA Kicks Off Critical Infrastructure Security and Resilience Month 2026
 
 Published:
-2026-10-26 12:00 UTC
+2026-11-02 12:00 UTC
 
 Summary:
 
 
 URL:
-https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security
-
-------------------------------------------------------------
-
-Title:
-CISA, FBI and Partners Warn Organizations of SafePay Ransomware Actors Targeting Multiple Critical Infrastructure Sectors
-
-Published:
-2026-10-21 12:00 UTC
-
-Summary:
-
-
-URL:
-https://www.cisa.gov/news-events/news/cisa-fbi-and-partners-warn-organizations-safepay-ransomware-actors-targeting-multiple-critical
-
-------------------------------------------------------------
-
-Title:
-CISA, FBI, NSA and International Partners Warn of China-based Cybersecurity Company Enabling Threat Actors to Target Multiple Critical Infrastructure Sectors Worldwide
-
-Published:
-2026-10-08 12:00 UTC
-
-Summary:
-
-
-URL:
-https://www.cisa.gov/news-events/news/cisa-fbi-nsa-and-international-partners-warn-china-based-cybersecurity-company-enabling-threat
+https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-security-and-resilience-month-2026
 
 ------------------------------------------------------------
 
@@ -266,56 +264,26 @@ https://www.cisa.gov/news-events/news/cisa-fbi-nsa-and-international-partners-wa
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)
+Unit 42 Threat Intelligence Highlights - Nov. 2, 2026
 
 Published:
-2026-10-29 18:00 UTC
+2026-11-02 23:00 UTC
 
 Summary:
-CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.
-The post <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows.
+The post <a href="https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/">Unit 42 Threat Intelligence Highlights - Nov. 2, 2026</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
-
-------------------------------------------------------------
-
-Title:
-Unwrapping Retail Peak Season Cyber Threats
-
-Published:
-2026-10-28 18:00 UTC
-
-Summary:
-Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust.
-The post <a href="https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/">Unwrapping Retail Peak Season Cyber Threats</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/
-
-------------------------------------------------------------
-
-Title:
-EMudhra Intermediate CA Certificates Compromised
-
-Published:
-2026-10-22 17:15 UTC
-
-Summary:
-Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception. Read our analysis and containment guide.
-The post <a href="https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/">EMudhra Intermediate CA Certificates Compromised</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/
+https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer
@@ -328,6 +296,34 @@ The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurr
 
 URL:
 https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/
+
+------------------------------------------------------------
+
+Title:
+A quiet week in infosec <.<
+
+Published:
+2026-10-29 18:00 UTC
+
+Summary:
+In this edition of the Threat Source newsletter, William explores how PHP has taken over the conversation, Node.js has joined in, but underneath it all, there are still good people doing good work.
+
+URL:
+https://blog.talosintelligence.com/a-quiet-week-in-infosec/
+
+------------------------------------------------------------
+
+Title:
+IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases
+
+Published:
+2026-10-29 14:00 UTC
+
+Summary:
+Phishing remained the leading initial access technique, while percentage of ransomware and pre-ransomware cases increased. Finance and public administration tied as the top-targeted industries.
+
+URL:
+https://blog.talosintelligence.com/ir-trends-q3-2026/
 
 ------------------------------------------------------------
 
@@ -666,50 +662,48 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Inside a malicious Claude Code-branded extension and its persistent SSH backdoor
+Fake-download campaign uses trojanized installers to deliver monetization payloads
 
 Published:
-2026-10-31 01:02 UTC
+2026-11-03 17:32 UTC
 
 Summary:
-Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/">Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/">Fake-download campaign uses trojanized installers to deliver monetization payloads</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/
+https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/
 
 ------------------------------------------------------------
 
 Title:
-From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths
+Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms
 
 Published:
-2026-10-30 16:11 UTC
+2026-11-03 17:00 UTC
 
 Summary:
-Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms  </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/
+https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/
 
 ------------------------------------------------------------
 
 Title:
-Tracking AI adoption in North Korean threat actor tradecraft
+What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks
 
 Published:
-2026-10-29 16:00 UTC
+2026-11-02 20:20 UTC
 
 Summary:
-As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/">Tracking AI adoption in North Korean threat actor tradecraft</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/">What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/
+https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/
 
 ------------------------------------------------------------
 
