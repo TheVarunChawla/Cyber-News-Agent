@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-04 07:39 UTC_
+_Last run: 2026-11-06 08:06 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades
+Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs
 
 Published:
-2026-11-04 05:43 UTC
+2026-11-06 05:58 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.
 
-The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code
+The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.
 
 URL:
-https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html
+https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html
 
 ------------------------------------------------------------
 
 Title:
-mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity
+Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login
 
 Published:
-2026-11-03 18:46 UTC
+2026-11-06 05:39 UTC
 
 Summary:
-Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.
+Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.
 
-The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but
+The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.
+
+One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a
 
 URL:
-https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html
+https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html
 
 ------------------------------------------------------------
 
 Title:
-Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes
+OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux
 
 Published:
-2026-11-03 18:16 UTC
+2026-11-05 16:42 UTC
 
 Summary:
-Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.
+Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long.
 
-The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week.
-
-"An external attacker gained unauthorized access to part of
+OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every
 
 URL:
-https://thehackernews.com/2026/11/chainstack-reports-production-systems.html
+https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html
 
 ------------------------------------------------------------
 
 Title:
-Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft
+Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction
 
 Published:
-2026-11-03 16:55 UTC
+2026-11-05 16:42 UTC
 
 Summary:
-Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its engineers.
+Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.
 
-"It was not a single isolated breach or a simple phishing incident,"
+Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections.
+
+"The flaw could enable silent chat data theft, phishing,
 
 URL:
-https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html
+https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html
 
 ------------------------------------------------------------
 
 Title:
-Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access
+ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories
 
 Published:
-2026-11-03 15:59 UTC
+2026-11-05 14:41 UTC
 
 Summary:
-Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.
-
-The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)
+How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a
 
 URL:
-https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html
+https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html
 
 ------------------------------------------------------------
 
@@ -93,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Hackers hijack cPGuard autoupdate to deploy backdoor, steal data
+FBI, CISA warn of cyberattacks targeting refrigeration systems
 
 Published:
-2026-11-03 22:18 UTC
+2026-11-06 00:56 UTC
 
 Summary:
-Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]
+The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/
+https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/
 
 ------------------------------------------------------------
 
 Title:
-WorkOS says attacker used ARTEX AI to breach internal sales app
+Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
 
 Published:
-2026-11-03 21:28 UTC
+2026-11-05 21:30 UTC
 
 Summary:
-Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]
+Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/
+https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/
 
 ------------------------------------------------------------
 
 Title:
-Binance says fake job interview led to $6.3 billion crypto heist
+Nearly 1.5 million exposed secrets targeted in new revocation program
 
 Published:
-2026-11-03 20:05 UTC
+2026-11-05 20:15 UTC
 
 Summary:
-Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]
+Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/
+https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/
 
 ------------------------------------------------------------
 
 Title:
-Google: LLMjacking attacks rack up $1 million in cloud AI charges
+OpenAI’s GPT-6 Astra silently obstructed safety research tasks
 
 Published:
-2026-11-03 18:51 UTC
+2026-11-05 19:24 UTC
 
 Summary:
-Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]
+OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/
+https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/
 
 ------------------------------------------------------------
 
 Title:
-Barracuda warns of critical flaws allowing root access to devices
+OpenSSH flaw lets attackers log into password-disabled Linux accounts
 
 Published:
-2026-11-03 15:06 UTC
+2026-11-05 17:45 UTC
 
 Summary:
-Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]
+A newly disclosed OpenSSH vulnerability dubbed "*sshole" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/
+https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/
 
 ------------------------------------------------------------
 
@@ -167,72 +167,58 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-European authorities probe ongoing attacks targeting grocery refrigerators
+What to expect from Democrats’ cybersecurity agenda in Congress
 
 Published:
-2026-11-03 15:59 UTC
+2026-11-05 16:44 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/wA1F5hgfEQM_o7x3H5BO6k3HrIuXBfjU_ef5n7spwvs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgyNTMxNTg3LmpwZw==.webp" /></div></figure>US military investigators have been working with French agencies after hacks hit domestic bases.
+<figure><div><img src="https://imgproxy.divecdn.com/wfc4XND_ttMC42k54yce3Ko4uvR9eiDAwYWkp0UJEbU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp" /></div></figure>From CISA to AI and beyond, the new Democratic majority has many opportunities to scrutinize government programs and push new policies.
 
 URL:
-https://www.cybersecuritydive.com/news/european-authorities-probe-attacks-grocery-refrigerators/873598/
+https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/
 
 ------------------------------------------------------------
 
 Title:
-AI threats create ‘urgent’ need to renew cybersecurity information-sharing law, businesses tell Congress
+French authorities probe cyberattack targeting nation’s blood supply
 
 Published:
-2026-11-03 15:24 UTC
+2026-11-05 15:52 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/oSKr6Cz3trzD8KoqDcPeflkpKhOgR191I0JeXrgFEyk/g:nowe:0:0/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ5NjI3MjE1LmpwZw==.webp" /></div></figure>Leading infrastructure-operator associations want lawmakers to renew the program for another 10 years.
+<figure><div><img src="https://imgproxy.divecdn.com/jcQtCP085YsyAKLy_yRsVtoEdKZSayzR3AkGAZ2kQbA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjY3NDc3LmpwZw==.webp" /></div></figure>The attack follows a wave of hacks against refrigeration systems at supermarkets across Europe.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-2015-reauthorization-congress-ndaa-letter-businesses/873591/
+https://www.cybersecuritydive.com/news/french-probe-cyberattack-blood-supply/873871/
 
 ------------------------------------------------------------
 
 Title:
-Agentic pen-testing tool employed in multiple espionage campaigns around the globe
+Attacker abuses Microsoft Entra ID to target downstream MSP clients
 
 Published:
-2026-11-02 14:13 UTC
+2026-11-04 16:20 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Ypk1ggIXP1Gjvq-hrf1Ds_Am1Hyoe5FuVNoOC7HanTg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BZ2VudGljX0FJLmpwZw==.webp" /></div></figure>Researchers have tracked the increased use of Artex and other frameworks in order to automate and speed up attack methods.
+<figure><div><img src="https://imgproxy.divecdn.com/YGGgVA2dwoNi1-LY-3UIkqnvVjijD965U_ANY1vCjhI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMDE2MzYwLmpwZw==.webp" /></div></figure>The campaign uses valid credentials to gain access to organizations across various sectors.
 
 URL:
-https://www.cybersecuritydive.com/news/agentic-pen-testing-tool-espionage-campaigns/873427/
+https://www.cybersecuritydive.com/news/attacker-microsoft-entra-id-downstream-msp/873744/
 
 ------------------------------------------------------------
 
 Title:
-As the White House touts its AI task force, CISA is conspicuously missing
+Companies spend more on cybersecurity but still struggle with AI oversight
 
 Published:
-2026-11-02 13:00 UTC
+2026-11-04 15:36 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp" /></div></figure>Without the cybersecurity agency, the new group could stumble as it tries to work with critical infrastructure operators on AI security, experts said.
+<figure><div><img src="https://imgproxy.divecdn.com/CfDjkOOtIhLmrbSaqs4qjJp0TJeSFzFZJf3X1F4kTBU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc0MzE5LmpwZw==.webp" /></div></figure>Shadow AI remains a persistent problem, even as IT and security budgets grow, according to a new report.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-white-house-ai-task-force-missing-trump/873338/
-
-------------------------------------------------------------
-
-Title:
-Protecting OT, IoT and medical devices without disrupting operations
-
-Published:
-2026-11-02 10:00 UTC
-
-Summary:
-A smarter OT security strategy starts with visibility, context and prioritization.
-
-URL:
-https://www.cybersecuritydive.com/spons/protecting-ot-iot-and-medical-devices-without-disrupting-operations/833813/
+https://www.cybersecuritydive.com/news/ai-security-governance-spending-dnsfilter/873725/
 
 ------------------------------------------------------------
 
@@ -247,22 +233,24 @@ SOURCE : CISA
 ============================================================
 
 Title:
-CISA Kicks Off Critical Infrastructure Security and Resilience Month 2026
+CISA, FBI, HHS, USDA, and DOT Urge Critical Infrastructure To Strengthen Industrial Refrigeration and Cold Chain Monitoring Systems Cybersecurity
 
 Published:
-2026-11-02 12:00 UTC
+2026-11-05 12:00 UTC
 
 Summary:
 
 
 URL:
-https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-security-and-resilience-month-2026
+https://www.cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-strengthen-industrial-refrigeration-and-cold
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Unit 42 Threat Intelligence Highlights - Nov. 2, 2026
@@ -279,51 +267,51 @@ https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/
 
 ------------------------------------------------------------
 
-============================================================
-SOURCE : Cisco Talos
-============================================================
-
-[No articles in the last 48h - showing latest available]
-
 Title:
-Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer
-
-Published:
-2026-10-31 12:00 UTC
-
-Summary:
-The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.
-
-URL:
-https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/
-
-------------------------------------------------------------
-
-Title:
-A quiet week in infosec <.<
+Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)
 
 Published:
 2026-10-29 18:00 UTC
 
 Summary:
-In this edition of the Threat Source newsletter, William explores how PHP has taken over the conversation, Node.js has joined in, but underneath it all, there are still good people doing good work.
+CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.
+The post <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://blog.talosintelligence.com/a-quiet-week-in-infosec/
+https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
 
 ------------------------------------------------------------
 
 Title:
-IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases
+Unwrapping Retail Peak Season Cyber Threats
 
 Published:
-2026-10-29 14:00 UTC
+2026-10-28 18:00 UTC
 
 Summary:
-Phishing remained the leading initial access technique, while percentage of ransomware and pre-ransomware cases increased. Finance and public administration tied as the top-targeted industries.
+Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust.
+The post <a href="https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/">Unwrapping Retail Peak Season Cyber Threats</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://blog.talosintelligence.com/ir-trends-q3-2026/
+https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/
+
+------------------------------------------------------------
+
+============================================================
+SOURCE : Cisco Talos
+============================================================
+
+Title:
+Bring a tent, I've got the coffee: Lessons from it-sa
+
+Published:
+2026-11-05 19:00 UTC
+
+Summary:
+Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side.
+
+URL:
+https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/
 
 ------------------------------------------------------------
 
@@ -663,47 +651,62 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-Fake-download campaign uses trojanized installers to deliver monetization payloads
+Threat actors use agentic AI tooling to find and abuse exposed secrets
 
 Published:
-2026-11-03 17:32 UTC
+2026-11-05 23:46 UTC
 
 Summary:
-Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/">Fake-download campaign uses trojanized installers to deliver monetization payloads</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s tenant. Agents operating on behalf of threat actors then used the compromised OAuth applications to perform a variety of subsequent actions within compromised organizations.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/">Threat actors use agentic AI tooling to find and abuse exposed secrets</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/
+https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms
+New investments to reduce on-premises security risk
 
 Published:
-2026-11-03 17:00 UTC
+2026-11-05 17:10 UTC
 
 Summary:
-Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms  </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+We’re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments.
+The post <a href="https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381">New investments to reduce on-premises security risk</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/
+https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381
 
 ------------------------------------------------------------
 
 Title:
-What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks
+​​​​What’s new in Microsoft Security: November 2026
 
 Published:
-2026-11-02 20:20 UTC
+2026-11-05 17:00 UTC
 
 Summary:
-Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/">What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/">​​​​What’s new in Microsoft Security: November 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/
+https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/
+
+------------------------------------------------------------
+
+Title:
+Email threat landscape: Q3 2026 trends and insights
+
+Published:
+2026-11-05 16:00 UTC
+
+Summary:
+Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with security overrides.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/">Email threat landscape: Q3 2026 trends and insights</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/
 
 ------------------------------------------------------------
 
