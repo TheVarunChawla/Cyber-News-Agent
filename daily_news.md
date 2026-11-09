@@ -1,90 +1,58 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-06 08:06 UTC_
+_Last run: 2026-11-09 08:14 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs
+Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room
 
 Published:
-2026-11-06 05:58 UTC
+2026-11-09 07:05 UTC
 
 Summary:
-A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.
+The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.
 
-The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.
+According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026.
+
+If proven guilty, the
 
 URL:
-https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html
+https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html
 
 ------------------------------------------------------------
 
 Title:
-Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login
+U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses
 
 Published:
-2026-11-06 05:39 UTC
+2026-11-09 06:15 UTC
 
 Summary:
-Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.
+U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory.
 
-The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.
-
-One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a
+"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating
 
 URL:
-https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html
+https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html
 
 ------------------------------------------------------------
 
 Title:
-OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux
+CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation
 
 Published:
-2026-11-05 16:42 UTC
+2026-11-09 06:05 UTC
 
 Summary:
-Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks.
 
-OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every
-
-URL:
-https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html
-
-------------------------------------------------------------
-
-Title:
-Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction
-
-Published:
-2026-11-05 16:42 UTC
-
-Summary:
-Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.
-
-Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections.
-
-"The flaw could enable silent chat data theft, phishing,
+The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement
 
 URL:
-https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html
-
-------------------------------------------------------------
-
-Title:
-ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories
-
-Published:
-2026-11-05 14:41 UTC
-
-Summary:
-How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a
-
-URL:
-https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html
+https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html
 
 ------------------------------------------------------------
 
@@ -93,78 +61,80 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-FBI, CISA warn of cyberattacks targeting refrigeration systems
+Iris Ohyama data cloud breach exposes info of 7.7 million customers
 
 Published:
-2026-11-06 00:56 UTC
+2026-11-08 15:43 UTC
 
 Summary:
-The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]
+Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/
+https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/
 
 ------------------------------------------------------------
 
 Title:
-Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
+Hackers pull off $133 million French bank heist via service provider
 
 Published:
-2026-11-05 21:30 UTC
+2026-11-07 15:25 UTC
 
 Summary:
-Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]
+French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/
+https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/
 
 ------------------------------------------------------------
 
 Title:
-Nearly 1.5 million exposed secrets targeted in new revocation program
+CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands
 
 Published:
-2026-11-05 20:15 UTC
+2026-11-07 14:10 UTC
 
 Summary:
-Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]
+Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/
-
-------------------------------------------------------------
-
-Title:
-OpenAI’s GPT-6 Astra silently obstructed safety research tasks
-
-Published:
-2026-11-05 19:24 UTC
-
-Summary:
-OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/
-
-------------------------------------------------------------
-
-Title:
-OpenSSH flaw lets attackers log into password-disabled Linux accounts
-
-Published:
-2026-11-05 17:45 UTC
-
-Summary:
-A newly disclosed OpenSSH vulnerability dubbed "*sshole" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/
+https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/
 
 ------------------------------------------------------------
 
 ============================================================
 SOURCE : Cybersecurity Dive
 ============================================================
+
+[No articles in the last 48h - showing latest available]
+
+Title:
+Hackers enlist Artex to scan GitHub repositories for exposed secrets
+
+Published:
+2026-11-06 15:57 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/4H5MfcsNUvWu2Hbnb1YmpIJ91K57_pe-vusYtLATMU0/g:nowe:0:0/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDMyNzAxOTMwLmpwZw==.webp" /></div></figure>Agentic AI tools target downstream tenants using stolen credentials, according to Microsoft researchers.
+
+URL:
+https://www.cybersecuritydive.com/news/hackers-artex-github-repositories-exposed-secrets/874007/
+
+------------------------------------------------------------
+
+Title:
+Companies struggle to know what normal looks like for AI agents
+
+Published:
+2026-11-06 15:36 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/O3l_kgFFloXc_KXt7ZbLrsseB_Lqr2BsEBGEMARwk2g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzOTU5MTc3LmpwZw==.webp" /></div></figure>The inability to establish baselines is complicating the task of securing these autonomous tools, a new report found.
+
+URL:
+https://www.cybersecuritydive.com/news/ai-agents-normal-baseline-security-governance/873998/
+
+------------------------------------------------------------
 
 Title:
 What to expect from Democrats’ cybersecurity agenda in Congress
@@ -173,52 +143,10 @@ Published:
 2026-11-05 16:44 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/wfc4XND_ttMC42k54yce3Ko4uvR9eiDAwYWkp0UJEbU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp" /></div></figure>From CISA to AI and beyond, the new Democratic majority has many opportunities to scrutinize government programs and push new policies.
+<figure><div><img src="https://imgproxy.divecdn.com/wfc4XND_ttMC42k54yce3Ko4uvR9eiDAwYWkp0UJEbU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp" /></div></figure>From CISA to AI and beyond, the new Democratic majority will have many opportunities to scrutinize government programs and push new policies.
 
 URL:
 https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/
-
-------------------------------------------------------------
-
-Title:
-French authorities probe cyberattack targeting nation’s blood supply
-
-Published:
-2026-11-05 15:52 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/jcQtCP085YsyAKLy_yRsVtoEdKZSayzR3AkGAZ2kQbA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjY3NDc3LmpwZw==.webp" /></div></figure>The attack follows a wave of hacks against refrigeration systems at supermarkets across Europe.
-
-URL:
-https://www.cybersecuritydive.com/news/french-probe-cyberattack-blood-supply/873871/
-
-------------------------------------------------------------
-
-Title:
-Attacker abuses Microsoft Entra ID to target downstream MSP clients
-
-Published:
-2026-11-04 16:20 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/YGGgVA2dwoNi1-LY-3UIkqnvVjijD965U_ANY1vCjhI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMDE2MzYwLmpwZw==.webp" /></div></figure>The campaign uses valid credentials to gain access to organizations across various sectors.
-
-URL:
-https://www.cybersecuritydive.com/news/attacker-microsoft-entra-id-downstream-msp/873744/
-
-------------------------------------------------------------
-
-Title:
-Companies spend more on cybersecurity but still struggle with AI oversight
-
-Published:
-2026-11-04 15:36 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/CfDjkOOtIhLmrbSaqs4qjJp0TJeSFzFZJf3X1F4kTBU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc0MzE5LmpwZw==.webp" /></div></figure>Shadow AI remains a persistent problem, even as IT and security budgets grow, according to a new report.
-
-URL:
-https://www.cybersecuritydive.com/news/ai-security-governance-spending-dnsfilter/873725/
 
 ------------------------------------------------------------
 
@@ -231,6 +159,8 @@ SOURCE : Trend Micro
 ============================================================
 SOURCE : CISA
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 CISA, FBI, HHS, USDA, and DOT Urge Critical Infrastructure To Strengthen Industrial Refrigeration and Cold Chain Monitoring Systems Cybersecurity
@@ -246,11 +176,54 @@ https://www.cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-in
 
 ------------------------------------------------------------
 
+Title:
+CISA Kicks Off Critical Infrastructure Security and Resilience Month 2026
+
+Published:
+2026-11-02 12:00 UTC
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-security-and-resilience-month-2026
+
+------------------------------------------------------------
+
+Title:
+CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security
+
+Published:
+2026-10-26 12:00 UTC
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
 
 [No articles in the last 48h - showing latest available]
+
+Title:
+Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System
+
+Published:
+2026-11-06 21:15 UTC
+
+Summary:
+Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies.
+The post <a href="https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/">Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/
+
+------------------------------------------------------------
 
 Title:
 Unit 42 Threat Intelligence Highlights - Nov. 2, 2026
@@ -282,24 +255,11 @@ https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
 
 ------------------------------------------------------------
 
-Title:
-Unwrapping Retail Peak Season Cyber Threats
-
-Published:
-2026-10-28 18:00 UTC
-
-Summary:
-Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust.
-The post <a href="https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/">Unwrapping Retail Peak Season Cyber Threats</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Bring a tent, I've got the coffee: Lessons from it-sa
@@ -312,6 +272,34 @@ Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real sto
 
 URL:
 https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/
+
+------------------------------------------------------------
+
+Title:
+Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer
+
+Published:
+2026-10-31 12:00 UTC
+
+Summary:
+The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.
+
+URL:
+https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/
+
+------------------------------------------------------------
+
+Title:
+A quiet week in infosec <.<
+
+Published:
+2026-10-29 18:00 UTC
+
+Summary:
+In this edition of the Threat Source newsletter, William explores how PHP has taken over the conversation, Node.js has joined in, but underneath it all, there are still good people doing good work.
+
+URL:
+https://blog.talosintelligence.com/a-quiet-week-in-infosec/
 
 ------------------------------------------------------------
 
@@ -650,6 +638,23 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
+Title:
+ARTEX abuse expands as cybercriminals target financial sector
+
+Published:
+2026-11-07 02:44 UTC
+
+Summary:
+In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/">ARTEX abuse expands as cybercriminals target financial sector</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/
+
+------------------------------------------------------------
+
 Title:
 Threat actors use agentic AI tooling to find and abuse exposed secrets
 
@@ -677,36 +682,6 @@ The post <a href="https://techcommunity.microsoft.com/blog/microsoft-security-bl
 
 URL:
 https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381
-
-------------------------------------------------------------
-
-Title:
-​​​​What’s new in Microsoft Security: November 2026
-
-Published:
-2026-11-05 17:00 UTC
-
-Summary:
-Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/">​​​​What’s new in Microsoft Security: November 2026</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/
-
-------------------------------------------------------------
-
-Title:
-Email threat landscape: Q3 2026 trends and insights
-
-Published:
-2026-11-05 16:00 UTC
-
-Summary:
-Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with security overrides.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/">Email threat landscape: Q3 2026 trends and insights</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/
 
 ------------------------------------------------------------
 

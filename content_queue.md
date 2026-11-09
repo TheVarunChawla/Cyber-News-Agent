@@ -1,6 +1,6 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-11-06 08:06 UTC_
+_Generated: 2026-11-09 08:14 UTC_
 
 ## This post's topic
 
@@ -35,7 +35,8 @@ What part of this topic would you like me to explain next?
 
 ## Optional current-event context
 
-- Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)
+- CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation
+- CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands
 
 ## Before publishing
 
