@@ -1,93 +1,91 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-11 07:54 UTC_
+_Last run: 2026-11-13 08:17 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches
+Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2
 
 Published:
-2026-11-11 06:04 UTC
+2026-11-13 05:43 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.
 
-Details of the vulnerabilities are below -
-
-
-  CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity
+"We are restricting certain N-central features and integrations," the company said in a Thursday update. "These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the
 
 URL:
-https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
+https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html
 
 ------------------------------------------------------------
 
 Title:
-Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones
+ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories
 
 Published:
-2026-11-10 19:23 UTC
+2026-11-12 18:02 UTC
 
 Summary:
-A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.
+A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there.
 
-The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An
+Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while
 
 URL:
-https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
+https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html
 
 ------------------------------------------------------------
 
 Title:
-SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users
+New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access
 
 Published:
-2026-11-10 19:19 UTC
+2026-11-12 17:50 UTC
 
 Summary:
-An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.
+Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver.
 
-The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE
+The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privileged process opens a prepared log, using path redirection to take control of
 
 URL:
-https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html
+https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html
 
 ------------------------------------------------------------
 
 Title:
-Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access
+Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry
 
 Published:
-2026-11-10 18:12 UTC
+2026-11-12 16:27 UTC
 
 Summary:
-French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.
+A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.
 
-The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.
-
-"REST cookie parsing turns authenticationToken=j:%7B%7D into {}," Vates VMS said in an alert. "REST authentication passes that object to the
+Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can still exploit the flaw, Red Hat said yesterday. The company has released fixed builds for eight Quay
 
 URL:
-https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html
+https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html
 
 ------------------------------------------------------------
 
 Title:
-Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem
+Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass
 
 Published:
-2026-11-10 17:43 UTC
+2026-11-12 15:38 UTC
 
 Summary:
-Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year.
+Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass.
 
-Check Point Research is tracking the clusters under the names SilentDelivery,
+The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below -
+
+
+  CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet
 
 URL:
-https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html
+https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html
 
 ------------------------------------------------------------
 
@@ -96,72 +94,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Railway breach leads to $740,000 in fraudulent AI charges
+New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks
 
 Published:
-2026-11-10 22:20 UTC
+2026-11-12 22:53 UTC
 
 Summary:
-Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]
+A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/
+https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Japanese furniture giant Nitori says hackers stole 37.6M customer records
+Hackers compromise 4,800 GitHub accounts to steal cloud credentials
 
 Published:
-2026-11-10 20:54 UTC
+2026-11-12 22:25 UTC
 
 Summary:
-Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]
+A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/
+https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft releases Windows 10 KB5131096 extended security update
+Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide
 
 Published:
-2026-11-10 20:04 UTC
+2026-11-12 20:15 UTC
 
 Summary:
-Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]
+Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/
+https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/
 
 ------------------------------------------------------------
 
 Title:
-Hackers exploit trusted AWS access to breach multiple cloud environments
+New N-able "4EverAble2Shell" zero-day exploited hours after PoC released
 
 Published:
-2026-11-10 19:31 UTC
+2026-11-12 19:51 UTC
 
 Summary:
-A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]
+Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed "4EverAble2Shell" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/
+https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/
 
 ------------------------------------------------------------
 
 Title:
-Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day
+Apache HTTP Server patches critical HTTP/2 remote code execution flaw
 
 Published:
-2026-11-10 19:07 UTC
+2026-11-12 19:12 UTC
 
 Summary:
-Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]
+A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/
+https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/
 
 ------------------------------------------------------------
 
@@ -170,72 +168,44 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Trump picks Palantir cybersecurity executive to lead CISA
+AI found widespread IoT vulnerabilities more quickly and cheaply than humans could
 
 Published:
-2026-11-10 15:44 UTC
+2026-11-12 15:30 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp" /></div></figure>The nomination &mdash; Trump&rsquo;s second attempt to fill a post that has sat vacant for his entire second term &mdash; could face steep odds in the Senate.
+<figure><div><img src="https://imgproxy.divecdn.com/rYFwoq2SbnkggLx26tFTc__vmJRJpr7fAAt3MBdnYnE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNzY5NjEzLmpwZw==.webp" /></div></figure>The newly discovered vulnerabilities illustrate AI&rsquo;s growing power &mdash; as well as critical infrastructure&rsquo;s continuing weaknesses.
 
 URL:
-https://www.cybersecuritydive.com/news/trump-cisa-director-nominee-michael-losapio/874256/
+https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/
 
 ------------------------------------------------------------
 
 Title:
-Truth or consequences: What your AI strategy is standing on
+N-able issues hotfix after researcher dumps PoCs in disclosure spat
 
 Published:
-2026-11-10 10:00 UTC
+2026-11-11 16:02 UTC
 
 Summary:
-AI acts on bad asset data as confidently as good. Verify the foundation first. 
+<figure><div><img src="https://imgproxy.divecdn.com/S2c89MyAuYfwQVUuxFHi2ADbiyHcNArQGnLt4GICEVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcwMjk0OTQxLmpwZw==.webp" /></div></figure>The company briefly disabled access to its RMM platform after an independent researcher warned of critical flaws.
 
 URL:
-https://www.cybersecuritydive.com/spons/truth-or-consequences-what-your-ai-strategy-is-standing-on/873999/
+https://www.cybersecuritydive.com/news/n-able-hotfix-researcher-pocs-zero-days/874388/
 
 ------------------------------------------------------------
 
 Title:
-Financially motivated threat cluster uses AI-enabled tools against banking sector
+CISA sets operational priorities for partnerships, risk assessments and systemic action
 
 Published:
-2026-11-09 15:50 UTC
+2026-11-11 15:28 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/i7usC9ebwCLG2x8oBJw6jDycNwKT7vROtVzhrnZaUnk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDc1Nzc1MTM1X2dEYVBQa0QuanBn.webp" /></div></figure>The campaign is the latest in a wave of attacks using Artex and other pen-testing tools to automate cyberattacks.
+<figure><div><img src="https://imgproxy.divecdn.com/M4NWKOlWdwaUSK8auyjnvPrgDjv6n0xNS0WjHoKzcFk/g:nowe:0:508/c:3196:1806/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MDlfMTg0MTU3NDA5LmpwZw==.webp" /></div></figure>An internal memo from CISA&rsquo;s acting chief instructs senior leaders to keep the new priorities in mind with every choice they make.
 
 URL:
-https://www.cybersecuritydive.com/news/financially-motivated-threat-ai-tools-banking-artex/874116/
-
-------------------------------------------------------------
-
-Title:
-Cybersecurity education in the AI era: What’s new, what’s different
-
-Published:
-2026-11-09 15:46 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/xn9zQQ57EiaDRUhA_RHlMkPTnOxo8734yMEAi3NPhns/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUxMTExNDE5LmpwZw==.webp" /></div></figure>Businesses are trying new ways to keep employees vigilant, and colleges are debuting curriculum to prepare tomorrow&rsquo;s AI workers.
-
-URL:
-https://www.cybersecuritydive.com/news/cybersecurity-training-workforce-education-ai/874118/
-
-------------------------------------------------------------
-
-Title:
-Improving incident response with AI agents
-
-Published:
-2026-11-09 10:00 UTC
-
-Summary:
-AI-driven incident response reduces workflow delays while keeping analysts in control.
-
-URL:
-https://www.cybersecuritydive.com/spons/improving-incident-response-with-ai-agents/872988/
+https://www.cybersecuritydive.com/news/cisa-priorities-memo-risks-partnerships/874381/
 
 ------------------------------------------------------------
 
@@ -248,6 +218,8 @@ SOURCE : Trend Micro
 ============================================================
 SOURCE : CISA
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 CISA Announces Enhanced Reporting Form for Cyber Incidents
@@ -263,54 +235,80 @@ https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyb
 
 ------------------------------------------------------------
 
+Title:
+CISA, FBI, HHS, USDA, and DOT Urge Critical Infrastructure To Strengthen Industrial Refrigeration and Cold Chain Monitoring Systems Cybersecurity
+
+Published:
+2026-11-05 12:00 UTC
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-strengthen-industrial-refrigeration-and-cold
+
+------------------------------------------------------------
+
+Title:
+CISA Kicks Off Critical Infrastructure Security and Resilience Month 2026
+
+Published:
+2026-11-02 12:00 UTC
+
+Summary:
+
+
+URL:
+https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-security-and-resilience-month-2026
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems
+Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors
 
 Published:
-2026-11-06 21:15 UTC
+2026-11-12 15:00 UTC
 
 Summary:
-Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies.
-The post <a href="https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/">Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Our analysis of how attackers used the open-source Cairn AI agent framework to autonomously breach semiconductor, defense and civic targets.
+The post <a href="https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/">Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/
+https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
 
 ------------------------------------------------------------
 
 Title:
-Unit 42 Threat Intelligence Highlights - Nov. 2, 2026
+ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know
 
 Published:
-2026-11-02 23:00 UTC
+2026-11-11 23:00 UTC
 
 Summary:
-Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows.
-The post <a href="https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/">Unit 42 Threat Intelligence Highlights - Nov. 2, 2026</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks.
+The post <a href="https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/">ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/
+https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/
 
 ------------------------------------------------------------
 
 Title:
-Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)
+The XG Files: Falcon C2 Flying Under The (Browser) Radar
 
 Published:
-2026-10-29 18:00 UTC
+2026-11-11 15:00 UTC
 
 Summary:
-CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.
-The post <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+We uncover Falcon C2, a browser-based threat framework targeting governments via malicious scripts, extensions, and the Antino implant.
+The post <a href="https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/">The XG Files: Falcon C2 Flying Under The (Browser) Radar</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/
 
 ------------------------------------------------------------
 
@@ -319,17 +317,16 @@ SOURCE : Cisco Talos
 ============================================================
 
 Title:
-Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities
+Never be afraid to ask questions
 
 Published:
-2026-11-11 01:41 UTC
+2026-11-12 19:00 UTC
 
 Summary:
-Microsoft has released its monthly security update for November 2026, which includes 1328 vulnerabilities affecting a range of products, including 60 that Microsoft marked as "critical."
-Out of 60 "critical" vulnerabilities, 45 are remote code execution (RCE) vulnerabilities.
+Amy reflects on a formative college anthropology course that taught her the power of asking questions to bridge cultural gaps.
 
 URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/
+https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/
 
 ------------------------------------------------------------
 
@@ -669,32 +666,47 @@ SOURCE : Microsoft Security Blog
 ============================================================
 
 Title:
-Detecting sleeper agents hiding in AI model neurons
+Trained to betray: How post-training supply chain attacks hijack coding agents
 
 Published:
-2026-11-10 23:00 UTC
+2026-11-12 17:00 UTC
 
 Summary:
-Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/">Detecting sleeper agents hiding in AI model neurons</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/">Trained to betray: How post-training supply chain attacks hijack coding agents</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/
+https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/
 
 ------------------------------------------------------------
 
 Title:
-FORGE Lab uses agentic tools to identify memory safety issues in Rust
+The global socket: how threat actors are weaponizing GSocket for stealthy C2
 
 Published:
-2026-11-09 20:17 UTC
+2026-11-11 19:49 UTC
 
 Summary:
-Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/">FORGE Lab uses agentic tools to identify memory safety issues in Rust</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/">The global socket: how threat actors are weaponizing GSocket for stealthy C2</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/
+https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/
+
+------------------------------------------------------------
+
+Title:
+Lessons from 59 Linux Kernel Bug Reports
+
+Published:
+2026-11-11 16:55 UTC
+
+Summary:
+Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the challenges of turning AI-generated findings into validated vulnerabilities and upstream fixes.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/">Lessons from 59 Linux Kernel Bug Reports</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/
 
 ------------------------------------------------------------
 

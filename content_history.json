@@ -155,6 +155,10 @@
     {
       "date": "2026-11-11",
       "slug": "siem-explained"
+    },
+    {
+      "date": "2026-11-13",
+      "slug": "zero-trust"
     }
   ]
 }
