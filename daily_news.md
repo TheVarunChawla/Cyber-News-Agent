@@ -1,91 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-13 08:17 UTC_
+_Last run: 2026-11-16 08:08 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2
+Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys
 
 Published:
-2026-11-13 05:43 UTC
+2026-11-16 07:34 UTC
 
 Summary:
-N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.
+Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records.
 
-"We are restricting certain N-central features and integrations," the company said in a Thursday update. "These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the
+The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys.
+
+The team said this
 
 URL:
-https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html
+https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories
+BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server
 
 Published:
-2026-11-12 18:02 UTC
+2026-11-16 06:53 UTC
 
 Summary:
-A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there.
+An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.
 
-Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while
+The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,
 
 URL:
-https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html
+https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html
 
 ------------------------------------------------------------
 
 Title:
-New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access
+Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent
 
 Published:
-2026-11-12 17:50 UTC
+2026-11-15 11:27 UTC
 
 Summary:
-Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver.
+Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.
 
-The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privileged process opens a prepared log, using path redirection to take control of
+The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent.
+
+The company has 60 days to
 
 URL:
-https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html
+https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html
 
 ------------------------------------------------------------
 
 Title:
-Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry
+Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident
 
 Published:
-2026-11-12 16:27 UTC
+2026-11-15 08:22 UTC
 
 Summary:
-A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.
+The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.
 
-Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can still exploit the flaw, Red Hat said yesterday. The company has released fixed builds for eight Quay
+"An attacker obtained an access key we had issued to Fireworks," Cursor said in a Friday update. "The key was exposed by Fireworks, and the attacker used it to copy data from a read-only
 
 URL:
-https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html
+https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html
 
 ------------------------------------------------------------
 
 Title:
-Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass
+Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection
 
 Published:
-2026-11-12 15:38 UTC
+2026-11-14 12:38 UTC
 
 Summary:
-Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
 
-The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below -
-
-
-  CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet
+The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters
 
 URL:
-https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html
+https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html
 
 ------------------------------------------------------------
 
@@ -94,72 +95,58 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks
+FBI warns ARTEX AI hacking tool is powering global cyberattacks
 
 Published:
-2026-11-12 22:53 UTC
+2026-11-15 18:29 UTC
 
 Summary:
-A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]
+The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/
+https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/
 
 ------------------------------------------------------------
 
 Title:
-Hackers compromise 4,800 GitHub accounts to steal cloud credentials
+TSMC employee data breach linked to cloud provider
 
 Published:
-2026-11-12 22:25 UTC
+2026-11-15 15:23 UTC
 
 Summary:
-A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]
+Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/
+https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/
 
 ------------------------------------------------------------
 
 Title:
-Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide
+Cursor confirms security breach led to malicious Claude Code extension
 
 Published:
-2026-11-12 20:15 UTC
+2026-11-14 17:27 UTC
 
 Summary:
-Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]
+Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/
+https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/
 
 ------------------------------------------------------------
 
 Title:
-New N-able "4EverAble2Shell" zero-day exploited hours after PoC released
+US disrupts North Korean campaign behind $400 million crypto theft
 
 Published:
-2026-11-12 19:51 UTC
+2026-11-14 15:15 UTC
 
 Summary:
-Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed "4EverAble2Shell" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]
+The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/
-
-------------------------------------------------------------
-
-Title:
-Apache HTTP Server patches critical HTTP/2 remote code execution flaw
-
-Published:
-2026-11-12 19:12 UTC
-
-Summary:
-A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]
-
-URL:
-https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/
+https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/
 
 ------------------------------------------------------------
 
@@ -167,45 +154,47 @@ https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critic
 SOURCE : Cybersecurity Dive
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
-AI found widespread IoT vulnerabilities more quickly and cheaply than humans could
+White House task force says companies deserve liability relief for AI-fueled cyberattacks
 
 Published:
-2026-11-12 15:30 UTC
+2026-11-13 20:36 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/rYFwoq2SbnkggLx26tFTc__vmJRJpr7fAAt3MBdnYnE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNzY5NjEzLmpwZw==.webp" /></div></figure>The newly discovered vulnerabilities illustrate AI&rsquo;s growing power &mdash; as well as critical infrastructure&rsquo;s continuing weaknesses.
+<figure><div><img src="https://imgproxy.divecdn.com/DdqEFpCeaMtT5w-qT-QRDOwz7tyYWnqBXC3DOvozg8Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk0MzExNDUuanBn.webp" /></div></figure>Regulatory standards for cyber defenses are outdated in the AI era, the government working group said after its second meeting.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/
+https://www.cybersecuritydive.com/news/ai-white-house-task-force-cybersecurity-regulation/874679/
 
 ------------------------------------------------------------
 
 Title:
-N-able issues hotfix after researcher dumps PoCs in disclosure spat
+US cracks down on North Korean cryptocurrency-theft scheme, recovers more Binance funds
 
 Published:
-2026-11-11 16:02 UTC
+2026-11-13 15:54 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/S2c89MyAuYfwQVUuxFHi2ADbiyHcNArQGnLt4GICEVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcwMjk0OTQxLmpwZw==.webp" /></div></figure>The company briefly disabled access to its RMM platform after an independent researcher warned of critical flaws.
+<figure><div><img src="https://imgproxy.divecdn.com/_UnezC--funFbVCU3E88sVmqPnql0LaCmWKfOlOtPWo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU5NTA4MDQwLmpwZw==.webp" /></div></figure>Federal agents used court orders to chip away at North Korea&rsquo;s cyberattacks.
 
 URL:
-https://www.cybersecuritydive.com/news/n-able-hotfix-researcher-pocs-zero-days/874388/
+https://www.cybersecuritydive.com/news/north-korea-cyberattacks-cryptocurrency-seizure-seizure-facestealer-binance/874622/
 
 ------------------------------------------------------------
 
 Title:
-CISA sets operational priorities for partnerships, risk assessments and systemic action
+China-nexus actor uses AI tool in campaign targeting US defense, semiconductor industries
 
 Published:
-2026-11-11 15:28 UTC
+2026-11-13 15:38 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/M4NWKOlWdwaUSK8auyjnvPrgDjv6n0xNS0WjHoKzcFk/g:nowe:0:508/c:3196:1806/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MDlfMTg0MTU3NDA5LmpwZw==.webp" /></div></figure>An internal memo from CISA&rsquo;s acting chief instructs senior leaders to keep the new priorities in mind with every choice they make.
+<figure><div><img src="https://imgproxy.divecdn.com/pBVJIPKoJVTgHHWWdEijzgeyV1DjfTOZKO-WTriU-9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzUzNDc1LmpwZw==.webp" /></div></figure>A separate campaign used a pen-testing framework to steal AWS credentials.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-priorities-memo-risks-partnerships/874381/
+https://www.cybersecuritydive.com/news/china-hacker-ai-tool-campaign-us-defense-semiconductor/874619/
 
 ------------------------------------------------------------
 
@@ -267,6 +256,8 @@ https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-securit
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors
 
@@ -316,6 +307,22 @@ https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/
 SOURCE : Cisco Talos
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
+Title:
+ARTEX and beyond: AI-enabled penetration testing platforms
+
+Published:
+2026-11-13 20:57 UTC
+
+Summary:
+AI-enabled penetration testing and red team frameworks can automate and chain reconnaissance, vulnerability testing, and follow-on actions, lowering the skill threshold for attackers and accelerating intrusions when the tools are misused.
+
+URL:
+https://blog.talosintelligence.com/artex-and-beyond/
+
+------------------------------------------------------------
+
 Title:
 Never be afraid to ask questions
 
@@ -327,6 +334,21 @@ Amy reflects on a formative college anthropology course that taught her the powe
 
 URL:
 https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/
+
+------------------------------------------------------------
+
+Title:
+Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities
+
+Published:
+2026-11-11 01:41 UTC
+
+Summary:
+Microsoft has released its monthly security update for November 2026, which includes 1328 vulnerabilities affecting a range of products, including 60 that Microsoft marked as "critical."
+Out of 60 "critical" vulnerabilities, 45 are remote code execution (RCE) vulnerabilities.
+
+URL:
+https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/
 
 ------------------------------------------------------------
 
@@ -665,6 +687,23 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
+Title:
+SCKit abuses ScreenConnect to deploy remote access and target technician sessions
+
+Published:
+2026-11-13 21:31 UTC
+
+Summary:
+SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/">SCKit abuses ScreenConnect to deploy remote access and target technician sessions</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/
+
+------------------------------------------------------------
+
 Title:
 Trained to betray: How post-training supply chain attacks hijack coding agents
 
@@ -692,21 +731,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/11/globa
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/
-
-------------------------------------------------------------
-
-Title:
-Lessons from 59 Linux Kernel Bug Reports
-
-Published:
-2026-11-11 16:55 UTC
-
-Summary:
-Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the challenges of turning AI-generated findings into validated vulnerabilities and upstream fixes.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/">Lessons from 59 Linux Kernel Bug Reports</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/
 
 ------------------------------------------------------------
 
