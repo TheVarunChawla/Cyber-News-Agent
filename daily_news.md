@@ -1,92 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-16 08:08 UTC_
+_Last run: 2026-11-18 08:42 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys
+Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials
 
 Published:
-2026-11-16 07:34 UTC
+2026-11-18 06:45 UTC
 
 Summary:
-Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records.
+Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.
 
-The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys.
-
-The team said this
+The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of
 
 URL:
-https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html
+https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html
 
 ------------------------------------------------------------
 
 Title:
-BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server
+Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization
 
 Published:
-2026-11-16 06:53 UTC
+2026-11-18 05:58 UTC
 
 Summary:
-An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.
+The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise.
 
-The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,
+Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged
 
 URL:
-https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html
+https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html
 
 ------------------------------------------------------------
 
 Title:
-Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent
+Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More
 
 Published:
-2026-11-15 11:27 UTC
+2026-11-18 04:27 UTC
 
 Summary:
-Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.
+A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.
 
-The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent.
+The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature.
 
-The company has 60 days to
+Tracked as
 
 URL:
-https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html
+https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html
 
 ------------------------------------------------------------
 
 Title:
-Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident
+Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses
 
 Published:
-2026-11-15 08:22 UTC
+2026-11-17 19:34 UTC
 
 Summary:
-The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.
+A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.
 
-"An attacker obtained an access key we had issued to Fireworks," Cursor said in a Friday update. "The key was exposed by Fireworks, and the attacker used it to copy data from a read-only
+Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send
 
 URL:
-https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html
+https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html
 
 ------------------------------------------------------------
 
 Title:
-Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection
+Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges
 
 Published:
-2026-11-14 12:38 UTC
+2026-11-17 15:17 UTC
 
 Summary:
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK.
 
-The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters
+The 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance security notice.
 
 URL:
-https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html
+https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html
 
 ------------------------------------------------------------
 
@@ -95,58 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-FBI warns ARTEX AI hacking tool is powering global cyberattacks
+British Scattered Spider hacker sentenced to 6 years in prison
 
 Published:
-2026-11-15 18:29 UTC
+2026-11-18 08:24 UTC
 
 Summary:
-The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]
+A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/
+https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/
 
 ------------------------------------------------------------
 
 Title:
-TSMC employee data breach linked to cloud provider
+Critical Java4Shell flaw allows RCE attacks on major Java applications
 
 Published:
-2026-11-15 15:23 UTC
+2026-11-17 23:04 UTC
 
 Summary:
-Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]
+A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/
+https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/
 
 ------------------------------------------------------------
 
 Title:
-Cursor confirms security breach led to malicious Claude Code extension
+Cloud keys leaked in Docker Hub images are stolen within seconds
 
 Published:
-2026-11-14 17:27 UTC
+2026-11-17 21:27 UTC
 
 Summary:
-Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]
+Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/
+https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/
 
 ------------------------------------------------------------
 
 Title:
-US disrupts North Korean campaign behind $400 million crypto theft
+Japan takes Fugaku supercomputer offlline after cyberattack
 
 Published:
-2026-11-14 15:15 UTC
+2026-11-17 20:51 UTC
 
 Summary:
-The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]
+The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/
+https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/
+
+------------------------------------------------------------
+
+Title:
+Apple reports outages affecting iCloud Mail, AppleCare and more
+
+Published:
+2026-11-17 19:24 UTC
+
+Summary:
+Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]
+
+URL:
+https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/
 
 ------------------------------------------------------------
 
@@ -154,47 +166,73 @@ https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-White House task force says companies deserve liability relief for AI-fueled cyberattacks
+Healthcare firms fail to monitor AI tools as shadow AI leads to breaches
 
 Published:
-2026-11-13 20:36 UTC
+2026-11-17 16:03 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/DdqEFpCeaMtT5w-qT-QRDOwz7tyYWnqBXC3DOvozg8Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk0MzExNDUuanBn.webp" /></div></figure>Regulatory standards for cyber defenses are outdated in the AI era, the government working group said after its second meeting.
+<figure><div><img src="https://imgproxy.divecdn.com/nEGabtuozs5h9xOTMQjgaEsiKXoGJ4v3doMXVGBX688/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp" /></div></figure>The industry is embracing new technology, but security teams are stretched too thin to monitor it all.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-white-house-task-force-cybersecurity-regulation/874679/
+https://www.cybersecuritydive.com/news/healthcare-ai-cybersecurity-monitoring/874902/
 
 ------------------------------------------------------------
 
 Title:
-US cracks down on North Korean cryptocurrency-theft scheme, recovers more Binance funds
+Critical flaw in ScreenConnect exploited to run malicious files on MSP technician accounts
 
 Published:
-2026-11-13 15:54 UTC
+2026-11-17 15:58 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/_UnezC--funFbVCU3E88sVmqPnql0LaCmWKfOlOtPWo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU5NTA4MDQwLmpwZw==.webp" /></div></figure>Federal agents used court orders to chip away at North Korea&rsquo;s cyberattacks.
+<figure><div><img src="https://imgproxy.divecdn.com/NKxA6Y3_uiBRYvdAhS6LFwPIoM7_3-GD5Rb5njtrwy4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05Mjk3NzIzMTBfaUlxV1FsbC5qcGc=.webp" /></div></figure>Almost 690,000 file transfer requests were made in less than a month, according to security researchers.
 
 URL:
-https://www.cybersecuritydive.com/news/north-korea-cyberattacks-cryptocurrency-seizure-seizure-facestealer-binance/874622/
+https://www.cybersecuritydive.com/news/critical-flaw-screenconnect-malicious-files-msp/874900/
 
 ------------------------------------------------------------
 
 Title:
-China-nexus actor uses AI tool in campaign targeting US defense, semiconductor industries
+Agentic AI frameworks push hacking threat to ‘inflection point,’ Google warns
 
 Published:
-2026-11-13 15:38 UTC
+2026-11-16 16:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/pBVJIPKoJVTgHHWWdEijzgeyV1DjfTOZKO-WTriU-9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzUzNDc1LmpwZw==.webp" /></div></figure>A separate campaign used a pen-testing framework to steal AWS credentials.
+<figure><div><img src="https://imgproxy.divecdn.com/O3l_kgFFloXc_KXt7ZbLrsseB_Lqr2BsEBGEMARwk2g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzOTU5MTc3LmpwZw==.webp" /></div></figure>The tech giant on Monday became the latest high-profile authority to warn organizations about a new generation of automated tools.
 
 URL:
-https://www.cybersecuritydive.com/news/china-hacker-ai-tool-campaign-us-defense-semiconductor/874619/
+https://www.cybersecuritydive.com/news/ai-agentic-frameworks-artex-google-fbi/874753/
+
+------------------------------------------------------------
+
+Title:
+PHP2Shell flaw exploited in chained attacks targeting unpatched Check Point gateways
+
+Published:
+2026-11-16 15:47 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/JxVR1QHLPVFteBc7dqk3fxdQromcahBdm3_ZZyejzYg/g:nowe:0:1064/c:5197:2936/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMjMzMzIwLmpwZw==.webp" /></div></figure>The hackers, in certain cases, deployed destructive wiper malware and used political messaging.
+
+URL:
+https://www.cybersecuritydive.com/news/php2shell-exploited-chained-attacks-check-point/874751/
+
+------------------------------------------------------------
+
+Title:
+Beyond vulnerability management: Unified Exposure Management turns volume into prioritized action
+
+Published:
+2026-11-16 10:00 UTC
+
+Summary:
+UEM connects visibility, attacker-based prioritization, and remediation to close exposures faster.
+
+URL:
+https://www.cybersecuritydive.com/spons/beyond-vulnerability-management-unified-exposure-management-turns-volume-i/873540/
 
 ------------------------------------------------------------
 
@@ -256,50 +294,33 @@ https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-securit
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors
+Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us
 
 Published:
-2026-11-12 15:00 UTC
+2026-11-17 20:43 UTC
 
 Summary:
-Our analysis of how attackers used the open-source Cairn AI agent framework to autonomously breach semiconductor, defense and civic targets.
-The post <a href="https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/">Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation.
+The post <a href="https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/">Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
+https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/
 
 ------------------------------------------------------------
 
 Title:
-ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know
+QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments
 
 Published:
-2026-11-11 23:00 UTC
+2026-11-16 23:00 UTC
 
 Summary:
-Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks.
-The post <a href="https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/">ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+We uncover a Southeast Asian cyberespionage campaign deploying PerfectPioneer RAT, modular KUKURAT and stealth HTTP/3 C2 communication channels.
+The post <a href="https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/">QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/
-
-------------------------------------------------------------
-
-Title:
-The XG Files: Falcon C2 Flying Under The (Browser) Radar
-
-Published:
-2026-11-11 15:00 UTC
-
-Summary:
-We uncover Falcon C2, a browser-based threat framework targeting governments via malicious scripts, extensions, and the Antino implant.
-The post <a href="https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/">The XG Files: Falcon C2 Flying Under The (Browser) Radar</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/
+https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/
 
 ------------------------------------------------------------
 
@@ -307,48 +328,17 @@ https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-ARTEX and beyond: AI-enabled penetration testing platforms
+CVE-2026-114938: Critical vulnerability in OpenJDK JAVA
 
 Published:
-2026-11-13 20:57 UTC
+2026-11-18 01:53 UTC
 
 Summary:
-AI-enabled penetration testing and red team frameworks can automate and chain reconnaissance, vulnerability testing, and follow-on actions, lowering the skill threshold for attackers and accelerating intrusions when the tools are misused.
+Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).
 
 URL:
-https://blog.talosintelligence.com/artex-and-beyond/
-
-------------------------------------------------------------
-
-Title:
-Never be afraid to ask questions
-
-Published:
-2026-11-12 19:00 UTC
-
-Summary:
-Amy reflects on a formative college anthropology course that taught her the power of asking questions to bridge cultural gaps.
-
-URL:
-https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/
-
-------------------------------------------------------------
-
-Title:
-Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities
-
-Published:
-2026-11-11 01:41 UTC
-
-Summary:
-Microsoft has released its monthly security update for November 2026, which includes 1328 vulnerabilities affecting a range of products, including 60 that Microsoft marked as "critical."
-Out of 60 "critical" vulnerabilities, 45 are remote code execution (RCE) vulnerabilities.
-
-URL:
-https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/
+https://blog.talosintelligence.com/java4shell/
 
 ------------------------------------------------------------
 
@@ -687,50 +677,48 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-SCKit abuses ScreenConnect to deploy remote access and target technician sessions
+Security for the agentic era, powered by Microsoft Perception
 
 Published:
-2026-11-13 21:31 UTC
+2026-11-17 18:14 UTC
 
 Summary:
-SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/">SCKit abuses ScreenConnect to deploy remote access and target technician sessions</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Read about updates to Microsoft Perception and the new Microsoft Security cyber stack to defend against threats, secure agents, and protect your digital estate.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/">Security for the agentic era, powered by Microsoft Perception </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/
+https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/
 
 ------------------------------------------------------------
 
 Title:
-Trained to betray: How post-training supply chain attacks hijack coding agents
+The risks of device code authentication for AI coding agents
 
 Published:
-2026-11-12 17:00 UTC
+2026-11-17 15:00 UTC
 
 Summary:
-Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/">Trained to betray: How post-training supply chain attacks hijack coding agents</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Lab research shows how device code phishing, a technique that applies to any device-flow client, can extend to AI coding agents, using GitHub Copilot CLI as an illustrative example.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/">The risks of device code authentication for AI coding agents</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/
+https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/
 
 ------------------------------------------------------------
 
 Title:
-The global socket: how threat actors are weaponizing GSocket for stealthy C2
+High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors
 
 Published:
-2026-11-11 19:49 UTC
+2026-11-17 00:08 UTC
 
 Summary:
-Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/">The global socket: how threat actors are weaponizing GSocket for stealthy C2</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/">High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/
+https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/
 
 ------------------------------------------------------------
 
