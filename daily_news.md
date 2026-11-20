@@ -1,90 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-18 08:42 UTC_
+_Last run: 2026-11-20 08:45 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials
+ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs
 
 Published:
-2026-11-18 06:45 UTC
+2026-11-20 07:11 UTC
 
 Summary:
-Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.
+Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.
 
-The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of
+"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques," Blackpoint
 
 URL:
-https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html
+https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html
 
 ------------------------------------------------------------
 
 Title:
-Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization
+China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data
 
 Published:
-2026-11-18 05:58 UTC
+2026-11-20 06:33 UTC
 
 Summary:
-The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise.
+The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.
 
-Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged
+The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized
 
 URL:
-https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html
+https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html
 
 ------------------------------------------------------------
 
 Title:
-Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More
+New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It
 
 Published:
-2026-11-18 04:27 UTC
+2026-11-20 05:30 UTC
 
 Summary:
-A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.
+A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.
 
-The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature.
-
-Tracked as
+The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker
 
 URL:
-https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html
+https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html
 
 ------------------------------------------------------------
 
 Title:
-Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses
+ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories
 
 Published:
-2026-11-17 19:34 UTC
+2026-11-19 18:47 UTC
 
 Summary:
-A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.
+The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access.
 
-Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send
+There's another shift worth watching. AI is making some attacks easier
 
 URL:
-https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html
+https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html
 
 ------------------------------------------------------------
 
 Title:
-Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges
+phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution
 
 Published:
-2026-11-17 15:17 UTC
+2026-11-19 16:59 UTC
 
 Summary:
-Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK.
+PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server.
 
-The 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance security notice.
+Today's PHP releases fix the flaw, called phpAfterShell.
+
+The flaw is tracked as CVE-2026-126714 and rated
 
 URL:
-https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html
+https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html
 
 ------------------------------------------------------------
 
@@ -93,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-British Scattered Spider hacker sentenced to 6 years in prison
+VMware patches vCenter zero-day exploited in attacks since September
 
 Published:
-2026-11-18 08:24 UTC
+2026-11-20 00:26 UTC
 
 Summary:
-A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]
+Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/
+https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/
 
 ------------------------------------------------------------
 
 Title:
-Critical Java4Shell flaw allows RCE attacks on major Java applications
+Hackers steal data of 1.6 million SBC Medical Group customers
 
 Published:
-2026-11-17 23:04 UTC
+2026-11-19 22:25 UTC
 
 Summary:
-A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]
+SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/
+https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/
 
 ------------------------------------------------------------
 
 Title:
-Cloud keys leaked in Docker Hub images are stolen within seconds
+ASUS warns of critical hard-coded key flaw in Control Center Express
 
 Published:
-2026-11-17 21:27 UTC
+2026-11-19 21:15 UTC
 
 Summary:
-Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]
+ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/
+https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/
 
 ------------------------------------------------------------
 
 Title:
-Japan takes Fugaku supercomputer offlline after cyberattack
+Transport for London breach exposes 265,000 Oyster card users' data
 
 Published:
-2026-11-17 20:51 UTC
+2026-11-19 18:20 UTC
 
 Summary:
-The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]
+Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/
+https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/
 
 ------------------------------------------------------------
 
 Title:
-Apple reports outages affecting iCloud Mail, AppleCare and more
+PHP security updates fix 18 flaws, including critical RCE bugs
 
 Published:
-2026-11-17 19:24 UTC
+2026-11-19 16:28 UTC
 
 Summary:
-Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]
+The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/
+https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/
 
 ------------------------------------------------------------
 
@@ -167,72 +167,72 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-Healthcare firms fail to monitor AI tools as shadow AI leads to breaches
+Chinese espionage group targets critical flaw in VMware vCenter
 
 Published:
-2026-11-17 16:03 UTC
+2026-11-19 21:36 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/nEGabtuozs5h9xOTMQjgaEsiKXoGJ4v3doMXVGBX688/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp" /></div></figure>The industry is embracing new technology, but security teams are stretched too thin to monitor it all.
+<figure><div><img src="https://imgproxy.divecdn.com/igV71hmYpJppUJFSLyoGFbbo0vPZlMVJk2XJO_HWeiQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIxMDE0NTMwLmpwZw==.webp" /></div></figure>The attacks stem from a zero-day Armory Castle previously exploited in BeyondTrust Remote Support, which it used as an initial access point for follow-on activity.
 
 URL:
-https://www.cybersecuritydive.com/news/healthcare-ai-cybersecurity-monitoring/874902/
+https://www.cybersecuritydive.com/news/chinese-espionage-zero-day-flaw-vmware-vcenter/875273/
 
 ------------------------------------------------------------
 
 Title:
-Critical flaw in ScreenConnect exploited to run malicious files on MSP technician accounts
+Critical remote code execution flaws found in Nginx web server
 
 Published:
-2026-11-17 15:58 UTC
+2026-11-19 16:20 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/NKxA6Y3_uiBRYvdAhS6LFwPIoM7_3-GD5Rb5njtrwy4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05Mjk3NzIzMTBfaUlxV1FsbC5qcGc=.webp" /></div></figure>Almost 690,000 file transfer requests were made in less than a month, according to security researchers.
+<figure><div><img src="https://imgproxy.divecdn.com/Q6uZdgXjvXvCk8EkEjaDcuJoI3DDphQ6HTdPQ6sW6ms/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GNS1Ub3dlci1FeHRlcmlvci0wNS5qcGc=.webp" /></div></figure>The flaws, including one that remained hidden for more than a decade, are difficult to exploit.
 
 URL:
-https://www.cybersecuritydive.com/news/critical-flaw-screenconnect-malicious-files-msp/874900/
+https://www.cybersecuritydive.com/news/critical-remote-code-execution-flaws-nginx-web-server/875196/
 
 ------------------------------------------------------------
 
 Title:
-Agentic AI frameworks push hacking threat to ‘inflection point,’ Google warns
+Trump’s CISA director pick ducks questions about budget, staffing, priorities
 
 Published:
-2026-11-16 16:00 UTC
+2026-11-19 16:12 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/O3l_kgFFloXc_KXt7ZbLrsseB_Lqr2BsEBGEMARwk2g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzOTU5MTc3LmpwZw==.webp" /></div></figure>The tech giant on Monday became the latest high-profile authority to warn organizations about a new generation of automated tools.
+<figure><div><img src="https://imgproxy.divecdn.com/Ukhi8TdmnDmBNoBD1HmgG4JLy2GeQFMQGn8xLXhCr24/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1OTA0NTYxLmpwZw==.webp" /></div></figure>Michael LoSapio, a Palantir executive, also denied that the U.S. Capitol was attacked on Jan. 6, 2021.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-agentic-frameworks-artex-google-fbi/874753/
+https://www.cybersecuritydive.com/news/cisa-nominee-michael-losapio-confirmation-hearing/875197/
 
 ------------------------------------------------------------
 
 Title:
-PHP2Shell flaw exploited in chained attacks targeting unpatched Check Point gateways
+‘What the hell is going on?’: Technology outages offer preview of US infrastructure’s messy, risky future
 
 Published:
-2026-11-16 15:47 UTC
+2026-11-19 15:50 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/JxVR1QHLPVFteBc7dqk3fxdQromcahBdm3_ZZyejzYg/g:nowe:0:1064/c:5197:2936/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMjMzMzIwLmpwZw==.webp" /></div></figure>The hackers, in certain cases, deployed destructive wiper malware and used political messaging.
+<figure><div><img src="https://imgproxy.divecdn.com/S8TeCB8xrcjTioF-pV3JUkIA0enbSveXDSWEwD5D9ko/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1NzIxNzM5LmpwZw==.webp" /></div></figure>As AI keeps finding serious software vulnerabilities, businesses will struggle to upgrade aging computer systems that weren&rsquo;t designed for the modern threat landscape.
 
 URL:
-https://www.cybersecuritydive.com/news/php2shell-exploited-chained-attacks-check-point/874751/
+https://www.cybersecuritydive.com/news/technology-outages-cyberattacks-ai-house-hearing/875148/
 
 ------------------------------------------------------------
 
 Title:
-Beyond vulnerability management: Unified Exposure Management turns volume into prioritized action
+Energy giant Equinor investigates cyberattack impacting IT systems
 
 Published:
-2026-11-16 10:00 UTC
+2026-11-18 15:16 UTC
 
 Summary:
-UEM connects visibility, attacker-based prioritization, and remediation to close exposures faster.
+The Norway-based oil and gas giant said production capabilities were not disrupted, but it has no immediate timetable for full recovery.
 
 URL:
-https://www.cybersecuritydive.com/spons/beyond-vulnerability-management-unified-exposure-management-turns-volume-i/873540/
+https://www.cybersecuritydive.com/news/energy-equinor-investigates-cyberattack/875035/
 
 ------------------------------------------------------------
 
@@ -294,6 +294,8 @@ https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-securit
 SOURCE : Palo Alto Unit42
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
 Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us
 
@@ -324,21 +326,64 @@ https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-government
 
 ------------------------------------------------------------
 
+Title:
+Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors
+
+Published:
+2026-11-12 15:00 UTC
+
+Summary:
+Our analysis of how attackers used the open-source Cairn AI agent framework to autonomously breach semiconductor, defense and civic targets.
+The post <a href="https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/">Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
+
+------------------------------------------------------------
+
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
 
 Title:
-CVE-2026-114938: Critical vulnerability in OpenJDK JAVA
+The internet needs a nap (and you do, too)
 
 Published:
-2026-11-18 01:53 UTC
+2026-11-19 19:00 UTC
 
 Summary:
-Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).
+Bill takes a break from the non-stop breaking news to promote prioritizing environmental awareness and team stability over reactive patching.
 
 URL:
-https://blog.talosintelligence.com/java4shell/
+https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/
+
+------------------------------------------------------------
+
+Title:
+The challenge of defending against bulletproof dead drops on public blockchains
+
+Published:
+2026-11-18 11:00 UTC
+
+Summary:
+The evolution of malware command-and-control (C2) infrastructure has shifted away from fragile, centralized servers and hardcoded domains toward resilient, decentralized blockchain networks that eliminate single points of failure.
+
+URL:
+https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/
+
+------------------------------------------------------------
+
+Title:
+UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing
+
+Published:
+2026-11-18 11:00 UTC
+
+Summary:
+Cisco Talos discovered malicious infrastructure associated with a financially motivated threat group we are tracking as UAT-12643.
+
+URL:
+https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/
 
 ------------------------------------------------------------
 
@@ -676,6 +721,8 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 ============================================================
 SOURCE : Microsoft Security Blog
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 Security for the agentic era, powered by Microsoft Perception
