@@ -1,90 +1,96 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-20 08:45 UTC_
+_Last run: 2026-11-23 09:19 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs
+AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms
 
 Published:
-2026-11-20 07:11 UTC
+2026-11-23 08:24 UTC
 
 Summary:
-Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.
+The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.
 
-"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques," Blackpoint
+This unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers
 
 URL:
-https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html
+https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html
 
 ------------------------------------------------------------
 
 Title:
-China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data
+OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms
 
 Published:
-2026-11-20 06:33 UTC
+2026-11-22 05:06 UTC
 
 Summary:
-The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.
+Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
 
-The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized
+Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.
+
+OpenRouter, a gateway that routes customers' AI requests to a pool of
 
 URL:
-https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html
+https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
 
 ------------------------------------------------------------
 
 Title:
-New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It
+Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps
 
 Published:
-2026-11-20 05:30 UTC
+2026-11-22 05:03 UTC
 
 Summary:
-A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.
+A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.
 
-The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker
+Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.
+
+Security firm pwn.ai showed this week that ordinary upload,
 
 URL:
-https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html
+https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html
 
 ------------------------------------------------------------
 
 Title:
-ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories
+A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats
 
 Published:
-2026-11-19 18:47 UTC
+2026-11-21 11:53 UTC
 
 Summary:
-The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access.
+A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
 
-There's another shift worth watching. AI is making some attacks easier
+The same attack could be extended to reach the credentials Muse stores for the user's connected accounts.
+
+The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's
 
 URL:
-https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html
+https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
 
 ------------------------------------------------------------
 
 Title:
-phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution
+GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys
 
 Published:
-2026-11-19 16:59 UTC
+2026-11-21 11:05 UTC
 
 Summary:
-PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server.
+A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.
 
-Today's PHP releases fix the flaw, called phpAfterShell.
+The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.
 
-The flaw is tracked as CVE-2026-126714 and rated
+The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,
 
 URL:
-https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html
+https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html
 
 ------------------------------------------------------------
 
@@ -93,72 +99,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-VMware patches vCenter zero-day exploited in attacks since September
+Microsoft confirms Windows printing issues affecting Forcepoint users
 
 Published:
-2026-11-20 00:26 UTC
+2026-11-23 09:11 UTC
 
 Summary:
-Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]
+Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/
 
 ------------------------------------------------------------
 
 Title:
-Hackers steal data of 1.6 million SBC Medical Group customers
+CISA flags critical Cisco RCE flaw as actively exploited in attacks
 
 Published:
-2026-11-19 22:25 UTC
+2026-11-23 07:44 UTC
 
 Summary:
-SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]
+The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/
+https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/
 
 ------------------------------------------------------------
 
 Title:
-ASUS warns of critical hard-coded key flaw in Control Center Express
+Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices
 
 Published:
-2026-11-19 21:15 UTC
+2026-11-22 18:45 UTC
 
 Summary:
-ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]
+GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/
 
 ------------------------------------------------------------
 
 Title:
-Transport for London breach exposes 265,000 Oyster card users' data
+Cleverbridge warns hackers stole credit card numbers, CVVs in data breach
 
 Published:
-2026-11-19 18:20 UTC
+2026-11-22 15:43 UTC
 
 Summary:
-Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]
+E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/
+https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/
 
 ------------------------------------------------------------
 
 Title:
-PHP security updates fix 18 flaws, including critical RCE bugs
+Signal to block Siri, Gemini AI from capturing chats on iOS, Android
 
 Published:
-2026-11-19 16:28 UTC
+2026-11-22 15:15 UTC
 
 Summary:
-The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]
+Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/
+https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/
 
 ------------------------------------------------------------
 
@@ -166,73 +172,47 @@ https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws
 SOURCE : Cybersecurity Dive
 ============================================================
 
+[No articles in the last 48h - showing latest available]
+
 Title:
-Chinese espionage group targets critical flaw in VMware vCenter
+FCC to propose regulations for Cyber Trust Mark IoT labeling program
 
 Published:
-2026-11-19 21:36 UTC
+2026-11-20 19:00 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/igV71hmYpJppUJFSLyoGFbbo0vPZlMVJk2XJO_HWeiQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIxMDE0NTMwLmpwZw==.webp" /></div></figure>The attacks stem from a zero-day Armory Castle previously exploited in BeyondTrust Remote Support, which it used as an initial access point for follow-on activity.
+<figure><div><img src="https://imgproxy.divecdn.com/T5UzibMky91AdxH9XNXvMwSsbwowxom1KS7EiBDPc10/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYyMzc4NTIyLmpwZw==.webp" /></div></figure>The commission hopes the program will encourage device manufacturers to prioritize cybersecurity.
 
 URL:
-https://www.cybersecuritydive.com/news/chinese-espionage-zero-day-flaw-vmware-vcenter/875273/
+https://www.cybersecuritydive.com/news/fcc-cyber-trust-mark-internet-of-things-regulation-proposal/875328/
 
 ------------------------------------------------------------
 
 Title:
-Critical remote code execution flaws found in Nginx web server
+JPMorgan, Visa confirm customer data taken in third-party vendor hacks
 
 Published:
-2026-11-19 16:20 UTC
+2026-11-20 15:52 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Q6uZdgXjvXvCk8EkEjaDcuJoI3DDphQ6HTdPQ6sW6ms/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GNS1Ub3dlci1FeHRlcmlvci0wNS5qcGc=.webp" /></div></figure>The flaws, including one that remained hidden for more than a decade, are difficult to exploit.
+<figure><div><img src="https://imgproxy.divecdn.com/xcjjt5ZKChnr0BkiYQlxWWblzyLtC5Kss8gArq0eZlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ2MjEwNzg5LmpwZw==.webp" /></div></figure>The companies said the breaches were not related to a recent string of tech disruptions.
 
 URL:
-https://www.cybersecuritydive.com/news/critical-remote-code-execution-flaws-nginx-web-server/875196/
+https://www.cybersecuritydive.com/news/jpmorgan-visa-customer-data-leaked-third-party-hacks/875333/
 
 ------------------------------------------------------------
 
 Title:
-Trump’s CISA director pick ducks questions about budget, staffing, priorities
+National Cyber Director Sean Cairncross leaving the government
 
 Published:
-2026-11-19 16:12 UTC
+2026-11-20 01:04 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/Ukhi8TdmnDmBNoBD1HmgG4JLy2GeQFMQGn8xLXhCr24/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1OTA0NTYxLmpwZw==.webp" /></div></figure>Michael LoSapio, a Palantir executive, also denied that the U.S. Capitol was attacked on Jan. 6, 2021.
+<figure><div><img src="https://imgproxy.divecdn.com/PI0C9X-5YLPf33QDepaydX-F1XP1-NpMIfO3NtruHNA/g:nowe:0:396/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTBfMTIyNjI4MzM2LmpwZw==.webp" /></div></figure>Cairncross, once a close ally of the president, lost favor as he clashed with other officials over AI security.
 
 URL:
-https://www.cybersecuritydive.com/news/cisa-nominee-michael-losapio-confirmation-hearing/875197/
-
-------------------------------------------------------------
-
-Title:
-‘What the hell is going on?’: Technology outages offer preview of US infrastructure’s messy, risky future
-
-Published:
-2026-11-19 15:50 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/S8TeCB8xrcjTioF-pV3JUkIA0enbSveXDSWEwD5D9ko/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1NzIxNzM5LmpwZw==.webp" /></div></figure>As AI keeps finding serious software vulnerabilities, businesses will struggle to upgrade aging computer systems that weren&rsquo;t designed for the modern threat landscape.
-
-URL:
-https://www.cybersecuritydive.com/news/technology-outages-cyberattacks-ai-house-hearing/875148/
-
-------------------------------------------------------------
-
-Title:
-Energy giant Equinor investigates cyberattack impacting IT systems
-
-Published:
-2026-11-18 15:16 UTC
-
-Summary:
-The Norway-based oil and gas giant said production capabilities were not disrupted, but it has no immediate timetable for full recovery.
-
-URL:
-https://www.cybersecuritydive.com/news/energy-equinor-investigates-cyberattack/875035/
+https://www.cybersecuritydive.com/news/national-cyber-director-sean-cairncross-trump-white-house/875294/
 
 ------------------------------------------------------------
 
@@ -297,6 +277,21 @@ SOURCE : Palo Alto Unit42
 [No articles in the last 48h - showing latest available]
 
 Title:
+Dialing for Data: Inside the Com’s High-Profile Heists
+
+Published:
+2026-11-20 22:00 UTC
+
+Summary:
+Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance.
+The post <a href="https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/">Dialing for Data: Inside the Com’s High-Profile Heists</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+
+URL:
+https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/
+
+------------------------------------------------------------
+
+Title:
 Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us
 
 Published:
@@ -326,24 +321,11 @@ https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-government
 
 ------------------------------------------------------------
 
-Title:
-Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors
-
-Published:
-2026-11-12 15:00 UTC
-
-Summary:
-Our analysis of how attackers used the open-source Cairn AI agent framework to autonomously breach semiconductor, defense and civic targets.
-The post <a href="https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/">Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
-
-------------------------------------------------------------
-
 ============================================================
 SOURCE : Cisco Talos
 ============================================================
+
+[No articles in the last 48h - showing latest available]
 
 Title:
 The internet needs a nap (and you do, too)
@@ -725,6 +707,21 @@ SOURCE : Microsoft Security Blog
 [No articles in the last 48h - showing latest available]
 
 Title:
+Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM
+
+Published:
+2026-11-20 17:00 UTC
+
+Summary:
+We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+
+URL:
+https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/
+
+------------------------------------------------------------
+
+Title:
 Security for the agentic era, powered by Microsoft Perception
 
 Published:
@@ -751,21 +748,6 @@ The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/17/the-r
 
 URL:
 https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/
-
-------------------------------------------------------------
-
-Title:
-High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors
-
-Published:
-2026-11-17 00:08 UTC
-
-Summary:
-Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/">High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/
 
 ------------------------------------------------------------
 
