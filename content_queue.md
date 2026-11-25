@@ -1,35 +1,35 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-11-23 09:19 UTC_
+_Generated: 2026-11-25 09:59 UTC_
 
 ## This post's topic
 
-**Antivirus vs EDR: Why Both Terms Exist**
+**Encryption in Plain English**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A laptop with two layers: antivirus blocks a known malicious file; EDR traces suspicious behaviour and gives the analyst response options.
+- **Fastest:** a single image using this visual brief: A message becomes a locked box, crosses the internet, and is opened with the right key at the destination.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Antivirus vs EDR
-2. What antivirus does
-3. What EDR adds
-4. A simple investigation example
-5. Questions to ask your security team
-- **Most eye-catching:** a 5–8 second looping GIF: A malicious process appears; the EDR timeline lights up and the endpoint is isolated.
+1. Encryption, simply explained
+2. Plaintext
+3. Ciphertext
+4. The role of a key
+5. Where you use encryption every day
+- **Most eye-catching:** a 5–8 second looping GIF: A readable message scrambles into unreadable characters and unlocks only with a matching key.
 
 ## Ready-to-personalize LinkedIn caption
 
-Antivirus looks for known bad things. EDR helps security teams investigate suspicious behaviour.
+Encryption changes readable information into a form that only the right key can unlock.
 
-Endpoint Detection and Response tools provide visibility into devices and enable detection, investigation, and response. They add context beyond traditional file-based antivirus protection.
+It protects data when it is being sent and when it is stored. The key is the secret that lets an authorized person turn ciphertext back into readable information.
 
-What to remember: A security tool is only useful when alerts are reviewed and response actions are tested.
+What to remember: Encryption protects data, but poor key management can still expose it.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #EDR #EndpointSecurity
+#Cybersecurity #Encryption #DataSecurity
 
 ## Optional current-event context
 

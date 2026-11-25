@@ -1,96 +1,90 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-23 09:19 UTC_
+_Last run: 2026-11-25 09:59 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms
+Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers
 
 Published:
-2026-11-23 08:24 UTC
+2026-11-25 09:06 UTC
 
 Summary:
-The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.
+An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.
 
-This unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers
+The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had every server on a patched build within about 15 minutes of the first malicious request.
+
+Checks
 
 URL:
-https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html
+https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html
 
 ------------------------------------------------------------
 
 Title:
-OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms
+Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign
 
 Published:
-2026-11-22 05:06 UTC
+2026-11-25 06:50 UTC
 
 Summary:
-Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
+An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.
 
-Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.
-
-OpenRouter, a gateway that routes customers' AI requests to a pool of
+The intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13), is assessed to have targeted organizations in the financial services, energy, government,
 
 URL:
-https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
+https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html
 
 ------------------------------------------------------------
 
 Title:
-Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps
+Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion
 
 Published:
-2026-11-22 05:03 UTC
+2026-11-25 06:37 UTC
 
 Summary:
-A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.
+Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to "numerous waves of vishing attacks" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts.
 
-Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.
-
-Security firm pwn.ai showed this week that ordinary upload,
+The attacks have targeted financial services, healthcare, and legal services located in the U.S., the U.K., and Australia. Other targets include construction,
 
 URL:
-https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html
+https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html
 
 ------------------------------------------------------------
 
 Title:
-A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats
+WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live
 
 Published:
-2026-11-21 11:53 UTC
+2026-11-25 06:21 UTC
 
 Summary:
-A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
+WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account.
 
-The same attack could be extended to reach the credentials Muse stores for the user's connected accounts.
-
-The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's
+The WordPress plugins team has independently detected and blocked the threat before it could be officially released. Visiting each plugin listing now
 
 URL:
-https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
+https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html
 
 ------------------------------------------------------------
 
 Title:
-GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys
+Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns
 
 Published:
-2026-11-21 11:05 UTC
+2026-11-24 16:54 UTC
 
 Summary:
-A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.
+A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.
 
-The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.
-
-The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,
+Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of
 
 URL:
-https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html
+https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html
 
 ------------------------------------------------------------
 
@@ -99,72 +93,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Microsoft confirms Windows printing issues affecting Forcepoint users
+Microsoft confirms authentication issues after November updates
 
 Published:
-2026-11-23 09:11 UTC
+2026-11-25 09:02 UTC
 
 Summary:
-Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]
+Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/
 
 ------------------------------------------------------------
 
 Title:
-CISA flags critical Cisco RCE flaw as actively exploited in attacks
+Hackers reportedly breached CIA intelligence analysis system
 
 Published:
-2026-11-23 07:44 UTC
+2026-11-25 07:45 UTC
 
 Summary:
-The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]
+Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/
+https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/
 
 ------------------------------------------------------------
 
 Title:
-Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices
+Rackspace shuts down Spot cloud platform after security breach
 
 Published:
-2026-11-22 18:45 UTC
+2026-11-24 21:37 UTC
 
 Summary:
-GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]
+Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/
+https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/
 
 ------------------------------------------------------------
 
 Title:
-Cleverbridge warns hackers stole credit card numbers, CVVs in data breach
+New Inception extortion gang launches large-scale vishing campaign
 
 Published:
-2026-11-22 15:43 UTC
+2026-11-24 20:21 UTC
 
 Summary:
-E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]
+A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/
+https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/
 
 ------------------------------------------------------------
 
 Title:
-Signal to block Siri, Gemini AI from capturing chats on iOS, Android
+Turnitin discloses cyberattack affecting customer-facing systems
 
 Published:
-2026-11-22 15:15 UTC
+2026-11-24 18:59 UTC
 
 Summary:
-Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]
+Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/
+https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/
 
 ------------------------------------------------------------
 
@@ -172,47 +166,73 @@ https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-fr
 SOURCE : Cybersecurity Dive
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-FCC to propose regulations for Cyber Trust Mark IoT labeling program
+OpenAI, Cisco debut tool that lets AI agents safely block vulnerability exploitation
 
 Published:
-2026-11-20 19:00 UTC
+2026-11-24 17:18 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/T5UzibMky91AdxH9XNXvMwSsbwowxom1KS7EiBDPc10/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYyMzc4NTIyLmpwZw==.webp" /></div></figure>The commission hopes the program will encourage device manufacturers to prioritize cybersecurity.
+<figure><div><img src="https://imgproxy.divecdn.com/CfDjkOOtIhLmrbSaqs4qjJp0TJeSFzFZJf3X1F4kTBU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc0MzE5LmpwZw==.webp" /></div></figure>The new framework can provide temporary protection while organizations test patches.
 
 URL:
-https://www.cybersecuritydive.com/news/fcc-cyber-trust-mark-internet-of-things-regulation-proposal/875328/
+https://www.cybersecuritydive.com/news/ai-vulnerability-openai-cisco-shirudo-linux/875644/
 
 ------------------------------------------------------------
 
 Title:
-JPMorgan, Visa confirm customer data taken in third-party vendor hacks
+AI-enabled campaign targets Check Point Security Management servers
 
 Published:
-2026-11-20 15:52 UTC
+2026-11-24 15:50 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/xcjjt5ZKChnr0BkiYQlxWWblzyLtC5Kss8gArq0eZlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ2MjEwNzg5LmpwZw==.webp" /></div></figure>The companies said the breaches were not related to a recent string of tech disruptions.
+<figure><div><img src="https://imgproxy.divecdn.com/3b1u2rf86QoLiK1vXUv09HzavPR0arvvSCHcnS0M-u0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU4MTkxMDc2LmpwZw==.webp" /></div></figure>At least 22 organizations were compromised in the attacks, which involved the exploitation of critical vulnerabilities.
 
 URL:
-https://www.cybersecuritydive.com/news/jpmorgan-visa-customer-data-leaked-third-party-hacks/875333/
+https://www.cybersecuritydive.com/news/ai-enabled-campaign-targets-check-point-security-management-servers/875622/
 
 ------------------------------------------------------------
 
 Title:
-National Cyber Director Sean Cairncross leaving the government
+Federal agencies missing opportunities to help protect food sector from cyber threats, GAO says
 
 Published:
-2026-11-20 01:04 UTC
+2026-11-24 14:41 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/PI0C9X-5YLPf33QDepaydX-F1XP1-NpMIfO3NtruHNA/g:nowe:0:396/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTBfMTIyNjI4MzM2LmpwZw==.webp" /></div></figure>Cairncross, once a close ally of the president, lost favor as he clashed with other officials over AI security.
+<figure><div><img src="https://imgproxy.divecdn.com/pkHtu0iJtBtH_CKP-E1KTNonlQ3DY1YcT9uwfg9IERU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU5NjA0MzAuanBn.webp" /></div></figure>The U.S. Department of Agriculture and the Food and Drug Administration said they lacked the resources and staff to fulfill all of their infrastructure protection responsibilities.
 
 URL:
-https://www.cybersecuritydive.com/news/national-cyber-director-sean-cairncross-trump-white-house/875294/
+https://www.cybersecuritydive.com/news/food-agriculture-cybersecurity-usda-fda-gao-report/875596/
+
+------------------------------------------------------------
+
+Title:
+US intelligence chief gets additional role as acting national cyber director
+
+Published:
+2026-11-23 19:13 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/6hUP08Ytl7TIVIezXoIETpKNTAPZKjW8zmam-ZMbWK4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1NzIzMzk0LmpwZw==.webp" /></div></figure>The White House previously tapped Pentagon CIO Kirsten Davies to temporarily lead the office, but now it&rsquo;s hoping the Senate will confirm her to the permanent position.
+
+URL:
+https://www.cybersecuritydive.com/news/national-cyber-director-acting-jay-clayton/875499/
+
+------------------------------------------------------------
+
+Title:
+Water utilities in 26 states getting free cybersecurity help
+
+Published:
+2026-11-23 16:27 UTC
+
+Summary:
+<figure><div><img src="https://imgproxy.divecdn.com/gDu2KNrJi-KeXcwvyYb7loivSvffSovyW-3Iqc0rW5g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwODU4MDU2LmpwZw==.webp" /></div></figure>Rural water utilities are some of the nation&rsquo;s most vulnerable critical infrastructure operators. A new group is helping them access resources.
+
+URL:
+https://www.cybersecuritydive.com/news/water-cybersecurity-watch-center-initial-support/875486/
 
 ------------------------------------------------------------
 
@@ -274,50 +294,33 @@ https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-securit
 SOURCE : Palo Alto Unit42
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Dialing for Data: Inside the Com’s High-Profile Heists
+NGINX HTTP/2 Use-After-Free: CVE-2026-123633
 
 Published:
-2026-11-20 22:00 UTC
+2026-11-24 23:00 UTC
 
 Summary:
-Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance.
-The post <a href="https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/">Dialing for Data: Inside the Com’s High-Profile Heists</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance.
+The post <a href="https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/">NGINX HTTP/2 Use-After-Free: CVE-2026-123633</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/
+https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/
 
 ------------------------------------------------------------
 
 Title:
-Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us
+Recent Trends and Tactics of Agentic AI Attacks
 
 Published:
-2026-11-17 20:43 UTC
+2026-11-24 15:00 UTC
 
 Summary:
-The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation.
-The post <a href="https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/">Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces.
+The post <a href="https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/">Recent Trends and Tactics of Agentic AI Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/
-
-------------------------------------------------------------
-
-Title:
-QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments
-
-Published:
-2026-11-16 23:00 UTC
-
-Summary:
-We uncover a Southeast Asian cyberespionage campaign deploying PerfectPioneer RAT, modular KUKURAT and stealth HTTP/3 C2 communication channels.
-The post <a href="https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/">QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/
+https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/
 
 ------------------------------------------------------------
 
