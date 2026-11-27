@@ -1,39 +1,42 @@
 # LinkedIn Content Queue
 
-_Generated: 2026-11-25 09:59 UTC_
+_Generated: 2026-11-27 09:49 UTC_
 
 ## This post's topic
 
-**Encryption in Plain English**
+**Why Security Patching Cannot Wait Forever**
 
 ## Format recommendation
 
 Use one of these; do not create all three for the same topic.
 
-- **Fastest:** a single image using this visual brief: A message becomes a locked box, crosses the internet, and is opened with the right key at the destination.
+- **Fastest:** a single image using this visual brief: A simple timeline: vulnerability found, patch released, attackers begin scanning, organization patches.
 - **Best for saves:** a 5-slide PDF carousel:
-1. Encryption, simply explained
-2. Plaintext
-3. Ciphertext
-4. The role of a key
-5. Where you use encryption every day
-- **Most eye-catching:** a 5–8 second looping GIF: A readable message scrambles into unreadable characters and unlocks only with a matching key.
+1. Why patches matter
+2. What is a vulnerability?
+3. What changes after public disclosure
+4. A practical patching workflow
+5. Start with critical systems
+- **Most eye-catching:** a 5–8 second looping GIF: A software door labelled 'known flaw' closes as a patch is applied, while a scanning attacker is blocked.
 
 ## Ready-to-personalize LinkedIn caption
 
-Encryption changes readable information into a form that only the right key can unlock.
+A vulnerability is an unlocked door in software. A patch is the fix before someone uses it.
 
-It protects data when it is being sent and when it is stored. The key is the secret that lets an authorized person turn ciphertext back into readable information.
+Vendors release patches when they fix known weaknesses. Attackers often scan for systems that have not applied publicly available fixes, so patching reduces an already-known risk.
 
-What to remember: Encryption protects data, but poor key management can still expose it.
+What to remember: Know your critical assets, test important patches quickly, and have a clear emergency-patching process.
+
+Why this is timely: a recent security story made this concept relevant again. Use the news as supporting context—not as the whole post.
 
 What part of this topic would you like me to explain next?
 
-#Cybersecurity #Encryption #DataSecurity
+#Cybersecurity #VulnerabilityManagement #PatchManagement
 
 ## Optional current-event context
 
-- No matching story needed; this is an evergreen learning post.
+- Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access
+- Microsoft pushes emergency hotpatch to fix Windows Server crashes
 
 ## Before publishing
 

@@ -1,90 +1,92 @@
 # Daily Cyber Intelligence
 
-_Last run: 2026-11-25 09:59 UTC_
+_Last run: 2026-11-27 09:49 UTC_
 
 ============================================================
 SOURCE : The Hacker News
 ============================================================
 
 Title:
-Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers
+Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators
 
 Published:
-2026-11-25 09:06 UTC
+2026-11-27 06:04 UTC
 
 Summary:
-An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.
+Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday.
 
-The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had every server on a patched build within about 15 minutes of the first malicious request.
-
-Checks
+Three of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disruptions reported. The victims have not been named, and it is not known who is
 
 URL:
-https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html
+https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html
 
 ------------------------------------------------------------
 
 Title:
-Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign
+Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access
 
 Published:
-2026-11-25 06:50 UTC
+2026-11-27 05:48 UTC
 
 Summary:
-An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.
+Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.
 
-The intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13), is assessed to have targeted organizations in the financial services, energy, government,
+The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT.
+
+"I found a path from a fresh, unauthenticated HTTP session to command execution as the Cacti server
 
 URL:
-https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html
+https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html
 
 ------------------------------------------------------------
 
 Title:
-Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion
+ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories
 
 Published:
-2026-11-25 06:37 UTC
+2026-11-26 19:39 UTC
 
 Summary:
-Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to "numerous waves of vishing attacks" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts.
+A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much.
 
-The attacks have targeted financial services, healthcare, and legal services located in the U.S., the U.K., and Australia. Other targets include construction,
+Then there’s the question of who gets to use what. Stolen logins are opening
 
 URL:
-https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html
+https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html
 
 ------------------------------------------------------------
 
 Title:
-WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live
+North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware
 
 Published:
-2026-11-25 06:21 UTC
+2026-11-26 15:13 UTC
 
 Summary:
-WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account.
+The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.
 
-The WordPress plugins team has independently detected and blocked the threat before it could be officially released. Visiting each plugin listing now
+"The loader hides in a small utils package or in conftest.py," SafeDep said in a report published this week. "When Python imports the file, the loader reads the newest transaction that an
 
 URL:
-https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html
+https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html
 
 ------------------------------------------------------------
 
 Title:
-Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns
+Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls
 
 Published:
-2026-11-24 16:54 UTC
+2026-11-26 10:57 UTC
 
 Summary:
-A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.
+Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.
 
-Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of
+At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user.
+
+How an
 
 URL:
-https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html
+https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html
 
 ------------------------------------------------------------
 
@@ -93,72 +95,72 @@ SOURCE : BleepingComputer
 ============================================================
 
 Title:
-Microsoft confirms authentication issues after November updates
+Microsoft pushes emergency hotpatch to fix Windows Server crashes
 
 Published:
-2026-11-25 09:02 UTC
+2026-11-27 09:08 UTC
 
 Summary:
-Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]
+Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]
 
 URL:
-https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/
+https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/
 
 ------------------------------------------------------------
 
 Title:
-Hackers reportedly breached CIA intelligence analysis system
+New NFS2ROOT Linux flaw can let attackers gain root privileges
 
 Published:
-2026-11-25 07:45 UTC
+2026-11-27 08:06 UTC
 
 Summary:
-Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]
+​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/
+https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/
 
 ------------------------------------------------------------
 
 Title:
-Rackspace shuts down Spot cloud platform after security breach
+OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug
 
 Published:
-2026-11-24 21:37 UTC
+2026-11-26 21:06 UTC
 
 Summary:
-Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]
+OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/
 
 ------------------------------------------------------------
 
 Title:
-New Inception extortion gang launches large-scale vishing campaign
+NordVPN Black Friday Deal: Get 78% off VPN plans in 2026
 
 Published:
-2026-11-24 20:21 UTC
+2026-11-26 17:58 UTC
 
 Summary:
-A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]
+NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/
+https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/
 
 ------------------------------------------------------------
 
 Title:
-Turnitin discloses cyberattack affecting customer-facing systems
+Fake paid expert interviews impersonate brands to steal Google logins
 
 Published:
-2026-11-24 18:59 UTC
+2026-11-26 17:15 UTC
 
 Summary:
-Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]
+An ongoing phishing campaign dubbed "GoodGuys" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]
 
 URL:
-https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/
+https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/
 
 ------------------------------------------------------------
 
@@ -167,72 +169,30 @@ SOURCE : Cybersecurity Dive
 ============================================================
 
 Title:
-OpenAI, Cisco debut tool that lets AI agents safely block vulnerability exploitation
+Microsoft remediates Azure flaw following attacks against Norwegian energy giants
 
 Published:
-2026-11-24 17:18 UTC
+2026-11-25 15:36 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/CfDjkOOtIhLmrbSaqs4qjJp0TJeSFzFZJf3X1F4kTBU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMzc0MzE5LmpwZw==.webp" /></div></figure>The new framework can provide temporary protection while organizations test patches.
+<figure><div><img src="https://imgproxy.divecdn.com/X3kemzUTphFEaN5oM-fc_Q8g6HL5M-JcRjS36u3gxgk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5NjUyODI3LmpwZw==.webp" /></div></figure>Microsoft released a security update, but still recommends customers rotate credentials and secrets.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-vulnerability-openai-cisco-shirudo-linux/875644/
+https://www.cybersecuritydive.com/news/microsoft-remediates-azure-flaw-following-attacks-against-norwegian-energy/875755/
 
 ------------------------------------------------------------
 
 Title:
-AI-enabled campaign targets Check Point Security Management servers
+Infrastructure security alliance tells CEOs to prioritize assets, test response and recovery
 
 Published:
-2026-11-24 15:50 UTC
+2026-11-25 14:56 UTC
 
 Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/3b1u2rf86QoLiK1vXUv09HzavPR0arvvSCHcnS0M-u0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU4MTkxMDc2LmpwZw==.webp" /></div></figure>At least 22 organizations were compromised in the attacks, which involved the exploitation of critical vulnerabilities.
+<figure><div><img src="https://imgproxy.divecdn.com/JAEJi2C5-NWzMkVJ_qYChxWwp2OZTNGvXdaArkd1GlU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDAyMTYxNDA5LmpwZw==.webp" /></div></figure>Recent technology outages offer a preview of a chaotic future. Executives can act now to minimize risks, a trade group for infrastructure operators said.
 
 URL:
-https://www.cybersecuritydive.com/news/ai-enabled-campaign-targets-check-point-security-management-servers/875622/
-
-------------------------------------------------------------
-
-Title:
-Federal agencies missing opportunities to help protect food sector from cyber threats, GAO says
-
-Published:
-2026-11-24 14:41 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/pkHtu0iJtBtH_CKP-E1KTNonlQ3DY1YcT9uwfg9IERU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU5NjA0MzAuanBn.webp" /></div></figure>The U.S. Department of Agriculture and the Food and Drug Administration said they lacked the resources and staff to fulfill all of their infrastructure protection responsibilities.
-
-URL:
-https://www.cybersecuritydive.com/news/food-agriculture-cybersecurity-usda-fda-gao-report/875596/
-
-------------------------------------------------------------
-
-Title:
-US intelligence chief gets additional role as acting national cyber director
-
-Published:
-2026-11-23 19:13 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/6hUP08Ytl7TIVIezXoIETpKNTAPZKjW8zmam-ZMbWK4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1NzIzMzk0LmpwZw==.webp" /></div></figure>The White House previously tapped Pentagon CIO Kirsten Davies to temporarily lead the office, but now it&rsquo;s hoping the Senate will confirm her to the permanent position.
-
-URL:
-https://www.cybersecuritydive.com/news/national-cyber-director-acting-jay-clayton/875499/
-
-------------------------------------------------------------
-
-Title:
-Water utilities in 26 states getting free cybersecurity help
-
-Published:
-2026-11-23 16:27 UTC
-
-Summary:
-<figure><div><img src="https://imgproxy.divecdn.com/gDu2KNrJi-KeXcwvyYb7loivSvffSovyW-3Iqc0rW5g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwODU4MDU2LmpwZw==.webp" /></div></figure>Rural water utilities are some of the nation&rsquo;s most vulnerable critical infrastructure operators. A new group is helping them access resources.
-
-URL:
-https://www.cybersecuritydive.com/news/water-cybersecurity-watch-center-initial-support/875486/
+https://www.cybersecuritydive.com/news/alliance-critical-infrastructure-guidance-cybersecurity-ai/875741/
 
 ------------------------------------------------------------
 
@@ -295,32 +255,17 @@ SOURCE : Palo Alto Unit42
 ============================================================
 
 Title:
-NGINX HTTP/2 Use-After-Free: CVE-2026-123633
+The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense
 
 Published:
-2026-11-24 23:00 UTC
+2026-11-25 15:00 UTC
 
 Summary:
-Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance.
-The post <a href="https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/">NGINX HTTP/2 Use-After-Free: CVE-2026-123633</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
+Unit 42 examines the evolution of AI-driven cyberattacks and outlines proactive defense strategies for security teams.
+The post <a href="https://unit42.paloaltonetworks.com/ai-threat-horizon/">The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
 
 URL:
-https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/
-
-------------------------------------------------------------
-
-Title:
-Recent Trends and Tactics of Agentic AI Attacks
-
-Published:
-2026-11-24 15:00 UTC
-
-Summary:
-We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces.
-The post <a href="https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/">Recent Trends and Tactics of Agentic AI Attacks</a> appeared first on <a href="https://unit42.paloaltonetworks.com">Unit 42</a>.
-
-URL:
-https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/
+https://unit42.paloaltonetworks.com/ai-threat-horizon/
 
 ------------------------------------------------------------
 
@@ -328,47 +273,45 @@ https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/
 SOURCE : Cisco Talos
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-The internet needs a nap (and you do, too)
+Oh, is it Thanksgiving? I hadn’t noticed!
 
 Published:
-2026-11-19 19:00 UTC
+2026-11-25 19:00 UTC
 
 Summary:
-Bill takes a break from the non-stop breaking news to promote prioritizing environmental awareness and team stability over reactive patching.
+In true Thanksgiving fashion, David has a few thank-yous to give to the cybersecurity community (and a few choice words for threat actors).
 
 URL:
-https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/
+https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/
 
 ------------------------------------------------------------
 
 Title:
-The challenge of defending against bulletproof dead drops on public blockchains
+The Great Escape: Tradecraft insights from an agentic swarm
 
 Published:
-2026-11-18 11:00 UTC
+2026-11-25 11:00 UTC
 
 Summary:
-The evolution of malware command-and-control (C2) infrastructure has shifted away from fragile, centralized servers and hardcoded domains toward resilient, decentralized blockchain networks that eliminate single points of failure.
+The OpenAI-linked swarm activity in 2026 is fully traceable through public records. This blog analyzes its tradecraft and compares it to early signals and behaviors from current agentic attack activity seen in the wild.
 
 URL:
-https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/
+https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/
 
 ------------------------------------------------------------
 
 Title:
-UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing
+Securing Grandma's groceries with Pierre Cadieux
 
 Published:
-2026-11-18 11:00 UTC
+2026-11-25 11:00 UTC
 
 Summary:
-Cisco Talos discovered malicious infrastructure associated with a financially motivated threat group we are tracking as UAT-12643.
+Pierre takes us back to his early days on help desks in the 90s, where learning to correlate logs between Windows and Unix systems sparked the curiosity that eventually led him to security.
 
 URL:
-https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/
+https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/
 
 ------------------------------------------------------------
 
@@ -707,50 +650,33 @@ http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html
 SOURCE : Microsoft Security Blog
 ============================================================
 
-[No articles in the last 48h - showing latest available]
-
 Title:
-Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM
+What defenders need to know about ARTEX, the agentic AI framework threat actors abuse
 
 Published:
-2026-11-20 17:00 UTC
+2026-11-25 18:09 UTC
 
 Summary:
-We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/">What defenders need to know about ARTEX, the agentic AI framework threat actors abuse</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/
+https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/
 
 ------------------------------------------------------------
 
 Title:
-Security for the agentic era, powered by Microsoft Perception
+Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security
 
 Published:
-2026-11-17 18:14 UTC
+2026-11-25 17:15 UTC
 
 Summary:
-Read about updates to Microsoft Perception and the new Microsoft Security cyber stack to defend against threats, secure agents, and protect your digital estate.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/">Security for the agentic era, powered by Microsoft Perception </a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
+We're honored to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security, for the second consecutive year.
+The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
 
 URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/
-
-------------------------------------------------------------
-
-Title:
-The risks of device code authentication for AI coding agents
-
-Published:
-2026-11-17 15:00 UTC
-
-Summary:
-Lab research shows how device code phishing, a technique that applies to any device-flow client, can extend to AI coding agents, using GitHub Copilot CLI as an illustrative example.
-The post <a href="https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/">The risks of device code authentication for AI coding agents</a> appeared first on <a href="https://www.microsoft.com/en-us/security/blog">Microsoft Security Blog</a>.
-
-URL:
-https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/
+https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/
 
 ------------------------------------------------------------
 
